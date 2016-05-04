@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-24" title="106" domain="wotr">
+<s id="s1">
+<toponym term="SAN FRANCISCO">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="CAL.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11"/>
+<w tok="a."/>
+<w tok="m"/>
+<w tok="."/>
+<w tok="12th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="SECRETARY"/>
+<w tok="OF"/>
+<w tok="WAR"/>
+<w tok=":"/>
+<w tok="If"/>
+<w tok="1,000"/>
+<w tok="men"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="war"/>
+<w tok="are"/>
+<w tok="placed"/>
+<w tok="in"/>
+<toponym term="Panama">
+<candidates>
+</candidates>
+</toponym>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="will"/>
+<w tok="you"/>
+<w tok="provide"/>
+<w tok="them"/>
+<w tok="passage"/>
+<w tok="thence"/>
+<w tok="?"/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="LENTER"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="JESSUP"/>
+<w tok="."/>
+<w tok="EUGENE"/>
+<w tok="SULLIVAN"/>
+<w tok="."/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="D."/>
+<w tok="CHAPLIN"/>
+<w tok="."/>
+</s>
+</doc>

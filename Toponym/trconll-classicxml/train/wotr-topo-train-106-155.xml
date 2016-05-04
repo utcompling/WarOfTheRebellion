@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-155" title="106" domain="wotr">
+<s id="s1">
+<w tok="STATE"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Salem">
+<candidates>
+<cand lat="44.930833" long="-123.028889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Oreg.">
+<candidates>
+<cand lat="43.9648146975" long="-120.640257188" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="GEORGE"/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="transmit"/>
+<w tok="the"/>
+<w tok="inclosed"/>
+<w tok="memorial"/>
+<w tok="adopted"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Legislative"/>
+<w tok="Assembly"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="at"/>
+<w tok="its"/>
+<w tok="late"/>
+<w tok="session"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="SAMUEL"/>
+<w tok="E."/>
+<w tok="MAY"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="State"/>
+<w tok="."/>
+</s>
+</doc>

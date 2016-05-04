@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-176" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="GERRY&apos;S RANCH">
+<candidates>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="SANBORN"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Two"/>
+<w tok="lodges"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="came"/>
+<w tok="here"/>
+<w tok="yesterday"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="North Platte">
+<candidates>
+<cand lat="41.115573" long="-100.687637" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Cheyennes"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="do"/>
+<w tok="n&apos;t"/>
+<w tok="know"/>
+<w tok="anything"/>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="war"/>
+<w tok="party"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="were"/>
+<w tok="after"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="also"/>
+<w tok="3"/>
+<w tok="Indians"/>
+<w tok="here"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="that"/>
+<w tok="came"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="village"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="camped"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="headwaters"/>
+<w tok="of"/>
+<toponym term="Beaver Creek">
+<candidates>
+<cand lat="43.614167" long="-96.364444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="no"/>
+<w tok="war"/>
+<w tok="party"/>
+<w tok="has"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="village"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="came"/>
+<w tok="from"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="also"/>
+<w tok="ten"/>
+<w tok="lodges"/>
+<w tok="of"/>
+<w tok="Sioux"/>
+<w tok="camped"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="month"/>
+<w tok="of"/>
+<toponym term="Beaver Creek">
+<candidates>
+<cand lat="43.614167" long="-96.364444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="thirty"/>
+<w tok="lodges"/>
+<w tok="at"/>
+<toponym term="Valley Station">
+<candidates>
+<cand lat="38.1112" long="-85.8702" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="Sioux"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="above"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="that"/>
+<w tok="are"/>
+<w tok="camped"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="GERRY"/>
+<w tok="."/>
+</s>
+</doc>

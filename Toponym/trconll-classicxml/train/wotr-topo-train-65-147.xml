@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-147" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="affairs"/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok="."/>
+<w tok="Four"/>
+<w tok="shots"/>
+<w tok="were"/>
+<w tok="fired"/>
+<w tok="yesterday"/>
+<w tok="from"/>
+<w tok="light"/>
+<w tok="guns"/>
+<w tok=";"/>
+<w tok="3"/>
+<w tok="struck"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

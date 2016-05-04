@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-93" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="CHARLES"/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="several"/>
+<w tok="letters"/>
+<w tok="from"/>
+<w tok="M."/>
+<w tok="M."/>
+<w tok="Kimmey"/>
+<w tok=","/>
+<w tok="vice-consul"/>
+<w tok="at"/>
+<toponym term="Montgomery">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="moneys"/>
+<w tok="expended"/>
+<w tok="by"/>
+<w tok="him"/>
+<w tok="by"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Generals"/>
+<w tok="Banks"/>
+<w tok="and"/>
+<w tok="Dana"/>
+<w tok="for"/>
+<w tok="expresses"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="In"/>
+<w tok="response"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="notified"/>
+<w tok="him"/>
+<w tok="that"/>
+<w tok="when"/>
+<w tok="expresses"/>
+<w tok="are"/>
+<w tok="hired"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="out"/>
+<w tok="regular"/>
+<w tok="triplicate"/>
+<w tok="vouchers"/>
+<w tok=","/>
+<w tok="getting"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="person"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="forward"/>
+<w tok="same"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="for"/>
+<w tok="payment"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="furnished"/>
+<w tok="him"/>
+<w tok="some"/>
+<w tok="blank"/>
+<w tok="vouchers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="this"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="done"/>
+<w tok="regularly"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="expresses"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="from"/>
+<toponym term="Monterey">
+<candidates>
+<cand lat="33.61" long="-101.82" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Carleton"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="El Pase">
+<candidates>
+<cand lat="31.790278" long="-106.423333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="several"/>
+<w tok="sent"/>
+<w tok="from"/>
+<toponym term="Monterey">
+<candidates>
+<cand lat="33.61" long="-101.82" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Dana"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="important"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="Mr."/>
+<w tok="Kimmey"/>
+<w tok="has"/>
+<w tok="in"/>
+<w tok="addition"/>
+<w tok="expended"/>
+<w tok="considerable"/>
+<w tok="money"/>
+<w tok="aiding"/>
+<w tok="refugees"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="furnished"/>
+<w tok="money"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="forward"/>
+<w tok="persons"/>
+<w tok="to"/>
+<w tok="enlist"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="regiments"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="salary"/>
+<w tok="attached"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="office"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="told"/>
+<w tok="by"/>
+<w tok="persons"/>
+<w tok="from"/>
+<toponym term="Monterey">
+<candidates>
+<cand lat="33.61" long="-101.82" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="badly"/>
+<w tok="in"/>
+<w tok="need"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="funds"/>
+<w tok="expended"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="way"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="please"/>
+<w tok="advise"/>
+<w tok="me"/>
+<w tok="whether"/>
+<w tok="to"/>
+<w tok="furnish"/>
+<w tok="him"/>
+<w tok="money"/>
+<w tok="or"/>
+<w tok="not"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="great"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="J."/>
+<w tok="HERRON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

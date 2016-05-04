@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-15" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CLARKSVILLE">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="MASON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Is"/>
+<w tok="it"/>
+<w tok="the"/>
+<w tok="design"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="30th"/>
+<w tok=","/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="revoke"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="telegram"/>
+<w tok="?"/>
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="G."/>
+<w tok="M."/>
+<w tok="WAUGH"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="infested"/>
+<w tok="with"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="those"/>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="aiding"/>
+<w tok="them"/>
+<w tok="uninhabitable"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="GREEN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="no"/>
+<w tok="manner"/>
+<w tok="guilty"/>
+<w tok="of"/>
+<w tok="indiscriminate"/>
+<w tok="pillage"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="only"/>
+<w tok="act"/>
+<w tok="under"/>
+<w tok="my"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="now"/>
+<w tok="respectfully"/>
+<w tok="ask"/>
+<w tok="the"/>
+<w tok="names"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="persons"/>
+<w tok="as"/>
+<w tok="make"/>
+<w tok="these"/>
+<w tok="accusations"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="M."/>
+<w tok="WAUGH"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

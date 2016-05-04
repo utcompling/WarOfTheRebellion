@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-15" title="75" domain="wotr">
+<s id="s1">
+<w tok="Rocky"/>
+<w tok="Face"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-8.45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="STONEMAN"/>
+<w tok=","/>
+<w tok="Charleston"/>
+<w tok=":"/>
+<w tok="Do"/>
+<w tok="not"/>
+<w tok="move"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="Start"/>
+<w tok="early"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="and"/>
+<w tok="move"/>
+<w tok="to"/>
+<toponym term="Varnell&apos;s Station.">
+<candidates>
+<cand lat="34.899444" long="-84.964444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Orders"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="there"/>
+<w tok="for"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Grant"/>
+<w tok="has"/>
+<w tok="whipped"/>
+<w tok="Lee"/>
+<w tok="for"/>
+<w tok="three"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="driving"/>
+<w tok="him"/>
+<w tok="ten"/>
+<w tok="miles"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="day"/>
+<w tok="."/>
+<w tok="Lee"/>
+<w tok="left"/>
+<w tok="dead"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="."/>
+<w tok="Everything"/>
+<w tok="here"/>
+<w tok="going"/>
+<w tok="well"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="we"/>
+<w tok="need"/>
+<w tok="your"/>
+<w tok="help"/>
+<w tok="very"/>
+<w tok="much"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-185" title="62" domain="wotr">
+<s id="s1">
+<toponym term="SAINT LOUIS">
+<candidates>
+<cand lat="38.6252528079" long="-90.1745212823" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6166692756" long="-90.2294529229" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Having"/>
+<w tok="turned"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Rosecrans"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="compliance"/>
+<w tok="with"/>
+<w tok="General"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="current"/>
+<w tok="series"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="War"/>
+<w tok="Department"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="please"/>
+<w tok="give"/>
+<w tok="me"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="for"/>
+<w tok="myself"/>
+<w tok="and"/>
+<w tok="4"/>
+<w tok="staff"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="baggage"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Knoxville">
+<candidates>
+<cand lat="35.9689066785" long="-83.938235119" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Also"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="probably"/>
+<w tok="leave"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="before"/>
+<w tok="receiving"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="assigning"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="presume"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="for"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="your"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="assume"/>
+<w tok="that"/>
+<w tok="command"/>
+<w tok="on"/>
+<w tok="my"/>
+<w tok="arrival"/>
+<w tok="at"/>
+<toponym term="Knoxville">
+<candidates>
+<cand lat="35.9689066785" long="-83.938235119" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ready"/>
+<w tok="to"/>
+<w tok="start"/>
+<w tok="for"/>
+<toponym term="Knoxville">
+<candidates>
+<cand lat="35.9689066785" long="-83.938235119" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-morrow"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

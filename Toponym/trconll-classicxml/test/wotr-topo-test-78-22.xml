@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-22" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="latter"/>
+<w tok="information"/>
+<w tok="from"/>
+<w tok="any"/>
+<w tok="quarter"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Weatherford"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Kentucky"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="reached"/>
+<toponym term="Lebanon">
+<candidates>
+<cand lat="37.570556" long="-85.256389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<toponym term="Burkesville">
+<candidates>
+<cand lat="36.792778" long="-85.369444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="it"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="man"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="keep"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="lookout"/>
+<w tok="toward"/>
+<toponym term="Bardstown">
+<candidates>
+<cand lat="37.815556" long="-85.463056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Danville">
+<candidates>
+<cand lat="37.645556" long="-84.769722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Am"/>
+<w tok="expecting"/>
+<w tok="the"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="scouts"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="yesterday"/>
+<w tok="forenoon"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

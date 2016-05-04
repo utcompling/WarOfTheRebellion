@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-228" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10.45"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8900199384" long="-77.0434928666" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9019785214" long="-77.0346079829" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="an"/>
+<w tok="expedition"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="destroying"/>
+<w tok="or"/>
+<w tok="capturing"/>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="force"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="attempt"/>
+<w tok="to"/>
+<w tok="interrupt"/>
+<w tok="the"/>
+<w tok="navigation"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Mississippi River">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Greenville">
+<candidates>
+<cand lat="33.398611" long="-91.048333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Smith"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="re-enforced"/>
+<w tok="by"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="making"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="about"/>
+<w tok="7,000"/>
+<w tok="effective"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="rebel"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="said"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="about"/>
+<w tok="5,000"/>
+<w tok="and"/>
+<w tok="nearly"/>
+<w tok="all"/>
+<w tok="mounted"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="making"/>
+<w tok="arrangements"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="water"/>
+<w tok="transportation"/>
+<w tok="held"/>
+<w tok="in"/>
+<w tok="reserve"/>
+<w tok="at"/>
+<w tok="different"/>
+<w tok="points"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="any"/>
+<w tok="point"/>
+<w tok="threatened"/>
+<w tok="without"/>
+<w tok="the"/>
+<w tok="delay"/>
+<w tok="that"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="ED"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

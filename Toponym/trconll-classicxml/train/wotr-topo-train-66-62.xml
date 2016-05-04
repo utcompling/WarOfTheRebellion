@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-62" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="E."/>
+<w tok="POTTER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Beaufort"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="you"/>
+<w tok="two"/>
+<w tok="communications*"/>
+<w tok="for"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="Samuel"/>
+<w tok="Jones"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Confederate"/>
+<w tok="forces"/>
+<w tok="in"/>
+<toponym term="South Carolina">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="a"/>
+<w tok="box"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="hands"/>
+<w tok="of"/>
+<w tok="Dr."/>
+<w tok="Marsh"/>
+<w tok=","/>
+<toponym term="Beaufort">
+<candidates>
+<cand lat="32.433333" long="-80.683333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="General"/>
+<w tok="Seymour"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="please"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="forward"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Foster"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="exercise"/>
+<w tok="great"/>
+<w tok="vigilance"/>
+<w tok="in"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="spies"/>
+<w tok="from"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="ANDERSON"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

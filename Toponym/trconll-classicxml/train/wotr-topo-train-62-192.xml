@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-192" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok="IN"/>
+<toponym term="TEXAS">
+<candidates>
+<cand lat="31.2562004803" long="-99.4304976853" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Numbers"/>
+<w tok="13"/>
+<w tok="."/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.2562004803" long="-99.4304976853" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="4"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Chicago"/>
+<w tok="Mercantile"/>
+<w tok="Battery"/>
+<w tok="will"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Indianola">
+<candidates>
+<cand lat="28.511944" long="-96.4875" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="making"/>
+<w tok="use"/>
+<w tok="of"/>
+<w tok="pontoon"/>
+<w tok="sections"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="convenient"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="means"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="P."/>
+<w tok="Benton"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok="."/>
+<w tok="Upon"/>
+<w tok="application"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="chief"/>
+<w tok="quartermaster"/>
+<w tok="will"/>
+<w tok="furnish"/>
+<w tok="transportation"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="Dana"/>
+<w tok="."/>
+<w tok="HUGH"/>
+<w tok="G."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

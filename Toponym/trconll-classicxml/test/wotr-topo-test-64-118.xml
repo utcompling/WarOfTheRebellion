@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-118" title="64" domain="wotr">
+<s id="s1">
+<toponym term="PINE BLUFF">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Fagan"/>
+<w tok="&apos;s"/>
+<w tok="communication"/>
+<w tok="sent"/>
+<w tok="to-day"/>
+<w tok="by"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="headed"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok=":"/>
+<w tok="Headquarters"/>
+<w tok="Middle"/>
+<w tok="Sub-District"/>
+<w tok="Arkansas"/>
+<w tok=","/>
+<toponym term="Monticello">
+<candidates>
+<cand lat="33.627222" long="-91.793889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok="but"/>
+<w tok="that"/>
+<w tok="his"/>
+<w tok="headquarters"/>
+<w tok="are"/>
+<w tok="at"/>
+<toponym term="Monticello">
+<candidates>
+<cand lat="33.627222" long="-91.793889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="greater"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="vicinity"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="believe"/>
+<w tok="Marmaduke"/>
+<w tok="is"/>
+<w tok="between"/>
+<toponym term="Bayou Bartholomew">
+<candidates>
+<cand lat="32.72291" long="-92.06402" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Mississippi">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Cabell"/>
+<w tok="and"/>
+<w tok="Dockery"/>
+<w tok="are"/>
+<w tok="with"/>
+<w tok="Fagan"/>
+<w tok="."/>
+<w tok="POWELL"/>
+<w tok="CLAYTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

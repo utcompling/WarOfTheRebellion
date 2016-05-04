@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-27" title="75" domain="wotr">
+<s id="s1">
+<toponym term="PULASKI">
+<candidates>
+<cand lat="35.195833" long="-87.034444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8595329517" long="-86.3634931974" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="JAMES"/>
+<w tok="B."/>
+<w tok="McPHERSON"/>
+<w tok=":"/>
+<w tok="Ca"/>
+<w tok="n&apos;t"/>
+<w tok="hear"/>
+<w tok="of"/>
+<w tok="Roddey"/>
+<w tok="anywhere"/>
+<w tok="along"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok=";"/>
+<w tok="do"/>
+<w tok="n&apos;t"/>
+<w tok="think"/>
+<w tok="he"/>
+<w tok="left"/>
+<w tok="the"/>
+<toponym term="Tennessee River">
+<candidates>
+<cand lat="37.067222" long="-88.564722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="move"/>
+<w tok="on"/>
+<w tok="to"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Force"/>
+<w tok="wants"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="commissary"/>
+<w tok="of"/>
+<w tok="subsistence"/>
+<w tok="here"/>
+<w tok="to"/>
+<w tok="receive"/>
+<w tok="cattle"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="forwards"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="now"/>
+<w tok="got"/>
+<w tok="2,500"/>
+<w tok="head"/>
+<w tok="at"/>
+<w tok="Clifton"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="Q."/>
+<w tok="GRESHAM"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

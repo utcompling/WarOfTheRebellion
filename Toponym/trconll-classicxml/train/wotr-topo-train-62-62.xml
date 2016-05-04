@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-62" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="C."/>
+<w tok="HUMAN"/>
+<w tok="Commanding"/>
+<w tok="1st"/>
+<w tok="Batt."/>
+<w tok=","/>
+<w tok="8th"/>
+<w tok="Mo"/>
+<w tok="."/>
+<w tok="State"/>
+<w tok="Mil"/>
+<w tok="."/>
+<w tok="Cav."/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Field"/>
+<w tok=":"/>
+<w tok="Lieutenant"/>
+<w tok="Henry"/>
+<w tok="Gratheer"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="K"/>
+<w tok=","/>
+<w tok="Eighth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="with"/>
+<w tok="fifteen"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="starts"/>
+<w tok="from"/>
+<toponym term="Ozark">
+<candidates>
+<cand lat="37.027222" long="-93.209444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="some"/>
+<w tok="time"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="discretionary"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="("/>
+<w tok="one"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok="at"/>
+<toponym term="Calico Rock">
+<candidates>
+<cand lat="36.1225" long="-92.133611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="some"/>
+<w tok="other"/>
+<w tok="point"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="White River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="habit"/>
+<w tok="of"/>
+<w tok="crossing"/>
+<w tok="and"/>
+<w tok="recrossing"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="HUBBARD"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

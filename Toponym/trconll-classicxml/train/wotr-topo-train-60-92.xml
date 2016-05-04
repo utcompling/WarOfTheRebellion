@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-92" title="60" domain="wotr">
+<s id="s1">
+<w tok="Major-General"/>
+<w tok="PLEASONTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Francis"/>
+<w tok="T."/>
+<w tok="Nicholls"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<toponym term="LYNCHBURG">
+<candidates>
+<cand lat="37.403672" long="-79.170205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="18643"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Captain"/>
+<w tok="Mallory"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="at"/>
+<toponym term="Charlottesville">
+<candidates>
+<cand lat="38.0299" long="-78.479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok=":"/>
+<w tok="Enemy"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="town"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="any"/>
+<w tok="assistance"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="want"/>
+<w tok="infantry"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="dispatch"/>
+<w tok="is"/>
+<w tok="dated"/>
+<w tok="February"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="received"/>
+<w tok="5"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<toponym term="Charlottesville">
+<candidates>
+<cand lat="38.0299" long="-78.479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="telegraph"/>
+<w tok="you"/>
+<w tok="again"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="moments"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Mallory"/>
+<w tok="to"/>
+<w tok="know"/>
+<w tok="more"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="whether"/>
+<w tok="what"/>
+<w tok="he"/>
+<w tok="says"/>
+<w tok="is"/>
+<w tok="thoroughly"/>
+<w tok="reliable"/>
+<w tok="."/>
+<w tok="FRANCIS"/>
+<w tok="T."/>
+<w tok="NICHOLS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

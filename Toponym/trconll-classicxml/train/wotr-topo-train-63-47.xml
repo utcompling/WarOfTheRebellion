@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-47" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="W."/>
+<w tok="R."/>
+<w tok="JUDSON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Has"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Kansas"/>
+<w tok="arrived"/>
+<w tok="?"/>
+<w tok="Has"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="at"/>
+<toponym term="Roseville">
+<candidates>
+<cand lat="39.136667" long="-95.951389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="been"/>
+<w tok="disturbed"/>
+<w tok="?"/>
+<w tok="Are"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="in"/>
+<w tok="any"/>
+<w tok="force"/>
+<w tok="near"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok="?"/>
+<w tok="Is"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="rising"/>
+<w tok="?"/>
+<w tok="Defend"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="man"/>
+<w tok="if"/>
+<w tok="attacked"/>
+<w tok="."/>
+<w tok="Answer"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="NATHAN"/>
+<w tok="KIMBALL"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

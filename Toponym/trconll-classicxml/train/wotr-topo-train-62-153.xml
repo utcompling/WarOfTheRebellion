@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-153" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SAINT"/>
+<w tok="LOUIS"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="B."/>
+<w tok="L."/>
+<w tok="E."/>
+<w tok="BONNEVILLE"/>
+<w tok=","/>
+<toponym term="Benton Barracks">
+<candidates>
+<cand lat="38.6007650612" long="-90.2269654382" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Rosecrans"/>
+<w tok="will"/>
+<w tok="arrive"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="General"/>
+<w tok="Schofield"/>
+<w tok="to"/>
+<w tok="receive"/>
+<w tok="him"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="guard"/>
+<w tok="of"/>
+<w tok="honor"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="200"/>
+<w tok="well-appointed"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="at"/>
+<w tok="my"/>
+<w tok="headquarters"/>
+<w tok="at"/>
+<w tok="9"/>
+<w tok="o&apos;clock"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="?"/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

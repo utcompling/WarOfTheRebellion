@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-58" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<w tok="Armies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.8978444872" long="-77.0264932294" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="transmit"/>
+<w tok="herewith"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Rear-Admiral"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="Dahlgren"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="South"/>
+<w tok="Atlantic"/>
+<w tok="Blockade"/>
+<w tok="Squadron"/>
+<w tok=","/>
+<w tok="showing"/>
+<w tok="that"/>
+<w tok="since"/>
+<w tok="the"/>
+<w tok="capture"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Water"/>
+<w tok="Witch"/>
+<w tok="the"/>
+<w tok="weakness"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="squadron"/>
+<w tok="has"/>
+<w tok="caused"/>
+<w tok="the"/>
+<w tok="admiral"/>
+<w tok="to"/>
+<w tok="withdraw"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="inside"/>
+<w tok="blockade"/>
+<w tok="of"/>
+<w tok="many"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="sounds"/>
+<w tok="and"/>
+<w tok="rivers"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

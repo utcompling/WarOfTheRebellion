@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-32" title="75" domain="wotr">
+<s id="s1">
+<toponym term="DECATUR">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="E."/>
+<w tok="SMITH"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="no"/>
+<w tok="report"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Gresham"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="distribution"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="at"/>
+<toponym term="Prospect">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok="with"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="regiment"/>
+<w tok="is"/>
+<w tok="at"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<w tok="know"/>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="Seventeenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="learned"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="D."/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

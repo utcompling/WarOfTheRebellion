@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-161" title="63" domain="wotr">
+<s id="s1">
+<toponym term="NASHVILLE">
+<candidates>
+<cand lat="36.166667" long="-86.783333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="STEELE"/>
+<w tok=","/>
+<w tok="Via"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Dispatch"/>
+<w tok="of"/>
+<w tok="7th"/>
+<w tok="from"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="know"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Grant"/>
+<w tok="expects"/>
+<w tok="Generals"/>
+<w tok="Banks"/>
+<w tok="and"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="forces"/>
+<w tok="to"/>
+<w tok="come"/>
+<w tok="out"/>
+<w tok="of"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="some"/>
+<w tok="other"/>
+<w tok="work"/>
+<w tok="very"/>
+<w tok="soon"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="you"/>
+<w tok="should"/>
+<w tok="push"/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="possible"/>
+<w tok="speed"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="junction"/>
+<w tok="on"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Banks"/>
+<w tok="&apos;"/>
+<w tok="forces"/>
+<w tok="should"/>
+<w tok="by"/>
+<w tok="this"/>
+<w tok="time"/>
+<w tok="be"/>
+<w tok="in"/>
+<toponym term="Shreveport">
+<candidates>
+<cand lat="32.5147222222" long="-93.7472222222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

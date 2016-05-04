@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-60" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="S."/>
+<w tok="C."/>
+<w tok=","/>
+<w tok="July"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="telegram"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="4th"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Cooper"/>
+<w tok="communicated"/>
+<w tok="result"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="time"/>
+<w tok="of"/>
+<w tok="attacks"/>
+<w tok="and"/>
+<w tok="maneuvers"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="commenced"/>
+<w tok="on"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="expressed"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok="was"/>
+<w tok="in"/>
+<w tok="serious"/>
+<w tok="danger"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="assistance"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="speedily"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="received"/>
+<w tok="none"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="reserves"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="."/>
+<w tok="Subsequent"/>
+<w tok="events"/>
+<w tok="conform"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="belief"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="great"/>
+<w tok="danger"/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="greatly"/>
+<w tok="need"/>
+<w tok="re-enforcements"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="occupy"/>
+<w tok="south"/>
+<w tok="end"/>
+<w tok="of"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="position"/>
+<w tok="on"/>
+<w tok="John"/>
+<w tok="&apos;s"/>
+<w tok="Island"/>
+<w tok="form"/>
+<w tok="which"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="enfilade"/>
+<w tok="our"/>
+<w tok="works"/>
+<w tok="on"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Fleet"/>
+<w tok="of"/>
+<w tok="two"/>
+<w tok="monitors"/>
+<w tok="and"/>
+<w tok="several"/>
+<w tok="gun-boats"/>
+<w tok="in"/>
+<toponym term="Stono">
+<candidates>
+<cand lat="32.6567195451" long="-80.0114629632" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="heavily"/>
+<w tok="shelling"/>
+<w tok="us"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="called"/>
+<w tok="on"/>
+<w tok="Generals"/>
+<w tok="Johnston"/>
+<w tok=","/>
+<w tok="Whiting"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Chesnut"/>
+<w tok="for"/>
+<w tok="aid"/>
+<w tok="."/>
+<w tok="Johnston"/>
+<w tok="alone"/>
+<w tok="has"/>
+<w tok="responded"/>
+<w tok=","/>
+<w tok="sending"/>
+<w tok="me"/>
+<w tok="520"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="I"/>
+<w tok="look"/>
+<w tok="for"/>
+<w tok="re-enforcements"/>
+<w tok="form"/>
+<w tok="any"/>
+<w tok="quarter"/>
+<w tok="?"/>
+<w tok="The"/>
+<w tok="emergency"/>
+<w tok="is"/>
+<w tok="pressing"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="troops"/>
+<w tok="greatly"/>
+<w tok="exhausted"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="Excellency"/>
+<w tok="President"/>
+<w tok="J."/>
+<w tok="DAVIS"/>
+<w tok=","/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-124" title="63" domain="wotr">
+<s id="s1">
+<toponym term="KANSAS CITY">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="P."/>
+<w tok="SANDERSON"/>
+<w tok=","/>
+<w tok="Provost-Marshal-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="distribute"/>
+<w tok="authority"/>
+<w tok="over"/>
+<w tok="my"/>
+<w tok="district"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="best"/>
+<w tok="to"/>
+<w tok="establish"/>
+<w tok="headquarters"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="district"/>
+<w tok="provost-marshal"/>
+<w tok="at"/>
+<toponym term="Hannibal">
+<candidates>
+<cand lat="39.704167" long="-91.3775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="keep"/>
+<w tok="my"/>
+<w tok="own"/>
+<w tok="at"/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="that"/>
+<w tok="arrangement"/>
+<w tok="be"/>
+<w tok="satisfactory"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="tour"/>
+<w tok="of"/>
+<w tok="inspection"/>
+<w tok="in"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="41.053889" long="-95.881389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Clay Counties">
+<candidates>
+<cand lat="39.31" long="-94.42" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Shall"/>
+<w tok="be"/>
+<w tok="at"/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Northern"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok="."/>
+</s>
+</doc>

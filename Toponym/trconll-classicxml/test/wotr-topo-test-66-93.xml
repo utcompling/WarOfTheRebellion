@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-93" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="NORTHERN"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="GURNEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok=","/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.715833" long="-79.890278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="iron-houses"/>
+<w tok="are"/>
+<w tok="completed"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="increase"/>
+<w tok="the"/>
+<w tok="strength"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="outposts"/>
+<w tok="on"/>
+<w tok="your"/>
+<w tok="front"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="keep"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="guard"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="forts"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Also"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="infantry"/>
+<w tok="establish"/>
+<w tok="a"/>
+<w tok="new"/>
+<w tok="boat"/>
+<w tok="station"/>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="repaired"/>
+<w tok="bridge"/>
+<w tok="in"/>
+<w tok="front"/>
+<w tok="of"/>
+<toponym term="Fort Haskell">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="DEAN"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="127th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="G"/>
+<w tok="."/>
+</s>
+</doc>

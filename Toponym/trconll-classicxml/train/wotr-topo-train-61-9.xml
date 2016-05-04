@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-9" title="61" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="FRONTIER"/>
+<w tok=","/>
+<toponym term="Fort Smith,">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Colonel"/>
+<w tok="Phillips"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Indian"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="reports"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="from"/>
+<toponym term="Middle Boggy">
+<candidates>
+<cand lat="34.319976" long="-96.30814" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Choctaw Nation">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="14th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="a"/>
+<w tok="sharp"/>
+<w tok="engagement"/>
+<w tok="yesterday"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="were"/>
+<w tok="completely"/>
+<w tok="routed"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="loss"/>
+<w tok="of"/>
+<w tok="47"/>
+<w tok="killed"/>
+<w tok=";"/>
+<w tok="their"/>
+<w tok="wounded"/>
+<w tok="not"/>
+<w tok="know"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="attack"/>
+<w tok="was"/>
+<w tok="made"/>
+<w tok="by"/>
+<w tok="my"/>
+<w tok="advance"/>
+<w tok="under"/>
+<w tok="Major"/>
+<w tok="Willetts"/>
+<w tok=","/>
+<w tok="Fourteenth"/>
+<w tok="Kansas"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="rebel"/>
+<w tok="force"/>
+<w tok="was"/>
+<w tok="Seminoles"/>
+<w tok=","/>
+<w tok="Choctaws"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Texans"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Phillips"/>
+<w tok="&apos;"/>
+<w tok="command"/>
+<w tok="belongs"/>
+<w tok="to"/>
+<toponym term="Fort Gibson">
+<candidates>
+<cand lat="35.803889" long="-95.257222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="THAYER"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="STEELE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Arkansas"/>
+<w tok="."/>
+</s>
+</doc>

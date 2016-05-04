@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-132" title="106" domain="wotr">
+<s id="s1">
+<w tok="OCTOBER"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="correspondence"/>
+<w tok="is"/>
+<w tok="respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="his"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="whole"/>
+<w tok="matter"/>
+<w tok="is"/>
+<w tok="left"/>
+<w tok="with"/>
+<w tok="Colonel"/>
+<w tok="West"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="decide"/>
+<w tok="upon"/>
+<w tok="."/>
+<w tok="JAMES"/>
+<w tok="H."/>
+<w tok="CARLETON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

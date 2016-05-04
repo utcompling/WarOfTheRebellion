@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-44" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="First"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Sheldon"/>
+<w tok=","/>
+<w tok="superintendent"/>
+<w tok="military"/>
+<w tok="telegraph"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="report"/>
+<w tok="."/>
+<w tok="These"/>
+<w tok="papers"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="returned"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="Foster"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-176" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="CASSAIRT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Forsyth">
+<candidates>
+<cand lat="36.686667" long="-93.112778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Information"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="is"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="house"/>
+<w tok="of"/>
+<w tok="Mr."/>
+<w tok="Wolf"/>
+<w tok=","/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="North Fork of White River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="guarded"/>
+<w tok="by"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="citizens"/>
+<w tok="of"/>
+<toponym term="Ozark">
+<candidates>
+<cand lat="36.65" long="-92.44" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Douglas Counties">
+<candidates>
+<cand lat="36.93" long="-92.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Tracy"/>
+<w tok="&apos;s"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="comes"/>
+<w tok="into"/>
+<w tok="their"/>
+<w tok="counties"/>
+<w tok=","/>
+<w tok="robbing"/>
+<w tok="and"/>
+<w tok="murdering"/>
+<w tok="Union"/>
+<w tok="citizens"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="obtain"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="Second"/>
+<w tok="Arkansas"/>
+<w tok="Cavalry"/>
+<w tok="near"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok="a"/>
+<w tok="sufficient"/>
+<w tok="detachment"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="available"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="2"/>
+<w tok="commissioned"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="proceed"/>
+<w tok="immediately"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="mouth of the North Fork">
+<candidates>
+</candidates>
+</toponym>
+<w tok="unless"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="more"/>
+<w tok="force"/>
+<w tok="there"/>
+<w tok="than"/>
+<w tok="represented"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok="capture"/>
+<w tok="Freeman"/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="guard"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="scout"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="thoroughly"/>
+<w tok=","/>
+<w tok="driving"/>
+<w tok="out"/>
+<w tok="all"/>
+<w tok="bands"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="robbers"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="section"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="scout"/>
+<w tok="down"/>
+<toponym term="Beaver Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="through"/>
+<toponym term="Ozark">
+<candidates>
+<cand lat="36.65" long="-92.44" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Douglas Counties">
+<candidates>
+<cand lat="36.93" long="-92.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="if"/>
+<w tok="any"/>
+<w tok="guerrillas"/>
+<w tok="are"/>
+<w tok="still"/>
+<w tok="remaining"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="making"/>
+<w tok="every"/>
+<w tok="effort"/>
+<w tok="to"/>
+<w tok="rid"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="Forsyth"/>
+<w tok=","/>
+<w tok="sending"/>
+<w tok="forward"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="provost-marshal"/>
+<w tok=","/>
+<w tok="immediately"/>
+<w tok="upon"/>
+<w tok="your"/>
+<w tok="return"/>
+<w tok=","/>
+<w tok="all"/>
+<w tok="prisoners"/>
+<w tok="captured"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="making"/>
+<w tok="official"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="scout"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="HUBBARD"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

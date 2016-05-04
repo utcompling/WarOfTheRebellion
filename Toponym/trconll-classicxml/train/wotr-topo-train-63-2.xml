@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-2" title="63" domain="wotr">
+<s id="s1">
+<toponym term="PLEASANT HILL">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="RANSOM"/>
+<w tok=","/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="attacked"/>
+<w tok="this"/>
+<w tok="position"/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="a"/>
+<w tok="little"/>
+<w tok="before"/>
+<w tok="sunset"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="time"/>
+<w tok="advanced"/>
+<w tok="steadily"/>
+<w tok="upon"/>
+<w tok="our"/>
+<w tok="positions"/>
+<w tok="and"/>
+<w tok="threatened"/>
+<w tok="much"/>
+<w tok="damage"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="infantry"/>
+<w tok="charges"/>
+<w tok=","/>
+<w tok="made"/>
+<w tok="in"/>
+<w tok="an"/>
+<w tok="admirable"/>
+<w tok="manner"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="reserve"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="were"/>
+<w tok="driven"/>
+<w tok="in"/>
+<w tok="from"/>
+<w tok="all"/>
+<w tok="points"/>
+<w tok="with"/>
+<w tok="great"/>
+<w tok="loss"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="capture"/>
+<w tok="of"/>
+<w tok="much"/>
+<w tok="material"/>
+<w tok="and"/>
+<w tok="between"/>
+<w tok="400"/>
+<w tok="and"/>
+<w tok="500"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

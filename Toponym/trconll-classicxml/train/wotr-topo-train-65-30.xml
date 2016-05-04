@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-30" title="65" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="MARCH"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="estimate"/>
+<w tok="of"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="considered"/>
+<w tok="excessive"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="re-enforcement"/>
+<w tok="can"/>
+<w tok="reach"/>
+<w tok="him"/>
+<w tok="from"/>
+<toponym term="New Berne">
+<candidates>
+<cand lat="35.109167" long="-77.069167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="the"/>
+<w tok="evacuation"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="expelled"/>
+<w tok="from"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="prompt"/>
+<w tok="and"/>
+<w tok="decided"/>
+<w tok="measures"/>
+<w tok="."/>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-100" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="3.45"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="Major-General"/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Washington"/>
+<w tok=":"/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="viz"/>
+<w tok=","/>
+<w tok="three"/>
+<w tok="in"/>
+<toponym term="Wisconsin">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="in"/>
+<toponym term="Iowa">
+<candidates>
+<cand lat="42.0831825798" long="-93.5157835299" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="kept"/>
+<w tok="there"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="draft"/>
+<w tok="and"/>
+<w tok="furnish"/>
+<w tok="military"/>
+<w tok="aid"/>
+<w tok="asked"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="Veteran"/>
+<w tok="Reserve"/>
+<w tok="Corps"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="department"/>
+<w tok="be"/>
+<w tok="placed"/>
+<w tok="under"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="send"/>
+<w tok="these"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="this"/>
+<w tok="arrangements"/>
+<w tok="be"/>
+<w tok="approved"/>
+<w tok="please"/>
+<w tok="designate"/>
+<w tok="point"/>
+<w tok="for"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

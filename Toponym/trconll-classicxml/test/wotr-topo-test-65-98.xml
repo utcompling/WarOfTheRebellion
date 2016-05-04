@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-98" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="Ironsides"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="monitors"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="gun-boats"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="tugs"/>
+<w tok=","/>
+<w tok="14"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="Wabash"/>
+<w tok="and"/>
+<w tok="6"/>
+<w tok="blockaders"/>
+<w tok="outside"/>
+<w tok=";"/>
+<w tok="5"/>
+<w tok="steamers"/>
+<w tok="and"/>
+<w tok="10"/>
+<w tok="schooners"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Fire"/>
+<w tok="direct"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="angle"/>
+<w tok="from"/>
+<w tok="one"/>
+<w tok="200-pounder"/>
+<w tok="at"/>
+<toponym term="Gregg">
+<candidates>
+<cand lat="37.19805" long="-77.45025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="100-pounder"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="middle"/>
+<w tok="battery"/>
+<w tok=","/>
+<w tok="probably"/>
+<w tok="the"/>
+<w tok="gun"/>
+<w tok="formerly"/>
+<w tok="used"/>
+<w tok="against"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="garrison"/>
+<w tok="gin"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="stationed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="adjoining"/>
+<w tok="embrasure"/>
+<w tok="."/>
+<w tok="Number"/>
+<w tok="of"/>
+<w tok="shots"/>
+<w tok="fired"/>
+<w tok="since"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="159"/>
+<w tok=";"/>
+<w tok="hit"/>
+<w tok=","/>
+<w tok="138"/>
+<w tok=";"/>
+<w tok="missed"/>
+<w tok=","/>
+<w tok="21"/>
+<w tok="."/>
+<w tok="West"/>
+<w tok="angle"/>
+<w tok="much"/>
+<w tok="cut"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

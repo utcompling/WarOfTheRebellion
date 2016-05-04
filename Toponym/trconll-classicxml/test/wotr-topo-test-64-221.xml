@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-221" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTH"/>
+<w tok="KANSAS"/>
+<w tok=","/>
+<toponym term="Paola">
+<candidates>
+<cand lat="38.573611" long="-94.873333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans.">
+<candidates>
+<cand lat="38.4941211627" long="-98.3409941189" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="THOMAS"/>
+<w tok="MOONLIGHT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<toponym term="Mound City">
+<candidates>
+<cand lat="38.141944" long="-94.812222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans.">
+<candidates>
+<cand lat="38.4941211627" long="-98.3409941189" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="McKean"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="instructions*"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Brown"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Central"/>
+<w tok="Missouri"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="reference"/>
+<w tok="to"/>
+<w tok="co-operation"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="Until"/>
+<w tok="other"/>
+<w tok="and"/>
+<w tok="more"/>
+<w tok="extensive"/>
+<w tok="arrangements"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="effected"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="confer"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="sub-district"/>
+<w tok="commander"/>
+<w tok="in"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="adjoining"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="view"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="co-operation"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="respective"/>
+<w tok="forces"/>
+<w tok="in"/>
+<w tok="protecting"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="along"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="line"/>
+<w tok="in"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="spirit"/>
+<w tok="of"/>
+<w tok="said"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="GRAY"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Aide-de-Camp"/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

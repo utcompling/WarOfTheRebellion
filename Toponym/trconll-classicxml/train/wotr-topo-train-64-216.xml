@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-216" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="G."/>
+<w tok="FIELDS"/>
+<w tok="Esq."/>
+<w tok=","/>
+<w tok="President"/>
+<w tok="National"/>
+<w tok="Union"/>
+<w tok="League"/>
+<w tok=","/>
+<toponym term="Bucklin">
+<candidates>
+<cand lat="39.783611" long="-92.888056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="favor"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="date"/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="assure"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="spare"/>
+<w tok="no"/>
+<w tok="pains"/>
+<w tok="in"/>
+<w tok="pursuing"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok="capturing"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="desperadoes"/>
+<w tok="mentioned"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="militia"/>
+<w tok="of"/>
+<toponym term="Linn County">
+<candidates>
+<cand lat="39.87" long="-93.11" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="placed"/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Crandall"/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Brookfield">
+<candidates>
+<cand lat="39.783056" long="-93.073889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="hoped"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="loyal"/>
+<w tok="citizens"/>
+<w tok="will"/>
+<w tok="cheerfully"/>
+<w tok="aid"/>
+<w tok="him"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="efforts"/>
+<w tok="to"/>
+<w tok="restore"/>
+<w tok="tranquility"/>
+<w tok="throughout"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="A."/>
+<w tok="HOLLOWAY"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

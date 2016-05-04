@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-94" title="63" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="N."/>
+<w tok="HERDER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="by"/>
+<w tok="all"/>
+<w tok="means"/>
+<w tok="cross"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="kill"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="break"/>
+<w tok="up"/>
+<w tok="their"/>
+<w tok="camps"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="want"/>
+<w tok="none"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="taken"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="But"/>
+<w tok="no"/>
+<w tok="squad"/>
+<w tok="must"/>
+<w tok="cross"/>
+<w tok="except"/>
+<w tok="under"/>
+<w tok="a"/>
+<w tok="commissioned"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="held"/>
+<w tok="responsible"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="conduct"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Such"/>
+<w tok="robberies"/>
+<w tok="as"/>
+<w tok="were"/>
+<w tok="committed"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Milks"/>
+<w tok="&apos;"/>
+<w tok="men"/>
+<w tok="must"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="recur"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="exert"/>
+<w tok="yourself"/>
+<w tok="to"/>
+<w tok="recover"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="stolen"/>
+<w tok="and"/>
+<w tok="bring"/>
+<w tok="the"/>
+<w tok="offenders"/>
+<w tok="to"/>
+<w tok="justice"/>
+<w tok="."/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

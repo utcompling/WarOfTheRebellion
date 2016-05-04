@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-2" title="66" domain="wotr">
+<s id="s1">
+<w tok="WAR"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Washington City">
+<candidates>
+<cand lat="38.8676781333" long="-77.0588932952" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864-9"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<toponym term="New York">
+<candidates>
+<cand lat="40.7245245956" long="-74.0046940764" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="to-day"/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="reached"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="Mrs."/>
+<w tok="Foster"/>
+<w tok="and"/>
+<w tok="your"/>
+<w tok="children"/>
+<w tok="may"/>
+<w tok="accompany"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="deal"/>
+<w tok="surprised"/>
+<w tok="to"/>
+<w tok="learn"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="had"/>
+<w tok="not"/>
+<w tok="gone"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="before"/>
+<w tok="this"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="EDWIN"/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+<toponym term="SAINT AUGUSTINE">
+<candidates>
+<cand lat="29.894722" long="-81.314444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="FLA.">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+</s>
+</doc>

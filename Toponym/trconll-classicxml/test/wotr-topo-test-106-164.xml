@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-164" title="106" domain="wotr">
+<s id="s1">
+<toponym term="SALT LAKE">
+<candidates>
+<cand lat="40.75" long="-111.883333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="--"/>
+<w tok="9"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=":"/>
+<w tok="Just"/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="Encamped"/>
+<w tok="on"/>
+<w tok="site"/>
+<w tok="of"/>
+<w tok="new"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="Command"/>
+<w tok="in"/>
+<w tok="good"/>
+<w tok="health"/>
+<w tok="and"/>
+<w tok="discipline"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

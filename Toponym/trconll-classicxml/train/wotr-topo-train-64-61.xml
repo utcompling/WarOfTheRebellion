@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-61" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="POWELL"/>
+<w tok="CLAYTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="of"/>
+<toponym term="Pine Bluff">
+<candidates>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="recent"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="headquarters"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="charged"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="duty"/>
+<w tok="and"/>
+<w tok="responsibility"/>
+<w tok="of"/>
+<w tok="scouting"/>
+<w tok="and"/>
+<w tok="observing"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Benton road">
+<candidates>
+<cand lat="34.570833" long="-92.576944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Arkansas River">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="including"/>
+<w tok="either"/>
+<w tok="bank"/>
+<w tok=")"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="left"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="it"/>
+<w tok="has"/>
+<w tok="occurred"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="co-operation"/>
+<w tok="and"/>
+<w tok="simultaneous"/>
+<w tok="movements"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="and"/>
+<w tok="my"/>
+<w tok="own"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="desirable"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok=","/>
+<w tok="therefore"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="on"/>
+<w tok="certain"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="hereafter"/>
+<w tok="agreed"/>
+<w tok="upon"/>
+<w tok=","/>
+<w tok="scouting"/>
+<w tok="parties"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="from"/>
+<toponym term="Pine Bluff">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="instructed"/>
+<w tok="to"/>
+<w tok="communicate"/>
+<w tok="each"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="at"/>
+<w tok="designated"/>
+<w tok="points"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="different"/>
+<w tok="roads"/>
+<w tok="."/>
+<w tok="Should"/>
+<w tok="this"/>
+<w tok="suggestion"/>
+<w tok="meet"/>
+<w tok="your"/>
+<w tok="approval"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="details"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="roads"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="could"/>
+<w tok="be"/>
+<w tok="arranged"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="be"/>
+<w tok="kind"/>
+<w tok="enough"/>
+<w tok="to"/>
+<w tok="advise"/>
+<w tok="me"/>
+<w tok="at"/>
+<w tok="your"/>
+<w tok="earliest"/>
+<w tok="convenience"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="opinions"/>
+<w tok="concerning"/>
+<w tok="the"/>
+<w tok="plan"/>
+<w tok="above"/>
+<w tok="indicated"/>
+<w tok="?"/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="SALOMON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-57" title="62" domain="wotr">
+<s id="s1">
+<toponym term="ROLLA">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Reliable"/>
+<w tok=":"/>
+<w tok="Freeman"/>
+<w tok="is"/>
+<w tok="at"/>
+<toponym term="Frederick&apos;s Fork">
+<candidates>
+<cand lat="36.787379816" long="-91.5317398729" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Thomasville">
+<candidates>
+<cand lat="36.789167" long="-91.532222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="400"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="camp"/>
+<w tok="and"/>
+<w tok="1,200"/>
+<w tok="enrolled"/>
+<w tok="to"/>
+<w tok="call"/>
+<w tok="upon"/>
+<w tok="when"/>
+<w tok="required"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="scout"/>
+<w tok="killed"/>
+<w tok="1"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="lieutenants"/>
+<w tok="and"/>
+<w tok="4"/>
+<w tok="men"/>
+<w tok="near"/>
+<w tok="his"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="want"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="clean"/>
+<w tok="them"/>
+<w tok="out"/>
+<w tok="."/>
+<w tok="THOMAS"/>
+<w tok="A."/>
+<w tok="DAVIES"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-165" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="OREGON"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="15"/>
+<w tok="."/>
+<toponym term="Fort Walla Walla">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Justus"/>
+<w tok="Steinberger"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Infantry"/>
+<w tok="Washington"/>
+<w tok="Territory"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Nez Perce Indian Reservation">
+<candidates>
+<cand lat="46.3" long="-116.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="at"/>
+<toponym term="Fort Walla Walla">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="departure"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="give"/>
+<w tok="such"/>
+<w tok="orders"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="movement"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="and"/>
+<w tok="fro"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="public"/>
+<w tok="service"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Alvord"/>
+<w tok=":"/>
+<w tok="FREDERICK"/>
+<w tok="MEARS"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="Ninth"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

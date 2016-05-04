@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-7" title="75" domain="wotr">
+<s id="s1">
+<w tok="IMMEDIATE"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="NEWTON"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="to"/>
+<w tok="support"/>
+<w tok="McCook"/>
+<w tok="toward"/>
+<toponym term="Varnell&apos;s">
+<candidates>
+<cand lat="34.899444" long="-84.964444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="my"/>
+<w tok="left"/>
+<w tok="."/>
+<w tok="Please"/>
+<w tok="send"/>
+<w tok="down"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="valley"/>
+<w tok="as"/>
+<w tok="many"/>
+<w tok="men"/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="spare"/>
+<w tok="to"/>
+<w tok="act"/>
+<w tok="as"/>
+<w tok="my"/>
+<w tok="reserve"/>
+<w tok=";"/>
+<w tok="ca"/>
+<w tok="n&apos;t"/>
+<w tok="you"/>
+<w tok="communicate"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok="by"/>
+<w tok="signal"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="an"/>
+<w tok="officer"/>
+<w tok="here"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="try"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

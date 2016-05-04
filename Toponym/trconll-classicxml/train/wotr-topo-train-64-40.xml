@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-40" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SAINT JOSEPH">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=":"/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="We"/>
+<w tok="have"/>
+<w tok="discovered"/>
+<w tok="23"/>
+<w tok="kegs"/>
+<w tok="and"/>
+<w tok="150"/>
+<w tok="cans"/>
+<w tok="of"/>
+<w tok="powder"/>
+<w tok="concealed"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="premises"/>
+<w tok="of"/>
+<w tok="four"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="first"/>
+<w tok="families"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="powder"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="that"/>
+<w tok="was"/>
+<w tok="stolen"/>
+<w tok="from"/>
+<toponym term="Camp Jackson">
+<candidates>
+<cand lat="38.636551" long="-90.236721" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="Jeff"/>
+<w tok="."/>
+<w tok="Thompson"/>
+<w tok="three"/>
+<w tok="years"/>
+<w tok="ago"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="concealed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="dwellings"/>
+<w tok="and"/>
+<w tok="barns"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="professed"/>
+<w tok="loyalty"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="leaders"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Paw"/>
+<w tok="Paw"/>
+<w tok="militia"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="looks"/>
+<w tok="badly"/>
+<w tok="."/>
+<w tok="Shall"/>
+<w tok="proceed"/>
+<w tok="thoroughly"/>
+<w tok="but"/>
+<w tok="prudently"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

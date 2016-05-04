@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-75" title="64" domain="wotr">
+<s id="s1">
+<toponym term="PILOT KNOB">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Lieutenant"/>
+<w tok="H."/>
+<w tok="HANNAHS"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok="telegraphs"/>
+<w tok="from"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="McRae"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="not"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="600"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="to"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<toponym term="Pitman&apos;s Ferry">
+<candidates>
+<cand lat="39.43" long="-92.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Gets"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="from"/>
+<w tok="soldiers"/>
+<w tok="of"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="paroled"/>
+<w tok="by"/>
+<w tok="McRae"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="TYLER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

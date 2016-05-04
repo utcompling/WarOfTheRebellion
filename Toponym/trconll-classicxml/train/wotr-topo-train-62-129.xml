@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-129" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOHN"/>
+<w tok="EDWARDS"/>
+<w tok=","/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="military"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="can"/>
+<w tok="do"/>
+<w tok="nothing"/>
+<w tok="here"/>
+<w tok="except"/>
+<w tok="in"/>
+<w tok="case"/>
+<w tok="of"/>
+<w tok="great"/>
+<w tok="emergency"/>
+<w tok="."/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

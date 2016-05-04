@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-86" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="SAMUEL"/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Confederate"/>
+<w tok="Forces"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok=","/>
+<w tok="Ga."/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Fla."/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Regarding"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="of"/>
+<w tok="Dr."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="Robinson"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="fourth"/>
+<w tok="Pennsylvania"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="pickets"/>
+<w tok="on"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="deem"/>
+<w tok="it"/>
+<w tok="proper"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="capture"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="stat"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="13th"/>
+<w tok="instant"/>
+<w tok="appeared"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok=","/>
+<w tok="&quot;"/>
+<w tok="reconnoitering"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="."/>
+<w tok="&quot;"/>
+<w tok="Having"/>
+<w tok="been"/>
+<w tok="detained"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="moved"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="on"/>
+<w tok="professional"/>
+<w tok="duty"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="missed"/>
+<w tok="his"/>
+<w tok="way"/>
+<w tok="in"/>
+<w tok="following"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="thus"/>
+<w tok="met"/>
+<w tok="your"/>
+<w tok="pickets"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="respect"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="custom"/>
+<w tok="of"/>
+<w tok="liberating"/>
+<w tok="surgeons"/>
+<w tok="when"/>
+<w tok="captured"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="my"/>
+<w tok="custom"/>
+<w tok="while"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="both"/>
+<w tok="in"/>
+<toponym term="North Carolina">
+<candidates>
+<cand lat="35.5668827145" long="-79.2614123763" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="East Tennessee">
+<candidates>
+<cand lat="35.9313085919" long="-84.4113475729" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="action"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="case"/>
+<w tok="will"/>
+<w tok="determine"/>
+<w tok="whether"/>
+<w tok="the"/>
+<w tok="custom"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="continued"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

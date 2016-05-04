@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-34" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Matagorda Peninsula">
+<candidates>
+<cand lat="28.585" long="-96.018333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="O."/>
+<w tok="C."/>
+<w tok="ORD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="Mr."/>
+<w tok="Veazie"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="belongs"/>
+<w tok="perhaps"/>
+<w tok="to"/>
+<w tok="Armstrong"/>
+<w tok="&apos;s"/>
+<w tok="scouts"/>
+<w tok="and"/>
+<w tok="who"/>
+<w tok="is"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="at"/>
+<w tok="Franklin"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="ought"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="a"/>
+<w tok="useful"/>
+<w tok="man"/>
+<w tok="in"/>
+<toponym term="Louisiana">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="very"/>
+<w tok="useful"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="be"/>
+<w tok="good"/>
+<w tok="enough"/>
+<w tok="to"/>
+<w tok="procure"/>
+<w tok="and"/>
+<w tok="forward"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="?"/>
+<w tok="The"/>
+<w tok="rebels"/>
+<w tok="are"/>
+<w tok="reported"/>
+<w tok="1,200"/>
+<w tok="strong"/>
+<w tok="at"/>
+<toponym term="Sabine Pass">
+<candidates>
+<cand lat="29.726389" long="-93.863333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="also"/>
+<w tok="erecting"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="fort"/>
+<w tok="on"/>
+<toponym term="Bolivar Point">
+<candidates>
+<cand lat="29.5125" long="-94.489167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="opposite"/>
+<toponym term="Galveston">
+<candidates>
+<cand lat="29.2909434096" long="-94.7969250383" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="also"/>
+<w tok="brought"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="from"/>
+<toponym term="Sachem">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Clifton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="say"/>
+<w tok="four"/>
+<w tok="9-inch"/>
+<w tok=","/>
+<w tok="five"/>
+<w tok="32"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="30-pounder"/>
+<w tok="Parrotts"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="at"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="29.731388555" long="-95.3364450533" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="started"/>
+<w tok="Brigadier-General"/>
+<w tok="Ransom"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="peninsula"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="reconnaissance"/>
+<w tok="in"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="head"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="50"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="a"/>
+<w tok="brigade"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="one"/>
+<w tok="piece"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="place"/>
+<w tok="the"/>
+<w tok="Thirteenth"/>
+<w tok="Maine"/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="two"/>
+<w tok="gun-boats"/>
+<w tok="this"/>
+<w tok="afternoon"/>
+<w tok="and"/>
+<w tok="land"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="weather"/>
+<w tok="permits"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="25"/>
+<w tok="miles"/>
+<w tok="above"/>
+<w tok="where"/>
+<w tok="Ransom"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="at"/>
+<w tok="daylight"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="to"/>
+<w tok="capture"/>
+<w tok="some"/>
+<w tok="scouts"/>
+<w tok="and"/>
+<w tok="vedettes"/>
+<w tok=","/>
+<w tok="perhaps"/>
+<w tok="to"/>
+<w tok="whip"/>
+<w tok="a"/>
+<w tok="cavalry"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="events"/>
+<w tok="I"/>
+<w tok="wish"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="up"/>
+<w tok="a"/>
+<w tok="spirit"/>
+<w tok="of"/>
+<w tok="enterprise"/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="inured"/>
+<w tok="to"/>
+<w tok="campaigning"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="teach"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="are"/>
+<w tok="active"/>
+<w tok="in"/>
+<w tok="every"/>
+<w tok="direction"/>
+<w tok="."/>
+<w tok="Please"/>
+<w tok="forward"/>
+<w tok="us"/>
+<w tok="forage"/>
+<w tok="in"/>
+<w tok="considerable"/>
+<w tok="quantities"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="DANA"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

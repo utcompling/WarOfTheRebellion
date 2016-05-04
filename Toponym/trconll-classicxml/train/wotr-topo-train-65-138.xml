@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-138" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="5"/>
+<w tok="monitors"/>
+<w tok="inside"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=";"/>
+<w tok="in"/>
+<w tok="other"/>
+<w tok="respects"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok="is"/>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="that"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="blockader"/>
+<w tok="is"/>
+<w tok="visible"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="owing"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="remoteness"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="thickness"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="weather"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="shells"/>
+<w tok="fired"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="exploded"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="struck"/>
+<w tok="the"/>
+<w tok="slope"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="passed"/>
+<w tok="over"/>
+<w tok="."/>
+<w tok="Gregg"/>
+<w tok="opened"/>
+<w tok="on"/>
+<toponym term="Simkins">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="replied"/>
+<w tok=","/>
+<w tok="together"/>
+<w tok="with"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-65" title="60" domain="wotr">
+<s id="s1">
+<w tok="Major"/>
+<w tok="T."/>
+<w tok="O."/>
+<w tok="CHESTNEY"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Chaffin&apos;s Farm">
+<candidates>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864-12"/>
+<w tok="."/>
+<w tok="10"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="Robertson"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="learned"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="Mr."/>
+<w tok="Christian"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="at"/>
+<toponym term="Bottom&apos;s Bridge">
+<candidates>
+<cand lat="37.510833" long="-77.192778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="10,000"/>
+<w tok="strong"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="others"/>
+<w tok="advancing"/>
+<w tok="on"/>
+<w tok="another"/>
+<w tok="road"/>
+<w tok="("/>
+<w tok="the"/>
+<w tok="numbers"/>
+<w tok="and"/>
+<w tok="road"/>
+<w tok="not"/>
+<w tok="stated"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="also"/>
+<w tok="inclosed"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<w tok="Lieutenant"/>
+<w tok="Havenner"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="is"/>
+<w tok="advancing"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Telegraph">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Diascond roads">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="numbers"/>
+<w tok="not"/>
+<w tok="stated"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Southside"/>
+<w tok="Artillery"/>
+<w tok="has"/>
+<w tok="arrived"/>
+<w tok=";"/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Varina road">
+<candidates>
+<cand lat="37.381944" long="-77.336111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="fortifications"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok=";"/>
+<w tok="six"/>
+<w tok="splendid"/>
+<w tok="Napoleons"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="directed"/>
+<w tok="Major"/>
+<w tok="Robertson"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="case"/>
+<w tok="a"/>
+<w tok="retirement"/>
+<w tok="before"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="unavoidable"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="retire"/>
+<w tok="on"/>
+<w tok="my"/>
+<w tok="infantry"/>
+<w tok="pickets"/>
+<w tok="at"/>
+<toponym term="New Market">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Shingler"/>
+<w tok="will"/>
+<w tok="retire"/>
+<w tok="toward"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="a"/>
+<w tok="back"/>
+<w tok="step"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="EPPA"/>
+<w tok="HUNTON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

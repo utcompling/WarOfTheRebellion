@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-42" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="is"/>
+<w tok="still"/>
+<w tok="strong"/>
+<w tok="in"/>
+<w tok="our"/>
+<w tok="front"/>
+<w tok="."/>
+<w tok="Should"/>
+<w tok="he"/>
+<w tok="withdraw"/>
+<w tok="large"/>
+<w tok="force"/>
+<w tok="to"/>
+<w tok="concentrate"/>
+<w tok="in"/>
+<toponym term="North Carolina">
+<candidates>
+<cand lat="35.5769588429" long="-79.2749298335" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="your"/>
+<w tok="suggestion"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="carried"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="extant"/>
+<w tok="of"/>
+<w tok="two"/>
+<w tok="brigades"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="northwest"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="watched"/>
+<w tok="closely"/>
+<w tok="from"/>
+<w tok="expedition"/>
+<w tok="through"/>
+<toponym term="North Carolina">
+<candidates>
+<cand lat="35.5769588429" long="-79.2749298335" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

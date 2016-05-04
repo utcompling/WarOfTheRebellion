@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-203" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="MISSISSIPPI"/>
+<w tok="MARINE"/>
+<w tok="BRIGADE"/>
+<w tok=","/>
+<w tok="Flag-ship"/>
+<w tok="Autocrat"/>
+<w tok=","/>
+<toponym term="Ford&apos;s Landing">
+<candidates>
+<cand lat="36.260556" long="-94.139444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8727279336" long="-92.4674963559" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="ELLET"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Ram"/>
+<w tok="Fleet"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="compliance"/>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="McArthur"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="hereby"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="to"/>
+<w tok="Memphis"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Hurlbut"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Sixteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="and"/>
+<w tok="detached"/>
+<w tok="forces"/>
+<w tok="Seventeenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="on"/>
+<toponym term="Mississippi River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="W."/>
+<w tok="Ellet"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="CRANDALL"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

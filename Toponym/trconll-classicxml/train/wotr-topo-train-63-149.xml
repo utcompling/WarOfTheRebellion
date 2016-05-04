@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-149" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="Statement"/>
+<w tok="of"/>
+<w tok="William"/>
+<w tok="D."/>
+<w tok="Vice"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="reside"/>
+<w tok="in"/>
+<toponym term="Chariton County">
+<candidates>
+<cand lat="39.52" long="-92.96" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<toponym term="Porche&apos;s Prairie">
+<candidates>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="last"/>
+<w tok="Sunday"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="in"/>
+<toponym term="Grand River">
+<candidates>
+<cand lat="39.384" long="-93.108" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="bottom"/>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="5"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="held"/>
+<w tok="as"/>
+<w tok="prisoner"/>
+<w tok="until"/>
+<w tok="after"/>
+<w tok="sundown"/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="released"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="taking"/>
+<w tok="my"/>
+<w tok="saddle"/>
+<w tok=","/>
+<w tok="bridle"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="revolver"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="shotgun"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="that"/>
+<w tok="was"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="And"/>
+<w tok="then"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="next"/>
+<w tok="morning"/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="taken"/>
+<w tok="again"/>
+<w tok="by"/>
+<w tok="3"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="robbed"/>
+<w tok="of"/>
+<w tok="$"/>
+<w tok="24"/>
+<w tok="and"/>
+<w tok="pocket-book"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="saw"/>
+<w tok="at"/>
+<w tok="different"/>
+<w tok="times"/>
+<w tok="about"/>
+<w tok="35"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="bushwhackers"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="made"/>
+<w tok="threats"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="they"/>
+<w tok="could"/>
+<w tok="get"/>
+<w tok="Sergeant"/>
+<w tok="Westly"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="would"/>
+<w tok="kill"/>
+<w tok="him"/>
+<w tok=";"/>
+<w tok="they"/>
+<w tok="had"/>
+<w tok="watched"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="often"/>
+<w tok="for"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="would"/>
+<w tok="have"/>
+<w tok="possession"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="before"/>
+<w tok="next"/>
+<w tok="fall"/>
+<w tok="and"/>
+<w tok="stop"/>
+<w tok="the"/>
+<w tok="draft"/>
+<w tok="."/>
+<w tok="WILLIAM"/>
+<w tok="D."/>
+<w tok="VICE"/>
+<w tok=","/>
+<w tok="A"/>
+<w tok="Discharged"/>
+<w tok="Soldier"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Eighteenth"/>
+<w tok="Regiment"/>
+<w tok="."/>
+<w tok="Sworn"/>
+<w tok="to"/>
+<w tok="and"/>
+<w tok="subscribed"/>
+<w tok="before"/>
+<w tok="me"/>
+<w tok="this"/>
+<w tok="14th"/>
+<w tok="day"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Laclede">
+<candidates>
+<cand lat="39.7875" long="-93.1697222222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="W."/>
+<w tok="J."/>
+<w tok="PORTER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Provost-Marshal"/>
+<w tok="."/>
+</s>
+</doc>

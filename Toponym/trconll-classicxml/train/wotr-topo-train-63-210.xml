@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-210" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="C."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="SIXTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1409093666" long="-90.0559258319" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.86533063" long="-86.3008869745" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="M."/>
+<w tok="BRAYMAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Cairo">
+<candidates>
+<cand lat="37.013056" long="-89.180278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="If"/>
+<w tok="a"/>
+<w tok="military"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="stationed"/>
+<w tok="at"/>
+<toponym term="New Madrid">
+<candidates>
+<cand lat="36.587778" long="-89.535833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="goods"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="landed"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="A."/>
+<w tok="HURLBUT"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

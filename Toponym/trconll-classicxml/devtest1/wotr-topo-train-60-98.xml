@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-98" title="60" domain="wotr">
+<s id="s1">
+<w tok="The"/>
+<w tok="Richmond"/>
+<w tok="Sentinel"/>
+<w tok="of"/>
+<w tok="March"/>
+<w tok="5"/>
+<w tok="("/>
+<w tok="yesterday"/>
+<w tok=")"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="announced"/>
+<w tok="the"/>
+<w tok="capturing"/>
+<w tok="at"/>
+<toponym term="King and Queen">
+<candidates>
+<cand lat="37.72" long="-76.9" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Dahlgren"/>
+<w tok="&apos;s"/>
+<w tok="party"/>
+<w tok=","/>
+<w tok="reported"/>
+<w tok="90"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="Colonel"/>
+<w tok="Dahlgren"/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="skirmish"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="fear"/>
+<w tok="the"/>
+<w tok="account"/>
+<w tok="is"/>
+<w tok="true"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="paper"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="you"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="MEADE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

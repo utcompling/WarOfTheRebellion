@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-90" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="HARRISON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="night"/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major"/>
+<w tok="Melton"/>
+<w tok="sent"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<toponym term="Berryville">
+<candidates>
+<cand lat="36.368333" long="-93.568333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="what"/>
+<w tok="he"/>
+<w tok="believed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="reliable"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Shelby"/>
+<w tok="was"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Osage">
+<candidates>
+<cand lat="38.596944" long="-91.945278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="2,000"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="six"/>
+<w tok="pieces"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="asked"/>
+<w tok="for"/>
+<w tok="orderes"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="retreat"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="ordered"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="there"/>
+<w tok="was"/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="reliability"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="information"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok=";"/>
+<w tok="if"/>
+<w tok="there"/>
+<w tok="was"/>
+<w tok="any"/>
+<w tok="doubt"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="spies"/>
+<w tok="and"/>
+<w tok="scouts"/>
+<w tok="and"/>
+<w tok="get"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="move"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="spies"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="returned"/>
+<w tok="and"/>
+<w tok="stated"/>
+<w tok="there"/>
+<w tok="was"/>
+<w tok="nothing"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="mountains"/>
+<w tok="but"/>
+<w tok="bushwhackers"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="thing"/>
+<w tok="."/>
+<w tok="Who"/>
+<w tok="gave"/>
+<w tok="Melton"/>
+<w tok="his"/>
+<w tok="information"/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="n&apos;t"/>
+<w tok="know"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="directed"/>
+<w tok="the"/>
+<w tok="operator"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="Melton"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok="."/>
+<w tok="Do"/>
+<w tok="you"/>
+<w tok="know"/>
+<w tok="where"/>
+<w tok="Shelby"/>
+<w tok="is"/>
+<w tok="?"/>
+<w tok="The"/>
+<w tok="bushwhackers"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="moving"/>
+<w tok="up"/>
+<w tok="through"/>
+<w tok="the"/>
+<toponym term="Rolland District">
+<candidates>
+<cand lat="34.900556" long="-92.498333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+</s>
+</doc>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-252" title="64" domain="wotr">
+<s id="s1">
+<toponym term="CAPE GIRARDEAU">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="are"/>
+<w tok="unusually"/>
+<w tok="active"/>
+<w tok="just"/>
+<w tok="now"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="McLane"/>
+<w tok="sends"/>
+<w tok="me"/>
+<w tok="word"/>
+<w tok="that"/>
+<w tok="200"/>
+<w tok="camped"/>
+<w tok="near"/>
+<toponym term="Patton">
+<candidates>
+<cand lat="37.502222" long="-90.013333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="mill"/>
+<w tok=","/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="200"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="two"/>
+<w tok="directions"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Ewing"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="36.921389" long="-89.346389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reports"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="25"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Hiller"/>
+<w tok="reports"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="at"/>
+<toponym term="Cane Island">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="gentleman"/>
+<w tok="late"/>
+<w tok="from"/>
+<toponym term="Doniphan">
+<candidates>
+<cand lat="36.622222" long="-90.822222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="says"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="there"/>
+<w tok="and"/>
+<w tok="picket"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="."/>
+<w tok="Number"/>
+<w tok="not"/>
+<w tok="known"/>
+<w tok="."/>
+<w tok="Besides"/>
+<w tok="these"/>
+<w tok="parties"/>
+<w tok=","/>
+<w tok="small"/>
+<w tok="squads"/>
+<w tok="are"/>
+<w tok="everywhere"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="swamps"/>
+<w tok="."/>
+<w tok="Hiller"/>
+<w tok="is"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="whole"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="move"/>
+<w tok="and"/>
+<w tok="we"/>
+<w tok="will"/>
+<w tok="clear"/>
+<w tok="them"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="try"/>
+<w tok="."/>
+<w tok="But"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="covering"/>
+<w tok="some"/>
+<w tok="more"/>
+<w tok="important"/>
+<w tok="move"/>
+<w tok="by"/>
+<w tok="this"/>
+<w tok="cloud"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="."/>
+<w tok="Those"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="mill"/>
+<w tok="were"/>
+<w tok="grinding"/>
+<w tok="corn"/>
+<w tok="all"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="McRae"/>
+<w tok="means"/>
+<w tok="mischief"/>
+<w tok="at"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="What"/>
+<w tok="do"/>
+<w tok="you"/>
+<w tok="think"/>
+<w tok="of"/>
+<w tok="bringing"/>
+<toponym term="Dallas">
+<candidates>
+<cand lat="37.67" long="-93.02" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="within"/>
+<w tok="supporting"/>
+<w tok="distance"/>
+<w tok="?"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-61" title="75" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="OHIO"/>
+<w tok=","/>
+<toponym term="Point of Rocky Face">
+<candidates>
+<cand lat="34.74105" long="-85.01568" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864-9.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Brigadier-General"/>
+<w tok="McCOOK"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok="is"/>
+<w tok="desirous"/>
+<w tok="of"/>
+<w tok="knowing"/>
+<w tok="whether"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="railroad"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="repair"/>
+<w tok="from"/>
+<toponym term="Red Clay">
+<candidates>
+<cand lat="34.976655" long="-84.938153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="repairs"/>
+<w tok="at"/>
+<toponym term="Red Clay">
+<candidates>
+<cand lat="34.976655" long="-84.938153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="completed"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="important"/>
+<w tok="to"/>
+<w tok="know"/>
+<w tok="whether"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="any"/>
+<w tok="breaks"/>
+<w tok="between"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="and"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="our"/>
+<w tok="cavalry"/>
+<w tok="can"/>
+<w tok="go"/>
+<w tok="toward"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="already"/>
+<w tok="sufficiently"/>
+<w tok="apprised"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="me"/>
+<w tok="the"/>
+<w tok="desired"/>
+<w tok="information"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="thing"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="to"/>
+<w tok="ascertain"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="communicate"/>
+<w tok="the"/>
+<w tok="facts"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="of"/>
+<w tok="great"/>
+<w tok="importance"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

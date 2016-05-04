@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-9" title="63" domain="wotr">
+<s id="s1">
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="RICHARD"/>
+<w tok="B."/>
+<w tok="IRWIN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="earnestly"/>
+<w tok="urge"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Regiment"/>
+<w tok="Texas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="be"/>
+<w tok="exchanged"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="eighteenth"/>
+<w tok="Illinois"/>
+<w tok="Mounted"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="formerly"/>
+<w tok="belonged"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="recommendation"/>
+<w tok="is"/>
+<w tok="based"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="frequent"/>
+<w tok="desertions"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Texas"/>
+<w tok=","/>
+<w tok="resulting"/>
+<w tok=","/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="proximity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="regiment"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="families"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="constantly"/>
+<w tok="asking"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="home"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="inducement"/>
+<w tok="of"/>
+<w tok="higher"/>
+<w tok="pay"/>
+<w tok="in"/>
+<w tok="specie"/>
+<w tok="offered"/>
+<w tok="them"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="It"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="remembered"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="regiment"/>
+<w tok="is"/>
+<w tok="composed"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="considerable"/>
+<w tok="part"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="formerly"/>
+<w tok="Mexicans"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="eighteenth"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="some"/>
+<w tok="such"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="much"/>
+<w tok="needed"/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="particularly"/>
+<w tok="since"/>
+<w tok="a"/>
+<w tok="mounted"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="has"/>
+<w tok="occupied"/>
+<toponym term="Corpus Christi">
+<candidates>
+<cand lat="27.742778" long="-97.401944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="probably"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="intention"/>
+<w tok="of"/>
+<w tok="making"/>
+<w tok="predatory"/>
+<w tok="raids"/>
+<w tok="upon"/>
+<w tok="our"/>
+<w tok="land"/>
+<w tok="and"/>
+<w tok="water"/>
+<w tok="communications"/>
+<w tok="between"/>
+<toponym term="Brazos Santiago">
+<candidates>
+<cand lat="26.030556" long="-97.1575" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="A."/>
+<w tok="McCLERNAND"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

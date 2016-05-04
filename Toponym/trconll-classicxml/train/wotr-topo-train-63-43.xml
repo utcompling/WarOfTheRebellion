@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-43" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="POWELL"/>
+<w tok="CLAYTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Dispatches"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="front"/>
+<w tok="."/>
+<w tok="Army"/>
+<w tok="in"/>
+<w tok="camp"/>
+<w tok="5"/>
+<w tok="miles"/>
+<w tok="beyond"/>
+<toponym term="Elkin&apos;s Ferry">
+<candidates>
+<cand lat="33.930556" long="-93.357222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Little Missouri River">
+<candidates>
+<cand lat="34.4465" long="-94.01714" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="7th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="waiting"/>
+<w tok="for"/>
+<w tok="Thayer"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="within"/>
+<w tok="one"/>
+<w tok="day"/>
+<w tok="&apos;s"/>
+<w tok="march"/>
+<w tok="."/>
+<w tok="Had"/>
+<w tok="several"/>
+<w tok="skirmishes"/>
+<w tok="with"/>
+<w tok="Marmaduke"/>
+<w tok="and"/>
+<w tok="Shelby"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="we"/>
+<w tok="drove"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Loss"/>
+<w tok="but"/>
+<w tok="slight"/>
+<w tok="."/>
+<w tok="How"/>
+<w tok="many"/>
+<w tok="wagons"/>
+<w tok="can"/>
+<w tok="you"/>
+<w tok="furnish"/>
+<w tok="to"/>
+<w tok="load"/>
+<w tok="with"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="commissary"/>
+<w tok="stores"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="to"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="energy"/>
+<w tok="wagon"/>
+<w tok="and"/>
+<w tok="mule"/>
+<w tok="that"/>
+<w tok="can"/>
+<w tok="possibly"/>
+<w tok="be"/>
+<w tok="spared"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="country"/>
+<w tok="is"/>
+<w tok="almost"/>
+<w tok="entirely"/>
+<w tok="destitute"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="for"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Forage"/>
+<w tok="for"/>
+<w tok="animals"/>
+<w tok="is"/>
+<w tok="plenty"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="on"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="Thayer"/>
+<w tok="joins"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="Answer"/>
+<w tok="about"/>
+<w tok="wagons"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="Steele"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="GREEN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-145" title="62" domain="wotr">
+<s id="s1">
+<w tok="WM"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="THOMPSON"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<toponym term="Matagorda Peninsula">
+<candidates>
+<cand lat="28.585" long="-96.018333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="P."/>
+<w tok="BENTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="at"/>
+<toponym term="Indianola">
+<candidates>
+<cand lat="28.511944" long="-96.4875" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="are"/>
+<w tok="instructed"/>
+<w tok=","/>
+<w tok="should"/>
+<w tok="any"/>
+<w tok="Texans"/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="come"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="lines"/>
+<w tok="form"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="make"/>
+<w tok="any"/>
+<w tok="attempt"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="picket-lines"/>
+<w tok="and"/>
+<w tok="escape"/>
+<w tok="again"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="such"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="guards"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="shot"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="spot"/>
+<w tok="and"/>
+<w tok="not"/>
+<w tok="captured"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="are"/>
+<w tok="also"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="put"/>
+<w tok="a"/>
+<w tok="stop"/>
+<w tok="to"/>
+<w tok="small"/>
+<w tok="boats"/>
+<w tok="leaving"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="getting"/>
+<w tok="fish"/>
+<w tok="and"/>
+<w tok="oysters"/>
+<w tok="or"/>
+<w tok="any"/>
+<w tok="other"/>
+<w tok="pretense"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="when"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="4"/>
+<w tok="good"/>
+<w tok="reliable"/>
+<w tok="soldiers"/>
+<w tok=","/>
+<w tok="well"/>
+<w tok="armed"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="any"/>
+<w tok="treachery"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="DANA"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

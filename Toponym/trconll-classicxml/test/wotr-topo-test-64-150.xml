@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-150" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="SULLY"/>
+<w tok=","/>
+<toponym term="Sioux City">
+<candidates>
+<cand lat="42.498056" long="-96.395556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="via"/>
+<w tok="Council"/>
+<w tok="Bluffs"/>
+<w tok=":"/>
+<w tok="Sibley"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="whole"/>
+<w tok="force"/>
+<w tok="originally"/>
+<w tok="ordered"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="replaced"/>
+<w tok="those"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="authorized"/>
+<w tok="the"/>
+<w tok="withhold"/>
+<w tok="by"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok="now"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="Telegraph"/>
+<w tok="operator"/>
+<w tok="at"/>
+<w tok="Council"/>
+<w tok="Bluffs"/>
+<w tok="please"/>
+<w tok="forward"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok="."/>
+</s>
+</doc>

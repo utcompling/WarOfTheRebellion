@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-86" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864-11.40"/>
+<w tok="a.m"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOHN"/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Hall"/>
+<w tok="will"/>
+<w tok="relieve"/>
+<w tok="your"/>
+<w tok="troops"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="being"/>
+<w tok="relieved"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="necessity"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="concentrate"/>
+<w tok="at"/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Brown"/>
+<w tok=":"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="STEGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

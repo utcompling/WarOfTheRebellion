@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-80" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="NORTHERN"/>
+<w tok="DISTRICT"/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="HEINE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="station"/>
+<w tok="the"/>
+<w tok="pickets"/>
+<w tok="now"/>
+<w tok="as"/>
+<w tok="heretofore"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Rocket Battery">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Kiawah Island">
+<candidates>
+<cand lat="32.608611" long="-80.081667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="instead"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="usual"/>
+<w tok="number"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="further"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="to"/>
+<toponym term="Kiawah Island">
+<candidates>
+<cand lat="32.608611" long="-80.081667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to-morrow"/>
+<w tok=","/>
+<w tok="12th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="proceed"/>
+<w tok="with"/>
+<w tok="great"/>
+<w tok="caution"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="post"/>
+<w tok="to"/>
+<w tok="avoid"/>
+<w tok="being"/>
+<w tok="ambushed"/>
+<w tok="or"/>
+<w tok="surprised"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="outposts"/>
+<w tok="are"/>
+<w tok="duly"/>
+<w tok="stationed"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="ground"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="examined"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="only"/>
+<w tok="the"/>
+<w tok="usual"/>
+<w tok="number"/>
+<w tok="remain"/>
+<w tok="there"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="balance"/>
+<w tok="will"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="DEAN"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="127th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="G"/>
+<w tok="."/>
+</s>
+</doc>

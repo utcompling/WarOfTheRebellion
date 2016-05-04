@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-59" title="75" domain="wotr">
+<s id="s1">
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864-1.45"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="McCOOK"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="at"/>
+<w tok="daylight"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="from"/>
+<toponym term="Varnell&apos;s Station">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="discover"/>
+<w tok="any"/>
+<w tok="movement"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="may"/>
+<w tok="make"/>
+<w tok="on"/>
+<w tok="our"/>
+<w tok="left"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="find"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="is"/>
+<w tok="moving"/>
+<w tok="to"/>
+<w tok="attack"/>
+<w tok="our"/>
+<w tok="flank"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="attack"/>
+<w tok="vigorously"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="develop"/>
+<w tok="the"/>
+<w tok="movements"/>
+<w tok="and"/>
+<w tok="designs"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="possible"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="CAMPBELL"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

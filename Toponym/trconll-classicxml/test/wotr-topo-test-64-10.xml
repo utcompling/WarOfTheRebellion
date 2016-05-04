@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-10" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="1ST"/>
+<w tok="DIV."/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok=","/>
+<w tok="COLORED"/>
+<w tok="TROOPS"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="43"/>
+<w tok="."/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="IV"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Lake Providence">
+<candidates>
+<cand lat="32.805278" long="-91.179444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="evacuated"/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="works"/>
+<w tok="which"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="of"/>
+<w tok="service"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="destroyed"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Fifty-first"/>
+<w tok="and"/>
+<w tok="Sixty-sixth"/>
+<w tok="Regiments"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Infantry"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="concentrated"/>
+<w tok="at"/>
+<toponym term="Goodrich&apos;s Landing">
+<candidates>
+<cand lat="32.7432" long="-91.1791" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Webber"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="entire"/>
+<w tok="control"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="and"/>
+<w tok="defenses"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="as"/>
+<w tok="heretofore"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="P."/>
+<w tok="Hawkins"/>
+<w tok=":"/>
+<w tok="SAML"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="FERGUSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

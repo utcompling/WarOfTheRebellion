@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-227" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Brigadier-General"/>
+<w tok="Tuttle"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="relieved"/>
+<w tok="by"/>
+<w tok="Major-General"/>
+<w tok="Slocum"/>
+<w tok="and"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="McPherson"/>
+<w tok="before"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="was"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="the"/>
+<w tok="telegram"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="whose"/>
+<w tok="command"/>
+<w tok="General"/>
+<w tok="Tuttle"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="serving"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ED"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

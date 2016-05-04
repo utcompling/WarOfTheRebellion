@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-206" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Central"/>
+<w tok="District"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="dispatch"/>
+<w tok="and"/>
+<w tok="inclosures"/>
+<w tok=","/>
+<w tok="explanatory"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="scouting"/>
+<w tok="done"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="show"/>
+<w tok="commendable"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="business"/>
+<w tok="."/>
+<w tok="But"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="evident"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="scouting"/>
+<w tok="parties"/>
+<w tok="often"/>
+<w tok="move"/>
+<w tok="too"/>
+<w tok="openly"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="approach"/>
+<w tok="camps"/>
+<w tok="and"/>
+<w tok="houses"/>
+<w tok="with"/>
+<w tok="too"/>
+<w tok="little"/>
+<w tok="preparation"/>
+<w tok="for"/>
+<w tok="escapes"/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="contingencies"/>
+<w tok=";"/>
+<w tok="in"/>
+<w tok="short"/>
+<w tok=","/>
+<w tok="they"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="play"/>
+<w tok="their"/>
+<w tok="game"/>
+<w tok="&quot;"/>
+<w tok="fine"/>
+<w tok="enough"/>
+<w tok="."/>
+<w tok="&quot;"/>
+<w tok="Give"/>
+<w tok="great"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok=","/>
+<w tok="instructing"/>
+<w tok="the"/>
+<w tok="officers"/>
+<w tok="how"/>
+<w tok="to"/>
+<w tok="avoid"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="houses"/>
+<w tok="and"/>
+<w tok="following"/>
+<w tok="escapes"/>
+<w tok="to"/>
+<w tok="occur"/>
+<w tok="for"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="care"/>
+<w tok="and"/>
+<w tok="forethought"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="of"/>
+<w tok="liberation"/>
+<w tok="in"/>
+<w tok="firing"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="BEN"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="PIATT"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

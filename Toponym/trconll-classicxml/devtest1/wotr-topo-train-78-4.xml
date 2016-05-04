@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-4" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="--"/>
+<w tok="1"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Have"/>
+<w tok="heard"/>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="or"/>
+<w tok="from"/>
+<w tok="Governor"/>
+<w tok="Bramlette"/>
+<w tok="."/>
+<w tok="Rebels"/>
+<w tok="left"/>
+<w tok="here"/>
+<w tok="yesterday"/>
+<w tok="morning"/>
+<w tok="for"/>
+<toponym term="Georgetown">
+<candidates>
+<cand lat="38.209722" long="-84.56" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="gone"/>
+<w tok="east"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="started"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="with"/>
+<w tok="fresh"/>
+<w tok="horses"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="push"/>
+<w tok="them"/>
+<w tok="up"/>
+<w tok="and"/>
+<w tok="fight"/>
+<w tok="them"/>
+<w tok="steadily"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

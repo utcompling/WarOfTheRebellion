@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-57" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="22"/>
+<w tok="-"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="Operations"/>
+<w tok="about"/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Egbert"/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="Brown"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Central"/>
+<w tok="Missouri"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="CENTRAL"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="8"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="squad"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="was"/>
+<w tok="attacked"/>
+<w tok="by"/>
+<w tok="Lieutenant"/>
+<w tok="Hamilton"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Fourth"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="James"/>
+<w tok="McFerran"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="Lieutenant"/>
+<w tok="Hamilton"/>
+<w tok="was"/>
+<w tok="severely"/>
+<w tok="but"/>
+<w tok="not"/>
+<w tok="dangerously"/>
+<w tok="wounded"/>
+<w tok=";"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guerrillas"/>
+<w tok="was"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="was"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="notorious"/>
+<w tok="Captain"/>
+<w tok="Blunt"/>
+<w tok="&apos;s"/>
+<w tok="band"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="numbered"/>
+<w tok="about"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="were"/>
+<w tok="driven"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="brush"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Blackwater">
+<candidates>
+<cand lat="38.979444" long="-92.990833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="12"/>
+<w tok="miles"/>
+<w tok="northwest"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="band"/>
+<w tok="that"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="reported"/>
+<w tok="as"/>
+<w tok="being"/>
+<w tok="in"/>
+<toponym term="Jackson County">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="past"/>
+<w tok="four"/>
+<w tok="months"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

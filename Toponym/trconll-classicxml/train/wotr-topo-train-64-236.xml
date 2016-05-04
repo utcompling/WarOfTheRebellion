@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-236" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="GEIGER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Eighth"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="As"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="your"/>
+<w tok="regiment"/>
+<w tok="returns"/>
+<w tok="encamp"/>
+<w tok="it"/>
+<w tok="on"/>
+<toponym term="Bayou Two Prairies">
+<candidates>
+</candidates>
+</toponym>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok=","/>
+<w tok="near"/>
+<toponym term="Ashley&apos;s Station">
+<candidates>
+<cand lat="34.828056" long="-91.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="encamped"/>
+<w tok="there"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="under"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="the"/>
+<w tok="battalion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="relieves"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="along"/>
+<toponym term="Little Red">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Tenth"/>
+<w tok="Illinois"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="its"/>
+<w tok="regiment"/>
+<w tok="at"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7370624" long="-92.2903452939" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="your"/>
+<w tok="regiment"/>
+<w tok="will"/>
+<w tok="go"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="near"/>
+<toponym term="Ashley&apos;s Station">
+<candidates>
+<cand lat="34.828056" long="-91.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="prefer"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="CARR"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

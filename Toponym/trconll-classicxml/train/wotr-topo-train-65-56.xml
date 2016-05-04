@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-56" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="Foster"/>
+<w tok="has"/>
+<w tok="recently"/>
+<w tok="assumed"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="forces"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="coast"/>
+<w tok=";"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="on"/>
+<w tok="or"/>
+<w tok="near"/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.660556" long="-79.931111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="suspect"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="attempt"/>
+<w tok="some"/>
+<w tok="enterprise"/>
+<w tok="against"/>
+<w tok="us"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="large"/>
+<w tok="transport"/>
+<w tok="landed"/>
+<w tok="troops"/>
+<w tok="on"/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.660556" long="-79.931111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="Spies"/>
+<w tok="and"/>
+<w tok="recent"/>
+<w tok="deserters"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok="informed"/>
+<w tok="them"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="weakness"/>
+<w tok="."/>
+<w tok="Neither"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="artillery"/>
+<w tok="companies"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="by"/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="105"/>
+<w tok=","/>
+<w tok="current"/>
+<w tok="series"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="&apos;s"/>
+<w tok="Office"/>
+<w tok=","/>
+<w tok="have"/>
+<w tok="arrived"/>
+<w tok=";"/>
+<w tok="nor"/>
+<w tok="have"/>
+<w tok="I"/>
+<w tok="yet"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="South Carolina">
+<candidates>
+<cand lat="33.893767298" long="-80.8491043387" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reserves"/>
+<w tok="."/>
+<w tok="Three"/>
+<w tok="artillery"/>
+<w tok="companies"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="disbanded"/>
+<w tok="on"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="supply"/>
+<w tok="their"/>
+<w tok="places"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="serious"/>
+<w tok="loss"/>
+<w tok="just"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="place"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="great"/>
+<w tok="danger"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="concentrates"/>
+<w tok="his"/>
+<w tok="troops"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="coast"/>
+<w tok="against"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="anything"/>
+<w tok="be"/>
+<w tok="done"/>
+<w tok="to"/>
+<w tok="aid"/>
+<w tok="me"/>
+<w tok="?"/>
+<w tok="Can"/>
+<w tok="not"/>
+<w tok="General"/>
+<w tok="Johnston"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="re-enforcements"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="pressing"/>
+<w tok="emergency"/>
+<w tok="?"/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="B."/>
+<w tok="BRAGG"/>
+<w tok="."/>
+</s>
+</doc>

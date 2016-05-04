@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-70" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864-5.10"/>
+<w tok="p.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="5.30"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Two"/>
+<w tok="negroes"/>
+<w tok="just"/>
+<w tok="in"/>
+<w tok="from"/>
+<w tok="Grossetete"/>
+<w tok="report"/>
+<w tok="600"/>
+<w tok="of"/>
+<w tok="Walker"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="were"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="on"/>
+<w tok="Wednesday"/>
+<w tok="last"/>
+<w tok="conscripting"/>
+<w tok="colored"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="mules"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="oxen"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="used"/>
+<w tok="on"/>
+<w tok="fortifications"/>
+<w tok="at"/>
+<toponym term="Simsport">
+<candidates>
+<cand lat="30.983611" long="-91.8125" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="place"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="are"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="fortifying"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

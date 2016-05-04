@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-11" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="D."/>
+<w tok="FERGUSSON"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Western"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tuscon">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="has"/>
+<w tok="perused"/>
+<w tok="with"/>
+<w tok="much"/>
+<w tok="interest"/>
+<w tok="your"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="August"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="inclosures"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="will"/>
+<w tok="direct"/>
+<w tok="the"/>
+<w tok="next"/>
+<w tok="lot"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="for"/>
+<toponym term="Tuscon">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="shipped"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok="to"/>
+<toponym term="La Libertad">
+<candidates>
+<cand lat="36.48066" long="-119.87904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="consigned"/>
+<w tok="to"/>
+<w tok="Don"/>
+<w tok="Juan"/>
+<w tok="Robinson"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="transported"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="new"/>
+<w tok="route"/>
+<w tok="to"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="information"/>
+<w tok="furnished"/>
+<w tok="by"/>
+<w tok="your"/>
+<w tok="letters"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="suggestions"/>
+<w tok="made"/>
+<w tok="therein"/>
+<w tok="are"/>
+<w tok="very"/>
+<w tok="acceptable"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="RICHD"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-69" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LOUISVILLE">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<toponym term="Munfordville">
+<candidates>
+<cand lat="37.276667" long="-85.897778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Messenger"/>
+<w tok="arrived"/>
+<w tok="with"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Jordan"/>
+<w tok="at"/>
+<w tok="11"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="He"/>
+<w tok="says"/>
+<w tok="rebel"/>
+<w tok="force"/>
+<w tok="hovering"/>
+<w tok="around"/>
+<w tok="Frankfort"/>
+<w tok="is"/>
+<w tok="1,200"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="messenger"/>
+<w tok="was"/>
+<w tok="stopped"/>
+<w tok="near"/>
+<toponym term="Middletown">
+<candidates>
+<cand lat="38.243333" long="-85.530833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="searched"/>
+<w tok="by"/>
+<w tok="ten"/>
+<w tok="rebels"/>
+<w tok="for"/>
+<w tok="dispatches"/>
+<w tok=","/>
+<w tok="not"/>
+<w tok="found"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="particulars"/>
+<w tok="by"/>
+<w tok="mail"/>
+<w tok="."/>
+<w tok="Carrington"/>
+<w tok="left"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="THOS"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="FAIRLEIGH"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Twenty-sixth"/>
+<w tok="Kentucky"/>
+<w tok="Vet"/>
+<w tok="."/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+</s>
+</doc>

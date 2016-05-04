@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-198" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="STEELE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7438840784" long="-92.2848051884" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9164753506" long="-92.405768591" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="yet"/>
+<w tok="without"/>
+<w tok="definite"/>
+<w tok="information"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="condition"/>
+<w tok=","/>
+<w tok="resources"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="wants"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="can"/>
+<w tok="only"/>
+<w tok="indicate"/>
+<w tok="generally"/>
+<w tok="what"/>
+<w tok="part"/>
+<w tok="your"/>
+<w tok="troops"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="in"/>
+<w tok="projected"/>
+<w tok="operations"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="and"/>
+<w tok="resources"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Departments of the Gulf">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Arkansas">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="posts"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="east bank of the Mississippi">
+<candidates>
+<cand lat="33.5475" long="-91.233056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="concentrated"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="for"/>
+<w tok="operations"/>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="movement"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="by"/>
+<w tok="land"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="point"/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="cover"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="material"/>
+<w tok="extent"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="advance"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="frontier"/>
+<w tok="of"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3832397125" long="-92.4317116122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="best"/>
+<w tok="troops"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="selected"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="service"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="prepared"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="period"/>
+<w tok=","/>
+<w tok="making"/>
+<w tok="the"/>
+<w tok="organization"/>
+<w tok="as"/>
+<w tok="homogeneous"/>
+<w tok="and"/>
+<w tok="perfect"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="by"/>
+<w tok="bringing"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="detachments"/>
+<w tok="and"/>
+<w tok="supplying"/>
+<w tok="all"/>
+<w tok="details"/>
+<w tok="for"/>
+<w tok="special"/>
+<w tok="service"/>
+<w tok="by"/>
+<w tok="hired"/>
+<w tok="men"/>
+<w tok="or"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="non-effectives"/>
+<w tok="."/>
+<w tok="Every"/>
+<w tok="effective"/>
+<w tok="man"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="ranks"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="other"/>
+<w tok="interests"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="subordinate"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="essential"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="military"/>
+<w tok="operations"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="absence"/>
+<w tok="of"/>
+<w tok="definite"/>
+<w tok="information"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="judge"/>
+<w tok="how"/>
+<w tok="large"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="department"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="supposed"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="15,000"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="am"/>
+<w tok="basing"/>
+<w tok="my"/>
+<w tok="estimates"/>
+<w tok="upon"/>
+<w tok="this"/>
+<w tok="number"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="junction"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="body"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="on"/>
+<w tok="or"/>
+<w tok="east"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Washita River">
+<candidates>
+<cand lat="35.6256" long="-100.596247" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="before"/>
+<w tok="determining"/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="departure"/>
+<w tok="and"/>
+<w tok="route"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="glad"/>
+<w tok="to"/>
+<w tok="hear"/>
+<w tok="from"/>
+<w tok="you"/>
+<w tok="fully"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="posts"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Mississippi River">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="re-enforced"/>
+<w tok="materially"/>
+<w tok="by"/>
+<w tok="militia"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Western States">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="some"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="garrison"/>
+<w tok="purposes"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="go"/>
+<w tok="to"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="will"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Natchez">
+<candidates>
+<cand lat="31.554444" long="-91.3875" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="in"/>
+<w tok="about"/>
+<w tok="ten"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="mean"/>
+<w tok="time"/>
+<w tok="I"/>
+<w tok="wish"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="organization"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="intended"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="be"/>
+<w tok="pushed"/>
+<w tok="forward"/>
+<w tok="as"/>
+<w tok="rapidly"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="be"/>
+<w tok="put"/>
+<w tok="in"/>
+<w tok="its"/>
+<w tok="best"/>
+<w tok="condition"/>
+<w tok="for"/>
+<w tok="defense"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="that"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="left"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok="."/>
+<w tok="ED"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-86" title="65" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Third"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="QUARTERMASTER"/>
+<w tok="&apos;S"/>
+<w tok="OFFICE"/>
+<w tok=","/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7711440889" long="-79.9330732852" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok=","/>
+<w tok="through"/>
+<w tok="chief"/>
+<w tok="quartermaster"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="requisitions"/>
+<w tok="made"/>
+<w tok="from"/>
+<toponym term="Fort Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="unfilled"/>
+<w tok="nor"/>
+<w tok="have"/>
+<w tok="I"/>
+<w tok="any"/>
+<w tok="knowledge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="requisition"/>
+<w tok="alluded"/>
+<w tok="to"/>
+<w tok="within"/>
+<w tok="."/>
+<w tok="MOTTE"/>
+<w tok="A."/>
+<w tok="PRINGLE"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Quartermaster"/>
+<w tok="."/>
+</s>
+</doc>

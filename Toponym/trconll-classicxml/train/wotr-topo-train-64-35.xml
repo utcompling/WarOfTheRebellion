@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-35" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864-4.10"/>
+<w tok="p.m."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=":"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="report"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Captain"/>
+<w tok="Moore"/>
+<w tok="&apos;s"/>
+<w tok="case"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="under"/>
+<w tok="arrest"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="tried"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

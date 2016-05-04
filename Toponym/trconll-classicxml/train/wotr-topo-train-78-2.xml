@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-2" title="78" domain="wotr">
+<s id="s1">
+<toponym term="CAMP NELSON">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DICKSON"/>
+<w tok=":"/>
+<w tok="Should"/>
+<w tok="you"/>
+<w tok="ascertain"/>
+<w tok="that"/>
+<w tok="an"/>
+<w tok="attack"/>
+<w tok="upon"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="is"/>
+<w tok="contemplated"/>
+<w tok="by"/>
+<w tok="anything"/>
+<w tok="like"/>
+<w tok="a"/>
+<w tok="formidable"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="should"/>
+<w tok="like"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="could"/>
+<w tok="spare"/>
+<w tok="them"/>
+<w tok="from"/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="some"/>
+<w tok="400"/>
+<w tok="or"/>
+<w tok="500"/>
+<w tok="sent"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="either"/>
+<w tok="cavalry"/>
+<w tok="or"/>
+<w tok="infantry"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="large"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="upon"/>
+<w tok="whom"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="depend"/>
+<w tok="are"/>
+<w tok="clerks"/>
+<w tok="and"/>
+<w tok="employees"/>
+<w tok="in"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="commissary"/>
+<w tok="departments"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="few"/>
+<w tok="of"/>
+<w tok="whom"/>
+<w tok="have"/>
+<w tok="ever"/>
+<w tok="been"/>
+<w tok="drilled"/>
+<w tok="or"/>
+<w tok="disciplined"/>
+<w tok="for"/>
+<w tok="military"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="Anything"/>
+<w tok="more"/>
+<w tok="from"/>
+<w tok="Hobson"/>
+<w tok="?"/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

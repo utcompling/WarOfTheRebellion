@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-47" title="61" domain="wotr">
+<s id="s1">
+<w tok="February"/>
+<w tok="18.-In"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="said"/>
+<w tok="instructions"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="moved"/>
+<w tok="at"/>
+<w tok="9"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Smithville">
+<candidates>
+<cand lat="36.08" long="-91.303889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="marched"/>
+<w tok="2"/>
+<w tok="miles"/>
+<w tok="and"/>
+<w tok="struck"/>
+<toponym term="Strawberry Creek">
+<candidates>
+<cand lat="36.279722" long="-92.715833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="we"/>
+<w tok="followed"/>
+<w tok="down"/>
+<w tok="4"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Halted"/>
+<w tok="at"/>
+<w tok="12"/>
+<w tok="m."/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="Mr."/>
+<w tok="Randle"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="to"/>
+<w tok="feed"/>
+<w tok=";"/>
+<w tok="captured"/>
+<w tok="here"/>
+<w tok="W."/>
+<w tok="J."/>
+<w tok="Sanders"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="rebel"/>
+<w tok="captain"/>
+<w tok="of"/>
+<w tok="Shaver"/>
+<w tok="&apos;s"/>
+<w tok="regiment"/>
+<w tok="."/>
+<w tok="Remained"/>
+<w tok="here"/>
+<w tok="one"/>
+<w tok="hour"/>
+<w tok="and"/>
+<w tok="resumed"/>
+<w tok="the"/>
+<w tok="march"/>
+<w tok=";"/>
+<w tok="passed"/>
+<w tok="through"/>
+<toponym term="Smithville">
+<candidates>
+<cand lat="36.08" long="-91.303889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="captured"/>
+<w tok="there"/>
+<w tok="Second"/>
+<w tok="Lieutenant"/>
+<w tok="Alfred"/>
+<w tok="Phillips"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="regiment"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="5.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="halted"/>
+<w tok="to"/>
+<w tok="feed"/>
+<w tok="at"/>
+<w tok="Joseph"/>
+<w tok="McCarroll"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="miles"/>
+<w tok="northeast"/>
+<w tok="of"/>
+<toponym term="Smithville">
+<candidates>
+<cand lat="36.08" long="-91.303889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Remained"/>
+<w tok="here"/>
+<w tok="until"/>
+<w tok="10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="I"/>
+<w tok="moved"/>
+<w tok="on"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="northeast"/>
+<w tok="direction"/>
+<w tok="13"/>
+<w tok="miles"/>
+<w tok="and"/>
+<w tok="halted"/>
+<w tok="one"/>
+<w tok="hour"/>
+<w tok="to"/>
+<w tok="rest"/>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="farm"/>
+<w tok="of"/>
+<w tok="Mr."/>
+<w tok="Lemons"/>
+<w tok="."/>
+</s>
+</doc>

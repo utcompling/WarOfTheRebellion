@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-81" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Captain"/>
+<w tok="STEGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Box"/>
+<w tok="some"/>
+<w tok="ten"/>
+<w tok="days"/>
+<w tok="ago"/>
+<w tok="pursued"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="12"/>
+<w tok="guerrillas"/>
+<w tok="three"/>
+<w tok="or"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="down"/>
+<toponym term="La Mine River">
+<candidates>
+<cand lat="38.97975" long="-92.8513" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="up"/>
+<toponym term="Heath Creek">
+<candidates>
+<cand lat="38.73" long="-93.28" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="across"/>
+<w tok="to"/>
+<toponym term="Black Water">
+<candidates>
+<cand lat="38.979444" long="-92.990833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="then"/>
+<w tok="to"/>
+<toponym term="Davis">
+<candidates>
+<cand lat="39.66" long="-93.98" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="through"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="into"/>
+<w tok="Johnson"/>
+<w tok=","/>
+<w tok="failing"/>
+<w tok="to"/>
+<w tok="overtake"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="same"/>
+<w tok="time"/>
+<w tok="Major"/>
+<w tok="Houts"/>
+<w tok="sent"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="25"/>
+<w tok="men"/>
+<w tok="from"/>
+<toponym term="Marshall">
+<candidates>
+<cand lat="39.116111" long="-93.197778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="co-operating"/>
+<w tok="with"/>
+<w tok="Box"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="23rd"/>
+<w tok="Captain"/>
+<w tok="Ballew"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="scout"/>
+<w tok="with"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="through"/>
+<toponym term="Grand Pass">
+<candidates>
+<cand lat="39.205278" long="-93.443333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Waverly">
+<candidates>
+<cand lat="39.208056" long="-93.520556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="thence"/>
+<w tok="south"/>
+<w tok="to"/>
+<toponym term="Davis">
+<candidates>
+<cand lat="39.66" long="-93.98" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="through"/>
+<toponym term="Freedomtown">
+<candidates>
+</candidates>
+</toponym>
+<w tok="thence"/>
+<w tok="through"/>
+<toponym term="Dunksburg">
+<candidates>
+<cand lat="38.8992234455" long="-93.4976927106" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="toward"/>
+<toponym term="Boonville">
+<candidates>
+<cand lat="38.965" long="-92.741667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Turley"/>
+<w tok="from"/>
+<w tok="20th"/>
+<w tok="to"/>
+<w tok="23rd"/>
+<w tok="was"/>
+<w tok="scouting"/>
+<w tok="from"/>
+<toponym term="Grand Pass">
+<candidates>
+<cand lat="39.205278" long="-93.443333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Waverly">
+<candidates>
+<cand lat="39.208056" long="-93.520556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="south"/>
+<w tok="toward"/>
+<toponym term="Boonville">
+<candidates>
+<cand lat="38.965" long="-92.741667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Lieutenant"/>
+<w tok="Pharis"/>
+<w tok="made"/>
+<w tok="scout"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="to"/>
+<toponym term="Freedomtown">
+<candidates>
+</candidates>
+</toponym>
+<w tok="then"/>
+<w tok="northwest"/>
+<w tok="and"/>
+<w tok="north"/>
+<w tok="to"/>
+<toponym term="Owen&apos;s Church">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="east"/>
+<w tok="to"/>
+<toponym term="Black Water">
+<candidates>
+<cand lat="38.979444" long="-92.990833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="returning"/>
+<w tok="to"/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="out"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Crain"/>
+<w tok="left"/>
+<w tok="Marshal"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="27th"/>
+<w tok="with"/>
+<w tok="37"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Scouted"/>
+<w tok="country"/>
+<w tok="to"/>
+<toponym term="Waverly">
+<candidates>
+<cand lat="39.208056" long="-93.520556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="then"/>
+<w tok="to"/>
+<toponym term="Dover">
+<candidates>
+</candidates>
+</toponym>
+<w tok="then"/>
+<w tok="south"/>
+<w tok="to"/>
+<toponym term="Davis Creek">
+<candidates>
+<cand lat="38.9589069" long="-93.4232655" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="thence"/>
+<w tok="east"/>
+<w tok="to"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="34.778056" long="-91.871667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="down"/>
+<toponym term="Black Water">
+<candidates>
+<cand lat="38.979444" long="-92.990833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="out"/>
+<w tok="three"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Turley"/>
+<w tok="left"/>
+<w tok="here"/>
+<w tok="on"/>
+<w tok="27th"/>
+<w tok="with"/>
+<w tok="38"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="yet"/>
+<w tok="scouting"/>
+<w tok="eastern"/>
+<w tok="portion"/>
+<w tok="of"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="all"/>
+<w tok="these"/>
+<w tok="scouts"/>
+<w tok="no"/>
+<w tok="enemy"/>
+<w tok="["/>
+<w tok="has"/>
+<w tok="]"/>
+<w tok="been"/>
+<w tok="found"/>
+<w tok="."/>
+<w tok="Added"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="large"/>
+<w tok="escorts"/>
+<w tok="."/>
+<w tok="South"/>
+<w tok="of"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="scouts"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="through"/>
+<toponym term="Hickory County">
+<candidates>
+<cand lat="37.94" long="-93.32" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Citizen"/>
+<w tok="guards"/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="armed"/>
+<w tok="are"/>
+<w tok="patrolling"/>
+<w tok="their"/>
+<w tok="neighborhoods"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="trouble"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

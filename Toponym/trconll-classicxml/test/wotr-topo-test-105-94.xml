@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-94" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="HUMBOLDT"/>
+<w tok="MILITARY"/>
+<w tok="DISTRICT"/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="Hull"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="twenty"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="proceeded"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok="instant"/>
+<w tok="from"/>
+<toponym term="Fort Bragg">
+<candidates>
+<cand lat="39.445833" long="-123.805278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="hostile"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="committing"/>
+<w tok="depredations"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="9th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="eight"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="came"/>
+<w tok="up"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="near"/>
+<toponym term="Shelter Cove">
+<candidates>
+<cand lat="40.030556" long="-124.073056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="some"/>
+<w tok="thirty-five"/>
+<w tok="or"/>
+<w tok="forty"/>
+<w tok="killed"/>
+<w tok="4"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="too"/>
+<w tok="severely"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="carried"/>
+<w tok="away"/>
+<w tok=","/>
+<w tok="bringing"/>
+<w tok="in"/>
+<w tok="1"/>
+<w tok="boy"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="squaws"/>
+<w tok="as"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="delivered"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="supervisor"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Mendocino Reservation">
+<candidates>
+<cand lat="39.43" long="-123.43" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="consequence"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="representatinos"/>
+<w tok="of"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="inhabitants"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="outskirts"/>
+<w tok="of"/>
+<toponym term="Arcata">
+<candidates>
+<cand lat="40.866389" long="-124.082778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="instead"/>
+<w tok="of"/>
+<w tok="bringing"/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="halted"/>
+<w tok="it"/>
+<w tok="at"/>
+<toponym term="Camp Curtis">
+<candidates>
+<cand lat="40.891039" long="-124.079575" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="stationed"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="embark"/>
+<w tok="that"/>
+<w tok="company"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="one"/>
+<w tok="at"/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="twenty-four"/>
+<w tok="hours"/>
+<w tok="&apos;"/>
+<w tok="notice"/>
+<w tok="would"/>
+<w tok="suffice"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="to"/>
+<w tok="embark"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="at"/>
+<toponym term="Fort Gaston">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Fort Baker">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="Morton"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="Flynn"/>
+<w tok="&apos;s"/>
+<w tok=")"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="notice"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="supply"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="montaineers"/>
+<w tok="will"/>
+<w tok="employ"/>
+<w tok="all"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="nearly"/>
+<w tok="all"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="pack-mules"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="distance"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Douglas"/>
+<w tok="&apos;"/>
+<w tok="command"/>
+<w tok="in"/>
+<toponym term=" Round Valley">
+<candidates>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="150"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="supplied"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="nearly"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok=","/>
+<w tok="perhaps"/>
+<w tok="quite"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="transportation"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="hired"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="intended"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="forward"/>
+<w tok="supplies"/>
+<w tok="thither"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="request"/>
+<w tok="an"/>
+<w tok="instruction"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="effect"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="next"/>
+<w tok="steamer"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="FRANCIS"/>
+<w tok="J."/>
+<w tok="LIPPITT"/>
+<w tok="Colonel"/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Humboldt"/>
+<w tok="Mil"/>
+<w tok="."/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok="."/>
+</s>
+</doc>

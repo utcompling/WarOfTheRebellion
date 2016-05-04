@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-136" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="Ironsides"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="monitors"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="gun-boats"/>
+<w tok=","/>
+<w tok="13"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="6"/>
+<w tok="tugs"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="7"/>
+<w tok="blockaders"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="schooner"/>
+<w tok="near"/>
+<toponym term="Beach Inlet">
+<candidates>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="derrick"/>
+<w tok="and"/>
+<w tok="schooner"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="wreck"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="3"/>
+<w tok="steamers"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="schooners"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="schooners"/>
+<w tok="in"/>
+<toponym term="Light-house Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="activity"/>
+<w tok="apparent"/>
+<w tok="on"/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.715833" long="-79.890278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Parker"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="McKerall"/>
+<w tok=","/>
+<w tok="Twenty-fifth"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="Walker"/>
+<w tok=","/>
+<w tok="Twenty-seventh"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="relieved"/>
+<w tok="detachments"/>
+<w tok="of"/>
+<w tok="60"/>
+<w tok=","/>
+<w tok="50"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="corps"/>
+<w tok=","/>
+<w tok="respectively"/>
+<w tok=","/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

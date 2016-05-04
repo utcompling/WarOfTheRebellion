@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-171" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="8.30"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="Brigadier-General"/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Please"/>
+<w tok="send"/>
+<w tok="Second"/>
+<w tok="Battalion"/>
+<w tok=","/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="G"/>
+<w tok=","/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Major"/>
+<w tok="Houts"/>
+<w tok=","/>
+<w tok="via"/>
+<w tok="Osceola"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="other"/>
+<w tok="companies"/>
+<w tok="can"/>
+<w tok="relieved"/>
+<w tok="direct"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="at"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

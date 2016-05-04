@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-47" title="62" domain="wotr">
+<s id="s1">
+<toponym term="SPRINGFIELD">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="respectfully"/>
+<w tok="suggested"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="economy"/>
+<w tok="and"/>
+<w tok="good"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="service"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="promoted"/>
+<w tok="by"/>
+<w tok="having"/>
+<w tok="two"/>
+<w tok="well"/>
+<w tok="disciplined"/>
+<w tok="and"/>
+<w tok="drilled"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="and"/>
+<w tok="post"/>
+<w tok="for"/>
+<w tok="provost"/>
+<w tok="guard"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="garrison"/>
+<w tok="Fort"/>
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="Major"/>
+<w tok="Rabb"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Missouri"/>
+<w tok="Artillery"/>
+<w tok="leave"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok="before"/>
+<w tok="long"/>
+<w tok=","/>
+<w tok="unless"/>
+<w tok="this"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="receive"/>
+<w tok="its"/>
+<w tok="outfit"/>
+<w tok="here"/>
+<w tok=";"/>
+<w tok="using"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="duty"/>
+<w tok="seems"/>
+<w tok="to"/>
+<w tok="involve"/>
+<w tok="an"/>
+<w tok="unnecessary"/>
+<w tok="expense"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

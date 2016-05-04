@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-95" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="fire"/>
+<w tok="is"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="10-inch"/>
+<w tok="columbiads"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="30-pounder"/>
+<w tok="Parrott"/>
+<w tok="is"/>
+<w tok="directed"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="angle"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="some"/>
+<w tok="open"/>
+<w tok="arches"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="recently"/>
+<w tok="filled"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="outside"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="which"/>
+<w tok="we"/>
+<w tok="suspect"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="seen"/>
+<w tok="."/>
+<w tok="Work"/>
+<w tok="going"/>
+<w tok="on"/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="no"/>
+<w tok="damage"/>
+<w tok="done"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

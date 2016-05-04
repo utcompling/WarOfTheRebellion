@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-28" title="78" domain="wotr">
+<s id="s1">
+<toponym term="COLLIERVILLE">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="WASHBURN"/>
+<w tok=":"/>
+<w tok="Trains"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="Do"/>
+<w tok="you"/>
+<w tok="wish"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="or"/>
+<w tok="withdraw"/>
+<w tok="when"/>
+<w tok="I"/>
+<w tok="get"/>
+<w tok="my"/>
+<w tok="debris"/>
+<w tok="away"/>
+<w tok="?"/>
+<w tok="S."/>
+<w tok="D."/>
+<w tok="STURGIS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

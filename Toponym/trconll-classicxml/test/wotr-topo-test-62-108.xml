@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-108" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="J."/>
+<w tok="HERRON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Forces"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="your"/>
+<w tok="dispatches"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="17th"/>
+<w tok=","/>
+<w tok="giving"/>
+<w tok="an"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="affair"/>
+<w tok="at"/>
+<toponym term="Matamoras">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="intervention"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="cover"/>
+<w tok="the"/>
+<w tok="removal"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="American"/>
+<w tok="consul"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="property"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="act"/>
+<w tok="seems"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="nowise"/>
+<w tok="a"/>
+<w tok="departure"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="you"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="forwarded"/>
+<w tok="copies"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="dispatches"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="that"/>
+<w tok="embracing"/>
+<w tok="general"/>
+<w tok="information"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="Mexican"/>
+<w tok="affairs"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="accept"/>
+<w tok="my"/>
+<w tok="thanks"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Bertram"/>
+<w tok="&apos;s"/>
+<w tok="official"/>
+<w tok="conduct"/>
+<w tok="richly"/>
+<w tok="deserves"/>
+<w tok="the"/>
+<w tok="approval"/>
+<w tok="you"/>
+<w tok="bestow"/>
+<w tok="upon"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="since"/>
+<w tok="the"/>
+<w tok="commencement"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="war"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="never"/>
+<w tok="have"/>
+<w tok="known"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="fail"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="discharge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="delicate"/>
+<w tok="and"/>
+<w tok="important"/>
+<w tok="duties"/>
+<w tok="that"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="much"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="BANKS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

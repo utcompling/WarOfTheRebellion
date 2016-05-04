@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-21" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-9.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Enemy"/>
+<w tok="evacuated"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="in"/>
+<w tok="our"/>
+<w tok="front"/>
+<w tok="."/>
+<w tok="Colquitt"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok="will"/>
+<w tok="proceeded"/>
+<w tok="once"/>
+<w tok="to"/>
+<toponym term="Middle Florida">
+<candidates>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="follow"/>
+<w tok="it"/>
+<w tok="soon"/>
+<w tok="if"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

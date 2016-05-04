@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-138" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="7"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Telegram"/>
+<w tok="of"/>
+<w tok="4.20"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Telegram"/>
+<w tok="sent"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="reporting"/>
+<w tok="Bragg"/>
+<w tok="across"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="Nothing"/>
+<w tok="new"/>
+<w tok="or"/>
+<w tok="important"/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="D."/>
+<w tok="ULLMANN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

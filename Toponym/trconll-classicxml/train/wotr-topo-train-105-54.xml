@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-54" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="."/>
+<toponym term="Fort Walla Walla">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="request"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="superintendent"/>
+<w tok="of"/>
+<w tok="Indian"/>
+<w tok="affairs"/>
+<w tok="for"/>
+<toponym term="Oregon">
+<candidates>
+<cand lat="43.998588065" long="-120.636819779" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Indian"/>
+<w tok="agent"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Umatilla Reservation">
+<candidates>
+<cand lat="45.7" long="-118.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="directed"/>
+<w tok="Captain"/>
+<w tok="Currey"/>
+<w tok="with"/>
+<w tok="twenty"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="company"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="fourteen"/>
+<w tok="days"/>
+<w tok="toward"/>
+<toponym term="Grande Ronde Valley">
+<candidates>
+<cand lat="45.362778" long="-117.955" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="a"/>
+<w tok="personal"/>
+<w tok="interview"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="gentleman"/>
+<w tok="I"/>
+<w tok="became"/>
+<w tok="convinced"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="serious"/>
+<w tok="attack"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="made"/>
+<w tok="upon"/>
+<w tok="a"/>
+<w tok="settlement"/>
+<w tok="that"/>
+<w tok=","/>
+<w tok="unless"/>
+<w tok="promptly"/>
+<w tok="punished"/>
+<w tok=","/>
+<w tok="might"/>
+<w tok="result"/>
+<w tok="in"/>
+<w tok="additional"/>
+<w tok="and"/>
+<w tok="embarrassing"/>
+<w tok="hostilities"/>
+<w tok="."/>
+<w tok="Inclosed"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="transmitted"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="communication"/>
+<w tok="from"/>
+<w tok="Mr."/>
+<w tok="Barnhart"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="indorsed"/>
+<w tok="by"/>
+<w tok="Mr."/>
+<w tok="Rector"/>
+<w tok=","/>
+<w tok="referring"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="subject"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="order"/>
+<w tok="and"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Currey"/>
+<w tok="are"/>
+<w tok="both"/>
+<w tok="respectfully"/>
+<w tok="transmitted"/>
+<w tok="inclosed"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="explain"/>
+<w tok="my"/>
+<w tok="action"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="matter"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="absence"/>
+<w tok="of"/>
+<w tok="one"/>
+<w tok="subaltern"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Currey"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="on"/>
+<w tok="leave"/>
+<w tok="of"/>
+<w tok="absence"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="attendance"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="general"/>
+<w tok="court-martial"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="prevents"/>
+<w tok="my"/>
+<w tok="sending"/>
+<w tok="a"/>
+<w tok="commissioned"/>
+<w tok="officer"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Umatilla Reservation">
+<candidates>
+<cand lat="45.7" long="-118.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="Lieutenant"/>
+<w tok="Hillyer"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="sergeant"/>
+<w tok="and"/>
+<w tok="ten"/>
+<w tok="men"/>
+<w tok="mentioned"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="will"/>
+<w tok="serve"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="requirements"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="reservation"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="re-enforcement"/>
+<w tok="arrives"/>
+<w tok="."/>
+<w tok="Trusting"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="will"/>
+<w tok="approve"/>
+<w tok="this"/>
+<w tok="disposition"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JUSTUS"/>
+<w tok="STEINBERGER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Washington"/>
+<w tok=","/>
+<w tok="Territory"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+<w tok="ACTING"/>
+<w tok="ASSISTANT"/>
+<w tok="ADJUTANT-GENERAL"/>
+<w tok="."/>
+<w tok="Headquarters"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Oregon"/>
+<w tok=","/>
+<toponym term="Fort Vancouver">
+<candidates>
+<cand lat="45.622583" long="-122.662367" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-126" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok="ON"/>
+<w tok="THE"/>
+<toponym term="RIO GRANDE">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="["/>
+<w tok="27"/>
+<w tok="?"/>
+<w tok="]"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="CHARLES"/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="After"/>
+<w tok="three"/>
+<w tok="weeks"/>
+<w tok="&apos;"/>
+<w tok="trial"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="satisfied"/>
+<w tok="that"/>
+<w tok="our"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="communication"/>
+<w tok="via"/>
+<toponym term="Point Isabel">
+<candidates>
+<cand lat="26.073611" long="-97.213333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="the"/>
+<w tok="correct"/>
+<w tok="one"/>
+<w tok="under"/>
+<w tok="existing"/>
+<w tok="circumstances"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="steamers"/>
+<w tok="carrying"/>
+<w tok="supplies"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="are"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="draught"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="get"/>
+<w tok="nearer"/>
+<w tok="than"/>
+<w tok="5"/>
+<w tok="miles"/>
+<w tok="to"/>
+<toponym term="Point Isabel">
+<candidates>
+<cand lat="26.073611" long="-97.213333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="they"/>
+<w tok="anchor"/>
+<w tok="and"/>
+<w tok="transfer"/>
+<w tok="the"/>
+<w tok="charge"/>
+<w tok="to"/>
+<w tok="river"/>
+<w tok="boats"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="carried"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="These"/>
+<w tok="smaller"/>
+<w tok="boats"/>
+<w tok="approach"/>
+<w tok="to"/>
+<w tok="within"/>
+<w tok="50"/>
+<w tok="feet"/>
+<w tok="of"/>
+<w tok="shore"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="wharf"/>
+<w tok="having"/>
+<w tok="been"/>
+<w tok="constructed"/>
+<w tok="that"/>
+<w tok="length"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="here"/>
+<w tok="goods"/>
+<w tok="are"/>
+<w tok="carried"/>
+<w tok="by"/>
+<w tok="wagons"/>
+<w tok="to"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="it"/>
+<w tok="requiring"/>
+<w tok="two"/>
+<w tok="days"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="trip"/>
+<w tok="each"/>
+<w tok="way"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="water"/>
+<w tok="being"/>
+<w tok="found"/>
+<w tok="at"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="point"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="."/>
+<w tok="Water"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="carried"/>
+<w tok="back"/>
+<w tok="by"/>
+<w tok="these"/>
+<w tok="teams"/>
+<w tok="for"/>
+<w tok="men"/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="animals"/>
+<w tok="at"/>
+<toponym term="Point Isabel">
+<candidates>
+<cand lat="26.073611" long="-97.213333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="What"/>
+<w tok="I"/>
+<w tok="propose"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="build"/>
+<w tok="a"/>
+<w tok="wharf"/>
+<w tok="at"/>
+<toponym term="Brazos Island">
+<candidates>
+<cand lat="26.030556" long="-97.1575" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="establish"/>
+<w tok="the"/>
+<w tok="depots"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="bridge"/>
+<toponym term="Boca Chica">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="transport"/>
+<w tok="all"/>
+<w tok="supplies"/>
+<w tok="by"/>
+<w tok="wagons"/>
+<w tok="along"/>
+<w tok="the"/>
+<w tok="beach"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="shipping"/>
+<w tok="there"/>
+<w tok="on"/>
+<w tok="rive"/>
+<w tok="boats"/>
+<w tok="for"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="is"/>
+<w tok="9"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="wharf"/>
+<w tok="at"/>
+<toponym term="Brazos Island">
+<candidates>
+<cand lat="26.030556" long="-97.1575" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="along"/>
+<w tok="the"/>
+<w tok="beach"/>
+<w tok="hard"/>
+<w tok="an"/>
+<w tok="in"/>
+<w tok="fine"/>
+<w tok="condition"/>
+<w tok="."/>
+<w tok="For"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="each"/>
+<w tok="month"/>
+<w tok="this"/>
+<w tok="road"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="impassable"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="propose"/>
+<w tok="to"/>
+<w tok="construct"/>
+<w tok="another"/>
+<w tok="road"/>
+<w tok="inside"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="sand"/>
+<w tok="hills"/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="protected"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="water"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="this"/>
+<w tok="route"/>
+<w tok="we"/>
+<w tok="shall"/>
+<w tok="have"/>
+<w tok="but"/>
+<w tok="9"/>
+<w tok="miles"/>
+<w tok="of"/>
+<w tok="land"/>
+<w tok="transportation"/>
+<w tok="and"/>
+<w tok="can"/>
+<w tok="unload"/>
+<w tok="much"/>
+<w tok="more"/>
+<w tok="rapidly"/>
+<w tok="than"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="way"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="garrison"/>
+<w tok="at"/>
+<toponym term="Point Isabel">
+<candidates>
+<cand lat="26.073611" long="-97.213333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="course"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="contained"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Sixteenth"/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="moved"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="guard"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="handle"/>
+<w tok="stores"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="a"/>
+<w tok="sketch"/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="give"/>
+<w tok="you"/>
+<w tok="an"/>
+<w tok="idea"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="new"/>
+<w tok="route"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="J."/>
+<w tok="HERRON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="sketch"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="ready"/>
+<w tok=";"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="it"/>
+<w tok="by"/>
+<w tok="next"/>
+<w tok="mail"/>
+<w tok="."/>
+</s>
+</doc>

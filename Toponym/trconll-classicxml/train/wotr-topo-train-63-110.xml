@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-110" title="63" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9161122855" long="-77.0453944253" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-2"/>
+<w tok="p.m."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok="shows"/>
+<w tok="over"/>
+<w tok="1,600"/>
+<w tok="teams"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="supply"/>
+<w tok="the"/>
+<w tok="necessary"/>
+<w tok="transportation"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="army"/>
+<w tok="in"/>
+<toponym term="Tennessee">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="time"/>
+<w tok="for"/>
+<w tok="spring"/>
+<w tok="operations"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="you"/>
+<w tok="not"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="mules"/>
+<w tok="of"/>
+<w tok="500"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="teams"/>
+<w tok="to"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2324612641" long="-85.760271535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="?"/>
+<w tok="Send"/>
+<w tok="all"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

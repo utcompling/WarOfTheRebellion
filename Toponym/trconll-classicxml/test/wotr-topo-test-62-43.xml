@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-43" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<w tok="LA"/>
+<w tok="FOURCHE"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Thibodeaux">
+<candidates>
+<cand lat="29.792222" long="-90.82" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="forward"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="Grosvenor"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="at"/>
+<toponym term="Donaldsonville">
+<candidates>
+<cand lat="30.1" long="-90.994167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Sheldon"/>
+<w tok="sends"/>
+<w tok="me"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="from"/>
+<toponym term="Plaquemine">
+<candidates>
+<cand lat="30.284167" long="-91.240556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok=":"/>
+<w tok="&quot;"/>
+<w tok="A"/>
+<w tok="gentleman"/>
+<w tok="entitled"/>
+<w tok="to"/>
+<w tok="great"/>
+<w tok="confidence"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="told"/>
+<w tok="me"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="recently"/>
+<w tok="at"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="saw"/>
+<w tok="there"/>
+<w tok="Wirt"/>
+<w tok="Adams"/>
+<w tok="with"/>
+<w tok="about"/>
+<w tok="1,500"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="he"/>
+<w tok="says"/>
+<w tok="this"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="menacing"/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4546674531" long="-91.1364040375" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="says"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="aside"/>
+<w tok="from"/>
+<w tok="pickets"/>
+<w tok="and"/>
+<w tok="couriers"/>
+<w tok=","/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="hundred"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="near"/>
+<toponym term="Morganza">
+<candidates>
+<cand lat="30.735556" long="-91.61" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="4,000"/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="quite"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="army"/>
+<w tok="at"/>
+<toponym term="Shreveport">
+<candidates>
+</candidates>
+</toponym>
+<w tok="waiting"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="water"/>
+<w tok="to"/>
+<w tok="rise"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Red River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="connect"/>
+<w tok="with"/>
+<w tok="their"/>
+<w tok="fleet"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="Everything"/>
+<w tok="quiet"/>
+<w tok="about"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="Nothing"/>
+<w tok="of"/>
+<w tok="importance"/>
+<w tok="occurred"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="&quot;"/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="EDWARD"/>
+<w tok="L."/>
+<w tok="MOLINEUX"/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-155" title="64" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MIL"/>
+<w tok="."/>
+<w tok="DIV"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="29"/>
+<w tok="."/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Sixteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<w tok="Memphis"/>
+<w tok=","/>
+<w tok="Tenn."/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="West"/>
+<w tok="Tennessee"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="Canby"/>
+<w tok=":"/>
+<w tok="C."/>
+<w tok="T."/>
+<w tok="CHRISTENSEN"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

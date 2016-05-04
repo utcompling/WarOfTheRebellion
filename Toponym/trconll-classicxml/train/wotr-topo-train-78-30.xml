@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-30" title="78" domain="wotr">
+<s id="s1">
+<toponym term="COLLIERVILLE">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="WASHBURN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="did"/>
+<w tok="intend"/>
+<w tok="remaining"/>
+<w tok="here"/>
+<w tok="until"/>
+<w tok="to-morrow"/>
+<w tok="principally"/>
+<w tok="to"/>
+<w tok="enable"/>
+<w tok="stragglers"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="in"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="from"/>
+<w tok="information"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="moving"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="White&apos;s Station">
+<candidates>
+<cand lat="35.101944" long="-89.859722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="deem"/>
+<w tok="it"/>
+<w tok="prudent"/>
+<w tok="to"/>
+<w tok="mach"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="to-night"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="so"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="D."/>
+<w tok="STURGIS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

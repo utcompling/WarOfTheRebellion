@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-131" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="WEISS"/>
+<w tok=","/>
+<w tok="Seventh"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Troops"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Magnolia">
+<candidates>
+<cand lat="30.220833" long="-84.175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="hold"/>
+<w tok="yourself"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="moment"/>
+<w tok="&apos;s"/>
+<w tok="notice"/>
+<w tok="with"/>
+<w tok="an"/>
+<w tok="expedition"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="interior"/>
+<w tok="."/>
+<w tok="Ten"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="are"/>
+<w tok="sent"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="will"/>
+<w tok="get"/>
+<w tok="no"/>
+<w tok="more"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="kind"/>
+<w tok="until"/>
+<w tok="those"/>
+<w tok="ten"/>
+<w tok="days"/>
+<w tok="are"/>
+<w tok="over"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="therefore"/>
+<w tok="caution"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="economical"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="relieved"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="of"/>
+<toponym term="Magnolia">
+<candidates>
+<cand lat="30.220833" long="-84.175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="order"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="accompany"/>
+<w tok="this"/>
+<w tok="expedition"/>
+<w tok="."/>
+<w tok="Without"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="tot"/>
+<w tok="he"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Troops"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="arrival"/>
+<w tok="and"/>
+<w tok="accompany"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="M."/>
+<w tok="BAILEY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

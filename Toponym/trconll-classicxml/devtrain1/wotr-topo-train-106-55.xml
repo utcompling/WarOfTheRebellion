@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-55" title="106" domain="wotr">
+<s id="s1">
+<toponym term="FORT RUBY">
+<candidates>
+<cand lat="40.0667607701" long="-115.533963689" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="-"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="leave"/>
+<w tok="here"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="week"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="supplies"/>
+<w tok="arrived"/>
+<w tok="yet"/>
+<w tok="."/>
+<w tok="Indians"/>
+<w tok="murdering"/>
+<w tok="emigrants"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Humboldt">
+<candidates>
+<cand lat="40.8" long="-123.8" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="attend"/>
+<w tok="to"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

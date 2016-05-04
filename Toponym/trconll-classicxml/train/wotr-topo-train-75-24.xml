@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-24" title="75" domain="wotr">
+<s id="s1">
+<w tok="Camp"/>
+<w tok="at"/>
+<toponym term="Sugar Valley">
+<candidates>
+<cand lat="34.558056" long="-85.011944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-10.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Military"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Dodge"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="moved"/>
+<w tok="up"/>
+<w tok="and"/>
+<w tok="skirmished"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="at"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="afternoon"/>
+<w tok="."/>
+<w tok="While"/>
+<w tok="that"/>
+<w tok="was"/>
+<w tok="going"/>
+<w tok="on"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="mounted"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Phillips"/>
+<w tok="&apos;"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="succeeded"/>
+<w tok="in"/>
+<w tok="reaching"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="near"/>
+<toponym term="Tilton Station">
+<candidates>
+<cand lat="34.6554830835" long="-84.9779850926" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="was"/>
+<w tok="forced"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="without"/>
+<w tok="damaging"/>
+<w tok="the"/>
+<w tok="track"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="tore"/>
+<w tok="down"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="wire"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="position"/>
+<w tok="at"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="naturally"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="we"/>
+<w tok="could"/>
+<w tok="see"/>
+<w tok=","/>
+<w tok="heave"/>
+<w tok="it"/>
+<w tok="pretty"/>
+<w tok="well"/>
+<w tok="fortified"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="displayed"/>
+<w tok="considerable"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="opened"/>
+<w tok="on"/>
+<w tok="us"/>
+<w tok="with"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="After"/>
+<w tok="skirmishing"/>
+<w tok="till"/>
+<w tok="nearly"/>
+<w tok="dark"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="getting"/>
+<w tok="to"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="decided"/>
+<w tok="to"/>
+<w tok="withdraw"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="and"/>
+<w tok="take"/>
+<w tok="up"/>
+<w tok="a"/>
+<w tok="position"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="between"/>
+<toponym term="Sugar Valley">
+<candidates>
+<cand lat="34.558056" long="-85.011944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="entrance"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="reasons"/>
+<w tok=":"/>
+<w tok="First"/>
+<w tok="."/>
+<w tok="Between"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="and"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="a"/>
+<w tok="half"/>
+<w tok="dozen"/>
+<w tok="good"/>
+<w tok="roads"/>
+<w tok="leading"/>
+<w tok="north"/>
+<w tok="toward"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="down"/>
+<w tok="which"/>
+<w tok="a"/>
+<w tok="column"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="could"/>
+<w tok="march"/>
+<w tok=","/>
+<w tok="making"/>
+<w tok="our"/>
+<w tok="advanced"/>
+<w tok="position"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="exposed"/>
+<w tok="one"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Dodge"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok="all"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="provisions"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="regiments"/>
+<w tok="have"/>
+<w tok="had"/>
+<w tok="nothing"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="wagon"/>
+<w tok="train"/>
+<w tok="is"/>
+<w tok="between"/>
+<w tok="here"/>
+<w tok="and"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="possibly"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="are"/>
+<w tok="coming"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="now"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="they"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="have"/>
+<w tok="reached"/>
+<w tok="him"/>
+<w tok="near"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="besides"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="with"/>
+<w tok="to"/>
+<w tok="block"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="train"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="narrow"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="on"/>
+<w tok="either"/>
+<w tok="side"/>
+<w tok="is"/>
+<w tok="heavily"/>
+<w tok="wooded"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="no"/>
+<w tok="cavalry"/>
+<w tok="except"/>
+<w tok="Phillips"/>
+<w tok="&apos;"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="fell"/>
+<w tok="out"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="flanks"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="have"/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="division"/>
+<w tok="of"/>
+<w tok="good"/>
+<w tok="cavalry"/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="have"/>
+<w tok="broken"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="at"/>
+<w tok="some"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="rest"/>
+<w tok="my"/>
+<w tok="men"/>
+<w tok="to-morrow"/>
+<w tok="forenoon"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="enable"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="draw"/>
+<w tok="provisions"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="have"/>
+<w tok="lost"/>
+<w tok="some"/>
+<w tok="6"/>
+<w tok="men"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="30-odd"/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="inflicted"/>
+<w tok="a"/>
+<w tok="greater"/>
+<w tok="amount"/>
+<w tok="of"/>
+<w tok="damage"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="captured"/>
+<w tok="about"/>
+<w tok="25"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="anxious"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="attempt"/>
+<w tok="to"/>
+<w tok="cut"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Garrard"/>
+<w tok="is"/>
+<w tok="in"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="34.709722" long="-85.283889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok=";"/>
+<w tok="says"/>
+<w tok="his"/>
+<w tok="horses"/>
+<w tok="are"/>
+<w tok="very"/>
+<w tok="much"/>
+<w tok="fatigued"/>
+<w tok="and"/>
+<w tok="short"/>
+<w tok="of"/>
+<w tok="forage"/>
+<w tok=";"/>
+<w tok="desires"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="there"/>
+<w tok="until"/>
+<w tok="his"/>
+<w tok="forage"/>
+<w tok="train"/>
+<w tok="comes"/>
+<w tok="down"/>
+<w tok="from"/>
+<toponym term="Chattanooga">
+<candidates>
+<cand lat="35.045556" long="-85.267222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="When"/>
+<w tok="I"/>
+<w tok="move"/>
+<w tok="forward"/>
+<w tok="again"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="like"/>
+<w tok="a"/>
+<w tok="division"/>
+<w tok="of"/>
+<w tok="Hooker"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="the"/>
+<w tok="entrance"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="at"/>
+<toponym term="Sugar Valley">
+<candidates>
+<cand lat="34.558056" long="-85.011944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="thereby"/>
+<w tok="enabling"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="forward"/>
+<w tok="with"/>
+<w tok="my"/>
+<w tok="entire"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="train"/>
+<w tok="guards"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="news"/>
+<w tok="from"/>
+<w tok="Grant"/>
+<w tok="is"/>
+<w tok="glorious"/>
+<w tok="."/>
+<w tok="Sincerely"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="McPHERSON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,3252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-196" title="62" domain="wotr">
+<s id="s1">
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="returns"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="Banks"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="month"/>
+<w tok="of"/>
+<w tok="January"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Present"/>
+<w tok="for"/>
+<w tok="Pieces"/>
+<w tok="of"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="Comman"/>
+<w tok="Office"/>
+<w tok="Men"/>
+<w tok="."/>
+<w tok="Aggreg"/>
+<w tok="Aggreg"/>
+<w tok="Heavy"/>
+<w tok="."/>
+<w tok="Field"/>
+<w tok="."/>
+<w tok="Headq"/>
+<w tok="d."/>
+<w tok="rs"/>
+<w tok="."/>
+<w tok="ate"/>
+<w tok="ate"/>
+<w tok="uarte"/>
+<w tok="presen"/>
+<w tok="presen"/>
+<w tok="rs"/>
+<w tok="."/>
+<w tok="t."/>
+<w tok="t"/>
+<w tok="and"/>
+<w tok="absent"/>
+<w tok="."/>
+<w tok="Genera"/>
+<w tok="33"/>
+<w tok="59"/>
+<w tok="123"/>
+<w tok="159"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="New"/>
+<w tok="l"/>
+<toponym term="Orlea">
+<candidates>
+</candidates>
+</toponym>
+<w tok="headqu"/>
+<w tok="ns"/>
+<w tok=","/>
+<w tok="arters"/>
+<toponym term="La.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Thirte"/>
+<w tok="enth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="("/>
+<w tok="Ord"/>
+<w tok=")"/>
+<w tok=":"/>
+<w tok="Headqu"/>
+<w tok="8"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="8"/>
+<w tok="15"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="New"/>
+<w tok="arters"/>
+<toponym term="Orlea">
+<candidates>
+</candidates>
+</toponym>
+<w tok="ns"/>
+<w tok=","/>
+<toponym term="La.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="211"/>
+<w tok="4,009"/>
+<w tok="4,747"/>
+<w tok="6,522"/>
+<w tok="2"/>
+<w tok="10"/>
+<toponym term="India">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Divisi"/>
+<w tok="nola"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Second"/>
+<w tok="178"/>
+<w tok="3,077"/>
+<w tok="3,910"/>
+<w tok="6,321"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="10"/>
+<w tok="On"/>
+<w tok="Divisi"/>
+<w tok="the"/>
+<w tok="on"/>
+<w tok="and"/>
+<w tok="Rio"/>
+<w tok="attach"/>
+<toponym term="Grand">
+<candidates>
+</candidates>
+</toponym>
+<w tok="ed"/>
+<w tok="e."/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="160"/>
+<w tok="3,345"/>
+<w tok="4,002"/>
+<w tok="5,375"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="10"/>
+<toponym term="Madis">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Divisi"/>
+<w tok="onvil"/>
+<w tok="on"/>
+<w tok="and"/>
+<w tok="le"/>
+<w tok=","/>
+<w tok="attach"/>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="ed"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Fourth"/>
+<w tok="193"/>
+<w tok="3,066"/>
+<w tok="3,812"/>
+<w tok="7,314"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="16"/>
+<toponym term="Decro">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Divisi"/>
+<w tok="w&apos;s"/>
+<w tok="on"/>
+<w tok="."/>
+<w tok="Point"/>
+<w tok=","/>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Total"/>
+<w tok="750"/>
+<w tok="13,497"/>
+<w tok="16,479"/>
+<w tok="25,547"/>
+<w tok="2"/>
+<w tok="46"/>
+<w tok="Thirte"/>
+<w tok="enth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="and"/>
+<w tok="attach"/>
+<w tok="ed"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Ninete"/>
+<w tok="196"/>
+<w tok="4,393"/>
+<w tok="5,394"/>
+<w tok="7,253"/>
+<w tok="8"/>
+<w tok="12"/>
+<toponym term="Frank">
+<candidates>
+</candidates>
+</toponym>
+<w tok="enth"/>
+<w tok="lin"/>
+<w tok=","/>
+<w tok="Army"/>
+<toponym term="La.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Coprs*"/>
+<w tok="("/>
+<toponym term="Frank
+
+lin">
+<candidates>
+</candidates>
+</toponym>
+<w tok="."/>
+<w tok="Cavalr"/>
+<w tok="201"/>
+<w tok="4,479"/>
+<w tok="5,699"/>
+<w tok="7,779"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="6"/>
+<w tok="New"/>
+<w tok="y"/>
+<toponym term="Orlea">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Divisi"/>
+<w tok="ns"/>
+<w tok="."/>
+<w tok="on+"/>
+<w tok="Engine"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="New"/>
+<w tok="er"/>
+<toponym term="Orlea">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Brigad"/>
+<w tok="ns"/>
+<w tok="."/>
+<w tok="er++"/>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="returns"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c.-Continued"/>
+<w tok="."/>
+<w tok="Present"/>
+<w tok="for"/>
+<w tok="Pieces"/>
+<w tok="of"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="Comman"/>
+<w tok="Office"/>
+<w tok="Men"/>
+<w tok="."/>
+<w tok="Aggreg"/>
+<w tok="Aggreg"/>
+<w tok="Heavy"/>
+<w tok="."/>
+<w tok="Field"/>
+<w tok="."/>
+<w tok="Headq"/>
+<w tok="d."/>
+<w tok="rs"/>
+<w tok="."/>
+<w tok="ate"/>
+<w tok="ate"/>
+<w tok="uarte"/>
+<w tok="presen"/>
+<w tok="presen"/>
+<w tok="rs"/>
+<w tok="."/>
+<w tok="t."/>
+<w tok="t"/>
+<w tok="and"/>
+<w tok="absent"/>
+<w tok="."/>
+<toponym term="Port
+
+Hudson">
+<candidates>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="Headqu"/>
+<w tok="13"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="13"/>
+<w tok="15"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="arters"/>
+<w tok="Corps"/>
+<w tok="234"/>
+<w tok="3,880"/>
+<w tok="4,221"/>
+<w tok="5,873"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="8"/>
+<w tok="d&apos;Afri"/>
+<w tok="que"/>
+<w tok="Second"/>
+<w tok="23"/>
+<w tok="406"/>
+<w tok="562"/>
+<w tok="776"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="Brigad"/>
+<w tok="e"/>
+<w tok=","/>
+<w tok="Cavalr"/>
+<w tok="y"/>
+<w tok="Divisi"/>
+<w tok="on"/>
+<w tok="Artill"/>
+<w tok="23"/>
+<w tok="367"/>
+<w tok="527"/>
+<w tok="648"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="4"/>
+<w tok="ery"/>
+<w tok="Total"/>
+<w tok="293"/>
+<w tok="4,653"/>
+<w tok="5,323"/>
+<w tok="7,312"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="12"/>
+<toponym term="Port
+
+Hudson
+">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Distri"/>
+<w tok="140"/>
+<w tok="3,195"/>
+<w tok="4,163"/>
+<w tok="5,649"/>
+<w tok="13"/>
+<w tok="12"/>
+<toponym term="Baton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="ct"/>
+<w tok="of"/>
+<w tok="Rouge"/>
+<toponym term="Baton">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Rouge"/>
+<w tok="Distri"/>
+<w tok="84"/>
+<w tok="2,200"/>
+<w tok="2,931"/>
+<w tok="3,568"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="8"/>
+<toponym term="Thibo">
+<candidates>
+</candidates>
+</toponym>
+<w tok="ct"/>
+<w tok="of"/>
+<w tok="deaux"/>
+<w tok="La"/>
+<w tok=","/>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fourch
+
+e">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Defens"/>
+<w tok="320"/>
+<w tok="6,596"/>
+<w tok="8,138"/>
+<w tok="12,558"/>
+<w tok="40"/>
+<w tok="41"/>
+<w tok="New"/>
+<w tok="es"/>
+<w tok="of"/>
+<toponym term="Orlea">
+<candidates>
+</candidates>
+</toponym>
+<w tok="New"/>
+<w tok="ns"/>
+<w tok=","/>
+<w tok="Orlean"/>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="s"/>
+<w tok="Fort"/>
+<w tok="29"/>
+<w tok="623"/>
+<w tok="824"/>
+<w tok="1,010"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<toponym term="Jackso
+
+n">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="La">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Brashe">
+<candidates>
+</candidates>
+</toponym>
+<w tok="27"/>
+<w tok="455"/>
+<w tok="530"/>
+<w tok="537"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="r"/>
+<w tok="City"/>
+<w tok=","/>
+<toponym term="La">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Frankl">
+<candidates>
+</candidates>
+</toponym>
+<w tok="16"/>
+<w tok="455"/>
+<w tok="514"/>
+<w tok="518"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="in"/>
+<w tok=","/>
+<toponym term="La">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Lakepo">
+<candidates>
+</candidates>
+</toponym>
+<w tok="12"/>
+<w tok="85"/>
+<w tok="120"/>
+<w tok="139"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="rt"/>
+<w tok=","/>
+<toponym term="La">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Distri"/>
+<w tok="51"/>
+<w tok="871"/>
+<w tok="1,113"/>
+<w tok="1,199"/>
+<w tok="127"/>
+<w tok="6"/>
+<toponym term="Barra">
+<candidates>
+</candidates>
+</toponym>
+<w tok="ct"/>
+<w tok="of"/>
+<w tok="ncas"/>
+<w tok=","/>
+<w tok="Pensac"/>
+<toponym term="Fla.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="ola"/>
+<w tok="Distri"/>
+<w tok="29"/>
+<w tok="751"/>
+<w tok="1,182"/>
+<w tok="1,343"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="Key"/>
+<w tok="ct"/>
+<w tok="of"/>
+<toponym term="West">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Key"/>
+<toponym term="Fla.">
+<candidates>
+<cand lat="28.5256436451" long="-82.4886427789" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="West"/>
+<w tok="and"/>
+<w tok="Tortug"/>
+<w tok="as"/>
+<w tok="Grand"/>
+<w tok="2,181"/>
+<w tok="42,312"/>
+<w tok="52,533"/>
+<w tok="74,581"/>
+<w tok="190"/>
+<w tok="143"/>
+<w tok="total"/>
+<w tok="Grand"/>
+<w tok="2,238"/>
+<w tok="41,864"/>
+<w tok="52,708"/>
+<w tok="74,813"/>
+<w tok="144"/>
+<w tok="134"/>
+<w tok="total"/>
+<w tok="accord"/>
+<w tok="ing"/>
+<w tok="to"/>
+<w tok="monthl"/>
+<w tok="y"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="depart"/>
+<w tok="ment"/>
+<w tok="."/>
+<w tok="Troops"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="Banks"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok=","/>
+<w tok="January"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="."/>
+<w tok="Headquarters"/>
+<w tok="troops"/>
+<w tok=","/>
+<w tok="Companies"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Richard"/>
+<w tok="W."/>
+<w tok="Francis"/>
+<w tok="."/>
+<w tok="THIRTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="EDWARD"/>
+<w tok="O."/>
+<w tok="C."/>
+<w tok="ORD"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="DIVISION.+"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="WILLIAM"/>
+<w tok="P."/>
+<w tok="BENTON"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="FITZ"/>
+<w tok="HENRY"/>
+<w tok="WARREN"/>
+<w tok="."/>
+<w tok="33rd"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Leander"/>
+<w tok="H."/>
+<w tok="Potter"/>
+<w tok="."/>
+<w tok="99th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="George"/>
+<w tok="W."/>
+<w tok="K."/>
+<w tok="Bailey"/>
+<w tok="."/>
+<w tok="8th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="David"/>
+<w tok="Shunk"/>
+<w tok="."/>
+<w tok="18th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Henry"/>
+<w tok="D."/>
+<w tok="Washburn"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="CHARLES"/>
+<w tok="L."/>
+<w tok="HARRIS"/>
+<w tok="."/>
+<w tok="21st"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="William"/>
+<w tok=","/>
+<w tok="D."/>
+<w tok="Crooke"/>
+<w tok="."/>
+<w tok="22nd"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Harvey"/>
+<w tok="Graham"/>
+<w tok="."/>
+<w tok="23rd"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Samuel"/>
+<w tok="L."/>
+<w tok="Glasgow"/>
+<w tok="."/>
+<w tok="11th"/>
+<w tok="Wisconsin"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Luther"/>
+<w tok="H."/>
+<w tok="Whittlesey"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="Brigade.++"/>
+<w tok="Colonel"/>
+<w tok="JAMES"/>
+<w tok="KEIGWIN"/>
+<w tok="."/>
+<w tok="49th"/>
+<w tok="Indian"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Arthur"/>
+<w tok="J."/>
+<w tok="Hawhe"/>
+<w tok="."/>
+<w tok="69th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Oran"/>
+<w tok="Perry"/>
+<w tok="."/>
+<w tok="16th"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Philip"/>
+<w tok="Kershner"/>
+<w tok="."/>
+<w tok="114th"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="H."/>
+<w tok="Kelly"/>
+<w tok="."/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="2nd"/>
+<w tok="Illinois"/>
+<w tok="Light"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Herman"/>
+<w tok="Borris"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Indiana"/>
+<w tok="Heavy"/>
+<w tok="("/>
+<w tok="section"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Robert"/>
+<w tok="H."/>
+<w tok="Rhea"/>
+<w tok="."/>
+<w tok="7th"/>
+<w tok="Michigan"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="George"/>
+<w tok="L."/>
+<w tok="Stillman"/>
+<w tok="."/>
+<w tok="1th"/>
+<w tok="Wisconsin"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Daniel"/>
+<w tok="Webster"/>
+<w tok="."/>
+<w tok="SECOND"/>
+<w tok="DIVISION.+"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="FRANCIS"/>
+<w tok="J."/>
+<w tok="HERRON"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOHN"/>
+<w tok="C."/>
+<w tok="BLACK"/>
+<w tok="."/>
+<w tok="37th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Ransom"/>
+<w tok="Kennicott"/>
+<w tok="."/>
+<w tok="91st"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Henry"/>
+<w tok="M."/>
+<w tok="Day"/>
+<w tok="."/>
+<w tok="26th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="G."/>
+<w tok="Clark"/>
+<w tok="."/>
+<w tok="38th"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Joseph"/>
+<w tok="O."/>
+<w tok="Hudnutt"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Missouri"/>
+<w tok="Light"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Joseph"/>
+<w tok="B."/>
+<w tok="Atwater"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="HENRY"/>
+<w tok="BERTRAM"/>
+<w tok="."/>
+<w tok="94th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Rankin"/>
+<w tok="G."/>
+<w tok="Laughlin"/>
+<w tok="."/>
+<w tok="19th"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="John"/>
+<w tok="Bruce"/>
+<w tok="."/>
+<w tok="20th"/>
+<w tok="Wisconsin"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Augustus"/>
+<w tok="H."/>
+<w tok="Pettibone"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Missouri"/>
+<w tok="Light"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Martin"/>
+<w tok="Welfley"/>
+<w tok="."/>
+<w tok="FOURTH"/>
+<w tok="DIVISION.++"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="THOMAS"/>
+<w tok="E."/>
+<w tok="G."/>
+<w tok="RANSOM"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="J."/>
+<w tok="LANDRAM"/>
+<w tok="."/>
+<w tok="77th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Memoir"/>
+<w tok="V."/>
+<w tok="Hotchkiss"/>
+<w tok="."/>
+<w tok="60th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Augustus"/>
+<w tok="Goelzer"/>
+<w tok="."/>
+<w tok="67th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Francis"/>
+<w tok="A."/>
+<w tok="Sears"/>
+<w tok="."/>
+<w tok="19th"/>
+<w tok="Kentucky"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Josiah"/>
+<w tok="J."/>
+<w tok="Mann"/>
+<w tok="."/>
+<w tok="96th"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Joseph"/>
+<w tok="W."/>
+<w tok="Vance"/>
+<w tok="."/>
+<w tok="23rd"/>
+<w tok="Wisconsin"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Joseph"/>
+<w tok="E."/>
+<w tok="Greene"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="HENRY"/>
+<w tok="RUST"/>
+<w tok=","/>
+<w tok="jr."/>
+<w tok="130th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="John"/>
+<w tok="B."/>
+<w tok="Reid"/>
+<w tok="."/>
+<w tok="20th"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="William"/>
+<w tok="G."/>
+<w tok="Thompson"/>
+<w tok="."/>
+<w tok="34th"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Warren"/>
+<w tok="S."/>
+<w tok="Dungan"/>
+<w tok="."/>
+<w tok="13th"/>
+<w tok="Maine"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Frank"/>
+<w tok="S."/>
+<w tok="Hesseltine"/>
+<w tok="."/>
+<w tok="15th"/>
+<w tok="Maine"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Isaac"/>
+<w tok="Dyer"/>
+<w tok="."/>
+<w tok="48th"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="John"/>
+<w tok="A."/>
+<w tok="Bering"/>
+<w tok="."/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="PATRICK"/>
+<w tok="H."/>
+<w tok="WHITE"/>
+<w tok="."/>
+<w tok="Chicago"/>
+<w tok="Mercantile"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Patrick"/>
+<w tok="H."/>
+<w tok="White"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Missouri"/>
+<w tok="Light"/>
+<w tok="Battery"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Joseph"/>
+<w tok="Foust"/>
+<w tok="."/>
+<w tok="17th"/>
+<w tok="Ohio"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Charles"/>
+<w tok="S."/>
+<w tok="Rice"/>
+<w tok="."/>
+<w tok="UNASSIGNED"/>
+<w tok="."/>
+<w tok="@"/>
+<w tok="Engineer"/>
+<w tok="Troops"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Engineers"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Justin"/>
+<w tok="Hudge"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Engineers"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="C."/>
+<w tok="Cobb"/>
+<w tok="."/>
+<w tok="3rd"/>
+<w tok="Engineers"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok="("/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Archelus"/>
+<w tok="M."/>
+<w tok="Conrad"/>
+<w tok="."/>
+<w tok="16th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Matthew"/>
+<w tok="C."/>
+<w tok="Kempsey"/>
+<w tok="."/>
+<w tok="Kentucky"/>
+<w tok="Engineers"/>
+<w tok="("/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="William"/>
+<w tok="F."/>
+<w tok="Patterson"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="*According"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="Artillery"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="Adolph"/>
+<w tok="Schwartz"/>
+<w tok="commanding"/>
+<w tok=")"/>
+<w tok=";"/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok="returns"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="7th"/>
+<w tok="Michigan"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="16th"/>
+<w tok="Ohio"/>
+<w tok="Batteries"/>
+<w tok="."/>
+<w tok="+At"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.2562004803" long="-99.4304976853" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major-General"/>
+<w tok="Herron"/>
+<w tok="assigned"/>
+<w tok="January"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="embracing"/>
+<w tok="all"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="forces"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="++At"/>
+<toponym term="Decrow&apos;s Point">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.2562004803" long="-99.4304976853" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Brigadier-General"/>
+<w tok="Ransom"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="command"/>
+<w tok="January"/>
+<w tok="4"/>
+<w tok="."/>
+<w tok="@"/>
+<w tok="At"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="25.930278" long="-97.484444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fort Esperanza">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Matagorda Island">
+<candidates>
+<cand lat="28.227222" long="-96.640278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Point Isabel">
+<candidates>
+<cand lat="26.073611" long="-97.213333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="Cavalry"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="EDMUND"/>
+<w tok="J."/>
+<w tok="DAVIS"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Texas"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Pythagoras"/>
+<w tok="E."/>
+<w tok="Holcomb"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Texas"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="L."/>
+<w tok="Haynes"/>
+<w tok="."/>
+<w tok="Texas"/>
+<w tok="Partisans"/>
+<w tok="("/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Adrian"/>
+<w tok="J."/>
+<w tok="Vidal"/>
+<w tok="."/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Indiana"/>
+<w tok="Company"/>
+<w tok="L"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Benjamin"/>
+<w tok="F."/>
+<w tok="Card"/>
+<w tok="."/>
+<w tok="14th"/>
+<w tok="Rhode"/>
+<w tok="Island"/>
+<w tok="("/>
+<w tok="battalion"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Joseph"/>
+<w tok="J."/>
+<w tok="Comstock"/>
+<w tok=","/>
+<w tok="jr."/>
+<w tok="Infantry"/>
+<w tok="."/>
+<w tok="34th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Robert"/>
+<w tok="B."/>
+<w tok="Jones"/>
+<w tok="."/>
+<w tok="29th"/>
+<w tok="Wisconsin"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Bradford"/>
+<w tok="Hancock"/>
+<w tok="."/>
+<w tok="NINETEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="WILLIAM"/>
+<w tok="B."/>
+<w tok="FRANKLIN"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="DIVISION.+"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="WILLIAM"/>
+<w tok="H."/>
+<w tok="EMORY"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="GEORGE"/>
+<w tok="M."/>
+<w tok="LOVE"/>
+<w tok="."/>
+<w tok="30th"/>
+<w tok="Massachusetts"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Horace"/>
+<w tok="O."/>
+<w tok="Whittemore"/>
+<w tok="."/>
+<w tok="116th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="Higgins"/>
+<w tok="."/>
+<w tok="161st"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="B."/>
+<w tok="Kinsey"/>
+<w tok="."/>
+<w tok="174th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Benjamin"/>
+<w tok="F."/>
+<w tok="Gott"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JACOB"/>
+<w tok="SHARPE"/>
+<w tok="."/>
+<w tok="38th"/>
+<w tok="Massachusetts"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="James"/>
+<w tok="P."/>
+<w tok="Richardson"/>
+<w tok="."/>
+<w tok="128th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Francis"/>
+<w tok="S."/>
+<w tok="Keese"/>
+<w tok="."/>
+<w tok="156th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="James"/>
+<w tok="J."/>
+<w tok="Hoyt"/>
+<w tok="."/>
+<w tok="175th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Charles"/>
+<w tok="McCarthey"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="Brigade.++"/>
+<w tok="Colonel"/>
+<w tok="CHARLES"/>
+<w tok="C."/>
+<w tok="DWIGHT"/>
+<w tok="."/>
+<w tok="114th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Henry"/>
+<w tok="B."/>
+<w tok="Morse"/>
+<w tok="."/>
+<w tok="160th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="William"/>
+<w tok="H."/>
+<w tok="Sentell"/>
+<w tok="."/>
+<w tok="8th"/>
+<w tok="Vermont"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Henry"/>
+<w tok="F."/>
+<w tok="Dutton"/>
+<w tok="."/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="@"/>
+<w tok="6th"/>
+<w tok="Massachusetts"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Frank"/>
+<w tok="Bruce"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="United"/>
+<w tok="States"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="L"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Edward"/>
+<w tok="L."/>
+<w tok="Appleton"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION."/>
+<w tok="#"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JAMES"/>
+<w tok="W."/>
+<w tok="McMILLAN"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="LEWIS"/>
+<w tok="BENEDICT"/>
+<w tok="."/>
+<w tok="110th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Warren"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Smith"/>
+<w tok="."/>
+<w tok="162nd"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Justus"/>
+<w tok="W."/>
+<w tok="Blanchard"/>
+<w tok="."/>
+<w tok="165th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Gouverneur"/>
+<w tok="Carr"/>
+<w tok="."/>
+<w tok="173rd"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Lewis"/>
+<w tok="M."/>
+<w tok="Peck"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade^"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="JOSIAH"/>
+<w tok="A."/>
+<w tok="SAWTELL"/>
+<w tok="."/>
+<w tok="26th"/>
+<w tok="Massachusetts"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Eusebius"/>
+<w tok="S."/>
+<w tok="Clark"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="*Headquarters"/>
+<w tok="moved"/>
+<w tok="from"/>
+<toponym term="New Iberia">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="7-8"/>
+<w tok="."/>
+<w tok="+The"/>
+<w tok="First"/>
+<w tok="and"/>
+<w tok="Third"/>
+<w tok="Brigades"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="artillery"/>
+<w tok="at"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="detached"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Baton"/>
+<w tok="Rouge"/>
+<w tok="."/>
+<w tok="++The"/>
+<w tok="12th"/>
+<w tok="Connecticut"/>
+<w tok="in"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9410506184" long="-90.0688440402" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="home"/>
+<w tok="on"/>
+<w tok="veteran"/>
+<w tok="furlough"/>
+<w tok="."/>
+<w tok="@"/>
+<w tok="The"/>
+<w tok="1st"/>
+<w tok="Maine"/>
+<w tok="Battery"/>
+<w tok="in"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9410506184" long="-90.0688440402" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="home"/>
+<w tok="on"/>
+<w tok="veteran"/>
+<w tok="furlough"/>
+<w tok="."/>
+<w tok="#"/>
+<w tok="At"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Brigadier-General"/>
+<w tok="McMillan"/>
+<w tok="commanding"/>
+<w tok="since"/>
+<w tok="January"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="vice"/>
+<w tok="Grover"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="special"/>
+<w tok="duty"/>
+<w tok="in"/>
+<toponym term="East Louisiana">
+<candidates>
+</candidates>
+</toponym>
+<w tok="^The"/>
+<w tok="14th"/>
+<w tok="Maine"/>
+<w tok="on"/>
+<w tok="veteran"/>
+<w tok="furlough"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="FOURTH"/>
+<w tok="DIVISION"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Colonel"/>
+<w tok="EDWARD"/>
+<w tok="L."/>
+<w tok="MOLINEUX"/>
+<w tok="."/>
+<w tok="13th"/>
+<w tok="Connecticut"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Homer"/>
+<w tok="B."/>
+<w tok="Sprague"/>
+<w tok="."/>
+<w tok="90th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Nelson"/>
+<w tok="Shaurman"/>
+<w tok="."/>
+<w tok="91st"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Jonathan"/>
+<w tok="Tarbell"/>
+<w tok="."/>
+<w tok="131st"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="John"/>
+<w tok="M."/>
+<w tok="Hagedorn"/>
+<w tok="."/>
+<w tok="159th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Robert"/>
+<w tok="McD"/>
+<w tok="."/>
+<w tok="Hart"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade.+"/>
+<w tok="Colonel"/>
+<w tok="THOMAS"/>
+<w tok="W."/>
+<w tok="CAHILL"/>
+<w tok="."/>
+<w tok="9th"/>
+<w tok="Connecticut"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Richard"/>
+<w tok="Fitz"/>
+<w tok="Gibbons"/>
+<w tok="."/>
+<w tok="97th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Friend"/>
+<w tok="S."/>
+<w tok="Rutherford"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Louisiana"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="O."/>
+<w tok="Fiske"/>
+<w tok="."/>
+<w tok="12th"/>
+<w tok="Maine"/>
+<w tok="("/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="James"/>
+<w tok="M."/>
+<w tok="Thompson"/>
+<w tok="."/>
+<w tok="ARTILLERY"/>
+<w tok="RESERVE"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="HENRY"/>
+<w tok="W."/>
+<w tok="CLOSSON"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Indiana"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok="("/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="William"/>
+<w tok="H."/>
+<w tok="Balnkeship"/>
+<w tok="."/>
+<w tok="25th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="John"/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="Grow"/>
+<w tok="."/>
+<w tok="CAVALRY"/>
+<w tok="DIVISION.++"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="ALBERT"/>
+<w tok="L."/>
+<w tok="LEE"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="THOMAS"/>
+<w tok="J."/>
+<w tok="LUCAS"/>
+<w tok="."/>
+<w tok="4th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Andrew"/>
+<w tok="P."/>
+<w tok="Gallagher"/>
+<w tok="."/>
+<w tok="16th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="James"/>
+<w tok="H."/>
+<w tok="Redfield"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Louisiana"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Sidney"/>
+<w tok="A."/>
+<w tok="Breese"/>
+<w tok="."/>
+<w tok="14th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Abraham"/>
+<w tok="Bassford"/>
+<w tok="."/>
+<w tok="75th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Willoughby"/>
+<w tok="Babcock"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOHN"/>
+<w tok="G."/>
+<w tok="FONDA"/>
+<w tok="."/>
+<w tok="3rd"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="James"/>
+<w tok="H."/>
+<w tok="O&apos;Connor"/>
+<w tok="."/>
+<w tok="118th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Thomas"/>
+<w tok="Logan"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="HARAI"/>
+<w tok="ROBINSON"/>
+<w tok="."/>
+<w tok="87th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Major"/>
+<w tok="George"/>
+<w tok="W."/>
+<w tok="Land"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Louisiana"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Algernon"/>
+<w tok="S."/>
+<w tok="Badger"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Massachusetts"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Ormand"/>
+<w tok="F."/>
+<w tok="Nims"/>
+<w tok="."/>
+<w tok="Fourth"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="NATHAN"/>
+<w tok="A."/>
+<w tok="M."/>
+<w tok="DUDLEY"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Illinois"/>
+<w tok="("/>
+<w tok="seven"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Benjamin"/>
+<w tok="F."/>
+<w tok="Marsh"/>
+<w tok=","/>
+<w tok="jr."/>
+<w tok="3rd"/>
+<w tok="Massachusetts"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Thomas"/>
+<w tok="E."/>
+<w tok="Chickering"/>
+<w tok="."/>
+<w tok="31st"/>
+<w tok="Massachusetts"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="S."/>
+<w tok="B."/>
+<w tok="Hopkins"/>
+<w tok="."/>
+<w tok="8th"/>
+<w tok="New"/>
+<w tok="Hampshire"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="George"/>
+<w tok="A."/>
+<w tok="Flanders"/>
+<w tok="."/>
+<w tok="ENGINEER"/>
+<w tok="BRIGADE"/>
+<w tok="."/>
+<w tok="#"/>
+<w tok="Major"/>
+<w tok="DAVID"/>
+<w tok="C."/>
+<w tok="HOUSTON"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Engineers"/>
+<w tok="."/>
+<w tok="4th"/>
+<w tok="Engineers"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Samuel"/>
+<w tok="B."/>
+<w tok="Guernsey"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="*In"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="La"/>
+<w tok="Fourche"/>
+<w tok="."/>
+<w tok="+In"/>
+<w tok="the"/>
+<w tok="Defenses"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="Orleans"/>
+<w tok="."/>
+<w tok="the"/>
+<w tok="13th"/>
+<w tok="and"/>
+<w tok="15th"/>
+<w tok="Maine"/>
+<w tok="transferred"/>
+<w tok="to"/>
+<w tok="Fourth"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Coprs"/>
+<w tok="."/>
+<w tok="++Headquarters"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="and"/>
+<w tok="Fourth"/>
+<w tok="Brigades"/>
+<w tok="in"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="at"/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Brigade"/>
+<w tok="at"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="$"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="mounted"/>
+<w tok="."/>
+<w tok="#"/>
+<w tok="Headquarters"/>
+<w tok="and"/>
+<w tok="4th"/>
+<w tok="Regiment"/>
+<w tok="at"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok=","/>
+<w tok="2nd"/>
+<w tok="and"/>
+<w tok="3rd"/>
+<w tok="Regiments"/>
+<w tok="in"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4250643149" long="-99.292791041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="CORPS"/>
+<w tok="D&apos;AFRIQUE"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="DANIEL"/>
+<w tok="ULLMANN"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="DIVISION"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="CYRUS"/>
+<w tok="HAMLIN"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="H."/>
+<w tok="DICKEY"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Chauncey"/>
+<w tok="J."/>
+<w tok="Bassett"/>
+<w tok="."/>
+<w tok="3rd"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Henry"/>
+<w tok="W."/>
+<w tok="Fuller"/>
+<w tok="."/>
+<w tok="11th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Jasper"/>
+<w tok="Hutchings"/>
+<w tok="."/>
+<w tok="12th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Charles"/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="Young"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOHN"/>
+<w tok="F."/>
+<w tok="APPLETON"/>
+<w tok="."/>
+<w tok="7th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="James"/>
+<w tok="C."/>
+<w tok="Clark"/>
+<w tok="."/>
+<w tok="8th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="William"/>
+<w tok="A."/>
+<w tok="hatch"/>
+<w tok="."/>
+<w tok="9th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="John"/>
+<w tok="C."/>
+<w tok="Chadwick"/>
+<w tok="."/>
+<w tok="10th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="George"/>
+<w tok="Tucker"/>
+<w tok="."/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="12th"/>
+<w tok="Massachusetts"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Jacob"/>
+<w tok="Miller"/>
+<w tok="."/>
+<w tok="SECOND"/>
+<w tok="DIVISION"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade.+"/>
+<w tok="5th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Charles"/>
+<w tok="A."/>
+<w tok="Hartwell"/>
+<w tok="."/>
+<w tok="14th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Mardon"/>
+<w tok="W."/>
+<w tok="Plumly"/>
+<w tok="."/>
+<w tok="15th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Uri"/>
+<w tok="B."/>
+<w tok="Pearsall"/>
+<w tok="."/>
+<w tok="16th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Matthew"/>
+<w tok="C."/>
+<w tok="Kempsey"/>
+<w tok="."/>
+<w tok="25th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Theodore"/>
+<w tok="Ketcham"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="LUTHER"/>
+<w tok="GOODRICH"/>
+<w tok="."/>
+<w tok="6th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Samuel"/>
+<w tok="B."/>
+<w tok="Jones"/>
+<w tok="."/>
+<w tok="17th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="George"/>
+<w tok="E."/>
+<w tok="Biles"/>
+<w tok="."/>
+<w tok="18th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Robert"/>
+<w tok="F."/>
+<w tok="Atkins"/>
+<w tok="."/>
+<w tok="22nd"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Henry"/>
+<w tok="N."/>
+<w tok="Frisbee"/>
+<w tok="."/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Vermont"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="John"/>
+<w tok="W."/>
+<w tok="Chase"/>
+<w tok="."/>
+<w tok="Unassigned"/>
+<w tok="."/>
+<w tok="19th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="++"/>
+<w tok="Colonel"/>
+<w tok="Charles"/>
+<w tok="E."/>
+<w tok="Bostwick"/>
+<w tok="."/>
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="DANIEL"/>
+<w tok="ULLMANN"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Michigan"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Edward"/>
+<w tok="Bacon"/>
+<w tok="."/>
+<w tok="21st"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="James"/>
+<w tok="Barnes"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="BATON"/>
+<w tok="ROUGE"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="P."/>
+<w tok="ST"/>
+<w tok="GEORGE"/>
+<w tok="COOKE"/>
+<w tok="."/>
+<w tok="7th"/>
+<w tok="Kentucky"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="Lucas"/>
+<w tok="."/>
+<w tok="22nd"/>
+<w tok="Kentucky"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="George"/>
+<w tok="W."/>
+<w tok="Monroe"/>
+<w tok="."/>
+<w tok="42nd"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Major"/>
+<w tok="William"/>
+<w tok="H."/>
+<w tok="Williams"/>
+<w tok="."/>
+<w tok="120th"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Colonel"/>
+<w tok="Marcus"/>
+<w tok="M."/>
+<w tok="Spiegel"/>
+<w tok="."/>
+<w tok="4th"/>
+<w tok="Wisconsin"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Frederick"/>
+<w tok="A."/>
+<w tok="Boardman"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Illinois"/>
+<w tok="Light"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Emil"/>
+<w tok="Steger"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Indiana"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="William"/>
+<w tok="S."/>
+<w tok="Hinkle"/>
+<w tok="."/>
+<w tok="18th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="George"/>
+<w tok="G."/>
+<w tok="Curtiss"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Ohio"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="@"/>
+<w tok="Lieutenant"/>
+<w tok="William"/>
+<w tok="H."/>
+<w tok="Harper"/>
+<w tok="2nd"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="John"/>
+<w tok="I."/>
+<w tok="Rodgers"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="*Headquarters"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok="and"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok="at"/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Ullmann"/>
+<w tok="commanding"/>
+<w tok="in"/>
+<w tok="temporary"/>
+<w tok="absence"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="George"/>
+<w tok="L."/>
+<w tok="Andrews"/>
+<w tok="."/>
+<w tok="+Regiments"/>
+<w tok="dispersed"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="in"/>
+<w tok="Defenses"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="Orleans"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="14th"/>
+<w tok="at"/>
+<toponym term="Barrancas">
+<candidates>
+<cand lat="30.347839" long="-87.297561" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fla.">
+<candidates>
+<cand lat="28.5256436451" long="-82.4886427789" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="15th"/>
+<w tok="at"/>
+<toponym term="Barahear City">
+<candidates>
+<cand lat="29.700833" long="-91.197222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="16th"/>
+<w tok="in"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4250643149" long="-99.292791041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="at"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="++At"/>
+<toponym term="Lakeport">
+<candidates>
+<cand lat="29.6425" long="-90.54" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="@"/>
+<w tok="At"/>
+<toponym term="Plaquemine">
+<candidates>
+<cand lat="30.284167" long="-91.240556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Lionel"/>
+<w tok="A."/>
+<w tok="Sheldon"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LA"/>
+<w tok="FOURCHE"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Colonel"/>
+<w tok="EDWARD"/>
+<w tok="L."/>
+<w tok="MOLINEUX"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Louisiana"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Richard"/>
+<w tok="Barrett"/>
+<w tok="."/>
+<w tok="26th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="George"/>
+<w tok="W."/>
+<w tok="Fox"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Vermont"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="George"/>
+<w tok="T."/>
+<w tok="Hebard"/>
+<w tok="."/>
+<w tok="DEFENSES"/>
+<w tok="OF"/>
+<w tok="NEW"/>
+<w tok="ORLEANS.+"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="JOSEPH"/>
+<w tok="J."/>
+<w tok="REYNOLDS"/>
+<w tok="."/>
+<w tok="12th"/>
+<w tok="Connecticut"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Frank"/>
+<w tok="H."/>
+<w tok="Peck"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="M."/>
+<w tok="Grosvenor"/>
+<w tok="."/>
+<w tok="5th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Charles"/>
+<w tok="A."/>
+<w tok="Hartwell"/>
+<w tok="."/>
+<w tok="20th"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Eliot"/>
+<w tok="Bridgman"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="New"/>
+<w tok="Orleans"/>
+<w tok="("/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Curtis"/>
+<w tok="W."/>
+<w tok="Killborn"/>
+<w tok="."/>
+<w tok="133rd"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="James"/>
+<w tok="K."/>
+<w tok="Fuller"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="United"/>
+<w tok="States"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Maurice"/>
+<w tok="Maloney"/>
+<w tok="."/>
+<w tok="2nd"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Troops"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Stark"/>
+<w tok="Fellows"/>
+<w tok="."/>
+<w tok="15th"/>
+<w tok="Illinois"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="1st"/>
+<w tok="Indiana"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="James"/>
+<w tok="L."/>
+<w tok="Carey"/>
+<w tok="."/>
+<w tok="36th"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="George"/>
+<w tok="A."/>
+<w tok="Willis"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Companies"/>
+<w tok="A"/>
+<w tok="and"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Otto"/>
+<w tok="Hefty"/>
+<w tok="."/>
+<w tok="3rd"/>
+<w tok="Massachusetts"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Henry"/>
+<w tok="D."/>
+<w tok="Pope"/>
+<w tok="."/>
+<w tok="3rd"/>
+<w tok="Rhose"/>
+<w tok="Island"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="("/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="George"/>
+<w tok="R."/>
+<w tok="Davis"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Indiana"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="A."/>
+<w tok="Keith"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Maine"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Albert"/>
+<w tok="W."/>
+<w tok="Bradbury"/>
+<w tok="."/>
+<w tok="15th"/>
+<w tok="Massachusetts"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Albert"/>
+<w tok="Rouse"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Charles"/>
+<w tok="A."/>
+<w tok="Bailey"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Native"/>
+<w tok="Guards"/>
+<w tok=","/>
+<w tok="("/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Thomas"/>
+<w tok="McCormick"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Hardman"/>
+<w tok="P."/>
+<w tok="Norris"/>
+<w tok="."/>
+<w tok="5th"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="G"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Jacob"/>
+<w tok="B."/>
+<w tok="Rawles"/>
+<w tok="."/>
+<toponym term="MADISONVILLE">
+<candidates>
+<cand lat="30.407222" long="-90.161667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="CUVIER"/>
+<w tok="GROVER"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="THIRTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="GEORGE"/>
+<w tok="F."/>
+<w tok="McGINNIS"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="@"/>
+<w tok="Colonel"/>
+<w tok="DANIEL"/>
+<w tok="MACAULEY"/>
+<w tok="."/>
+<w tok="11th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="George"/>
+<w tok="Butler"/>
+<w tok="."/>
+<w tok="46th"/>
+<w tok="Indiana"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Aaron"/>
+<w tok="M."/>
+<w tok="Flory"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Brigade."/>
+<w tok="#"/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="H."/>
+<w tok="RAYNOR"/>
+<w tok="."/>
+<w tok="24th"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Edward"/>
+<w tok="Wright"/>
+<w tok="."/>
+<w tok="28th"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="Connell"/>
+<w tok="."/>
+<w tok="56th"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Sampson"/>
+<w tok="E."/>
+<w tok="Varner"/>
+<w tok="."/>
+<w tok="83rd"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Stephen"/>
+<w tok="S."/>
+<w tok="L&apos;Hommendieu"/>
+<w tok=","/>
+<w tok="jr"/>
+<w tok="."/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="1st"/>
+<w tok="Missouri"/>
+<w tok="Light"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Elisha"/>
+<w tok="Cole"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok="*Troops"/>
+<w tok="at"/>
+<toponym term="Brasher City">
+<candidates>
+<cand lat="29.700833" long="-91.197222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Donaldsonville">
+<candidates>
+<cand lat="30.1" long="-90.994167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Napoleonville">
+<candidates>
+<cand lat="29.937778" long="-91.026667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Thibodeausx">
+<candidates>
+<cand lat="29.792222" long="-90.82" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="on"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Opelousas">
+<candidates>
+<cand lat="30.528056" long="-92.084444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Great Western Railroad">
+<candidates>
+</candidates>
+</toponym>
+<w tok="+Troops"/>
+<w tok="at"/>
+<toponym term="Algiers">
+<candidates>
+<cand lat="29.938056" long="-90.033056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Bayou Saint John">
+<candidates>
+<cand lat="29.9410506184" long="-90.0623209078" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Company Canal">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Forts Macomb">
+<candidates>
+<cand lat="30.064167" long="-89.804167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Pike">
+<candidates>
+<cand lat="30.166111" long="-89.736944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Saint Philip">
+<candidates>
+<cand lat="29.363889" long="-89.462778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="at"/>
+<toponym term="Kennersville">
+<candidates>
+<cand lat="36.116111" long="-80.081944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Madisonville">
+<candidates>
+<cand lat="30.407222" long="-90.161667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Ship Island">
+<candidates>
+<cand lat="30.22" long="-88.918611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="++Sub-post"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Defenses"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="Orleans"/>
+<w tok="."/>
+<w tok="$"/>
+<w tok="The"/>
+<w tok="24th"/>
+<w tok="Indiana"/>
+<w tok="on"/>
+<w tok="veteran"/>
+<w tok="furlough"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="34th"/>
+<w tok="Indiana"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="29th"/>
+<w tok="Wisconsin"/>
+<w tok="in"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4250643149" long="-99.292791041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="#"/>
+<w tok="The"/>
+<w tok="47th"/>
+<w tok="Indiana"/>
+<w tok="on"/>
+<w tok="veteran"/>
+<w tok="furlough"/>
+<w tok="."/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="-"/>
+</s>
+</doc>

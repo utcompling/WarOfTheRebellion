@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-207" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864-4"/>
+<w tok="p.m"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="GEORGE"/>
+<w tok="H."/>
+<w tok="HALL"/>
+<w tok=","/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="A"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="30"/>
+<w tok="guerrillas"/>
+<w tok="were"/>
+<w tok="in"/>
+<toponym term="Dover">
+<candidates>
+<cand lat="35.400556" long="-93.1125" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=";"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="Shelby"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Telegraph"/>
+<w tok="to"/>
+<toponym term="Glasgow">
+<candidates>
+<cand lat="39.226667" long="-92.843611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="send"/>
+<w tok="messengers"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="towns"/>
+<w tok="to"/>
+<w tok="watch"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="in"/>
+<toponym term="Saline County">
+<candidates>
+<cand lat="39.14" long="-93.2" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

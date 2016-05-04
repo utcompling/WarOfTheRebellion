@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-164" title="62" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<toponym term="MEMPHIS">
+<candidates>
+<cand lat="35.1384415372" long="-90.0465555631" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TEN.">
+<candidates>
+<cand lat="35.8651530624" long="-86.3093395681" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Numbers"/>
+<w tok="7"/>
+<w tok="."/>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="B."/>
+<w tok="Buford"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Helena">
+<candidates>
+<cand lat="34.526111" long="-90.601389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="hereby"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="the"/>
+<w tok="available"/>
+<w tok="cavalry"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="across"/>
+<w tok="the"/>
+<toponym term="Mississippi River">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="eastward"/>
+<w tok=","/>
+<w tok="threatening"/>
+<toponym term="Panola">
+<candidates>
+<cand lat="34.36" long="-89.95" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="diversion"/>
+<w tok="in"/>
+<w tok="favor"/>
+<w tok="of"/>
+<w tok="other"/>
+<w tok="forces"/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok=","/>
+<toponym term="Germantown">
+<candidates>
+<cand lat="35.088889" long="-89.793889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Collierville">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="southward"/>
+<w tok="toward"/>
+<toponym term="Pontotoc">
+<candidates>
+<cand lat="34.248611" long="-89.006667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Meridian">
+<candidates>
+<cand lat="32.374722" long="-88.704167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="should"/>
+<w tok="start"/>
+<w tok="from"/>
+<toponym term="Helena">
+<candidates>
+<cand lat="34.526111" long="-90.601389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="31st"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="continue"/>
+<w tok="to"/>
+<w tok="menace"/>
+<toponym term="Panola">
+<candidates>
+<cand lat="34.36" long="-89.95" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok="day"/>
+<w tok="of"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="which"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Helena">
+<candidates>
+<cand lat="34.526111" long="-90.601389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Let"/>
+<w tok="them"/>
+<w tok="report"/>
+<w tok="themselves"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="advance"/>
+<w tok="of"/>
+<w tok="5,000"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="Davidson"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Grant"/>
+<w tok=":"/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="SOOY"/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok="."/>
+</s>
+</doc>

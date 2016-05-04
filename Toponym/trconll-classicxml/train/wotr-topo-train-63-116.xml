@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-116" title="63" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="SIXTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="94"/>
+<w tok="."/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1409093666" long="-90.0559258319" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="B."/>
+<w tok="H."/>
+<w tok="Grierson"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="200"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="Sixth"/>
+<w tok="Tennessee"/>
+<w tok="Cavalry"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="arms"/>
+<w tok=","/>
+<w tok="accouterments"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="horse"/>
+<w tok="equipments"/>
+<w tok="complete"/>
+<w tok=","/>
+<w tok="without"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="to"/>
+<toponym term="Helena">
+<candidates>
+<cand lat="34.526111" long="-90.601389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="there"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="temporarily"/>
+<w tok="to"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="B."/>
+<w tok="Buford"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Eastern"/>
+<w tok="Arkansas"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="department"/>
+<w tok="will"/>
+<w tok="furnish"/>
+<w tok="necessary"/>
+<w tok="transportation"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="A."/>
+<w tok="Hurlbut"/>
+<w tok=":"/>
+<w tok="T."/>
+<w tok="H."/>
+<w tok="HARRIS"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-123" title="64" domain="wotr">
+<s id="s1">
+<toponym term="CAPE GIRARDEAU">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="Our"/>
+<w tok="boys"/>
+<w tok="killed"/>
+<w tok="2"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guerrillas"/>
+<w tok="who"/>
+<w tok="cut"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="line"/>
+<w tok="Thursday"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="their"/>
+<w tok="return"/>
+<w tok="they"/>
+<w tok="got"/>
+<w tok="after"/>
+<w tok="another"/>
+<w tok="and"/>
+<w tok="he"/>
+<w tok="took"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="swamp"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="boys"/>
+<w tok="dismounted"/>
+<w tok="and"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="a"/>
+<w tok="chase"/>
+<w tok="of"/>
+<w tok="some"/>
+<w tok="distance"/>
+<w tok="through"/>
+<w tok="about"/>
+<w tok="3"/>
+<w tok="feet"/>
+<w tok="of"/>
+<w tok="water"/>
+<w tok=","/>
+<w tok="killed"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="start"/>
+<w tok="a"/>
+<w tok="party"/>
+<w tok="to-morrow"/>
+<w tok="to"/>
+<w tok="kill"/>
+<w tok="the"/>
+<w tok="balance"/>
+<w tok="."/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

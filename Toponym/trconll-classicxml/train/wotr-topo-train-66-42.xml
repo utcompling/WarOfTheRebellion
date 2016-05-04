@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-42" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="country"/>
+<w tok="lying"/>
+<w tok="between"/>
+<toponym term="Trout Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="and"/>
+<toponym term="Thomas&apos; Swamp">
+<candidates>
+<cand lat="30.50565" long="-81.79164" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Creek"/>
+<w tok=","/>
+<toponym term="Nassau River">
+<candidates>
+<cand lat="30.5268791143" long="-81.4598988227" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Saint John&apos;s">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="north"/>
+<w tok=","/>
+<w tok="east"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="southeast"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="scouted"/>
+<w tok="under"/>
+<w tok="my"/>
+<w tok="orders"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Troops"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="that"/>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="Nassau County">
+<candidates>
+<cand lat="30.61" long="-81.77" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="free"/>
+<w tok="from"/>
+<w tok="rebels"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="received"/>
+<w tok="the"/>
+<w tok="detailed"/>
+<w tok="report"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="second"/>
+<w tok="party"/>
+<w tok="is"/>
+<w tok="to-day"/>
+<w tok="scouring"/>
+<w tok="the"/>
+<w tok="neck"/>
+<w tok="of"/>
+<w tok="land"/>
+<w tok="lying"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Doctor&apos;s Lake">
+<candidates>
+<cand lat="30.152778" long="-81.706389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="between"/>
+<toponym term="McGirt&apos;s Creek">
+<candidates>
+<cand lat="30.336944" long="-81.661389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Saint John&apos;s">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="search"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="torpedo"/>
+<w tok="party"/>
+<w tok="said"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="landed"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

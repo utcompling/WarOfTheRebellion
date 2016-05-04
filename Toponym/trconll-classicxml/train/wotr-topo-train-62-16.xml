@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-16" title="62" domain="wotr">
+<s id="s1">
+<w tok="January"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Southwest"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Lieutenant"/>
+<w tok="Finley"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="Sixth"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="returned"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="30"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="seven"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="left"/>
+<w tok="camp"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="12th"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="proceeded"/>
+<w tok="first"/>
+<w tok="to"/>
+<toponym term="Montevallo">
+<candidates>
+<cand lat="37.85" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<toponym term="Vernon County">
+<candidates>
+<cand lat="37.85" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<w tok="thence"/>
+<w tok="scouted"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="counties"/>
+<w tok="of"/>
+<toponym term="Cedar">
+<candidates>
+<cand lat="37.72" long="-93.86" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Benton">
+<candidates>
+<cand lat="38.3" long="-93.29" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="see"/>
+<w tok="or"/>
+<w tok="hear"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="guerrillas"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="section"/>
+<w tok=","/>
+<w tok="nor"/>
+<w tok="see"/>
+<w tok="anything"/>
+<w tok="that"/>
+<w tok="would"/>
+<w tok="indicate"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="any"/>
+<w tok="there"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="month"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="but"/>
+<w tok="few"/>
+<w tok="inhabitants"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="houses"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="part"/>
+<w tok="have"/>
+<w tok="either"/>
+<w tok="been"/>
+<w tok="burned"/>
+<w tok="or"/>
+<w tok="vacated"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="returned"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="evening"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="18th"/>
+<w tok=","/>
+<w tok="without"/>
+<w tok="any"/>
+<w tok="casualties"/>
+<w tok="whatever"/>
+<w tok="."/>
+<w tok="Distance"/>
+<w tok="traveled"/>
+<w tok="about"/>
+<w tok="300"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="forage"/>
+<w tok="tolerably"/>
+<w tok="plenty"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="MURPHY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Sixth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+</s>
+</doc>

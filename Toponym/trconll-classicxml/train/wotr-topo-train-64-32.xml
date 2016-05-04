@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-32" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="GUITAR"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="nearly"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="adjoining"/>
+<w tok="this"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="search"/>
+<w tok="for"/>
+<w tok="bushwhackers"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="merchandise"/>
+<w tok="taken"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="trains"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="40"/>
+<w tok="guerrillas"/>
+<w tok="passed"/>
+<w tok="the"/>
+<w tok="California"/>
+<w tok="House"/>
+<w tok=","/>
+<w tok="going"/>
+<w tok="north"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="27th"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="forces"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Gasconade">
+<candidates>
+<cand lat="38.670833" long="-91.559167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="crossing"/>
+<w tok="and"/>
+<toponym term="Waynesville">
+<candidates>
+<cand lat="37.820278" long="-92.213611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="become"/>
+<w tok="very"/>
+<w tok="inert"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="changed"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="change"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Gasconade">
+<candidates>
+<cand lat="38.670833" long="-91.559167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="soon"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="still"/>
+<w tok="occupy"/>
+<toponym term="Hartsville">
+<candidates>
+<cand lat="37.250278" long="-92.511944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="occupy"/>
+<w tok="Mountain"/>
+<w tok="Store"/>
+<w tok="again"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="week"/>
+<w tok="."/>
+<w tok="Unless"/>
+<w tok="these"/>
+<w tok="posts"/>
+<w tok="south"/>
+<w tok="are"/>
+<w tok="occupied"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="next"/>
+<w tok="to"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="stage"/>
+<w tok="and"/>
+<w tok="Government"/>
+<w tok="trains"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="little"/>
+<w tok="danger"/>
+<w tok="in"/>
+<w tok="holding"/>
+<w tok="these"/>
+<w tok="posts"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="no"/>
+<w tok="large"/>
+<w tok="bodies"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="can"/>
+<w tok="come"/>
+<w tok="into"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3930268925" long="-92.4404240775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="way"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="nothing"/>
+<w tok="for"/>
+<w tok="man"/>
+<w tok="or"/>
+<w tok="beast"/>
+<w tok="to"/>
+<w tok="eat"/>
+<w tok="for"/>
+<w tok="nearly"/>
+<w tok="100"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Shelby"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="appeared"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Boston Mountains">
+<candidates>
+<cand lat="35.791111" long="-93.106667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Jackman"/>
+<w tok="designs"/>
+<w tok="getting"/>
+<w tok="the"/>
+<w tok="remainder"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="north"/>
+<w tok="by"/>
+<w tok="moving"/>
+<w tok="in"/>
+<w tok="small"/>
+<w tok="bodies"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="California"/>
+<w tok="House"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="probable"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="that"/>
+<w tok="passed"/>
+<w tok="there"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="27th"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="does"/>
+<w tok="not"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="approach"/>
+<w tok="any"/>
+<w tok="posts"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="disturbance"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-63" title="61" domain="wotr">
+<s id="s1">
+<toponym term="Harrisonburg">
+<candidates>
+<cand lat="31.772222" long="-91.8275" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9703559851" long="-91.9163849479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="One"/>
+<w tok="gun-boat"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="aground"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<toponym term="Little River">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="other"/>
+<w tok="five"/>
+<w tok="are"/>
+<w tok="just"/>
+<w tok="below"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Randle"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="punctually"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="only"/>
+<w tok="notified"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="moving"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok="back"/>
+<w tok="to"/>
+<toponym term="Trinity">
+<candidates>
+<cand lat="31.632" long="-91.811" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="road"/>
+<w tok="is"/>
+<w tok="almost"/>
+<w tok="impassable"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="move"/>
+<w tok="any"/>
+<w tok="artillery"/>
+<w tok="over"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="troops"/>
+<w tok="are"/>
+<w tok="very"/>
+<w tok="much"/>
+<w tok="worn"/>
+<w tok="out"/>
+<w tok="and"/>
+<w tok="deficient"/>
+<w tok="in"/>
+<w tok="rations"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="my"/>
+<w tok="best"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="major"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="J."/>
+<w tok="POLIGNAC"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="L."/>
+<w tok="BUSH"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="provided"/>
+<w tok="with"/>
+<w tok="some"/>
+<w tok="incendiary"/>
+<w tok="matter"/>
+<w tok="I"/>
+<w tok="might"/>
+<w tok="try"/>
+<w tok="to"/>
+<w tok="burn"/>
+<w tok="their"/>
+<w tok="fleet"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="distance"/>
+<w tok="between"/>
+<toponym term="Trinity">
+<candidates>
+<cand lat="31.632" long="-91.811" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Harrisonburg">
+<candidates>
+<cand lat="31.772222" long="-91.8275" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="miserable"/>
+<w tok="condition"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="makes"/>
+<w tok="it"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="heavy"/>
+<w tok="duty"/>
+<w tok="on"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="oppose"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="at"/>
+<w tok="both"/>
+<w tok="places"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="J."/>
+<w tok="P"/>
+<w tok="."/>
+</s>
+</doc>

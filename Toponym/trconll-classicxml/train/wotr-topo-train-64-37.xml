@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-37" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="Seventh"/>
+<w tok="Regiment"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="to"/>
+<w tok="concentrate"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="leaving"/>
+<w tok="the"/>
+<w tok="Fourth"/>
+<w tok="with"/>
+<w tok="Colonel"/>
+<w tok="Hall"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="east"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Johnson County">
+<candidates>
+<cand lat="38.75" long="-93.81" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="line"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="a"/>
+<w tok="nucleus"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="more"/>
+<w tok="general"/>
+<w tok="concentration"/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="becomes"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="present"/>
+<w tok="field"/>
+<w tok="of"/>
+<w tok="guerrilla"/>
+<w tok="operations"/>
+<w tok="is"/>
+<w tok="north"/>
+<w tok="and"/>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="their"/>
+<w tok="increased"/>
+<w tok="numbers"/>
+<w tok=","/>
+<w tok="larger"/>
+<w tok="scouts"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok="than"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="sending"/>
+<w tok="out"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="renders"/>
+<w tok="a"/>
+<w tok="larger"/>
+<w tok="reserve"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

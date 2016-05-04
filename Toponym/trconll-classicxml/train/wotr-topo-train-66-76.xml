@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-76" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="SAMUEL"/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Confederate"/>
+<w tok="Forces"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok=","/>
+<w tok="Ga."/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Fla."/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="During"/>
+<w tok="a"/>
+<w tok="recent"/>
+<w tok="movement"/>
+<w tok="on"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Dr."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="Robinson"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="fourth"/>
+<w tok="Regiment"/>
+<w tok="Pennsylvania"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="taken"/>
+<w tok="prisoner"/>
+<w tok="by"/>
+<w tok="your"/>
+<w tok="forces"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="be"/>
+<w tok="released"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="well-established"/>
+<w tok="custom"/>
+<w tok="of"/>
+<w tok="releasing"/>
+<w tok="medical"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="both"/>
+<w tok="armies"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

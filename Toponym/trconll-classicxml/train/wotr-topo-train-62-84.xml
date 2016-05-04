@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-84" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="Colonel"/>
+<w tok="Crandall"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="has"/>
+<w tok="all"/>
+<w tok="winter"/>
+<w tok="been"/>
+<w tok="operating"/>
+<w tok="in"/>
+<toponym term="Northern Arkansas">
+<candidates>
+<cand lat="35.7289940101" long="-92.3124305468" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="along"/>
+<w tok="the"/>
+<toponym term="White River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="as"/>
+<w tok="having"/>
+<w tok="abandoned"/>
+<w tok="the"/>
+<w tok="Confederate"/>
+<w tok="cause"/>
+<w tok="and"/>
+<w tok="gone"/>
+<w tok="to"/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1384415372" long="-90.0465555631" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="confident"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="gone"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="well"/>
+<w tok="to"/>
+<w tok="call"/>
+<w tok="the"/>
+<w tok="attention"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1384415372" long="-90.0465555631" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="important"/>
+<w tok="intelligence"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="more"/>
+<w tok="likely"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="gone"/>
+<w tok="there"/>
+<w tok="and"/>
+<w tok="not"/>
+<w tok="abandoned"/>
+<w tok="the"/>
+<w tok="cause"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="news"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="operating"/>
+<w tok="in"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="From"/>
+<w tok="this"/>
+<w tok="I"/>
+<w tok="infer"/>
+<w tok="that"/>
+<w tok="Mayes"/>
+<w tok=","/>
+<w tok="Gunning"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Freeman"/>
+<w tok="have"/>
+<w tok="fallen"/>
+<w tok="back"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-81" title="60" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="21-22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-Scout"/>
+<w tok="from"/>
+<toponym term="New Creek">
+<candidates>
+<cand lat="39.375" long="-79.026667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Moorefield">
+<candidates>
+<cand lat="39.066667" long="-78.966667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="W. Va.">
+<candidates>
+<cand lat="38.6181240043" long="-80.7432235798" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="James"/>
+<w tok="A."/>
+<w tok="Mulligan"/>
+<w tok=","/>
+<w tok="Twenty-third"/>
+<w tok="Illinois"/>
+<w tok="Infantry"/>
+<w tok="."/>
+<toponym term="CUMBERLAND">
+<candidates>
+<cand lat="39.647778" long="-78.762778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MD.">
+<candidates>
+<cand lat="38.975771548" long="-76.4996610488" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="telegram"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Mulligan"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Wallace"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="hero"/>
+<w tok="of"/>
+<toponym term="Greenland Gap">
+<candidates>
+<cand lat="39.1" long="-79.2" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="company"/>
+<w tok="last"/>
+<w tok="May"/>
+<w tok="by"/>
+<w tok="General"/>
+<w tok="Jones"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="take"/>
+<w tok="to"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="his"/>
+<w tok="prisoner"/>
+<w tok=","/>
+<w tok="Parker"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Kuyknedall"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="since"/>
+<w tok="in"/>
+<toponym term="Hampshire County">
+<candidates>
+<cand lat="39.31" long="-78.61" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

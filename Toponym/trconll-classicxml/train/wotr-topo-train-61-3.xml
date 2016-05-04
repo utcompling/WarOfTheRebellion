@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-3" title="61" domain="wotr">
+<s id="s1">
+<w tok="JANUARY"/>
+<w tok="23-27"/>
+<w tok=","/>
+<w tok="1864.-Scout"/>
+<w tok="from"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Cherokee Bay">
+<candidates>
+<cand lat="36.362222" long="-90.754722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="William"/>
+<w tok="T."/>
+<w tok="Leeper"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<toponym term="PATTERSON">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Captain"/>
+<w tok="Johns"/>
+<w tok="has"/>
+<w tok="returned"/>
+<w tok="all"/>
+<w tok="safe"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="marched"/>
+<w tok="near"/>
+<w tok="300"/>
+<w tok="miles"/>
+<w tok=";"/>
+<w tok="been"/>
+<w tok="all"/>
+<w tok="over"/>
+<w tok="the"/>
+<toponym term="Cherokee Bay">
+<candidates>
+<cand lat="36.362222" long="-90.754722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="captain"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="swamp"/>
+<w tok="scouts"/>
+<w tok="found"/>
+<w tok="no"/>
+<w tok="force"/>
+<w tok="only"/>
+<w tok="Reves"/>
+<w tok="and"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="killed"/>
+<w tok="4"/>
+<w tok="of"/>
+<w tok="Reves"/>
+<w tok="&apos;"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="chased"/>
+<w tok="Reves"/>
+<w tok="for"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="run"/>
+<w tok="him"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Johns"/>
+<w tok="learned"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="fight"/>
+<w tok="had"/>
+<w tok="taken"/>
+<w tok="place"/>
+<w tok="at"/>
+<toponym term="Batersville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="rebels"/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="Colonel"/>
+<w tok="Shaver"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="badly"/>
+<w tok="whipped"/>
+<w tok="and"/>
+<w tok="Colonel"/>
+<w tok="Shaver"/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="evacuated"/>
+<w tok="by"/>
+<w tok="our"/>
+<w tok="forces"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="McRae"/>
+<w tok="had"/>
+<w tok="taken"/>
+<w tok="possession"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="bold"/>
+<w tok="dash"/>
+<w tok="for"/>
+<w tok="24"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="LEEPER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WOODSON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="at"/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

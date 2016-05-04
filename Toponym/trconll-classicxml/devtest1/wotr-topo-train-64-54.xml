@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-54" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Morganza">
+<candidates>
+<cand lat="30.735556" long="-91.61" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="M."/>
+<w tok="K."/>
+<w tok="LAWLER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detachment"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="information"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="considers"/>
+<w tok="altogether"/>
+<w tok="reliable"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="300"/>
+<w tok="Confederate"/>
+<w tok="soldiers"/>
+<w tok="rendezvousing"/>
+<w tok="at"/>
+<toponym term="Waterloo">
+<candidates>
+<cand lat="30.694722" long="-91.357222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="9"/>
+<w tok="miles"/>
+<w tok="below"/>
+<w tok="here"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="cavalry"/>
+<w tok="must"/>
+<w tok="sweep"/>
+<w tok="these"/>
+<w tok="people"/>
+<w tok="away"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="they"/>
+<w tok="return"/>
+<w tok="."/>
+<w tok="Communicate"/>
+<w tok="this"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Davis"/>
+<w tok="."/>
+<w tok="Permit"/>
+<w tok="no"/>
+<w tok="stragglers"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="army"/>
+<w tok="."/>
+<w tok="Punish"/>
+<w tok="stragglers"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="utmost"/>
+<w tok="severity"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="spot"/>
+<w tok="."/>
+<w tok="Communicate"/>
+<w tok="this"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="learned"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="navy"/>
+<w tok="that"/>
+<w tok="1,000"/>
+<w tok="cavalry"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Atchafalaya">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Morgan&apos;s Ferry">
+<candidates>
+</candidates>
+</toponym>
+<w tok="day"/>
+<w tok="before"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="FREDERIC"/>
+<w tok="SPEED"/>
+<w tok=","/>
+</s>
+</doc>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-66" title="75" domain="wotr">
+<s id="s1">
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="KILPATRICK"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Third"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="division"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="McPherson"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="inclosed"/>
+<w tok="instructions"/>
+<w tok="for"/>
+<w tok="General"/>
+<w tok="Garrard"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="with"/>
+<w tok="hid"/>
+<w tok="division"/>
+<w tok="from"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="forward"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="sufficient"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="their"/>
+<w tok="receipt"/>
+<w tok="sure"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-54" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="a.m."/>
+<w tok="Brigadier-General"/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Nothing"/>
+<w tok="of"/>
+<w tok="moment"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="many"/>
+<w tok="men"/>
+<w tok="as"/>
+<w tok="can"/>
+<w tok="work"/>
+<w tok="to"/>
+<w tok="advantage"/>
+<w tok="employed"/>
+<w tok="on"/>
+<w tok="fortifications"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

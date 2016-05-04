@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-39" title="106" domain="wotr">
+<s id="s1">
+<w tok="WAR"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Washington City, D. C.">
+<candidates>
+<cand lat="38.9063995483" long="-77.066181447" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="WILLIAM"/>
+<w tok="M."/>
+<w tok="LENTER"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="If"/>
+<w tok="1,000"/>
+<w tok="men"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="war"/>
+<w tok="are"/>
+<w tok="placed"/>
+<w tok="at"/>
+<toponym term="Panama">
+<candidates>
+<cand lat="35.2669256889" long="-119.059018887" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<toponym term="California">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="passage"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="provided"/>
+<w tok="thence"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="BUCKINGHAM"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Copy"/>
+<w tok="to"/>
+<w tok="M."/>
+<w tok="Jessup"/>
+<w tok="."/>
+<w tok="Eugene"/>
+<w tok="Sullivan"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="William"/>
+<w tok="D"/>
+<w tok="."/>
+<w tok="Chaplin"/>
+<w tok="."/>
+<w tok=")"/>
+<toponym term="Fort Vancouver">
+<candidates>
+<cand lat="45.622583" long="-122.662367" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+</s>
+</doc>

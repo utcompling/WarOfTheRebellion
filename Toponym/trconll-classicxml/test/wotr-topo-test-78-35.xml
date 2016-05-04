@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-35" title="78" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DETACHMENT"/>
+<w tok="SIXTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1291049331" long="-90.0093025714" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8519948364" long="-86.2856808699" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="David"/>
+<w tok="Moore"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="SIXTEENTH"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="THIRD"/>
+<w tok="Brigade"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="substituting"/>
+<w tok="some"/>
+<w tok="regiment"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="Forty-ninth"/>
+<w tok="Illinois"/>
+<w tok="that"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="entitled"/>
+<w tok="to"/>
+<w tok="veteran"/>
+<w tok="furlough"/>
+<w tok=","/>
+<w tok="making"/>
+<w tok="the"/>
+<w tok="number"/>
+<w tok="as"/>
+<w tok="near"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="to"/>
+<w tok="2,000"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="equipped"/>
+<w tok="as"/>
+<w tok="within"/>
+<w tok="directed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="depot"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="ready"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="notify"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="are"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="depot"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok=":"/>
+<w tok="J."/>
+<w tok="HOUGH"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-212" title="63" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="COMPANY"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="FIRST"/>
+<w tok="CAVALRY"/>
+<w tok=","/>
+<w tok="M."/>
+<w tok="S."/>
+<w tok="M."/>
+<w tok=","/>
+<toponym term="Germantown">
+<candidates>
+<cand lat="38.259444" long="-93.982222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JAMES"/>
+<w tok="McFERRAN"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="obedience"/>
+<w tok="to"/>
+<w tok="orders"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="Little"/>
+<w tok=","/>
+<w tok="dated"/>
+<toponym term="Warrensburg">
+<candidates>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="yesterday"/>
+<w tok="("/>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=")"/>
+<w tok="caused"/>
+<w tok="the"/>
+<w tok="bushwhacker"/>
+<w tok="Clement"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="shot"/>
+<w tok="to"/>
+<w tok="death"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="made"/>
+<w tok="no"/>
+<w tok="confessions"/>
+<w tok="of"/>
+<w tok="importance"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="understood"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="whose"/>
+<w tok="company"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="found"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="were"/>
+<w tok="about"/>
+<w tok="100"/>
+<w tok="bushwhackers"/>
+<w tok="scattered"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok=","/>
+<w tok="mostly"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="region"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Sni Hills">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="Gann"/>
+<w tok="and"/>
+<w tok="others"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="were"/>
+<w tok="with"/>
+<w tok="Quantrill"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Lawrence"/>
+<w tok="massacre"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="said"/>
+<w tok="there"/>
+<w tok="were"/>
+<w tok="11"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="together"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Grand River">
+<candidates>
+<cand lat="39.384" long="-93.108" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="before"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="staid"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="above"/>
+<toponym term="Deer Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="20"/>
+<w tok="or"/>
+<w tok="30"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="here"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="HARDESTY"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="Co."/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cav."/>
+<w tok=","/>
+<w tok="M."/>
+<w tok="S."/>
+<w tok="M."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Station"/>
+<w tok="."/>
+</s>
+</doc>

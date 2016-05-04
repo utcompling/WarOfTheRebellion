@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-99" title="60" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="POTOMAC"/>
+<w tok=","/>
+<w tok="April"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="submit"/>
+<w tok="herewith"/>
+<w tok="the"/>
+<w tok="reports"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Kilpatrick"/>
+<w tok="and"/>
+<w tok="subordinate"/>
+<w tok="officers"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="recent"/>
+<w tok="expedition"/>
+<w tok="organized"/>
+<w tok="form"/>
+<w tok="this"/>
+<w tok="army"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="view"/>
+<w tok="to"/>
+<w tok="effect"/>
+<w tok="the"/>
+<w tok="liberation"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="prisoners"/>
+<w tok="in"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="About"/>
+<w tok="the"/>
+<w tok="middle"/>
+<w tok="of"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="in"/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.890157633" long="-77.0404776611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="informed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="honorable"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="that"/>
+<w tok="his"/>
+<w tok="Excellency"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="was"/>
+<w tok="very"/>
+<w tok="anxious"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="his"/>
+<w tok="amnesty"/>
+<w tok="proclamation"/>
+<w tok="distributed"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="lines"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="sent"/>
+<w tok="for"/>
+<w tok="Brigadier-General"/>
+<w tok="Kilpatrick"/>
+<w tok="to"/>
+<w tok="confer"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="practicability"/>
+<w tok="of"/>
+<w tok="accomplishing"/>
+<w tok="this"/>
+<w tok="object"/>
+<w tok="in"/>
+<w tok="connection"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="cavalry"/>
+<w tok="expedition"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="my"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="submitted"/>
+<w tok=","/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="chief"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="his"/>
+<w tok="project"/>
+<w tok="hereto"/>
+<w tok="annexed"/>
+<w tok="("/>
+<w tok="marked"/>
+<w tok="A"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Having"/>
+<w tok="ascertained"/>
+<w tok="from"/>
+<w tok="reliable"/>
+<w tok="sources"/>
+<w tok="that"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="comparatively"/>
+<w tok="defenseless"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="only"/>
+<w tok="about"/>
+<w tok="3,000"/>
+<w tok="local"/>
+<w tok="militia"/>
+<w tok="with"/>
+<w tok="some"/>
+<w tok="field"/>
+<w tok="batteries"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="Hampton"/>
+<w tok="&apos;s"/>
+<w tok="division"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="numbering"/>
+<w tok="not"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="1,500"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="Lee"/>
+<w tok="&apos;s"/>
+<w tok="army"/>
+<w tok="at"/>
+<toponym term="Fredericksburg">
+<candidates>
+<cand lat="38.301829" long="-77.470778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="between"/>
+<w tok="there"/>
+<w tok="and"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="thought"/>
+<w tok="it"/>
+<w tok="practicable"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="rapid"/>
+<w tok="and"/>
+<w tok="secret"/>
+<w tok="movement"/>
+<w tok="that"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="thought"/>
+<w tok="it"/>
+<w tok="practicable"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="rapid"/>
+<w tok="and"/>
+<w tok="secret"/>
+<w tok="movement"/>
+<w tok="that"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="carried"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="coup"/>
+<w tok="de"/>
+<w tok="main"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="our"/>
+<w tok="prisoners"/>
+<w tok="released"/>
+<w tok="before"/>
+<w tok="re-enforcements"/>
+<w tok="from"/>
+<w tok="either"/>
+<toponym term="Petersburg">
+<candidates>
+<cand lat="37.21295" long="-77.400417" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="Lee"/>
+<w tok="&apos;s"/>
+<w tok="army"/>
+<w tok="could"/>
+<w tok="reach"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Instructions"/>
+<w tok="were"/>
+<w tok="accordingly"/>
+<w tok="given"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="("/>
+<w tok="marked"/>
+<w tok="B"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="At"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="Sixth"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="Sedgwick"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="advanced"/>
+<w tok="to"/>
+<toponym term="Madison Court-House">
+<candidates>
+<cand lat="38.376944" long="-78.260833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="cavalry"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="1,500"/>
+<w tok="strong"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Brigadier-General"/>
+<w tok="Custer"/>
+<w tok=","/>
+<w tok="pushed"/>
+<w tok="toward"/>
+<toponym term="Charlottesville">
+<candidates>
+<cand lat="38.0299" long="-78.479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="advance"/>
+<w tok="of"/>
+<w tok="Kilpatrick"/>
+<w tok="&apos;s"/>
+<w tok="movement"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="distract"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="attention"/>
+<w tok="and"/>
+<w tok="prevent"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="force"/>
+<w tok="toward"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="believed"/>
+<w tok="these"/>
+<w tok="plans"/>
+<w tok="succeeded"/>
+<w tok="perfectly"/>
+<w tok="so"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="deceiving"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="reached"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="move"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="bank"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="before"/>
+<w tok="reaching"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="he"/>
+<w tok="detached"/>
+<w tok="Major"/>
+<w tok="Hall"/>
+<w tok="with"/>
+<w tok="450"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="attack"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="near"/>
+<toponym term="Ashland">
+<candidates>
+<cand lat="37.759444" long="-77.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="reaching"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="found"/>
+<w tok="himself"/>
+<w tok="opposed"/>
+<w tok="by"/>
+<w tok="infantry"/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="judgment"/>
+<w tok=","/>
+<w tok="rendered"/>
+<w tok="any"/>
+<w tok="attempt"/>
+<w tok="at"/>
+<w tok="forcing"/>
+<w tok="an"/>
+<w tok="entrance"/>
+<w tok="extremely"/>
+<w tok="hazardous"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="accordingly"/>
+<w tok="made"/>
+<w tok="no"/>
+<w tok="serious"/>
+<w tok="attempt"/>
+<w tok="to"/>
+<w tok="enter"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="some"/>
+<w tok="slight"/>
+<w tok="and"/>
+<w tok="insignificant"/>
+<w tok="skirmishing"/>
+<w tok=","/>
+<w tok="withdrew"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="and"/>
+<w tok="hurriedly"/>
+<w tok="make"/>
+<w tok="his"/>
+<w tok="way"/>
+<w tok="to"/>
+<toponym term="Williamsburg">
+<candidates>
+<cand lat="37.270833" long="-76.706944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Dahlgren"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="been"/>
+<w tok="deceived"/>
+<w tok="by"/>
+<w tok="his"/>
+<w tok="guide"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="unable"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok="the"/>
+<w tok="James"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok=","/>
+<w tok="following"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="left"/>
+<w tok="bank"/>
+<w tok=","/>
+<w tok="endeavored"/>
+<w tok="to"/>
+<w tok="enter"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="withdrawal"/>
+<w tok="of"/>
+<w tok="Kilpatrick"/>
+<w tok="."/>
+<w tok="Dahlgren"/>
+<w tok="pushed"/>
+<w tok="forward"/>
+<w tok="vigorously"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="overtaking"/>
+<w tok="him"/>
+<w tok="and"/>
+<w tok="hearing"/>
+<w tok="nothing"/>
+<w tok="from"/>
+<w tok="Kilpatrick"/>
+<w tok=","/>
+<w tok="whose"/>
+<w tok="guns"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="heard"/>
+<w tok="early"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="afternoon"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="withdrew"/>
+<w tok="and"/>
+<w tok="attempted"/>
+<w tok="to"/>
+<w tok="rejoin"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="body"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="next"/>
+<w tok="day"/>
+<w tok="Dahlgren"/>
+<w tok="became"/>
+<w tok="separated"/>
+<w tok="from"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="being"/>
+<w tok="ambushed"/>
+<w tok="near"/>
+<toponym term="King and Queen Court-House">
+<candidates>
+<cand lat="37.67" long="-76.8775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="himself"/>
+<w tok="fell"/>
+<w tok="mortally"/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="small"/>
+<w tok="force"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="("/>
+<w tok="some"/>
+<w tok="70"/>
+<w tok="or"/>
+<w tok="80"/>
+<w tok="men"/>
+<w tok=")"/>
+<w tok="fell"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="hands"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="rest"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="detachment"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Mitchell"/>
+<w tok=","/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="encountering"/>
+<w tok="numerous"/>
+<w tok="bodies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="succeeded"/>
+<w tok="in"/>
+<w tok="rejoining"/>
+<w tok="Kilpatrick"/>
+<w tok="&apos;s"/>
+<w tok="main"/>
+<w tok="force"/>
+<w tok="at"/>
+<toponym term="Tunstall&apos;s Station">
+<candidates>
+<cand lat="37.5732002" long="-77.0952488" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="York River Railroad">
+<candidates>
+<cand lat="37.4638133049" long="-76.7427213413" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Mitchell"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok="is"/>
+<w tok="herewith"/>
+<w tok="submitted"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="attention"/>
+<w tok="called"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="admirable"/>
+<w tok="manner"/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="handled"/>
+<w tok="his"/>
+<w tok="small"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Custer"/>
+<w tok=","/>
+<w tok="whose"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Charlottesville">
+<candidates>
+<cand lat="38.0299" long="-78.479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="perfectly"/>
+<w tok="successful"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="transmitted"/>
+<w tok="herewith"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Kilpatrick"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="caused"/>
+<w tok="a"/>
+<w tok="thorough"/>
+<w tok="inspection"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="submit"/>
+<w tok="herewith"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="inspection"/>
+<w tok=","/>
+<w tok="showing"/>
+<w tok="the"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="horses"/>
+<w tok="lost"/>
+<w tok="and"/>
+<w tok="disabled"/>
+<w tok=","/>
+<w tok="together"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="lost"/>
+<w tok="arms"/>
+<w tok="and"/>
+<w tok="equipments"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="also"/>
+<w tok="forward"/>
+<w tok="a"/>
+<w tok="nominal"/>
+<w tok="list"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="missing"/>
+<w tok="in"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="believed"/>
+<w tok="the"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="killed"/>
+<w tok="("/>
+<w tok="2"/>
+<w tok=")"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="("/>
+<w tok="12"/>
+<w tok=")"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="increased"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="missing"/>
+<w tok="are"/>
+<w tok="finally"/>
+<w tok="accounted"/>
+<w tok="for"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="were"/>
+<w tok="no"/>
+<w tok="casualties"/>
+<w tok="in"/>
+<w tok="General"/>
+<w tok="Custer"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="MEADE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="TOWNSEND"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

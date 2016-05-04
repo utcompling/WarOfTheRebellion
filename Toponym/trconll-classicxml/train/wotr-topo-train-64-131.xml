@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-131" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="8.30"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<toponym term="Osage River">
+<candidates>
+<cand lat="38.596944" long="-91.945278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="saddle-skirts"/>
+<w tok="."/>
+<w tok="Stage"/>
+<w tok="crosses"/>
+<w tok="on"/>
+<w tok="ferry"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

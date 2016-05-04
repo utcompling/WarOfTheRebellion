@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-15" title="78" domain="wotr">
+<s id="s1">
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=":"/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok=","/>
+<w tok="via"/>
+<toponym term="Cincinnati">
+<candidates>
+<cand lat="39.0876358933" long="-84.5600838214" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="Burbridge"/>
+<w tok="came"/>
+<w tok="up"/>
+<w tok="with"/>
+<w tok="Morgan"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="near"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="after"/>
+<w tok="an"/>
+<w tok="hour"/>
+<w tok="&apos;s"/>
+<w tok="fight"/>
+<w tok="completely"/>
+<w tok="broke"/>
+<w tok="him"/>
+<w tok="up"/>
+<w tok="."/>
+<w tok="Am"/>
+<w tok="expecting"/>
+<w tok="news"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="by"/>
+<w tok="courier"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

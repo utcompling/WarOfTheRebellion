@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-64" title="78" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="JUNE"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="For"/>
+<w tok="congratulatory"/>
+<w tok="dispatches"/>
+<w tok="to"/>
+<w tok="Burbridge"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="President"/>
+<w tok="Lincoln"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="Stanton"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="General"/>
+<w tok="Schofield"/>
+<w tok=","/>
+<w tok="see"/>
+<w tok="Part"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="27"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="NASHVILLE">
+<candidates>
+<cand lat="36.1646957661" long="-86.7573494464" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8519948364" long="-86.2856808699" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="WHIPPLE"/>
+<w tok=","/>
+<w tok="Near"/>
+<toponym term="Atlanta">
+<candidates>
+<cand lat="33.7016732617" long="-84.3893157656" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok="contains"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok=";"/>
+<w tok="was"/>
+<w tok="received"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Carrington"/>
+<w tok="at"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2469791202" long="-85.7516204531" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Communications"/>
+<w tok="with"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="opened"/>
+<w tok="."/>
+<w tok="Governor"/>
+<w tok="Bramlette"/>
+<w tok="says"/>
+<w tok="a"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Morgan"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Lexington and Frankfort Railroad">
+<candidates>
+</candidates>
+</toponym>
+<w tok="moving"/>
+<w tok="south"/>
+<w tok="."/>
+<w tok="Morgan"/>
+<w tok="was"/>
+<w tok="whipped"/>
+<w tok="by"/>
+<w tok="Burbridge"/>
+<w tok=","/>
+<w tok="losing"/>
+<w tok="nearly"/>
+<w tok="half"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="have"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="over"/>
+<w tok="2,000"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="may"/>
+<w tok="attempt"/>
+<w tok="to"/>
+<w tok="force"/>
+<w tok="your"/>
+<w tok="line"/>
+<w tok="at"/>
+<w tok="some"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="Friday"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="scouts"/>
+<w tok="at"/>
+<toponym term="Lebanon">
+<candidates>
+<cand lat="37.570556" long="-85.256389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="looking"/>
+<w tok="to"/>
+<w tok="contingencies"/>
+<w tok="of"/>
+<w tok="escape"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="direction"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="H."/>
+<w tok="ROUSSEAU"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

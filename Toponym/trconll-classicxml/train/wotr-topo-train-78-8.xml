@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-8" title="78" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="NORTHERN"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Columbus">
+<candidates>
+<cand lat="39.983333" long="-82.983333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ohio">
+<candidates>
+<cand lat="40.3936282738" long="-82.7300096532" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864-2"/>
+<w tok="."/>
+<w tok="10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="P."/>
+<w tok="HEINTZELMAN"/>
+<w tok=","/>
+<w tok="Spencer"/>
+<w tok="House"/>
+<w tok=","/>
+<toponym term="Cincinnati">
+<candidates>
+<cand lat="39.0876358933" long="-84.5381111652" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ohio">
+<candidates>
+<cand lat="40.3936282738" long="-82.7300096532" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Carrington"/>
+<w tok="telegraphs"/>
+<w tok="from"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="1"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=":"/>
+<w tok="Messenger"/>
+<w tok="arrived"/>
+<w tok="from"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="bridges"/>
+<w tok="burned"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Kentucky River">
+<candidates>
+<cand lat="38.683333" long="-85.188333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="rebels"/>
+<w tok="left"/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<toponym term="Paris">
+<candidates>
+<cand lat="38.206389" long="-84.257778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Carrington"/>
+<w tok="is"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opinion"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="cross"/>
+<w tok="westward"/>
+<w tok=","/>
+<w tok="cutting"/>
+<w tok="Sherman"/>
+<w tok="&apos;s"/>
+<w tok="line"/>
+<w tok="."/>
+<w tok="Great"/>
+<w tok="indifference"/>
+<w tok="of"/>
+<w tok="people"/>
+<w tok="at"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="not"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="organized"/>
+<w tok="."/>
+<w tok="Indiana"/>
+<w tok="militia"/>
+<w tok="assembling"/>
+<w tok="at"/>
+<toponym term="Jeffersonville">
+<candidates>
+<cand lat="37.969167" long="-83.824444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="hesitate"/>
+<w tok="about"/>
+<w tok="leaving"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="hopes"/>
+<w tok="to"/>
+<w tok="hear"/>
+<w tok="from"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="POTTER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

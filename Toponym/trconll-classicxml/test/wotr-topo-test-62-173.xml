@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-173" title="62" domain="wotr">
+<s id="s1">
+<toponym term="KANSAS CITY">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Ford"/>
+<w tok="arrived"/>
+<w tok="with"/>
+<w tok="but"/>
+<w tok="small"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="wants"/>
+<w tok="Lieutenants"/>
+<w tok="Wright"/>
+<w tok="and"/>
+<w tok="Allen"/>
+<w tok=","/>
+<w tok="supernumerary"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok="from"/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.76185" long="-104.881105" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="mustered"/>
+<w tok="out"/>
+<w tok="."/>
+<w tok="Shall"/>
+<w tok="I"/>
+<w tok="order"/>
+<w tok="it"/>
+<w tok="?"/>
+<w tok="THOS"/>
+<w tok="."/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-89" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="two"/>
+<w tok="steam"/>
+<w tok="tugs"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="were"/>
+<w tok="stationed"/>
+<w tok="off"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Number"/>
+<w tok="of"/>
+<w tok="fleet"/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok="."/>
+<w tok="Water-boat"/>
+<w tok="failed"/>
+<w tok="to"/>
+<w tok="come"/>
+<w tok="again"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="shot"/>
+<w tok="fired"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="missed"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="T."/>
+<w tok="MILES"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Quartermaster-General"/>
+<w tok="."/>
+</s>
+</doc>

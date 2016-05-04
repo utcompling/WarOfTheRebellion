@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-226" title="63" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9080947524" long="-77.0199512055" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant-General"/>
+<w tok="GRANT"/>
+<w tok=","/>
+<toponym term="Culpeper">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<toponym term="Fort Smith">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Indian Territory">
+<candidates>
+</candidates>
+</toponym>
+<w tok="added"/>
+<w tok="to"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="General"/>
+<w tok="Blunt"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Curtis"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

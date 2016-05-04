@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-195" title="64" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="144"/>
+<w tok="."/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="headquarters"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="West"/>
+<w tok="Mississippi"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="J."/>
+<w tok="Reynolds"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Canby"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Natchez">
+<candidates>
+</candidates>
+</toponym>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="there-after"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="interests"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="will"/>
+<w tok="permit"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Reynolds"/>
+<w tok="will"/>
+<w tok="return"/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="convenient"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="resume"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Defenses"/>
+<w tok="of"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok=":"/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DRAKE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

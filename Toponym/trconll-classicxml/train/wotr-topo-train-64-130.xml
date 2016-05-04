@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-130" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Send"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok="to"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2072765948" long="-93.293857055" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="place"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Sixth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Let"/>
+<w tok="two"/>
+<w tok="battalions"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="third"/>
+<w tok="can"/>
+<w tok="wait"/>
+<w tok="until"/>
+<w tok="Colonel"/>
+<w tok="Catherwood"/>
+<w tok="&apos;s"/>
+<w tok="regiment"/>
+<w tok="has"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Osage">
+<candidates>
+<cand lat="38.596944" long="-91.945278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="going"/>
+<w tok="down"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="serve"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="daily"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Rosecrans"/>
+<w tok=":"/>
+<w tok="FRANK"/>
+<w tok="ENO"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

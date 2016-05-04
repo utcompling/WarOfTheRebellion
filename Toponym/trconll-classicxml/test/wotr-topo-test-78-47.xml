@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-47" title="78" domain="wotr">
+<s id="s1">
+<toponym term="CAMP NELSON">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DICKSON"/>
+<w tok=":"/>
+<w tok="My"/>
+<w tok="pickets"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="brought"/>
+<w tok="in"/>
+<w tok="some"/>
+<w tok="prisoners"/>
+<w tok="-"/>
+<w tok="one"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="A."/>
+<w tok="Lawson"/>
+<w tok="McAfee"/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Nicholasville">
+<candidates>
+<cand lat="37.882778" long="-84.576667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="1,500"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="detachment"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="pick"/>
+<w tok="up"/>
+<w tok="stragglers"/>
+<w tok="."/>
+<w tok="Same"/>
+<w tok="force"/>
+<w tok="you"/>
+<w tok="mentioned"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="suppose"/>
+<w tok=","/>
+<w tok="300"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="you"/>
+<w tok="no"/>
+<w tok="cavalry"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="intercept"/>
+<w tok="them"/>
+<w tok="?"/>
+<w tok="My"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="strong"/>
+<w tok="enough"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

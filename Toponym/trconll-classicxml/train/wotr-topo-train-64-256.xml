@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-256" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864-3.20"/>
+<w tok="p.m."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="First"/>
+<w tok="Battalion"/>
+<w tok=","/>
+<w tok="Seventh"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="moved"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="via"/>
+<toponym term="Osceola">
+<candidates>
+<cand lat="38.046389" long="-93.699444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="this"/>
+<w tok="afternoon"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<w tok="Warsaw"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="Springfield"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

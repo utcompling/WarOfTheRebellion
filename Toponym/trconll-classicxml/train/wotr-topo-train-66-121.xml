@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-121" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Second"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="HILTON"/>
+<w tok="HEAD"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="29,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="attention"/>
+<w tok="is"/>
+<w tok="invited"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="accompanying"/>
+<w tok="report*"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Pickering"/>
+<w tok=","/>
+<w tok="acting"/>
+<w tok="assistant"/>
+<w tok="inspector-general"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="armed"/>
+<w tok="transports"/>
+<w tok="to"/>
+<toponym term="Scull Creek">
+<candidates>
+<cand lat="32.2373405133" long="-80.7525210848" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="would"/>
+<w tok="seem"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="method"/>
+<w tok="of"/>
+<w tok="increasing"/>
+<w tok="security"/>
+<w tok="form"/>
+<w tok="attack"/>
+<w tok="along"/>
+<w tok="the"/>
+<w tok="shores"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="stream"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="Captain"/>
+<w tok="Pickering"/>
+<w tok="observes"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="the"/>
+<w tok="small"/>
+<w tok="force"/>
+<w tok="at"/>
+<w tok="our"/>
+<w tok="disposal"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="furnish"/>
+<w tok="a"/>
+<w tok="complete"/>
+<w tok="chain"/>
+<w tok="of"/>
+<w tok="pickets"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="distance"/>
+<w tok="."/>
+<w tok="EDWARD"/>
+<w tok="E."/>
+<w tok="POTTER"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

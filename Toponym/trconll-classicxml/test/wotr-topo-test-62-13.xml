@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-13" title="62" domain="wotr">
+<s id="s1">
+<w tok="REMARKS"/>
+<w tok="."/>
+<w tok="Swamp"/>
+<w tok=","/>
+<w tok="canebrake"/>
+<w tok=","/>
+<w tok="bayou"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="Dr."/>
+<w tok="Means"/>
+<w tok="&apos;"/>
+<w tok="farm"/>
+<w tok="."/>
+<w tok="John"/>
+<w tok="F."/>
+<w tok="Harrison"/>
+<w tok="&apos;s"/>
+<w tok="mill"/>
+<w tok="and"/>
+<w tok="cotton-press"/>
+<w tok="("/>
+<w tok="Union"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Berry"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="("/>
+<w tok="Union"/>
+<w tok="captain"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Old"/>
+<w tok="military"/>
+<w tok="road"/>
+<w tok="from"/>
+<toponym term="Cape Girardeau">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Austin">
+<candidates>
+<cand lat="30.2452259305" long="-97.7754098971" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="cut"/>
+<w tok="out"/>
+<w tok="by"/>
+<w tok="General"/>
+<w tok="Jackson"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="war"/>
+<w tok="of"/>
+<w tok="1812"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Kennedy"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="("/>
+<w tok="Union"/>
+<w tok="captain"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Merriweather"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok=","/>
+<w tok="store"/>
+<w tok=","/>
+<w tok="and"/>
+<toponym term="Masonic Hall">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Union"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Emmett"/>
+<w tok="MacDonald"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="Farm"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Holiby"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="Moody"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="("/>
+<w tok="secesh"/>
+<w tok=")"/>
+<w tok=";"/>
+<w tok="wife"/>
+<w tok="is"/>
+<w tok="Union"/>
+<w tok="."/>
+<w tok="Marmuduke"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="Farm"/>
+<w tok="of"/>
+<w tok="Mr."/>
+<w tok="Morris"/>
+<w tok="("/>
+<w tok="Union"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Graveyard"/>
+<w tok="on"/>
+<w tok="high"/>
+<w tok="bluff"/>
+<w tok="."/>
+<w tok="Widow"/>
+<w tok="Chitman"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Sulphur Rock road">
+<candidates>
+</candidates>
+</toponym>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Morris"/>
+<w tok=","/>
+<w tok="secesh"/>
+<w tok="."/>
+<w tok="Creek"/>
+<w tok="."/>
+<w tok="Hokes"/>
+<w tok="&apos;"/>
+<w tok="nursery"/>
+<w tok="("/>
+<w tok="Union"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Country"/>
+<w tok="residence"/>
+<w tok="of"/>
+<w tok="William"/>
+<w tok="Byers"/>
+<w tok=","/>
+<w tok="esq"/>
+<w tok="."/>
+<w tok="High"/>
+<w tok=","/>
+<w tok="rocky"/>
+<w tok="ridge"/>
+<w tok="in"/>
+<w tok="rear"/>
+<w tok="of"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Polk Bayou">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Large"/>
+<w tok="nice"/>
+<w tok="valley"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Bayou Doty Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="mostly"/>
+<w tok="owned"/>
+<w tok="and"/>
+<w tok="cultivated"/>
+<w tok="by"/>
+<w tok="William"/>
+<w tok="Merriweather"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="wealthy"/>
+<w tok="country"/>
+<w tok="merchant"/>
+<w tok="and"/>
+<w tok="treasurer"/>
+<w tok="of"/>
+<w tok="--"/>
+<w tok="-lodge"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="meets"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="commodious"/>
+<w tok="hall"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="upper"/>
+<w tok="story"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="store-house"/>
+<w tok="."/>
+<w tok="Nice"/>
+<w tok="rolling"/>
+<w tok="land"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="better"/>
+<w tok="quality"/>
+<w tok=";"/>
+<w tok="good"/>
+<w tok="timber"/>
+<w tok=","/>
+<w tok="cut"/>
+<w tok="off"/>
+<w tok="near"/>
+<w tok="Marmaduke"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="Land"/>
+<w tok="flat"/>
+<w tok="and"/>
+<w tok="clayey"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="reddish"/>
+<w tok="color"/>
+<w tok=";"/>
+<w tok="does"/>
+<w tok="not"/>
+<w tok="produce"/>
+<w tok="very"/>
+<w tok="abundantly"/>
+<w tok="of"/>
+<w tok="anything"/>
+<w tok="."/>
+<w tok="About"/>
+<w tok="a"/>
+<w tok="mile"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="creek"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="crosses"/>
+<w tok="the"/>
+<toponym term="Sulphur Rock road">
+<candidates>
+<cand lat="35.751944" long="-91.501944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="right"/>
+<w tok="angles"/>
+<w tok="."/>
+<toponym term="Sulphur Rock">
+<candidates>
+<cand lat="35.751944" long="-91.501944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="due"/>
+<w tok="south"/>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Descend"/>
+<w tok="long"/>
+<w tok=","/>
+<w tok="steep"/>
+<w tok="hill"/>
+<w tok="a"/>
+<w tok="mile"/>
+<w tok="in"/>
+<w tok="rear"/>
+<w tok="of"/>
+<w tok="town"/>
+<w tok=";"/>
+<w tok="cross"/>
+<w tok="creek"/>
+<w tok="three"/>
+<w tok="times"/>
+<w tok=";"/>
+<w tok="good"/>
+<w tok=","/>
+<w tok="gravelly"/>
+<w tok="fords"/>
+<w tok="."/>
+<w tok="Land"/>
+<w tok="flat"/>
+<w tok="and"/>
+<w tok="clayey"/>
+<w tok=";"/>
+<w tok="road"/>
+<w tok="good"/>
+<w tok="."/>
+<w tok="Rise"/>
+<w tok="on"/>
+<w tok="high"/>
+<w tok="land"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="nursery"/>
+<w tok="."/>
+<w tok="Hokes"/>
+<w tok="driven"/>
+<w tok="from"/>
+<w tok="home"/>
+<w tok="by"/>
+<w tok="secesh"/>
+<w tok="."/>
+</s>
+</doc>

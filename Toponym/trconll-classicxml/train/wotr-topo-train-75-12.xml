@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-12" title="75" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="OHIO"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-5.35"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="checked"/>
+<w tok="the"/>
+<w tok="movement"/>
+<w tok="in"/>
+<w tok="McCook"/>
+<w tok="&apos;s"/>
+<w tok="front"/>
+<w tok="and"/>
+<w tok="apprehend"/>
+<w tok="no"/>
+<w tok="further"/>
+<w tok="danger"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="about"/>
+<w tok="to"/>
+<w tok="attack"/>
+<w tok="on"/>
+<w tok="my"/>
+<w tok="right"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

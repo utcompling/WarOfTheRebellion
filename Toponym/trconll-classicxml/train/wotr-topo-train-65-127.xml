@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-127" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Holcombe"/>
+<w tok="legion"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="February"/>
+<w tok="for"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="expecting"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0797363605" long="-81.0986805216" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="rejoin"/>
+<w tok="their"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

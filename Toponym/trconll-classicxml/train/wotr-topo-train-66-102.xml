@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-102" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="PURINGTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Quartermaster"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="boat"/>
+<w tok="to"/>
+<toponym term="Picolata">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="bringing"/>
+<w tok="down"/>
+<w tok="all"/>
+<w tok="refugees"/>
+<w tok="and"/>
+<w tok="others"/>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="part"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="raid"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="accompanying"/>
+<w tok="letter"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Picolata">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="M."/>
+<w tok="BAILEY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

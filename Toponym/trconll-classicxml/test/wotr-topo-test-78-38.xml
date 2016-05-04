@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-38" title="78" domain="wotr">
+<s id="s1">
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="C."/>
+<w tok="RAWOLLE"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="Colonel"/>
+<w tok="Waring"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="grazing"/>
+<w tok="his"/>
+<w tok="horses"/>
+<w tok="about"/>
+<w tok="two"/>
+<w tok="hours"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="entirely"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="desirous"/>
+<w tok="of"/>
+<w tok="reaching"/>
+<w tok="his"/>
+<w tok="camp"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="advisable"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="do"/>
+<w tok="so"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Winslow"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="should"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok=","/>
+<w tok="reach"/>
+<toponym term="Germantown">
+<candidates>
+<cand lat="38.654722" long="-83.963333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="H."/>
+<w tok="GRIERSON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

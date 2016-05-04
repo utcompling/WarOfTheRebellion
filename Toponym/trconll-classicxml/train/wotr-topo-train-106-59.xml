@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-59" title="106" domain="wotr">
+<s id="s1">
+<toponym term="FOR YUMA">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="CAL.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="RICHARD"/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="arrived"/>
+<w tok="here"/>
+<w tok="without"/>
+<w tok="meeting"/>
+<w tok="with"/>
+<w tok="any"/>
+<w tok="opposition"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="informed"/>
+<w tok="you"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="surmised"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="cavalry"/>
+<w tok="requested"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Bowie"/>
+<w tok="joined"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="accompany"/>
+<w tok="me"/>
+<w tok="to"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="together"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Fifth"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="unless"/>
+<w tok="I"/>
+<w tok="meet"/>
+<w tok="more"/>
+<w tok="cavalry"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Pima Villages">
+<candidates>
+<cand lat="33.154444" long="-111.926667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="resume"/>
+<w tok="my"/>
+<w tok="march"/>
+<w tok="to-morrow"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="endeavor"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="thourgh"/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="convenient"/>
+<w tok="speed"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Sherman"/>
+<w tok="leaves"/>
+<w tok="to-morrow"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Camp Latham">
+<candidates>
+<cand lat="34.007778" long="-118.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="teams"/>
+<w tok="hired"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="from"/>
+<w tok="Mr."/>
+<w tok="Banning"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="deserves"/>
+<w tok="all"/>
+<w tok="credit"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="faithful"/>
+<w tok="and"/>
+<w tok="energetic"/>
+<w tok="manner"/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="commanded"/>
+<w tok="the"/>
+<w tok="escort"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WILLIAM"/>
+<w tok="G."/>
+<w tok="MORRIS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Quartermaster"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+</s>
+</doc>

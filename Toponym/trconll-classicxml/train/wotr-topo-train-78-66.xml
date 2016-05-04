@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-66" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="ALLEN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Quartermaster"/>
+<w tok=","/>
+<toponym term="Catlettsburg">
+<candidates>
+<cand lat="38.404722" long="-82.600556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Send"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Truce"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Louisa">
+<candidates>
+<cand lat="38.111944" long="-82.605833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="once"/>
+<w tok=":"/>
+<w tok="Send"/>
+<w tok="all"/>
+<w tok="your"/>
+<w tok="mounted"/>
+<w tok="force"/>
+<w tok="to"/>
+<toponym term="Grayson">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="intercept"/>
+<w tok="any"/>
+<w tok="rebel"/>
+<w tok="retreating"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="direction"/>
+<w tok="."/>
+<w tok="Scout"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="directions"/>
+<w tok="from"/>
+<toponym term="Grayson">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="capture"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="prisoners"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="."/>
+<w tok="Be"/>
+<w tok="careful"/>
+<w tok="to"/>
+<w tok="have"/>
+<toponym term="Louisa">
+<candidates>
+<cand lat="38.111944" long="-82.605833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="secure"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="two"/>
+<w tok="battles"/>
+<w tok="at"/>
+<toponym term="Mount Sterling">
+<candidates>
+<cand lat="38.056667" long="-83.944444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="forces"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="completely"/>
+<w tok="routed"/>
+<w tok="and"/>
+<w tok="dispersed"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Burbridge"/>
+<w tok=":"/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

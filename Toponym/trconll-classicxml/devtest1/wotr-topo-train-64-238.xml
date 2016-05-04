@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-238" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="DEVALL&apos;S BLUFF">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="left"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="encamped"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="northeast"/>
+<w tok="of"/>
+<toponym term="Searcy">
+<candidates>
+<cand lat="35.925556" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="55"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="parties"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="ferries"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Major"/>
+<w tok="Childress"/>
+<w tok="with"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="is"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="waiting"/>
+<w tok="any"/>
+<w tok="movements"/>
+<w tok="that"/>
+<w tok="Shelby"/>
+<w tok="may"/>
+<w tok="make"/>
+<w tok="."/>
+<w tok="Shelby"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="three"/>
+<w tok="pieces"/>
+<w tok="more"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="which"/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="him"/>
+<w tok="the"/>
+<toponym term="Mississippi River">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="start"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="raining"/>
+<w tok="for"/>
+<w tok="three"/>
+<w tok="days"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="nights"/>
+<w tok="on"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="by"/>
+<w tok="to-night"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="impossible"/>
+<w tok="except"/>
+<w tok="at"/>
+<w tok="Clinton"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="F."/>
+<w tok="GEIGER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

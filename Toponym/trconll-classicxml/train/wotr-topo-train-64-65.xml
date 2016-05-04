@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-65" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.9093759967" long="-77.0351091688" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.908169717" long="-77.0355426375" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864-1.23"/>
+<w tok="p.m."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="forward"/>
+<w tok="to"/>
+<w tok="Adjutant-General"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok="copies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="telegrams"/>
+<w tok="from"/>
+<w tok="Generals"/>
+<w tok="Steele"/>
+<w tok=","/>
+<w tok="Sanborn"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Thayer"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="reliable"/>
+<w tok="sources"/>
+<w tok="to"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="refer"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="showing"/>
+<w tok="the"/>
+<w tok="passage"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Arkansas River">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="rebel"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="aggregate"/>
+<w tok="large"/>
+<w tok="than"/>
+<w tok="your"/>
+<w tok="present"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="attention"/>
+<w tok="is"/>
+<w tok="called"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fact"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="department"/>
+<w tok="are"/>
+<w tok="scattered"/>
+<w tok="among"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="fifty"/>
+<w tok="separate"/>
+<w tok="posts"/>
+<w tok="or"/>
+<w tok="stations"/>
+<w tok="thus"/>
+<w tok="virtually"/>
+<w tok="inviting"/>
+<w tok="separate"/>
+<w tok="attacks"/>
+<w tok="upon"/>
+<w tok="weak"/>
+<w tok="detachments"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="concentrating"/>
+<w tok="your"/>
+<w tok="forces"/>
+<w tok="upon"/>
+<w tok="a"/>
+<w tok="less"/>
+<w tok="number"/>
+<w tok="and"/>
+<w tok="more"/>
+<w tok="important"/>
+<w tok="positions"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="much"/>
+<w tok="better"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="repel"/>
+<w tok="any"/>
+<w tok="advance"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

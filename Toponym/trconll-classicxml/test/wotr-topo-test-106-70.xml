@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-70" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="GEORGE"/>
+<w tok="W."/>
+<w tok="PATTEN"/>
+<w tok=","/>
+<w tok="Ninth"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Fort"/>
+<w tok="Steilacoom"/>
+<w tok=","/>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok="has"/>
+<w tok="this"/>
+<w tok="day"/>
+<w tok="directed"/>
+<w tok="Captain"/>
+<w tok="Barry"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="Washington"/>
+<w tok="Territory"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Fort Steilacoom">
+<candidates>
+<cand lat="47.179" long="-122.564" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="relieving"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="station"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="latter"/>
+<w tok="to"/>
+<w tok="repair"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="taking"/>
+<w tok="up"/>
+<w tok="Barry"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="detain"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="over"/>
+<w tok="ten"/>
+<w tok="hours"/>
+<w tok="in"/>
+<w tok="debarking"/>
+<w tok="and"/>
+<w tok="embarking"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="necessary"/>
+<w tok="the"/>
+<w tok="acting"/>
+<w tok="assistant"/>
+<w tok="quartermaster"/>
+<w tok="and"/>
+<w tok="acting"/>
+<w tok="commissary"/>
+<w tok="of"/>
+<w tok="subsistence"/>
+<w tok="can"/>
+<w tok="remain"/>
+<w tok="to"/>
+<w tok="transfer"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="for"/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="responsible"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="the"/>
+<w tok="completion"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="duty"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="captain"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="RICHD"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

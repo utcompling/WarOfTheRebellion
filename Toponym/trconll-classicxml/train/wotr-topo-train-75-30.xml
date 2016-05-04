@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-30" title="75" domain="wotr">
+<s id="s1">
+<toponym term="PROSPECT">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8595329517" long="-86.3634931974" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="bring"/>
+<w tok="Seventeenth"/>
+<w tok="Wisconsin"/>
+<w tok="up"/>
+<w tok="here"/>
+<w tok="to-night"/>
+<w tok="and"/>
+<w tok="detain"/>
+<w tok="the"/>
+<w tok="train"/>
+<w tok="until"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="scouts"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="mistaken"/>
+<w tok=","/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="threatened"/>
+<w tok="more"/>
+<w tok="than"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Do"/>
+<w tok="you"/>
+<w tok="want"/>
+<w tok="the"/>
+<w tok="Seventeenth"/>
+<w tok="Wisconsin"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="at"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ca"/>
+<w tok="n&apos;t"/>
+<w tok="well"/>
+<w tok="ge"/>
+<w tok="there"/>
+<w tok="to-night"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="attacked"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="need"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="attacked"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="captured"/>
+<w tok="."/>
+<w tok="Keep"/>
+<w tok="me"/>
+<w tok="advised"/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="for"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="the"/>
+<w tok="demonstration"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="a"/>
+<w tok="feint"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="Q."/>
+<w tok="GRESHAM"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-31" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CULPEPER">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.550923524" long="-78.5025297014" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-2.30"/>
+<w tok="p.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="3.30"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Letters"/>
+<w tok="from"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="Interior"/>
+<w tok="and"/>
+<w tok="Commissioner"/>
+<w tok="of"/>
+<w tok="Indian"/>
+<w tok="Affairs"/>
+<w tok=","/>
+<w tok="indorsing"/>
+<w tok="letters"/>
+<w tok="from"/>
+<w tok="P."/>
+<w tok="Choteau"/>
+<w tok="&amp;"/>
+<w tok="Co."/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="requesting"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="means"/>
+<w tok="of"/>
+<w tok="defense"/>
+<w tok="and"/>
+<w tok="protection"/>
+<w tok="in"/>
+<w tok="transporting"/>
+<w tok="Indian"/>
+<w tok="goods"/>
+<w tok="up"/>
+<toponym term="Missouri River">
+<candidates>
+<cand lat="38.813611" long="-90.119722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+<w tok="Please"/>
+<w tok="direct"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="arsenal"/>
+<w tok="to"/>
+<w tok="furnish"/>
+<w tok="them"/>
+<w tok="two"/>
+<w tok="12-pounder"/>
+<w tok="howitzers"/>
+<w tok="and"/>
+<w tok="500"/>
+<w tok="rounds"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="General"/>
+<w tok="Curtis"/>
+<w tok="to"/>
+<w tok="furnish"/>
+<w tok="them"/>
+<w tok="a"/>
+<w tok="detail"/>
+<w tok="of"/>
+<w tok="30"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="troops"/>
+<w tok="nearest"/>
+<w tok="the"/>
+<toponym term="Missouri River">
+<candidates>
+<cand lat="38.813611" long="-90.119722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="Government"/>
+<w tok="property"/>
+<w tok="."/>
+<w tok="Telegraph"/>
+<w tok="copies"/>
+<w tok="of"/>
+<w tok="each"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="P."/>
+<w tok="Choteau"/>
+<w tok="&amp;"/>
+<w tok="Co."/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok="."/>
+</s>
+</doc>

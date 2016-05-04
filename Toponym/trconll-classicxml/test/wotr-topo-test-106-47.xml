@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-47" title="106" domain="wotr">
+<s id="s1">
+<w tok="CAMP"/>
+<w tok="INDEPENDENCE"/>
+<w tok=","/>
+<w tok="OWEN"/>
+<w tok="&apos;S"/>
+<w tok="RIVER"/>
+<w tok="EXPEDITION"/>
+<w tok=","/>
+<w tok="September"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="owing"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fact"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="no"/>
+<w tok="provisions"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="commissary"/>
+<w tok="departmetn"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="deemed"/>
+<w tok="it"/>
+<w tok="advisable"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="the"/>
+<w tok="tents"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="struck"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="entire"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="toward"/>
+<toponym term="Los Angeles">
+<candidates>
+<cand lat="34.0582531367" long="-118.222263311" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="we"/>
+<w tok="meet"/>
+<w tok="a"/>
+<w tok="provision"/>
+<w tok="train"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="probability"/>
+<w tok="now"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="meantime"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="authorized"/>
+<w tok="Captain"/>
+<w tok="T."/>
+<w tok="H."/>
+<w tok="Goodman"/>
+<w tok=","/>
+<w tok="acting"/>
+<w tok="assistant"/>
+<w tok="quartermaster"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="purchase"/>
+<w tok="such"/>
+<w tok="stores"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="subsistence"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="procure"/>
+<w tok="in"/>
+<w tok="or"/>
+<w tok="near"/>
+<w tok="Union"/>
+<w tok="Camp"/>
+<w tok="or"/>
+<toponym term="Keysville">
+<candidates>
+<cand lat="35.625833" long="-118.510833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="command"/>
+<w tok="commenced"/>
+<w tok="its"/>
+<w tok="march"/>
+<w tok="at"/>
+<w tok="9"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="M."/>
+<w tok="O&apos;NEILL"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

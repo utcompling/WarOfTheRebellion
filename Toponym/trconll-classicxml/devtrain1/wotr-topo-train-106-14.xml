@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-14" title="106" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="SEPTEMBER"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="-For"/>
+<toponym term="For Carleton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Canby">
+<candidates>
+<cand lat="46.291111" long="-124.072222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="relating"/>
+<w tok="to"/>
+<w tok="operations"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="see"/>
+<w tok="Vol"/>
+<w tok="."/>
+<w tok="IX"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="695"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="ARIZONA"/>
+<w tok=","/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="WILLIS"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<toponym term="Hart&apos;s Mill">
+<candidates>
+<cand lat="31.801847" long="-106.424608" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="To"/>
+<w tok="provide"/>
+<w tok="against"/>
+<w tok="the"/>
+<w tok="probability"/>
+<w tok="of"/>
+<w tok="an"/>
+<w tok="attack"/>
+<w tok="upon"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="immediate"/>
+<w tok="steps"/>
+<w tok="to"/>
+<w tok="place"/>
+<w tok="the"/>
+<w tok="machinery"/>
+<w tok="of"/>
+<toponym term="Hart&apos;s Mill">
+<candidates>
+<cand lat="31.801847" long="-106.424608" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="condition"/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="enable"/>
+<w tok="you"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="shortest"/>
+<w tok="possible"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="remove"/>
+<w tok="two"/>
+<w tok="sets"/>
+<w tok="of"/>
+<w tok="buhrstones"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="requisite"/>
+<w tok="running"/>
+<w tok="gear"/>
+<w tok="."/>
+<w tok="Every"/>
+<w tok="effort"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="in"/>
+<w tok="case"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="advances"/>
+<w tok="to"/>
+<w tok="remove"/>
+<w tok="these"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="body"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="But"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="permit"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="you"/>
+<w tok="remove"/>
+<w tok=","/>
+<w tok="nor"/>
+<w tok="any"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="leave"/>
+<w tok="behind"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="case"/>
+<w tok="you"/>
+<w tok="evacuate"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="fall"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="hands"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="condition"/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="of"/>
+<w tok="service"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="utterly"/>
+<w tok="destroy"/>
+<w tok="all"/>
+<w tok="facilities"/>
+<w tok="for"/>
+<w tok="making"/>
+<w tok="flour"/>
+<w tok="at"/>
+<toponym term="Hart&apos;s Mill">
+<candidates>
+<cand lat="31.801847" long="-106.424608" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="when"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="abandon"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

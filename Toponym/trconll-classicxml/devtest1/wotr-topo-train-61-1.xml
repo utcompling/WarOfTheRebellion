@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-1" title="61" domain="wotr">
+<s id="s1">
+<w tok="JANUARY"/>
+<w tok="21-25"/>
+<w tok=","/>
+<w tok="1864.-Scout"/>
+<w tok="from"/>
+<toponym term="Waldron">
+<candidates>
+<cand lat="34.899167" long="-94.091389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Baker&apos;s Springs">
+<candidates>
+<cand lat="34.313" long="-94.168" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="skirmish"/>
+<w tok="."/>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="Record"/>
+<w tok="of"/>
+<w tok="Events"/>
+<w tok="on"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Frontier"/>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="R."/>
+<w tok="Judson"/>
+<w tok=","/>
+<w tok="Sixth"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok=")"/>
+<w tok="for"/>
+<w tok="month"/>
+<w tok="of"/>
+<w tok="January"/>
+<w tok="."/>
+<w tok="January"/>
+<w tok="21.-Captain"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Barker"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="Second"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok="and"/>
+<w tok="40"/>
+<w tok="men"/>
+<w tok="Sixth"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="left"/>
+<toponym term="Waldron">
+<candidates>
+<cand lat="34.899167" long="-94.091389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="marched"/>
+<w tok="toward"/>
+<toponym term="Baker&apos;s Springs">
+<candidates>
+<cand lat="34.313" long="-94.168" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="surprised"/>
+<w tok="Captain"/>
+<w tok="Williamson"/>
+<w tok="&apos;s"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="killing"/>
+<w tok="Williamson"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="wounding"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="taking"/>
+<w tok="2"/>
+<w tok="lieutenants"/>
+<w tok="and"/>
+<w tok="25"/>
+<w tok="men"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="his"/>
+<w tok="return"/>
+<w tok="captured"/>
+<w tok="1"/>
+<w tok="lieutenant"/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="private"/>
+<w tok="."/>
+<w tok="Distance"/>
+<w tok="traveled"/>
+<w tok=","/>
+<w tok="172"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Prisoners"/>
+<w tok="taken"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="lieutenant"/>
+<w tok="and"/>
+<w tok="26"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Federal"/>
+<w tok="loss"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="enlisted"/>
+<w tok="man"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="C."/>
+<w tok="J."/>
+<w tok="Williams"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="wounded"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-44" title="63" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DETACHMENT"/>
+<w tok="SEVENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="MACKEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detachment"/>
+<w tok="Third"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="every"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="be"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="to-morrow"/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="and"/>
+<w tok="60"/>
+<w tok="rounds"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="the"/>
+<w tok="transportation"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="will"/>
+<w tok="accompany"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok=","/>
+<w tok="yourself"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="guard"/>
+<w tok="a"/>
+<w tok="wagon"/>
+<w tok="train"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="to"/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="thence"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="detachment"/>
+<w tok="your"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="front"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="at"/>
+<w tok="his"/>
+<w tok="headquarters"/>
+<w tok="for"/>
+<w tok="particular"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="MASON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

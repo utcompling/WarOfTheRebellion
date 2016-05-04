@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-17" title="78" domain="wotr">
+<s id="s1">
+<w tok="JUNE"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-9"/>
+<w tok="."/>
+<w tok="15"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=":"/>
+<w tok="Jack"/>
+<w tok="Allen"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="driven"/>
+<w tok="from"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok="correct"/>
+<w tok="-"/>
+<w tok="his"/>
+<w tok="being"/>
+<w tok="at"/>
+<toponym term="Lawrenceburg">
+<candidates>
+<cand lat="38.031389" long="-84.896111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="gained"/>
+<w tok="a"/>
+<w tok="complete"/>
+<w tok="victory"/>
+<w tok="over"/>
+<w tok="Morgan"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Three"/>
+<w tok="hundred"/>
+<w tok="of"/>
+<w tok="Morgan"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Giltner"/>
+<w tok=","/>
+<w tok="all"/>
+<w tok="making"/>
+<w tok="toward"/>
+<w tok="Lawrenceburg"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="traced"/>
+<w tok="them"/>
+<w tok="through"/>
+<toponym term="Versailles">
+<candidates>
+<cand lat="38.054722" long="-84.730833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="These"/>
+<w tok="last"/>
+<w tok="are"/>
+<w tok="demoralized"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="directed"/>
+<w tok="Weatherford"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Lebanon">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="on"/>
+<w tok="watch"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="informed"/>
+<w tok="General"/>
+<w tok="Ewing"/>
+<w tok="they"/>
+<w tok="may"/>
+<w tok="strike"/>
+<w tok="across"/>
+<w tok="this"/>
+<w tok="way"/>
+<w tok="or"/>
+<w tok="near"/>
+<toponym term="Camp Nelson">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

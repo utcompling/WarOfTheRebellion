@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-52" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="POST"/>
+<w tok=","/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="39.183056" long="-93.875" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JAMES"/>
+<w tok="McFERRAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="3rd"/>
+<w tok="Sub-Dist."/>
+<w tok=","/>
+<w tok="Dist."/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="Cent"/>
+<w tok="."/>
+<w tok="Mo."/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="since"/>
+<w tok="my"/>
+<w tok="last"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="March"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="have"/>
+<w tok="made"/>
+<w tok="no"/>
+<w tok="scouts"/>
+<w tok=","/>
+<w tok="being"/>
+<w tok="only"/>
+<w tok="a"/>
+<w tok="sufficient"/>
+<w tok="force"/>
+<w tok="for"/>
+<w tok="guard"/>
+<w tok="and"/>
+<w tok="escort"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="Company"/>
+<w tok="G"/>
+<w tok="has"/>
+<w tok="traveled"/>
+<w tok="a"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="150"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="about"/>
+<w tok="1"/>
+<w tok="1/2"/>
+<w tok="miles"/>
+<w tok="each"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="escort"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok="has"/>
+<w tok="traveled"/>
+<w tok="a"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="160"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="about"/>
+<w tok="1"/>
+<w tok="1/2"/>
+<w tok="miles"/>
+<w tok="each"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="escort"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Mound Prairie Church">
+<candidates>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="done"/>
+<w tok="some"/>
+<w tok="scouting"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="vicinity"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="can"/>
+<w tok="find"/>
+<w tok="no"/>
+<w tok="trace"/>
+<w tok="of"/>
+<w tok="bushwhackers"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Republican Church">
+<candidates>
+</candidates>
+</toponym>
+<w tok="killed"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="name"/>
+<w tok="of"/>
+<w tok="Fear"/>
+<w tok=","/>
+<w tok="said"/>
+<w tok="to"/>
+<w tok="belong"/>
+<w tok="to"/>
+<w tok="Gann"/>
+<w tok="&apos;s"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="bushwhackers"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="this"/>
+<w tok="exception"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="found"/>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="further"/>
+<w tok="trace"/>
+<w tok="of"/>
+<w tok="bushwhackers"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ALEX"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="MULLINS"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

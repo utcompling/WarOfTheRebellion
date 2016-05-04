@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-180" title="63" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.8999423601" long="-77.0380182741" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864-11"/>
+<w tok="a.m."/>
+<w tok="Lieutenant-General"/>
+<w tok="GRANT"/>
+<w tok=","/>
+<toponym term="Culpeper">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Hunter"/>
+<w tok="ordered"/>
+<w tok="as"/>
+<w tok="directed"/>
+<w tok="."/>
+<w tok="Dispatch"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Banks"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="2nd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="says"/>
+<w tok="Admiral"/>
+<w tok="Porter"/>
+<w tok="went"/>
+<w tok="up"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="day"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="having"/>
+<w tok="been"/>
+<w tok="detained"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="rapids"/>
+<w tok="by"/>
+<w tok="low"/>
+<w tok="water"/>
+<w tok="."/>
+<w tok="Hopes"/>
+<w tok="to"/>
+<w tok="reach"/>
+<toponym term="Shreveport">
+<candidates>
+<cand lat="32.5147222222" long="-93.7472222222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="."/>
+<w tok="Sigel"/>
+<w tok="says"/>
+<w tok="General"/>
+<w tok="Averell"/>
+<w tok="with"/>
+<w tok="2,000"/>
+<w tok="cavalry"/>
+<w tok="is"/>
+<w tok="moving"/>
+<w tok="from"/>
+<toponym term="Martinsburg">
+<candidates>
+<cand lat="39.459167" long="-77.967778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Webster">
+<candidates>
+<cand lat="39.296667" long="-80.045278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Clarksburg">
+<candidates>
+<cand lat="39.283333" long="-80.35" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Two"/>
+<w tok="regiments"/>
+<w tok="of"/>
+<w tok="Gillmore"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="have"/>
+<w tok="reached"/>
+<toponym term="Fort Monroe">
+<candidates>
+<cand lat="37.003611" long="-76.3075" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="viz"/>
+<w tok=","/>
+<w tok="Furth"/>
+<w tok="New"/>
+<w tok="Hampshire"/>
+<w tok="and"/>
+<w tok="Eighth"/>
+<w tok="Maine"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Butler"/>
+<w tok="has"/>
+<w tok="asked"/>
+<w tok="for"/>
+<w tok="two"/>
+<w tok="more"/>
+<w tok="batteries"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Banks"/>
+<w tok="&apos;"/>
+<w tok="letter"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

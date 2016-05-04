@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-37" title="106" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="HUMBOLDT"/>
+<w tok="MILITARY"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="129"/>
+<w tok="."/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="O&apos;Brien"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Company"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="infantry"/>
+<toponym term="California">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="embark"/>
+<w tok="to-morrow"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="13th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Panama"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="proceed"/>
+<w tok="in"/>
+<w tok="her"/>
+<w tok="to"/>
+<toponym term="Crescent City">
+<candidates>
+<cand lat="41.755833" long="-124.201667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="his"/>
+<w tok="arrival"/>
+<w tok="there"/>
+<w tok="Captain"/>
+<w tok="O&apos;Brien"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="for"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="Curtis"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="company"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="all"/>
+<w tok="their"/>
+<w tok="camp"/>
+<w tok="and"/>
+<w tok="garrison"/>
+<w tok="equiPAGEand"/>
+<w tok="company"/>
+<w tok="property"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Lippitt"/>
+<w tok=":"/>
+<w tok="JOHN"/>
+<w tok="HANNA"/>
+<w tok=","/>
+<w tok="Jr."/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Adjutant"/>
+<w tok="Second"/>
+<w tok="Infty"/>
+<w tok="."/>
+<w tok="California"/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<toponym term="Humboldt Military District">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

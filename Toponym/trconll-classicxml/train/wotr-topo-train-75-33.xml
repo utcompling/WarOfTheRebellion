@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-33" title="75" domain="wotr">
+<s id="s1">
+<toponym term="DECATUR">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SMITH"/>
+<w tok=","/>
+<toponym term="Huntsville">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Gresham"/>
+<w tok="has"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="at"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="part"/>
+<w tok="at"/>
+<toponym term="Elk River">
+<candidates>
+<cand lat="34.761389" long="-87.265556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="balance"/>
+<w tok="at"/>
+<toponym term="Pulaski">
+<candidates>
+<cand lat="32.391111" long="-81.956111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Nothing"/>
+<w tok="new"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="satisfied"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="mistake"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="is"/>
+<w tok="Roddey"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="Forrest"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="D."/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

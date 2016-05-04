@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-48" title="60" domain="wotr">
+<s id="s1">
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="F."/>
+<w tok="A."/>
+<w tok="WALKER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="21"/>
+<w tok="."/>
+<w tok="Itinerary"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="February"/>
+<w tok="6"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="evening"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok="("/>
+<w tok="leaving"/>
+<w tok="baggage"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="camp"/>
+<w tok=")"/>
+<w tok="marched"/>
+<w tok="toward"/>
+<toponym term="Raccoon Ford">
+<candidates>
+<cand lat="38.373333" long="-77.919722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="encamping"/>
+<w tok="near"/>
+<toponym term="Pony Mountain">
+<candidates>
+<cand lat="38.448611" long="-78.954167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Second"/>
+<w tok="Division"/>
+<w tok="marched"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Morton&apos;s Ford">
+<candidates>
+<cand lat="38.3746" long="-77.904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rapidan">
+<candidates>
+<cand lat="38.4639390849" long="-78.3754677326" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="passing"/>
+<w tok="through"/>
+<toponym term="Stevensburg">
+<candidates>
+<cand lat="38.441389" long="-77.899722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="support"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="casualties"/>
+<w tok="."/>
+<w tok="Returned"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="4"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Division"/>
+<w tok="moved"/>
+<w tok="off"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Culpeper Court-House">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="dark"/>
+<w tok="and"/>
+<w tok="continued"/>
+<w tok="the"/>
+<w tok="march"/>
+<w tok="until"/>
+<w tok="9"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=";"/>
+<w tok="halted"/>
+<w tok="and"/>
+<w tok="bivouacked"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="about"/>
+<w tok="4"/>
+<w tok="miles"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Culpeper Court-House">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="7"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="The"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok="marched"/>
+<w tok="about"/>
+<w tok="2"/>
+<w tok="miles"/>
+<w tok="nearer"/>
+<w tok="the"/>
+<w tok="ford"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="at"/>
+<w tok="about"/>
+<w tok="5"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="returned"/>
+<w tok="under"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="its"/>
+<w tok="winter"/>
+<w tok="quarters"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Third"/>
+<w tok="Division"/>
+<w tok="at"/>
+<w tok="7"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="resumed"/>
+<w tok="the"/>
+<w tok="march"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Mitchell&apos;s Station">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="10"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="and"/>
+<w tok="halted"/>
+<w tok=";"/>
+<w tok="remained"/>
+<w tok="until"/>
+<w tok="sunset"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="orders"/>
+<w tok="came"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="11"/>
+<w tok="p."/>
+<w tok="m"/>
+<w tok="."/>
+</s>
+</doc>

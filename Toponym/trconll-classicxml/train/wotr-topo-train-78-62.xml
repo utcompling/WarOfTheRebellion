@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-62" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="ex-Colonel"/>
+<w tok="Wolford"/>
+<w tok="was"/>
+<w tok="received"/>
+<w tok="during"/>
+<w tok="my"/>
+<w tok="absence"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="Morgan"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="attended"/>
+<w tok="to"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="six"/>
+<w tok="days"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="has"/>
+<w tok="marched"/>
+<w tok="over"/>
+<w tok="200"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="fought"/>
+<w tok="two"/>
+<w tok="severe"/>
+<w tok="battles"/>
+<w tok=","/>
+<w tok="killing"/>
+<w tok=","/>
+<w tok="wounding"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="capturing"/>
+<w tok="over"/>
+<w tok="three-fourths"/>
+<w tok="of"/>
+<w tok="Morgan"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="remaining"/>
+<w tok="fourth"/>
+<w tok="is"/>
+<w tok="scattered"/>
+<w tok="and"/>
+<w tok="being"/>
+<w tok="pursued"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="directions"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="G."/>
+<w tok="BURBRIDGE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-74" title="64" domain="wotr">
+<s id="s1">
+<toponym term="CAPE GIRARDEAU">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier-General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok=":"/>
+<w tok="Colonel"/>
+<w tok="ROGERS"/>
+<w tok=";"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="gotten"/>
+<w tok="good"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="600"/>
+<w tok="men"/>
+<w tok="under"/>
+<w tok="McRae"/>
+<w tok=","/>
+<w tok="moving"/>
+<w tok="to"/>
+<w tok="attack"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Bloomfield">
+<candidates>
+<cand lat="36.887778" long="-89.93" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="north"/>
+<w tok="of"/>
+<toponym term="Pitman&apos;s Ferry">
+<candidates>
+<cand lat="39.43" long="-92.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="TYLER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="welcome"/>
+<w tok="at"/>
+<toponym term="Bloomfield">
+<candidates>
+<cand lat="36.887778" long="-89.93" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="if"/>
+<w tok="they"/>
+<w tok="come"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="have"/>
+<w tok="sufficient"/>
+<w tok="force"/>
+<w tok="there"/>
+<w tok="to"/>
+<w tok="whip"/>
+<w tok="any"/>
+<w tok="600"/>
+<w tok=","/>
+<w tok="although"/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="n&apos;t"/>
+<w tok="credit"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="attempt"/>
+<w tok=","/>
+<w tok="either"/>
+<w tok="place"/>
+<w tok="with"/>
+<w tok="so"/>
+<w tok="small"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="will"/>
+<w tok="delay"/>
+<w tok="my"/>
+<w tok="survey"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="from"/>
+<toponym term="Bird&apos;s Point">
+<candidates>
+<cand lat="36.966" long="-89.157" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Sikeston">
+<candidates>
+<cand lat="36.879444" long="-89.585278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="over"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="scouts"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="keep"/>
+<w tok="you"/>
+<w tok="advised"/>
+<w tok="."/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="."/>
+</s>
+</doc>

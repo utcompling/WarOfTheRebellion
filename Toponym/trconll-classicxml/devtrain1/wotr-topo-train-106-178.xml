@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-178" title="106" domain="wotr">
+<s id="s1">
+<toponym term="Fort Walla Walla">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="--"/>
+<w tok="10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="BENJAMIN"/>
+<w tok="ALVORD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Oregon"/>
+<w tok=","/>
+<toponym term="Camp Lapwai">
+<candidates>
+<cand lat="46.45" long="-116.8175" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="9"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="In"/>
+<w tok="compliance"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="directions"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="await"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="Mr."/>
+<w tok="Hale"/>
+<w tok="and"/>
+<w tok="accompany"/>
+<w tok="him"/>
+<w tok="to"/>
+<toponym term="Fort Lapwai">
+<candidates>
+<cand lat="46.45" long="-116.8175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="unless"/>
+<w tok="other"/>
+<w tok="wise"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Company"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Washington"/>
+<w tok="Territory"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="moved"/>
+<w tok="immediately"/>
+<w tok="after"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Maury"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="as"/>
+<w tok="indicated"/>
+<w tok="in"/>
+<w tok="District"/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="77"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok="my"/>
+<w tok="intention"/>
+<w tok="to"/>
+<w tok="dispatch"/>
+<w tok="also"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok=","/>
+<w tok="say"/>
+<w tok="thirty"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Oregon"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="Lapwait"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="suggested"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="in"/>
+<w tok="conversation"/>
+<w tok="on"/>
+<w tok="your"/>
+<w tok="recent"/>
+<w tok="visit"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="glad"/>
+<w tok="to"/>
+<w tok="know"/>
+<w tok="your"/>
+<w tok="wishes"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="respect"/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="recent"/>
+<w tok="events"/>
+<w tok="since"/>
+<w tok="your"/>
+<w tok="arrival"/>
+<w tok="at"/>
+<toponym term="Camp Lapwai">
+<candidates>
+<cand lat="46.45" long="-116.8175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="any"/>
+<w tok="change"/>
+<w tok="advisable"/>
+<w tok="."/>
+<w tok="Forage"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="distributed"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="to"/>
+<toponym term="Lewiston">
+<candidates>
+<cand lat="46.41" long="-117.02" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="rapid"/>
+<w tok="march"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="hence"/>
+<w tok="and"/>
+<w tok="returning"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Maury"/>
+<w tok="is"/>
+<w tok="expected"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="28th"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JUSTUS"/>
+<w tok="STEINBERGER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Washington"/>
+<w tok="Territory"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

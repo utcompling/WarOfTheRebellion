@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-121" title="60" domain="wotr">
+<s id="s1">
+<toponym term="FORT MONROE">
+<candidates>
+<cand lat="37.003611" long="-76.3075" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.5353833809" long="-78.6396228604" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="5"/>
+<w tok="."/>
+<w tok="45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Rear-Admiral"/>
+<w tok="JOHN"/>
+<w tok="A."/>
+<w tok="DAHLGREN"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8767380278" long="-77.0711402562" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9099452971" long="-77.0387180807" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Flag-of-truce"/>
+<w tok="boat"/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="Ould"/>
+<w tok="assures"/>
+<w tok="Major"/>
+<w tok="Mulford"/>
+<w tok="that"/>
+<w tok="upon"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="grave"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Dahlgren"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="found"/>
+<w tok="empty"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="vigorous"/>
+<w tok="and"/>
+<w tok="persistent"/>
+<w tok="search"/>
+<w tok="fails"/>
+<w tok="to"/>
+<w tok="find"/>
+<w tok="it"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="authorities"/>
+<w tok="are"/>
+<w tok="making"/>
+<w tok="every"/>
+<w tok="exertion"/>
+<w tok="to"/>
+<w tok="find"/>
+<w tok="the"/>
+<w tok="body"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="restored"/>
+<w tok="if"/>
+<w tok="found"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="BUTLER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

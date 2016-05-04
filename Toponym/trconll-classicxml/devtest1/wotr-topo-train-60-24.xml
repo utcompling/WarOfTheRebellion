@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-24" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Itinerary"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="February"/>
+<w tok="6"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="corps"/>
+<w tok="marched"/>
+<w tok="to"/>
+<toponym term="Raccoon Ford">
+<candidates>
+<cand lat="38.373333" long="-77.919722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Rapidan River">
+<candidates>
+<cand lat="38.4639390849" long="-78.3754677326" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Pickets"/>
+<w tok="were"/>
+<w tok="established"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="bivouacked"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="After"/>
+<w tok="dark"/>
+<w tok="that"/>
+<w tok="night"/>
+<w tok="the"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="["/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok="]"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="300"/>
+<w tok="men"/>
+<w tok="taken"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="several"/>
+<w tok="regiments"/>
+<w tok=","/>
+<w tok="moved"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="ford"/>
+<w tok="and"/>
+<w tok="burned"/>
+<w tok="the"/>
+<w tok="village"/>
+<w tok="located"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Returned"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="without"/>
+<w tok="loss"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="few"/>
+<w tok="shots"/>
+<w tok="being"/>
+<w tok="fired"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="7"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="Battery"/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="Fourth"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="L"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Maryland"/>
+<w tok="Volunteer"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="moved"/>
+<w tok="toward"/>
+<toponym term="Raccoon Ford">
+<candidates>
+<cand lat="38.373333" long="-77.919722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rapidan">
+<candidates>
+<cand lat="38.4639390849" long="-78.3754677326" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="pursuant"/>
+<w tok="to"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="corps"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="L"/>
+<w tok="and"/>
+<w tok="A"/>
+<w tok="were"/>
+<w tok="detached"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="rest"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="corps"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="took"/>
+<w tok="position"/>
+<w tok="between"/>
+<toponym term="Raccoon">
+<candidates>
+<cand lat="38.373333" long="-77.919722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Morton&apos;s Fords">
+<candidates>
+<cand lat="38.3746" long="-77.904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="the"/>
+<toponym term="Rapidan">
+<candidates>
+<cand lat="38.4639390849" long="-78.3754677326" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="two"/>
+<w tok="batteries"/>
+<w tok="expended"/>
+<w tok="about"/>
+<w tok="60"/>
+<w tok="rounds"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok="without"/>
+<w tok="eliciting"/>
+<w tok="a"/>
+<w tok="reply"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="corps"/>
+<w tok="received"/>
+<w tok="orders"/>
+<w tok="at"/>
+<w tok="dusk"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="."/>
+</s>
+</doc>

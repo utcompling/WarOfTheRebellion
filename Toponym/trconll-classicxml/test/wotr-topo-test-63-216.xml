@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-216" title="63" domain="wotr">
+<s id="s1">
+<w tok="Lieutenant-Colonel"/>
+<w tok="DRAPER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Macon">
+<candidates>
+<cand lat="39.740556" long="-92.470556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Concentrate"/>
+<w tok="Companies"/>
+<w tok="H"/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="Ninth"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="point"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="care"/>
+<w tok="well"/>
+<w tok="for"/>
+<toponym term="Chariton">
+<candidates>
+<cand lat="39.52" long="-92.96" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Randolph">
+<candidates>
+<cand lat="39.43" long="-92.5" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Howard">
+<candidates>
+<cand lat="39.14" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Boone Counties">
+<candidates>
+<cand lat="36.306111" long="-93.093889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Tell"/>
+<w tok="Captain"/>
+<w tok="Glaze"/>
+<w tok="we"/>
+<w tok="shall"/>
+<w tok="hold"/>
+<w tok="him"/>
+<w tok="responsible"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="good"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="said"/>
+<w tok="counties"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="extermination"/>
+<w tok="therefrom"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="thieves"/>
+<w tok="."/>
+<w tok="Order"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="small"/>
+<w tok="detachments"/>
+<w tok="on"/>
+<w tok="duty"/>
+<w tok="as"/>
+<w tok="guards"/>
+<w tok="for"/>
+<w tok="recruiting"/>
+<w tok="officers"/>
+<w tok="for"/>
+<w tok="negroes"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="is"/>
+<w tok="doing"/>
+<w tok="nothing"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="ca"/>
+<w tok="n&apos;t"/>
+<w tok="afford"/>
+<w tok="body"/>
+<w tok="guards"/>
+<w tok="for"/>
+<w tok="officers"/>
+<w tok="doing"/>
+<w tok="nothing"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

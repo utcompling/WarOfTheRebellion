@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-137" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864-3.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="3.40"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Brigadier-General"/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Four"/>
+<w tok="deserters"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="refugee"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="prisoner"/>
+<w tok="were"/>
+<w tok="brought"/>
+<w tok="in"/>
+<w tok="yesterday"/>
+<w tok="evening"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="gun-boat"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="30.216667" long="-92.033333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Bragg"/>
+<w tok="and"/>
+<w tok="staff"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Mississippi">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Pointe Coupee">
+<candidates>
+<cand lat="30.71" long="-91.6" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="evenings"/>
+<w tok="since"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="appointed"/>
+<w tok="Assistant"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Walker"/>
+<w tok="has"/>
+<w tok="erected"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="and"/>
+<w tok="strong"/>
+<w tok="work"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="junction"/>
+<w tok="of"/>
+<toponym term="Yellow Bayou">
+<candidates>
+<cand lat="30.9985" long="-91.8668" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Bayou De Galize">
+<candidates>
+<cand lat="31.07" long="-92.0" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="his"/>
+<w tok="division"/>
+<w tok=","/>
+<w tok="amounting"/>
+<w tok="to"/>
+<w tok="7,000"/>
+<w tok=","/>
+<w tok="west"/>
+<w tok="and"/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Atchafalaya">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Polk"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="in"/>
+<toponym term="Mississippi">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="his"/>
+<w tok="headquarters"/>
+<w tok="at"/>
+<w tok="Enterprise"/>
+<w tok="."/>
+<w tok="DANIEL"/>
+<w tok="ULLMANN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-214" title="64" domain="wotr">
+<s id="s1">
+<toponym term="NEW MARKET">
+<candidates>
+<cand lat="39.361667" long="-94.774722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="PLATTE COUNTY">
+<candidates>
+<cand lat="39.38" long="-94.77" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864-6"/>
+<w tok="a.m."/>
+<w tok="Captain"/>
+<w tok="HOLLOWAY"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="eating"/>
+<w tok="breakfast"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="staid"/>
+<w tok="at"/>
+<w tok="Hamlin"/>
+<w tok="&apos;s"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Snyder"/>
+<w tok="and"/>
+<w tok="40"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="Fish"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="join"/>
+<w tok="me"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="were"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="here"/>
+<w tok="yesterday"/>
+<w tok="at"/>
+<w tok="noon"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="party"/>
+<w tok="who"/>
+<w tok="committed"/>
+<w tok="the"/>
+<w tok="murder"/>
+<w tok="and"/>
+<w tok="destroyed"/>
+<w tok="16"/>
+<w tok="stand"/>
+<w tok="of"/>
+<w tok="arms"/>
+<w tok="and"/>
+<w tok="carried"/>
+<w tok="off"/>
+<w tok="the"/>
+<w tok="rest"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="left"/>
+<w tok="here"/>
+<w tok="going"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Camden Point">
+<candidates>
+<cand lat="39.453333" long="-94.745278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="say"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="re-enforced"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="get"/>
+<w tok="no"/>
+<w tok="reliable"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="follow"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="ADAMS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Scout"/>
+<w tok="."/>
+</s>
+</doc>

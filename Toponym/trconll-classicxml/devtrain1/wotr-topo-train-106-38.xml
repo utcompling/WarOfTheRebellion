@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-38" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Fort Steilacoom">
+<candidates>
+<cand lat="47.179" long="-122.564" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash.">
+<candidates>
+<cand lat="47.4151657221" long="-120.552911158" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="September"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Hdqrs"/>
+<w tok="."/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="my"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="15th"/>
+<w tok="August"/>
+<w tok="relative"/>
+<w tok="to"/>
+<w tok="certain"/>
+<w tok="transactions"/>
+<w tok="on"/>
+<toponym term="Puget Sound">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="connection"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="revenue"/>
+<w tok="cutter"/>
+<w tok="Shubrick"/>
+<w tok=","/>
+<w tok="wherein"/>
+<w tok="the"/>
+<w tok="possibility"/>
+<w tok="was"/>
+<w tok="intimated"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="requisition"/>
+<w tok="being"/>
+<w tok="made"/>
+<w tok="on"/>
+<w tok="me"/>
+<w tok="for"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="enforce"/>
+<w tok="the"/>
+<w tok="requirements"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="law"/>
+<w tok="under"/>
+<w tok="a"/>
+<w tok="warrant"/>
+<w tok=","/>
+<w tok="said"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="resisted"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="arrest"/>
+<w tok="Victor"/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="collector"/>
+<w tok="of"/>
+<w tok="customs"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Lieutenant"/>
+<w tok="Wilson"/>
+<w tok=","/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Shubrick"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="further"/>
+<w tok="apprehension"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="collision"/>
+<w tok="between"/>
+<w tok="the"/>
+<w tok="authorities"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Territory"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="cutter"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="Shubrick"/>
+<w tok="has"/>
+<w tok="returned"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="sound"/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Olympia">
+<candidates>
+<cand lat="47.0425" long="-122.893056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="I"/>
+<w tok="understand"/>
+<w tok="both"/>
+<w tok="Mr."/>
+<w tok="Smith"/>
+<w tok="and"/>
+<w tok="Lieutenant"/>
+<w tok="Wilson"/>
+<w tok="have"/>
+<w tok="consented"/>
+<w tok="to"/>
+<w tok="undergo"/>
+<w tok="a"/>
+<w tok="legal"/>
+<w tok="investigation"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="matter"/>
+<w tok="alleged"/>
+<w tok="against"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="warrant"/>
+<w tok="of"/>
+<w tok="arrest"/>
+<w tok="was"/>
+<w tok="issued"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="commissioner"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="11th"/>
+<w tok="ultimo"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="most"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="W."/>
+<w tok="PATTEN"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Ninth"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

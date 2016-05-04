@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-45" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Two"/>
+<w tok="regiments"/>
+<w tok="of"/>
+<w tok="Wise"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok="have"/>
+<w tok="started"/>
+<w tok="for"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="remainder"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="Colquitt"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok="will"/>
+<w tok="follow"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="None"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Johnson"/>
+<w tok="&apos;s"/>
+<w tok="army"/>
+<w tok="have"/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="only"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="weak"/>
+<w tok="battalion"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="Colonel"/>
+<w tok="Keitt"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="infantry"/>
+<w tok="on"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="between"/>
+<w tok="here"/>
+<w tok="and"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="there"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="battalions"/>
+<w tok=","/>
+<w tok="thirteen"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="two"/>
+<w tok="cavalry"/>
+<w tok="regiments"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<toponym term="Virginia">
+<candidates>
+<cand lat="37.5166394909" long="-78.6412449829" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="arrangements"/>
+<w tok="possible"/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="circumstances"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="be"/>
+<w tok="possible"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="more"/>
+<w tok="regiments"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

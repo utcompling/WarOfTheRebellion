@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-23" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LOUISVILLE">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-3"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Captain"/>
+<w tok="DICKSON"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok=","/>
+<w tok="exclusive"/>
+<w tok="of"/>
+<w tok="convalescents"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="400"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="barely"/>
+<w tok="enough"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Nashville"/>
+<w tok="Railroad"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="fight"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="forts"/>
+<w tok=";"/>
+<w tok="not"/>
+<w tok="a"/>
+<w tok="mann"/>
+<w tok="to"/>
+<w tok="spare"/>
+<w tok="without"/>
+<w tok="stripping"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="and"/>
+<w tok="placing"/>
+<w tok="it"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="defenseless"/>
+<w tok="condition"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="500"/>
+<w tok="cavalry"/>
+<w tok="to"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="arrive"/>
+<w tok="there"/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="HUGH"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

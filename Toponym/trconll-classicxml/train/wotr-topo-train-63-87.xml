@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-87" title="63" domain="wotr">
+<s id="s1">
+<toponym term="FORT SMITH">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="KIMBALL"/>
+<w tok=":"/>
+<toponym term="Roseville">
+<candidates>
+<cand lat="39.136667" long="-95.951389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="attacked"/>
+<w tok="at"/>
+<w tok="two"/>
+<w tok="different"/>
+<w tok="times-three"/>
+<w tok="to"/>
+<w tok="one"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="men"/>
+<w tok="drove"/>
+<w tok="them"/>
+<w tok="back"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="destroyed"/>
+<w tok="two"/>
+<w tok="cotton-gins"/>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="cotton"/>
+<w tok="near"/>
+<w tok="by"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="pressed"/>
+<w tok="teams"/>
+<w tok="to"/>
+<w tok="bring"/>
+<w tok="away"/>
+<w tok="Government"/>
+<w tok="cotton"/>
+<w tok="."/>
+<w tok="Cavalry"/>
+<w tok="can"/>
+<w tok="follow"/>
+<w tok="them"/>
+<w tok="."/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="most"/>
+<w tok="in"/>
+<w tok="danger"/>
+<w tok="."/>
+<w tok="Ordered"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="barricade"/>
+<w tok="the"/>
+<w tok="streets"/>
+<w tok=","/>
+<w tok="take"/>
+<w tok="possession"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="houses"/>
+<w tok=","/>
+<w tok="loophole"/>
+<w tok="the"/>
+<w tok="valleys"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="defend"/>
+<w tok="it"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="."/>
+<w tok="Extending"/>
+<w tok="breast-works"/>
+<w tok="at"/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Sanborn"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="relief"/>
+<w tok="there"/>
+<w tok="soon"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="no"/>
+<w tok="fear"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="Guns"/>
+<w tok="mounted"/>
+<w tok="on"/>
+<w tok="one"/>
+<w tok="fort"/>
+<w tok=";"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="at"/>
+<w tok="work"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="others"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="R."/>
+<w tok="JUDSON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-15" title="66" domain="wotr">
+<s id="s1">
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="GURNEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.715833" long="-79.890278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="scout-boats"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="creeks"/>
+<w tok="and"/>
+<w tok="marches"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="command"/>
+<w tok="are"/>
+<w tok="fired"/>
+<w tok="upon"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="oftener"/>
+<w tok="than"/>
+<w tok="is"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="showing"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="easily"/>
+<w tok="seen"/>
+<w tok="by"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="avoided"/>
+<w tok=","/>
+<w tok="both"/>
+<w tok="as"/>
+<w tok="needlessly"/>
+<w tok="exposing"/>
+<w tok="life"/>
+<w tok="and"/>
+<w tok="as"/>
+<w tok="defeating"/>
+<w tok="our"/>
+<w tok="object"/>
+<w tok="of"/>
+<w tok="observing"/>
+<w tok="without"/>
+<w tok="being"/>
+<w tok="observed"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="officers"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="boats"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="creeks"/>
+<w tok="and"/>
+<w tok="marches"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="them"/>
+<w tok="trimmed"/>
+<w tok="around"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="sort"/>
+<w tok="of"/>
+<w tok="hedge"/>
+<w tok="or"/>
+<w tok="bushes"/>
+<w tok=","/>
+<w tok="concealing"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="within"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="making"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="very"/>
+<w tok="difficult"/>
+<w tok="to"/>
+<w tok="distinguish"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="grass"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="marsh"/>
+<w tok="or"/>
+<w tok="the"/>
+<w tok="shrubbery"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="islands"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Schimmelfennig"/>
+<w tok=":"/>
+<w tok="E."/>
+<w tok="W."/>
+<w tok="SCHAUFFLER"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

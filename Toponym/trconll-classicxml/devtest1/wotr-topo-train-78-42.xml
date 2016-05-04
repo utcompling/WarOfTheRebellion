@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-42" title="78" domain="wotr">
+<s id="s1">
+<toponym term="CAMP NELSON">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="."/>
+<w tok="10"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Captain"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Report"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="cavalry"/>
+<w tok="says"/>
+<w tok="rebels"/>
+<w tok="are"/>
+<w tok="making"/>
+<w tok="for"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<toponym term="Paint Lick">
+<candidates>
+<cand lat="37.616667" long="-84.409444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="crossing"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="Some"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="will"/>
+<w tok=","/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="stopped"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="forge"/>
+<w tok="sent"/>
+<w tok="from"/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="rascals"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="caught"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

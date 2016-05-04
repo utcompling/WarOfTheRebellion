@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-48" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington, D. C.">
+<candidates>
+<cand lat="38.896477748" long="-77.0352452949" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="learn"/>
+<w tok="that"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Bailey"/>
+<w tok=","/>
+<w tok="now"/>
+<w tok="chief"/>
+<w tok="engineer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="recommended"/>
+<w tok="for"/>
+<w tok="advancement"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="all"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="learned"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="from"/>
+<w tok="my"/>
+<w tok="own"/>
+<w tok="observations"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="this"/>
+<w tok="is"/>
+<w tok="well"/>
+<w tok="merited"/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="he"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="appointed"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="ask"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="ED"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

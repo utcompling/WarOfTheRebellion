@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-40" title="78" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="JUNE"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="For"/>
+<w tok="Burbridge"/>
+<w tok="to"/>
+<w tok="Halleck"/>
+<w tok="and"/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="reporting"/>
+<w tok="operations"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="see"/>
+<w tok="Part"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="20"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="CAMP NELSON">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="A"/>
+<w tok="courier"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5186444703" long="-77.4189705402" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="yesterday"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="search"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Johnson"/>
+<w tok="returned"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="without"/>
+<w tok="finding"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="what"/>
+<w tok="information"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="get"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="left"/>
+<toponym term="Irvine">
+<candidates>
+<cand lat="37.696944" long="-83.966944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="another"/>
+<w tok="yesterday"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="until"/>
+<w tok="he"/>
+<w tok="found"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

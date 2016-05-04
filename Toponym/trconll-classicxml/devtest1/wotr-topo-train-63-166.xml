@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-166" title="63" domain="wotr">
+<s id="s1">
+<toponym term="SAINT LOUIS">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<toponym term="Nashville">
+<candidates>
+<cand lat="36.166667" long="-86.783333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="From"/>
+<w tok="news"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="seem"/>
+<w tok="Buford"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="for"/>
+<w tok="nothing"/>
+<w tok="."/>
+<w tok="Commissary"/>
+<w tok="supplies"/>
+<w tok="are"/>
+<w tok="being"/>
+<w tok="laid"/>
+<w tok="in"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="provisions"/>
+<w tok="collected"/>
+<w tok="on"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="secret"/>
+<w tok="rebel"/>
+<w tok="order"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="is"/>
+<w tok="actively"/>
+<w tok="organizing"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="lines"/>
+<w tok="of"/>
+<w tok="probable"/>
+<w tok="movements"/>
+<w tok="form"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8727279336" long="-92.4674963559" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="way"/>
+<w tok="indicated"/>
+<w tok="."/>
+<w tok="Ca"/>
+<w tok="n&apos;t"/>
+<w tok="Buford"/>
+<w tok="and"/>
+<w tok="Co."/>
+<w tok="be"/>
+<w tok="driven"/>
+<w tok="from"/>
+<toponym term="West Tennessee">
+<candidates>
+<cand lat="35.7553763471" long="-88.3002897763" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

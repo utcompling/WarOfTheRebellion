@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-43" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<w tok="June"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="important"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="prompt"/>
+<w tok="and"/>
+<w tok="constant"/>
+<w tok="communication"/>
+<w tok="between"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="and"/>
+<toponym term="Saint Augustine">
+<candidates>
+<cand lat="29.894722" long="-81.314444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Picolata">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="usual"/>
+<w tok="means"/>
+<w tok="employed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="army"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="will"/>
+<w tok="require"/>
+<w tok="about"/>
+<w tok="60"/>
+<w tok="miles"/>
+<w tok="of"/>
+<w tok="telegraphic"/>
+<w tok="wire"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="Sheldon"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="absence"/>
+<w tok=","/>
+<w tok="some"/>
+<w tok="one"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="business"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="necessary"/>
+<w tok="materials"/>
+<w tok="for"/>
+<w tok="building"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="."/>
+<w tok="About"/>
+<w tok="10"/>
+<w tok="miles"/>
+<w tok="extra"/>
+<w tok="wire"/>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="tap"/>
+<w tok="batteries"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="added"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="telegraph"/>
+<w tok="line"/>
+<w tok="I"/>
+<w tok="consider"/>
+<w tok="essential"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="prompt"/>
+<w tok="concentration"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="in"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5674668383" long="-82.4661622949" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

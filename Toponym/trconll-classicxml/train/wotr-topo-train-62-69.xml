@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-69" title="62" domain="wotr">
+<s id="s1">
+<toponym term="BATON ROUGE">
+<candidates>
+<cand lat="30.4508609941" long="-91.1411650783" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864-11.40"/>
+<w tok="a.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11.50"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="troops"/>
+<w tok="west"/>
+<w tok=","/>
+<w tok="save"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="have"/>
+<w tok="fallen"/>
+<w tok="back"/>
+<w tok="to"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Bragg"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="command"/>
+<w tok="west"/>
+<w tok="of"/>
+<toponym term="Mississippi">
+<candidates>
+<cand lat="32.7119351598" long="-89.6681186911" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="stated"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="north"/>
+<w tok="."/>
+<w tok="Adams"/>
+<w tok="&apos;"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="4,500"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

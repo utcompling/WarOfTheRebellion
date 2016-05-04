@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-31" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="5-17"/>
+<w tok=","/>
+<w tok="1864.-Scout"/>
+<w tok="from"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="into"/>
+<w tok="Arkansas"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="skirmishes"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Richard"/>
+<w tok="Murphy"/>
+<w tok=","/>
+<w tok="Fifth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="POST"/>
+<w tok="OF"/>
+<w tok="HOUSTON"/>
+<w tok=","/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="scout"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Bold"/>
+<w tok=","/>
+<w tok="returned"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Bold"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok="shows"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="penetrated"/>
+<w tok="several"/>
+<w tok="miles"/>
+<w tok="into"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="at"/>
+<w tok="one"/>
+<w tok="time"/>
+<w tok="within"/>
+<w tok="about"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="though"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="not"/>
+<w tok="aware"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="proximity"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="information"/>
+<w tok="gained"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="lieutenantsays"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="whole"/>
+<w tok="force"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="estimated"/>
+<w tok="at"/>
+<w tok="from"/>
+<w tok="400"/>
+<w tok="to"/>
+<w tok="500"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="very"/>
+<w tok="poorly"/>
+<w tok="armed"/>
+<w tok="and"/>
+<w tok="supplies"/>
+<w tok="with"/>
+<w tok="ammunition"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="scout"/>
+<w tok="was"/>
+<w tok="frequently"/>
+<w tok="fired"/>
+<w tok="on"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="brush"/>
+<w tok="while"/>
+<w tok="below"/>
+<toponym term="Thomasville">
+<candidates>
+<cand lat="36.789167" long="-91.532222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="lieutenant"/>
+<w tok="returned"/>
+<w tok="the"/>
+<w tok="fire"/>
+<w tok="a"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="times"/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="way"/>
+<w tok="killed"/>
+<w tok="7"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="quartermaster"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Lamb"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="also"/>
+<w tok="captured"/>
+<w tok="and"/>
+<w tok="brought"/>
+<w tok="in"/>
+<w tok="3"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="mules"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="worthless"/>
+<w tok="guns"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="about"/>
+<w tok="three"/>
+<w tok="companies"/>
+<w tok="was"/>
+<w tok="sent"/>
+<w tok="down"/>
+<w tok="to"/>
+<toponym term="Spring River">
+<candidates>
+<cand lat="36.791944" long="-94.752778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="there"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="fortnight"/>
+<w tok=","/>
+<w tok="they"/>
+<w tok="could"/>
+<w tok="effectual"/>
+<w tok="break"/>
+<w tok="up"/>
+<w tok="this"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="thieves"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Bold"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="plenty"/>
+<w tok="of"/>
+<w tok="forage"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="300"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="period"/>
+<w tok="mentioned"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="subsistence"/>
+<w tok="can"/>
+<w tok="easily"/>
+<w tok="be"/>
+<w tok="obtained"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="RICHARD"/>
+<w tok="MURPHY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="LOVELL"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<toponym term="Rolla">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

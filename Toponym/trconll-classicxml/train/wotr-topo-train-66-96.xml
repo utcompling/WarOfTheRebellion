@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-96" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fla.">
+<candidates>
+<cand lat="28.5674668383" long="-82.4661622949" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="pleasure"/>
+<w tok="of"/>
+<w tok="announcing"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="party"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="has"/>
+<w tok="succeeded"/>
+<w tok="in"/>
+<w tok="burning"/>
+<w tok="and"/>
+<w tok="destroying"/>
+<w tok="the"/>
+<w tok="trestle-work"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Cedar Keys railroad">
+<candidates>
+<cand lat="29.145556" long="-83.041667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="two"/>
+<w tok="points"/>
+<w tok="about"/>
+<w tok="9"/>
+<w tok="miles"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Baldwin">
+<candidates>
+<cand lat="30.303889" long="-81.975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<toponym term="Gainesville">
+<candidates>
+<cand lat="29.651997" long="-82.324992" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="cars"/>
+<w tok="were"/>
+<w tok="left"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="by"/>
+<w tok="us"/>
+<w tok="at"/>
+<w tok="our"/>
+<w tok="pleasure"/>
+<w tok=","/>
+<w tok="together"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="locomotives"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

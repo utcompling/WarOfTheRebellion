@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-134" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="Ironsides"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="monitors"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="tugs"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="13"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="7"/>
+<w tok="schooners"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="steamers"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="blockaders"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Brooke"/>
+<w tok="gun"/>
+<w tok="was"/>
+<w tok="placed"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="berm"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok="for"/>
+<w tok="transportation"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="were"/>
+<w tok="no"/>
+<w tok="shots"/>
+<w tok="fired"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="H."/>
+<w tok="WILDS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

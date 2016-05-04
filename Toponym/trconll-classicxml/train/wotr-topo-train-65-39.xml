@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-39" title="65" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="S."/>
+<w tok="CAROLINA"/>
+<w tok=","/>
+<w tok="GEORGIA"/>
+<w tok=","/>
+<w tok="AND"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="send"/>
+<w tok="herewith"/>
+<w tok="two"/>
+<w tok="views"/>
+<w tok="of"/>
+<toponym term="Fort Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="photographed"/>
+<w tok="by"/>
+<w tok="Mr."/>
+<w tok="George"/>
+<w tok="Cook"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok=","/>
+<w tok="form"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="accurate"/>
+<w tok="drawing"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="interior"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="work"/>
+<w tok="made"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="9th"/>
+<w tok="December"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=","/>
+<w tok="by"/>
+<w tok="Lieutenant"/>
+<w tok="John"/>
+<w tok="R."/>
+<w tok="Key"/>
+<w tok=","/>
+<w tok="post"/>
+<w tok="adjutant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Engineers"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="young"/>
+<w tok="artist"/>
+<w tok="of"/>
+<w tok="great"/>
+<w tok="promise"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="photographs"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="delayed"/>
+<w tok="much"/>
+<w tok="longer"/>
+<w tok="then"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="anticipated"/>
+<w tok=","/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="proper"/>
+<w tok="materials"/>
+<w tok="and"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="fort"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="much"/>
+<w tok="stronger"/>
+<w tok="for"/>
+<w tok="defensive"/>
+<w tok="purposes"/>
+<w tok="than"/>
+<w tok="represented"/>
+<w tok="by"/>
+<w tok="these"/>
+<w tok="views"/>
+<w tok=","/>
+<w tok="its"/>
+<w tok="interior"/>
+<w tok="being"/>
+<w tok="well"/>
+<w tok="arranged"/>
+<w tok="for"/>
+<w tok="musketry"/>
+<w tok="and"/>
+<w tok="light"/>
+<w tok="artillery"/>
+<w tok="fire"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="also"/>
+<w tok="four"/>
+<w tok="10-inch"/>
+<w tok="columbiads"/>
+<w tok=","/>
+<w tok="one"/>
+<w tok="8-inch"/>
+<w tok="columbiad"/>
+<w tok="rifled"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="rifled"/>
+<w tok="42-pounders"/>
+<w tok=","/>
+<w tok="mounted"/>
+<w tok="in"/>
+<w tok="casemate"/>
+<w tok=","/>
+<w tok="bearing"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="pass"/>
+<w tok="toward"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="on"/>
+<toponym term="Rebellion roads">
+<candidates>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok=","/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

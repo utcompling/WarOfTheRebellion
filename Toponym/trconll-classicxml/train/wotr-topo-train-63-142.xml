@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-142" title="63" domain="wotr">
+<s id="s1">
+<toponym term="PILOT KNOB">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="your"/>
+<w tok="pardon"/>
+<w tok="for"/>
+<w tok="not"/>
+<w tok="having"/>
+<w tok="answered"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="howitzers"/>
+<w tok="at"/>
+<toponym term="Fort Curtis">
+<candidates>
+<cand lat="37.590278" long="-90.626389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="not"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="position"/>
+<w tok="of"/>
+<w tok="defense"/>
+<w tok="at"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="therefore"/>
+<w tok="telegraphed"/>
+<w tok="on"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="first"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="at"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="advice"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Willson"/>
+<w tok="sent"/>
+<w tok="written"/>
+<w tok="instructions"/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="somehow"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="receive"/>
+<w tok="."/>
+<w tok="Telegraphed"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="again"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="on"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="you"/>
+<w tok="second"/>
+<w tok="dispatch"/>
+<w tok="."/>
+<w tok="Am"/>
+<w tok="awaiting"/>
+<w tok="an"/>
+<w tok="answer"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok="answer"/>
+<w tok="."/>
+<w tok="Advised"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="outposts"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="Kitchen"/>
+<w tok="and"/>
+<w tok="Clark"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="gathering"/>
+<w tok="."/>
+<w tok="Entertain"/>
+<w tok="no"/>
+<w tok="fear"/>
+<w tok=";"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="lookout"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok="has"/>
+<w tok="four"/>
+<w tok="good"/>
+<w tok="companies"/>
+<w tok=";"/>
+<w tok="will"/>
+<w tok="fight"/>
+<w tok="four"/>
+<w tok="times"/>
+<w tok="their"/>
+<w tok="number"/>
+<w tok="and"/>
+<w tok="whip"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="re-enforce"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="two"/>
+<w tok="hours"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="company"/>
+<w tok="at"/>
+<toponym term="Centreville">
+<candidates>
+<cand lat="37.436111" long="-90.961111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="should"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="away"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok=";"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="most"/>
+<w tok="important"/>
+<w tok="point"/>
+<w tok=","/>
+<w tok="an"/>
+<w tok="opening"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="to"/>
+<w tok="come"/>
+<w tok="in"/>
+<w tok="."/>
+<w tok="Do"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="alarmed"/>
+<w tok=";"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="a"/>
+<w tok="scare"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="which"/>
+<w tok="we"/>
+<w tok="down"/>
+<w tok="here"/>
+<w tok="are"/>
+<w tok="used"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok="thinks"/>
+<w tok="the"/>
+<w tok="howitzers"/>
+<w tok="could"/>
+<w tok="be"/>
+<w tok="used"/>
+<w tok="to"/>
+<w tok="advantage"/>
+<w tok="in"/>
+<w tok="case"/>
+<w tok="of"/>
+<w tok="an"/>
+<w tok="attack"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="N."/>
+<w tok="HERDER"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

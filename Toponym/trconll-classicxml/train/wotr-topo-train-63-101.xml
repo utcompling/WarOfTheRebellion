@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-101" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="GEORGE"/>
+<w tok="B."/>
+<w tok="DRAKE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="an"/>
+<w tok="examination"/>
+<w tok="was"/>
+<w tok="made"/>
+<w tok="yesterday"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="line"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="bank"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="view"/>
+<w tok="to"/>
+<w tok="repair"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="destroyed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="poles"/>
+<w tok="being"/>
+<w tok="cut"/>
+<w tok="down"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="destruction"/>
+<w tok="complete"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="increased"/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="now"/>
+<w tok="numbers"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="variously"/>
+<w tok="estimated"/>
+<w tok="from"/>
+<w tok="150"/>
+<w tok="to"/>
+<w tok="500"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="clean"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="and"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="on"/>
+<w tok="that"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="to"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="also"/>
+<w tok="below"/>
+<w tok="to"/>
+<toponym term="Baton Rouge">
+<candidates>
+</candidates>
+</toponym>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="1,000"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="which"/>
+<w tok="force"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="routed"/>
+<w tok="and"/>
+<w tok="communication"/>
+<w tok="maintained"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

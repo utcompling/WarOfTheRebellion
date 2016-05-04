@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-202" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SAINT LOUIS">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864-2"/>
+<w tok="p.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="3.30"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="PRESIDENT"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.9093759967" long="-77.0351091688" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9047564518" long="-77.0381553511" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="After"/>
+<w tok="hearing"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Garfield"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="write"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="But"/>
+<w tok="detailed"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="high"/>
+<w tok="national"/>
+<w tok="importance"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="plot"/>
+<w tok="to"/>
+<w tok="over-throw"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="should"/>
+<w tok="know"/>
+<w tok=","/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="instructed"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="mails"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="convey"/>
+<w tok="the"/>
+<w tok="facts"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="and"/>
+<w tok="avoid"/>
+<w tok="such"/>
+<w tok="an"/>
+<w tok="outrage"/>
+<w tok="on"/>
+<w tok="my"/>
+<w tok="messenger"/>
+<w tok="as"/>
+<w tok="was"/>
+<w tok="perpetrated"/>
+<w tok="on"/>
+<w tok="Major"/>
+<w tok="Bond"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="from"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="forward"/>
+<w tok="the"/>
+<w tok="documents"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="staff"/>
+<w tok="officer"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

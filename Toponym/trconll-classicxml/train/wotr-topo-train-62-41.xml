@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-41" title="62" domain="wotr">
+<s id="s1">
+<toponym term="BATON ROUGE">
+<candidates>
+<cand lat="30.4546674531" long="-91.1364040375" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864-9.25"/>
+<w tok="a.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10.30"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Nothing"/>
+<w tok="of"/>
+<w tok="importance"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="deserter"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="reports"/>
+<w tok="Wirt"/>
+<w tok="Adams"/>
+<w tok="still"/>
+<w tok="about"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

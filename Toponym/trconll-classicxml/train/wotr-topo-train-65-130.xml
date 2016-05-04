@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-130" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="Ironsides"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="monitors"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="tugs"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="gun-boat"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="11"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="7"/>
+<w tok="blockaders"/>
+<w tok="outside"/>
+<w tok=";"/>
+<w tok="6"/>
+<w tok="schooners"/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="steamer"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Six"/>
+<w tok="shots"/>
+<w tok="were"/>
+<w tok="fired"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="working"/>
+<w tok="party"/>
+<w tok="attempting"/>
+<w tok="to"/>
+<w tok="remove"/>
+<w tok="the"/>
+<w tok="Brooke"/>
+<w tok="gun"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="crest"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="sea"/>
+<w tok="face"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="berm"/>
+<w tok=";"/>
+<w tok="all"/>
+<w tok="struck"/>
+<w tok=";"/>
+<w tok="no"/>
+<w tok="one"/>
+<w tok="hurt"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

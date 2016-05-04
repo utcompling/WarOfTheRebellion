@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-163" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="THOMAS"/>
+<w tok=","/>
+<w tok="Adjutant-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.905304974" long="-77.0347567899" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Colonel"/>
+<w tok="Connor"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="expedition"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<toponym term="Overland Mail Route">
+<candidates>
+</candidates>
+</toponym>
+<w tok="telegraphs"/>
+<w tok="me"/>
+<w tok="from"/>
+<toponym term="Fort Crittenden">
+<candidates>
+<cand lat="31.6542429722" long="-110.710236081" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="17"/>
+<w tok=":"/>
+<w tok="&quot;"/>
+<w tok="Have"/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok=";"/>
+<w tok="will"/>
+<w tok="cross"/>
+<w tok="the"/>
+<toponym term="Jordan">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to-morrow."/>
+<w tok="&quot;"/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

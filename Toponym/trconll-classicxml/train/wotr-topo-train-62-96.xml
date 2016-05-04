@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-96" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="CAVALRY"/>
+<w tok=","/>
+<w tok="MISSOURI"/>
+<w tok="STATE"/>
+<w tok="MILITIA"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="["/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=":"/>
+<w tok="]"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Meredith"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ridgway"/>
+<w tok="raid"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="copies"/>
+<w tok="of"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Nos"/>
+<w tok="."/>
+<w tok="2,5"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="and"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="issued"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="directed"/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="station"/>
+<w tok=","/>
+<w tok="between"/>
+<toponym term="Chapel Hill">
+<candidates>
+<cand lat="35.933333" long="-79.033333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Wellington">
+<candidates>
+<cand lat="39.133333" long="-93.985" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="connection"/>
+<w tok="with"/>
+<w tok="Companies"/>
+<w tok="C"/>
+<w tok="at"/>
+<toponym term="Chapel Hill">
+<candidates>
+<cand lat="35.933333" long="-79.033333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="F"/>
+<w tok="at"/>
+<toponym term="Wellington">
+<candidates>
+<cand lat="39.133333" long="-93.985" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="thoroughly"/>
+<w tok="patrol"/>
+<w tok="and"/>
+<w tok="scout"/>
+<w tok="the"/>
+<w tok="western"/>
+<w tok="boundary"/>
+<w tok="of"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="stationed"/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok="at"/>
+<toponym term="Kingsville">
+<candidates>
+<cand lat="27.515" long="-97.865556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="western"/>
+<w tok="boundary"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="county"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="thoroughly"/>
+<w tok="scout"/>
+<w tok="the"/>
+<w tok="western"/>
+<w tok="boundary"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="county"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="hopes"/>
+<w tok="that"/>
+<w tok="these"/>
+<w tok="arrangements"/>
+<w tok="may"/>
+<w tok="serve"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="sub-district"/>
+<w tok="from"/>
+<w tok="incursions"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok="troops"/>
+<w tok="and"/>
+<w tok="Red"/>
+<w tok="Legs"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="other"/>
+<w tok="news"/>
+<w tok="of"/>
+<w tok="interest"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JAMES"/>
+<w tok="McFERRAN"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cav."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Sub-Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Central"/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Mo"/>
+<w tok="."/>
+</s>
+</doc>

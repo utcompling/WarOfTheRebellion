@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-37" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="FIFTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Huntsville">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="GORGAS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Illinois"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Immediately"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="to"/>
+<toponym term="Madison Station">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="between"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="and"/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="your"/>
+<w tok="arrival"/>
+<w tok="there"/>
+<w tok="relieve"/>
+<w tok="three"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Fifth"/>
+<w tok="Ohio"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="direct"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok=","/>
+<w tok="showing"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="this"/>
+<w tok="order"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="are"/>
+<w tok="expecting"/>
+<w tok="an"/>
+<w tok="attack"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="by"/>
+<w tok="forces"/>
+<w tok="under"/>
+<w tok="Wheeler"/>
+<w tok="and"/>
+<w tok="Forrest"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="John"/>
+<w tok="E."/>
+<w tok="Smith"/>
+<w tok=":"/>
+<w tok="C."/>
+<w tok="L."/>
+<w tok="WHITE"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

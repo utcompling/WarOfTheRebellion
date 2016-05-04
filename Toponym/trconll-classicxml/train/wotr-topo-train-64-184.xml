@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-184" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="FREUDENBERG"/>
+<w tok=","/>
+<toponym term="Madison">
+<candidates>
+<cand lat="43.066667" long="-89.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wis.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Bring"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="own"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Leave"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="an"/>
+<w tok="officer"/>
+<w tok="with"/>
+<w tok="15"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="advance"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="charge"/>
+<w tok="of"/>
+<toponym term="Camp Reno">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="command"/>
+<w tok=":"/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="MELINE"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

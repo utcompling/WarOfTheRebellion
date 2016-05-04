@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-190" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="Let"/>
+<w tok="Major"/>
+<w tok="Thompson"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="engineers"/>
+<w tok="at"/>
+<toponym term="Aransas">
+<candidates>
+<cand lat="27.833333" long="-97.066667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Hodge"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="opportunity"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok="intended"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="should"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="so"/>
+<w tok="sent"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="colored"/>
+<w tok="Rhole"/>
+<w tok="Island"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8707978899" long="-92.3977993721" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JOHN"/>
+<w tok="A."/>
+<w tok="McCLERNAND"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

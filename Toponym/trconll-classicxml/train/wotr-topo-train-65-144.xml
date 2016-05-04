@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-144" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="opened"/>
+<w tok="on"/>
+<w tok="crib-work"/>
+<w tok="on"/>
+<w tok="east"/>
+<w tok="angle"/>
+<w tok="at"/>
+<w tok="10.30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="firing"/>
+<w tok="143"/>
+<w tok="shots"/>
+<w tok="from"/>
+<w tok="two"/>
+<w tok="100-pounders"/>
+<w tok="at"/>
+<w tok="middle"/>
+<w tok="battery"/>
+<w tok=";"/>
+<w tok="one"/>
+<w tok="200-pounder"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="30-pounder"/>
+<w tok="Parrott"/>
+<w tok="at"/>
+<toponym term="Gregg">
+<candidates>
+<cand lat="37.19805" long="-77.45025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="100"/>
+<w tok="shots"/>
+<w tok="struck"/>
+<w tok=","/>
+<w tok="cutting"/>
+<w tok="away"/>
+<w tok="some"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="crib-work"/>
+<w tok=";"/>
+<w tok="5"/>
+<w tok="men"/>
+<w tok="were"/>
+<w tok="wounded"/>
+<w tok=";"/>
+<w tok="none"/>
+<w tok="dangerously"/>
+<w tok=";"/>
+<w tok="1"/>
+<w tok="negro"/>
+<w tok="dangerously"/>
+<w tok="."/>
+<w tok="Firing"/>
+<w tok="ceased"/>
+<w tok="at"/>
+<w tok="sunset"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

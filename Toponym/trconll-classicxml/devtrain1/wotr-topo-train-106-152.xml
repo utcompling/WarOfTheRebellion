@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-152" title="106" domain="wotr">
+<s id="s1">
+<w tok="SILETZ"/>
+<w tok="INDIAN"/>
+<w tok="AGENCY"/>
+<w tok=","/>
+<w tok="OREG."/>
+<w tok=","/>
+<w tok="October"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="RECTOR"/>
+<w tok=","/>
+<w tok="Esq."/>
+<w tok=","/>
+<w tok="Superintendent"/>
+<w tok="of"/>
+<w tok="Indian"/>
+<w tok="Affairs"/>
+<w tok=","/>
+<toponym term="Salem">
+<candidates>
+<cand lat="44.930833" long="-123.028889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Oreg.">
+<candidates>
+<cand lat="43.9648146975" long="-120.640257188" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="urge"/>
+<w tok="upon"/>
+<w tok="your"/>
+<w tok="immediate"/>
+<w tok="consideration"/>
+<w tok="the"/>
+<w tok="importance"/>
+<w tok="of"/>
+<w tok="having"/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reoccupied"/>
+<w tok="by"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Since"/>
+<w tok="the"/>
+<w tok="evacuation"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="large"/>
+<w tok="numbers"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="agency"/>
+<w tok="have"/>
+<w tok="availed"/>
+<w tok="themselves"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opportunity"/>
+<w tok="and"/>
+<w tok="fled"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="former"/>
+<w tok="homes"/>
+<w tok="on"/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<toponym term="Rogue Rivers">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Had"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="been"/>
+<w tok="garrisoned"/>
+<w tok="they"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="thus"/>
+<w tok="have"/>
+<w tok="made"/>
+<w tok="their"/>
+<w tok="escape"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="reason"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="fort"/>
+<w tok="guards"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="road"/>
+<w tok="leading"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="agency"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Umpqua River">
+<candidates>
+<cand lat="43.669167" long="-124.205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="reoccupied"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="reside"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Alsea"/>
+<w tok="agencies"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="before"/>
+<w tok="next"/>
+<w tok="spring"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="expense"/>
+<w tok="of"/>
+<w tok="removing"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="agency"/>
+<w tok="those"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="escape"/>
+<w tok="and"/>
+<w tok="go"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="will"/>
+<w tok="far"/>
+<w tok="exceed"/>
+<w tok="the"/>
+<w tok="cost"/>
+<w tok="of"/>
+<w tok="maintaining"/>
+<w tok="a"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="soldiers"/>
+<w tok="at"/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="That"/>
+<w tok="fort"/>
+<w tok="is"/>
+<w tok="of"/>
+<w tok="much"/>
+<w tok="more"/>
+<w tok="importance"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="agency"/>
+<w tok="than"/>
+<toponym term="Fort Hoskins">
+<candidates>
+<cand lat="44.674" long="-123.46" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="B."/>
+<w tok="R."/>
+<w tok="BIDDLE"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Indian"/>
+<w tok="Agent"/>
+<w tok="."/>
+</s>
+</doc>

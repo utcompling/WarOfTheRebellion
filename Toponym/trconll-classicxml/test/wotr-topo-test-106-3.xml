@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-3" title="106" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="STATE"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="AINSA"/>
+<w tok=","/>
+<w tok="Esq."/>
+<w tok=","/>
+<w tok="262"/>
+<w tok="G"/>
+<w tok="Street"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="yesterday"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="its"/>
+<w tok="accompaniments"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="received"/>
+<w tok="my"/>
+<w tok="attention"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="does"/>
+<w tok="not"/>
+<w tok="appear"/>
+<w tok="practicable"/>
+<w tok="or"/>
+<w tok="expedient"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="juncture"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="accede"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="request"/>
+<w tok="contained"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="letter"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="return"/>
+<w tok="the"/>
+<w tok="map"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="of"/>
+<w tok="use"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="SEWARD"/>
+<w tok="."/>
+</s>
+</doc>

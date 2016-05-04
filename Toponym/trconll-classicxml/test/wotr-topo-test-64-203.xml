@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-203" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SAINT"/>
+<w tok="LOUIS"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<w tok="Pilot"/>
+<w tok="Knob"/>
+<w tok=":"/>
+<w tok="Order"/>
+<w tok="Companies"/>
+<w tok="B"/>
+<w tok="and"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="camp"/>
+<w tok="equipage"/>
+<w tok="."/>
+<w tok="Let"/>
+<w tok="them"/>
+<w tok="march"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="Company"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="same"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="also"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="at"/>
+<toponym term="Fredericktown">
+<candidates>
+<cand lat="37.559444" long="-90.294444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="except"/>
+<w tok="1"/>
+<w tok="commissioned"/>
+<w tok="officer"/>
+<w tok="and"/>
+<w tok="15"/>
+<w tok="or"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Let"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="and"/>
+<w tok="staff"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Regiment"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="Major"/>
+<w tok="Bartlett"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="at"/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

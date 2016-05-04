@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-22" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Third"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="ENGINEER"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Ordnance"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Palfrey"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="arrangements"/>
+<w tok="for"/>
+<w tok="repairing"/>
+<toponym term="Fort Pickens">
+<candidates>
+<cand lat="30.327" long="-87.2907" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="about"/>
+<w tok="arranging"/>
+<w tok="the"/>
+<w tok="works"/>
+<w tok="for"/>
+<w tok="an"/>
+<w tok="armament"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="existing"/>
+<w tok="model"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ordnance"/>
+<w tok="Department"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="introduce"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="recommended"/>
+<w tok="by"/>
+<w tok="Admiral"/>
+<w tok="Farragut"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="nature"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="permits"/>
+<w tok="."/>
+<w tok="RICHARD"/>
+<w tok="DELAFIELD"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Engineers"/>
+<w tok="."/>
+</s>
+</doc>

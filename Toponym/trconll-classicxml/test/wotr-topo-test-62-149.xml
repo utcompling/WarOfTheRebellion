@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-149" title="62" domain="wotr">
+<s id="s1">
+<w tok="EXECUTIVE"/>
+<w tok="OFFICE"/>
+<w tok=","/>
+<toponym term="Omaha">
+<candidates>
+<cand lat="41.25" long="-96.0" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Nebr.">
+<candidates>
+<cand lat="41.5673335798" long="-99.794810316" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="ROBERT"/>
+<w tok="R."/>
+<w tok="LIVINGSTON"/>
+<w tok=","/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="take"/>
+<w tok="pleasure"/>
+<w tok="in"/>
+<w tok="forwarding"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="resolutions*"/>
+<w tok="passed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Legislature"/>
+<w tok="thanking"/>
+<w tok="our"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="soldiers"/>
+<w tok="for"/>
+<w tok="courage"/>
+<w tok="and"/>
+<w tok="bravery"/>
+<w tok="in"/>
+<w tok="fighting"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="support"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="Government"/>
+<w tok="."/>
+<w tok="Be"/>
+<w tok="assured"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="heartily"/>
+<w tok="approve"/>
+<w tok="the"/>
+<w tok="resolutions"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="unite"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="Legislature"/>
+<w tok="in"/>
+<w tok="tendering"/>
+<w tok="the"/>
+<w tok="thanks"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="people"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="brave"/>
+<w tok="men"/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="served"/>
+<w tok="under"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ALVIN"/>
+<w tok="SAUNDERS"/>
+<w tok=","/>
+<w tok="Governor"/>
+<w tok="of"/>
+<toponym term="Nebraska">
+<candidates>
+<cand lat="41.5118550709" long="-99.733992628" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

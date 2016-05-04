@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-7" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="1-3"/>
+<w tok=","/>
+<w tok="1864.-Expedition"/>
+<w tok="from"/>
+<toponym term="Madisonville">
+<candidates>
+<cand lat="30.407222" long="-90.161667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Franklinton">
+<candidates>
+<cand lat="30.848611" long="-90.15" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9703559851" long="-91.9163849479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="vicinity"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Cuvier"/>
+<w tok="Grover"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Madisonville">
+<candidates>
+<cand lat="30.407222" long="-90.161667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9703559851" long="-91.9163849479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="cavalry"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="120"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Maryland"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<toponym term="Franklinton">
+<candidates>
+<cand lat="30.848611" long="-90.15" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9703559851" long="-91.9163849479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="capture"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="any"/>
+<w tok="small"/>
+<w tok="party"/>
+<w tok="which"/>
+<w tok="they"/>
+<w tok="might"/>
+<w tok="find"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="return"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="more"/>
+<w tok="westerly"/>
+<w tok="route"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="scout"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="between"/>
+<w tok="the"/>
+<toponym term="Tchefuncta">
+<candidates>
+<cand lat="30.376667" long="-90.160556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Tangipahoa Rivers">
+<candidates>
+<cand lat="30.376667" long="-90.160556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="picking"/>
+<w tok="up"/>
+<w tok="any"/>
+<w tok="small"/>
+<w tok="parties"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="which"/>
+<w tok="were"/>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="gathering"/>
+<w tok="the"/>
+<w tok="driving"/>
+<w tok="off"/>
+<w tok="cattle"/>
+<w tok="from"/>
+<w tok="that"/>
+<w tok="neighborhood"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="also"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="picking"/>
+<w tok="up"/>
+<w tok="cattle"/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="animals"/>
+<w tok="for"/>
+<w tok="our"/>
+<w tok="own"/>
+<w tok="use"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="above-mentioned"/>
+<w tok="scouts"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Tchefuncta River">
+<candidates>
+<cand lat="30.376667" long="-90.160556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Pend Mills">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="bridge"/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="destroyed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="struck"/>
+<w tok="the"/>
+<toponym term="Franklinton road">
+<candidates>
+<cand lat="30.848611" long="-90.15" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="10"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="mills"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="reconnaissance"/>
+<w tok="reached"/>
+<toponym term="Franklinton">
+<candidates>
+<cand lat="30.848611" long="-90.15" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="4"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="found"/>
+<w tok="he"/>
+<w tok="planking"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="bridge"/>
+<w tok="taken"/>
+<w tok="up"/>
+<w tok="for"/>
+<w tok="some"/>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="having"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="advance"/>
+<w tok="about"/>
+<w tok="one-half"/>
+<w tok="hour"/>
+<w tok="before"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="repaired"/>
+<w tok="the"/>
+<w tok="bridge"/>
+<w tok="sufficiently"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="occupied"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="for"/>
+<w tok="about"/>
+<w tok="an"/>
+<w tok="hours"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="learned"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="officers"/>
+<w tok="there"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="county"/>
+<w tok="court"/>
+<w tok="was"/>
+<w tok="in"/>
+<w tok="session"/>
+<w tok="upon"/>
+<w tok="his"/>
+<w tok="approach"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="which"/>
+<w tok="was"/>
+<w tok="received"/>
+<w tok="at"/>
+<toponym term="Franklinton">
+<candidates>
+<cand lat="30.848611" long="-90.15" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="just"/>
+<w tok="previous"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok=","/>
+<w tok="alone"/>
+<w tok="prevented"/>
+<w tok="the"/>
+<w tok="capture"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="party"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="judges"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="court"/>
+<w tok="."/>
+<w tok="Before"/>
+<w tok="dark"/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok="withdrew"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="camped"/>
+<w tok="about"/>
+<w tok="2"/>
+<w tok="miles"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Bogue Chitto">
+<candidates>
+<cand lat="30.767528" long="-90.157307" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Map"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="next"/>
+<w tok="day"/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="moved"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="place"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Edwards"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="wrongly"/>
+<w tok="laid"/>
+<w tok="down"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="map"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Tchefuncta">
+<candidates>
+<cand lat="30.376667" long="-90.160556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="if"/>
+<w tok="being"/>
+<w tok="in"/>
+<w tok="fact"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="side"/>
+<w tok="."/>
+<w tok="Nothing"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="consequence"/>
+<w tok="occurred"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="day"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="some"/>
+<w tok="few"/>
+<w tok="cattle"/>
+<w tok="were"/>
+<w tok="picked"/>
+<w tok="up"/>
+<w tok="and"/>
+<w tok="driven"/>
+<w tok="along"/>
+<w tok="."/>
+<w tok="Here"/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok="was"/>
+<w tok="joined"/>
+<w tok="by"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="under"/>
+<w tok="Captain"/>
+<w tok="Bery"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok="to"/>
+<w tok="strike"/>
+<w tok="over"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Tangipahoa">
+<candidates>
+<cand lat="30.376667" long="-90.160556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="follow"/>
+<w tok="it"/>
+<w tok="up"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="watch"/>
+<w tok="the"/>
+<w tok="crossings"/>
+<w tok="as"/>
+<w tok="high"/>
+<w tok="up"/>
+<w tok="as"/>
+<w tok="Lanier"/>
+<w tok="&apos;s"/>
+<w tok="place"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="the"/>
+<w tok="escape"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="party"/>
+<w tok="who"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="driven"/>
+<w tok="in"/>
+<w tok="front"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok="&apos;s"/>
+<w tok="party"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Bery"/>
+<w tok="discovered"/>
+<w tok="a"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok="about"/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="early"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="caused"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="pursued"/>
+<w tok="until"/>
+<w tok="they"/>
+<w tok="abandoned"/>
+<w tok="their"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="took"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="swamps"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="further"/>
+<w tok="pursuit"/>
+<w tok="was"/>
+<w tok="useless"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="party"/>
+<w tok="then"/>
+<w tok="followed"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Tanginpahoa">
+<candidates>
+<cand lat="30.376667" long="-90.160556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="Lanier"/>
+<w tok="&apos;s"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="they"/>
+<w tok="discovered"/>
+<w tok="15"/>
+<w tok="more"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="belonging"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Baddeau"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="and"/>
+<w tok="pursued"/>
+<w tok="them"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="Two"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="were"/>
+<w tok="captured"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="were"/>
+<w tok="shot"/>
+<w tok="as"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="trying"/>
+<w tok="to"/>
+<w tok="swim"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="know"/>
+<w tok="that"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="were"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="course"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="day"/>
+<w tok="Lieutenant"/>
+<w tok="Moore"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Maryland"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="party"/>
+<w tok=","/>
+<w tok="captured"/>
+<w tok="Captain"/>
+<w tok="Addison"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Sixteenth"/>
+<w tok="Louisiana"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="formerly"/>
+<w tok="a"/>
+<w tok="conscript"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="his"/>
+<w tok="papers"/>
+<w tok="whew"/>
+<w tok=","/>
+<w tok="more"/>
+<w tok="lately"/>
+<w tok="on"/>
+<w tok="recruiting"/>
+<w tok="service"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="officer"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="hose"/>
+<w tok="of"/>
+<w tok="Mr."/>
+<w tok="Kincaid"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="southeast"/>
+<w tok="from"/>
+<w tok="Hennen"/>
+<w tok="&apos;s"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok=","/>
+<w tok="both"/>
+<w tok="scouts"/>
+<w tok="returned"/>
+<w tok="without"/>
+<w tok="being"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="find"/>
+<w tok="any"/>
+<w tok="other"/>
+<w tok="parties"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="without"/>
+<w tok="further"/>
+<w tok="adventure"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Grinder"/>
+<w tok="&apos;s"/>
+<w tok="scout"/>
+<w tok="brought"/>
+<w tok="in"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok=":"/>
+<w tok="Eight"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="mules"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="yoke"/>
+<w tok="oxen"/>
+<w tok=","/>
+<w tok="9"/>
+<w tok="shotguns"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="1,000"/>
+<w tok="rounds"/>
+<w tok="of"/>
+<w tok="buck"/>
+<w tok="cartridges"/>
+<w tok=","/>
+<w tok="130"/>
+<w tok="cattle"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="76"/>
+<w tok="sheep"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Bery"/>
+<w tok="&apos;s"/>
+<w tok="party"/>
+<w tok="brought"/>
+<w tok="in"/>
+<w tok="7"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="mules"/>
+<w tok="and"/>
+<w tok="26"/>
+<w tok="cattle"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="cattle"/>
+<w tok="and"/>
+<w tok="sheep"/>
+<w tok="are"/>
+<w tok="very"/>
+<w tok="poor"/>
+<w tok=","/>
+<w tok="hardly"/>
+<w tok="worth"/>
+<w tok="driving"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="were"/>
+<w tok="turned"/>
+<w tok="outside"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="lines"/>
+<w tok="as"/>
+<w tok="useless"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok=","/>
+<w tok="nevertheless"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="affords"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="enemy"/>
+<w tok="within"/>
+<w tok="our"/>
+<w tok="reach"/>
+<w tok="except"/>
+<w tok="small"/>
+<w tok="roving"/>
+<w tok="parties"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="nearest"/>
+<w tok="camps"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="hear"/>
+<w tok="definitely"/>
+<w tok="of"/>
+<w tok="are"/>
+<w tok="at"/>
+<toponym term="Brandon">
+<candidates>
+<cand lat="32.280278" long="-89.998333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.724516528" long="-89.5418553984" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Greensburg">
+<candidates>
+<cand lat="30.828056" long="-90.669167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9703559851" long="-91.9163849479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="at"/>
+<toponym term="Whitestown">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.724516528" long="-89.5418553984" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="GROVER"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="["/>
+<w tok="Major"/>
+<w tok="JOHN"/>
+<w tok="LEVERING"/>
+<w tok=","/>
+<w tok="]"/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="hdqrs"/>
+<w tok="."/>
+<w tok="Defenses"/>
+<w tok="of"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9182002087" long="-90.0369930756" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9703559851" long="-91.9163849479" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

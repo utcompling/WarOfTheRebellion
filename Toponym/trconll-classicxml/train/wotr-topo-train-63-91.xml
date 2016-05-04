@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-91" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="RAWLINS"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9161122855" long="-77.0453944253" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="the"/>
+<w tok="General-in-Chief"/>
+<w tok="accedes"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="views"/>
+<w tok="of"/>
+<w tok="allowing"/>
+<w tok="two"/>
+<w tok="good"/>
+<w tok="disciplined"/>
+<w tok="regiments"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="from"/>
+<w tok="without"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="department"/>
+<w tok=","/>
+<w tok="ask"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="please"/>
+<w tok="let"/>
+<w tok="me"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Iowa"/>
+<w tok="and"/>
+<w tok="Third"/>
+<w tok="Michigan"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Seventh"/>
+<w tok="Kansas"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="fighting"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="less"/>
+<w tok="likely"/>
+<w tok="to"/>
+<w tok="answer"/>
+<w tok="our"/>
+<w tok="purpose"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

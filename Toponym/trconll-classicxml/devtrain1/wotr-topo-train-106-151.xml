@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-151" title="106" domain="wotr">
+<s id="s1">
+<w tok="OFFICE"/>
+<w tok="SUPERINTENDENT"/>
+<w tok="OF"/>
+<w tok="INDIAN"/>
+<w tok="AFFAIRS"/>
+<w tok=","/>
+<toponym term="Salem">
+<candidates>
+<cand lat="44.930833" long="-123.028889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Oreg.">
+<candidates>
+<cand lat="43.9648146975" long="-120.640257188" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="GEORGE"/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7478240477" long="-122.469895337" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Siletz"/>
+<w tok="and"/>
+<w tok="Alsea"/>
+<w tok="Indian"/>
+<w tok="Agencies"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="reservation"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="superintendency"/>
+<w tok="demands"/>
+<w tok="the"/>
+<w tok="reoccupation"/>
+<w tok="of"/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="military"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="Herewith"/>
+<w tok="I"/>
+<w tok="transmit"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="recently"/>
+<w tok="received"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="office"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="agent"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Siletz"/>
+<w tok="Indian"/>
+<w tok="Agency"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="special"/>
+<w tok="agent"/>
+<w tok="at"/>
+<w tok="Alsea"/>
+<w tok="writes"/>
+<w tok="that"/>
+<w tok="--"/>
+<w tok="The"/>
+<w tok="Siletz"/>
+<w tok="Indians"/>
+<w tok="have"/>
+<w tok="succeeded"/>
+<w tok="in"/>
+<w tok="making"/>
+<w tok="the"/>
+<w tok="Coos"/>
+<w tok="Indians"/>
+<w tok="disaffected"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="few"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Coos"/>
+<w tok="Indians"/>
+<w tok="have"/>
+<w tok="already"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="agency"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="others"/>
+<w tok="will"/>
+<w tok="go"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="all"/>
+<w tok="means"/>
+<w tok=","/>
+<w tok="use"/>
+<w tok="your"/>
+<w tok="influence"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="at"/>
+<toponym term="Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="immediately"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="soldiers"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="the"/>
+<w tok="Siletz"/>
+<w tok="Indians"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="and"/>
+<w tok="take"/>
+<w tok="mine"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="going"/>
+<w tok="now"/>
+<w tok="almost"/>
+<w tok="daily"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="when"/>
+<w tok="they"/>
+<w tok="reach"/>
+<w tok="their"/>
+<w tok="old"/>
+<w tok="homes"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="fight"/>
+<w tok="rather"/>
+<w tok="than"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="reservation"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="special"/>
+<w tok="agent"/>
+<w tok="at"/>
+<w tok="Alsea"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="whose"/>
+<w tok="letter"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="quoted"/>
+<w tok="the"/>
+<w tok="foregoing"/>
+<w tok="extract"/>
+<w tok=","/>
+<w tok="resides"/>
+<w tok="about"/>
+<w tok="fifty"/>
+<w tok="miles"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="north"/>
+<w tok="of"/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="the"/>
+<w tok="Coos"/>
+<w tok="and"/>
+<w tok="Umpqua"/>
+<w tok="Indians"/>
+<w tok="under"/>
+<w tok="his"/>
+<w tok="charge"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Siletz"/>
+<w tok="Agency"/>
+<w tok="is"/>
+<w tok="about"/>
+<w tok="thirty"/>
+<w tok="miles"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="north"/>
+<w tok="and"/>
+<w tok="east"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Alsea"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="leave"/>
+<w tok="the"/>
+<toponym term="Siletz pass by">
+<candidates>
+</candidates>
+</toponym>
+<w tok="the"/>
+<toponym term="Alsea">
+<candidates>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="they"/>
+<w tok="go"/>
+<w tok="down"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="old"/>
+<w tok="homes"/>
+<w tok="."/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="located"/>
+<w tok="about"/>
+<w tok="six"/>
+<w tok="miles"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="southern"/>
+<w tok="boundary"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="reservation"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="urge"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="consideration"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="military"/>
+<w tok="department"/>
+<w tok="the"/>
+<w tok="necessity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="immediate"/>
+<w tok="reoccupation"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="deemed"/>
+<w tok="inconsistent"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="interests"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="service"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="a"/>
+<w tok="company"/>
+<w tok="to"/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="an"/>
+<w tok="early"/>
+<w tok="day"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="RECTOR"/>
+<w tok=","/>
+<w tok="Superintendent"/>
+<w tok="of"/>
+<w tok="Indian"/>
+<w tok="Affairs"/>
+<w tok="."/>
+</s>
+</doc>

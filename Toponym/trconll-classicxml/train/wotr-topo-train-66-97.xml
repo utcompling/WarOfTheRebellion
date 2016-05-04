@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-97" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<toponym term="Barrancas">
+<candidates>
+<cand lat="30.347839" long="-87.297561" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="C."/>
+<w tok="T."/>
+<w tok="CHRISTENSEN"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Hdqrs"/>
+<w tok="."/>
+<w tok="Div"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok=":"/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="by"/>
+<w tok="steamer"/>
+<w tok="Clyde"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="17th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="extract"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok="&apos;s"/>
+<w tok="dispatch"/>
+<w tok="requiring"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="look"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="before"/>
+<w tok="the"/>
+<w tok="20th"/>
+<w tok="or"/>
+<w tok="25th"/>
+<w tok="of"/>
+<w tok="July"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="start"/>
+<w tok="accordingly"/>
+<w tok="to-morrow"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="1,000"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="pieces"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="toward"/>
+<toponym term="Pollard">
+<candidates>
+<cand lat="31.02734" long="-87.172342" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="should"/>
+<w tok="I"/>
+<w tok="not"/>
+<w tok="find"/>
+<w tok="the"/>
+<w tok="announced"/>
+<w tok="force"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="strike"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="myself"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="steamer"/>
+<toponym term="Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="anchor"/>
+<w tok="day"/>
+<w tok="after"/>
+<w tok="to-morrow"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="off"/>
+<toponym term="Pensacola City">
+<candidates>
+<cand lat="30.433333" long="-87.2" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="loaded"/>
+<w tok="with"/>
+<w tok="commissary"/>
+<w tok="stores"/>
+<w tok="and"/>
+<w tok="forage"/>
+<w tok="for"/>
+<w tok="Sherman"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="to"/>
+<w tok="thank"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="promised"/>
+<w tok="cavalry"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="additional"/>
+<w tok="regiment"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="lie"/>
+<w tok="idle"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="may"/>
+<w tok="rely"/>
+<w tok="upon"/>
+<w tok="that"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="major"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ASBOTH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

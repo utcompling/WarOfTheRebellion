@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-82" title="63" domain="wotr">
+<s id="s1">
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="ARKANSAS"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="9"/>
+<w tok="."/>
+<toponym term="Prairie D&apos;Ane">
+<candidates>
+<cand lat="33.826389" long="-93.432222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="command"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="at"/>
+<w tok="5"/>
+<w tok="o&apos;clock"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="order"/>
+<w tok=":"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Carr"/>
+<w tok="will"/>
+<w tok="place"/>
+<w tok="his"/>
+<w tok="cavalry"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="and"/>
+<w tok="left"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="as"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="movement"/>
+<w tok="of"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="Salomon"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="center"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="columns"/>
+<w tok=","/>
+<w tok="covered"/>
+<w tok="by"/>
+<w tok="skirmishers"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="Thayer"/>
+<w tok="will"/>
+<w tok="form"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="columns"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="position"/>
+<w tok="assigned"/>
+<w tok="him"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="entire"/>
+<w tok="command"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="in"/>
+<w tok="columns"/>
+<w tok=","/>
+<w tok="covered"/>
+<w tok="by"/>
+<w tok="skirmishers"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="center"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="column"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Spring Hill road">
+<candidates>
+<cand lat="33.605" long="-94.672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="train"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="parked"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="position"/>
+<w tok="it"/>
+<w tok="now"/>
+<w tok="occupies"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="Steele"/>
+<w tok=":"/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="O."/>
+<w tok="SOKALSKI"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Act"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

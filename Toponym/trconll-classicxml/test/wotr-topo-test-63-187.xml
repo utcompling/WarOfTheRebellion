@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-187" title="63" domain="wotr">
+<s id="s1">
+<w tok="Captain"/>
+<w tok="SAMUEL"/>
+<w tok="CALDWELL"/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="in"/>
+<w tok="obedience"/>
+<w tok="to"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="I"/>
+<w tok="did"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="14th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="cross"/>
+<toponym term="Cedar Bayou">
+<candidates>
+<cand lat="29.775556" long="-94.942222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="onto"/>
+<toponym term="Saint Joseph&apos;s Island">
+<candidates>
+<cand lat="27.978056" long="-96.946944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="70"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="making"/>
+<w tok="a"/>
+<w tok="reconnaissance"/>
+<w tok="and"/>
+<w tok="driving"/>
+<w tok="off"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="cattle"/>
+<w tok="onto"/>
+<w tok="this"/>
+<w tok="island"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="went"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="end"/>
+<w tok="of"/>
+<toponym term="Saint Joseph&apos;s Island">
+<candidates>
+<cand lat="27.978056" long="-96.946944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="communicated"/>
+<w tok="with"/>
+<w tok="Major"/>
+<w tok="Thompson"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="on"/>
+<toponym term="Mustang Island">
+<candidates>
+<cand lat="27.739444" long="-97.131667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="careful"/>
+<w tok="inspection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="ground"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="end"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="to"/>
+<w tok="ascertain"/>
+<w tok="whether"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="on"/>
+<toponym term="Mustang Island">
+<candidates>
+<cand lat="27.739444" long="-97.131667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="might"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="transferred"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="position"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.871952341" long="-92.4208583147" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="equally"/>
+<w tok="eligible"/>
+<w tok="for"/>
+<w tok="commanding"/>
+<w tok="("/>
+<w tok="by"/>
+<w tok="artillery"/>
+<w tok=")"/>
+<w tok="that"/>
+<w tok="pass"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="more"/>
+<w tok="eligible"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="am"/>
+<w tok="fully"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="south"/>
+<w tok="and"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="for"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="1"/>
+<w tok="1\2"/>
+<w tok="miles"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="low"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="very"/>
+<w tok="high"/>
+<w tok="tides"/>
+<w tok="is"/>
+<w tok="covered"/>
+<w tok="with"/>
+<w tok="water"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="fully"/>
+<w tok="and"/>
+<w tok="perfectly"/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="sand-hills"/>
+<w tok="on"/>
+<toponym term="Mustang Island">
+<candidates>
+<cand lat="27.739444" long="-97.131667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="come"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="water"/>
+<w tok="&apos;s"/>
+<w tok="edge"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="hills"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="would"/>
+<w tok="command"/>
+<w tok="the"/>
+<w tok="pass"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="channel"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Mustang">
+<candidates>
+<cand lat="27.739444" long="-97.131667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="side"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Saint Joseph&apos;s">
+<candidates>
+<cand lat="27.978056" long="-96.946944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="side"/>
+<w tok="the"/>
+<w tok="water"/>
+<w tok="is"/>
+<w tok="so"/>
+<w tok="shallow"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="quite"/>
+<w tok="impossible"/>
+<w tok="for"/>
+<w tok="transports"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="landing"/>
+<w tok="and"/>
+<w tok="discharge"/>
+<w tok="their"/>
+<w tok="cargoes"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="camp"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="export"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="eligible"/>
+<w tok="position"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Arkansas City">
+<candidates>
+<cand lat="37.065278" long="-97.039722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="is"/>
+<w tok="about"/>
+<w tok="4"/>
+<w tok="miles"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="extreme"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="found"/>
+<w tok="no"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="drove"/>
+<w tok="off"/>
+<w tok="3"/>
+<w tok="Government"/>
+<w tok="mules"/>
+<w tok="and"/>
+<w tok="17"/>
+<w tok="ponies"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="drove"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="end"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="about"/>
+<w tok="1,500"/>
+<w tok="head"/>
+<w tok="of"/>
+<w tok="cattle"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="made"/>
+<w tok="no"/>
+<w tok="preparation"/>
+<w tok="for"/>
+<w tok="swimming"/>
+<w tok="the"/>
+<w tok="cattle"/>
+<w tok="over"/>
+<toponym term="Cedar Bayou">
+<candidates>
+<cand lat="29.775556" long="-94.942222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="owing"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="rain"/>
+<w tok="that"/>
+<w tok="had"/>
+<w tok="recently"/>
+<w tok="failed"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="drive"/>
+<w tok="them"/>
+<w tok="over"/>
+<w tok="the"/>
+<toponym term="Salt Flats">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="reef"/>
+<w tok="over"/>
+<w tok="which"/>
+<w tok="we"/>
+<w tok="had"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="left"/>
+<w tok="them"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="end"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="carefully"/>
+<w tok="examined"/>
+<w tok="the"/>
+<w tok="bay"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="think"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="place"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="can"/>
+<w tok="cross"/>
+<w tok="except"/>
+<w tok="in"/>
+<w tok="boats"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="land"/>
+<w tok="on"/>
+<w tok="that"/>
+<w tok="side"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="flat"/>
+<w tok="and"/>
+<w tok="boggy"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="found"/>
+<w tok="about"/>
+<w tok="100"/>
+<w tok="wagon"/>
+<w tok="loads"/>
+<w tok="of"/>
+<w tok="salt"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Thompson"/>
+<w tok="had"/>
+<w tok="sent"/>
+<w tok="over"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="detachment"/>
+<w tok="to"/>
+<w tok="drive"/>
+<w tok="in"/>
+<w tok="and"/>
+<w tok="butcher"/>
+<w tok="cattle"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="of"/>
+<w tok="rope"/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="ferry"/>
+<w tok="over"/>
+<toponym term="Cedar Bayou">
+<candidates>
+<cand lat="29.775556" long="-94.942222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="desirable"/>
+<w tok="keep"/>
+<w tok="up"/>
+<w tok="communication"/>
+<w tok="with"/>
+<toponym term="Mustang Island">
+<candidates>
+<cand lat="27.739444" long="-97.131667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="captain"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="C."/>
+<w tok="MATTHEWS"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

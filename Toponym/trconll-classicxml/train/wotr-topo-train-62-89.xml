@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-89" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="G."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Dependencies"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="to"/>
+<w tok="communicate"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="extract"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="by"/>
+<w tok="him"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="Halleck"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Andrews"/>
+<w tok="&apos;"/>
+<w tok="neglect"/>
+<w tok="of"/>
+<w tok="orders"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="batteries"/>
+<w tok="at"/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="deserves"/>
+<w tok="a"/>
+<w tok="reprimand"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="not"/>
+<w tok="a"/>
+<w tok="more"/>
+<w tok="serious"/>
+<w tok="punishment"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="most"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

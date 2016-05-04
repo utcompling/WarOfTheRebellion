@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-143" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="WESTERN"/>
+<w tok="ARIZONA"/>
+<w tok=","/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Major"/>
+<w tok="D."/>
+<w tok="Fergusson"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="an"/>
+<w tok="escort"/>
+<w tok="of"/>
+<w tok="twenty"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="left"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="instant"/>
+<w tok="to"/>
+<w tok="examine"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="between"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="of"/>
+<toponym term="La Libertad">
+<candidates>
+<cand lat="36.48066" long="-119.87904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Mexican State of Sonora">
+<candidates>
+<cand lat="29.646111" long="-110.868889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="effect"/>
+<w tok="from"/>
+<w tok="headquarters"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="also"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="G."/>
+<w tok="Morris"/>
+<w tok=","/>
+<w tok="assistant"/>
+<w tok="quartermaster"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="arrived"/>
+<w tok="at"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="9th"/>
+<w tok="instant"/>
+<w tok="and"/>
+<w tok="started"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="13th"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="THEO"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="COULT"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Fifth"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-85" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="HENRY"/>
+<w tok="B."/>
+<w tok="MELLEN"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Fort"/>
+<w tok="Crook"/>
+<w tok=":"/>
+<w tok="("/>
+<w tok="Through"/>
+<w tok="Hinchman"/>
+<w tok="&amp;"/>
+<w tok="Barlett"/>
+<w tok=","/>
+<toponym term="Red Bluffs">
+<candidates>
+<cand lat="40.176667" long="-122.238056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=")"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok="has"/>
+<w tok="received"/>
+<w tok="information"/>
+<w tok="which"/>
+<w tok="leads"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="belief"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="against"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="were"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="operate"/>
+<w tok="are"/>
+<w tok="marauding"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Chico road">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Mountain Meadows">
+<candidates>
+<cand lat="40.269722" long="-120.960556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="As"/>
+<w tok="the"/>
+<w tok="emigration"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="northern"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="passing"/>
+<w tok="over"/>
+<w tok="that"/>
+<w tok="route"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="afford"/>
+<w tok="it"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="power"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="addition"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="duties"/>
+<w tok="assigned"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

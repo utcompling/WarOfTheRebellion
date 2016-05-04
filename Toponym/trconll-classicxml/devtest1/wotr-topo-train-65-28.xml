@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-28" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Prisoners"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="the"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="ship"/>
+<w tok="of"/>
+<w tok="war"/>
+<w tok="Housatonic"/>
+<w tok=","/>
+<w tok="twelve"/>
+<w tok="guns"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="was"/>
+<w tok="sunk"/>
+<w tok="on"/>
+<w tok="night"/>
+<w tok="17th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="submarine"/>
+<w tok="torpedo-boat"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Dixon"/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Alabama">
+<candidates>
+<cand lat="32.7353251035" long="-86.8466343434" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="commanding"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="little"/>
+<w tok="hope"/>
+<w tok="of"/>
+<w tok="safety"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="brave"/>
+<w tok="man"/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="associates"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="not"/>
+<w tok="captured"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok=","/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="and"/>
+<w tok="Insp"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

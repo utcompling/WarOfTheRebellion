@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-157" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="HUMBOLDT"/>
+<w tok="MILITARY"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7586820392" long="-122.425563787" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="desire"/>
+<w tok="to"/>
+<w tok="submit"/>
+<w tok="through"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=","/>
+<w tok="that"/>
+<toponym term="Fort Bragg">
+<candidates>
+<cand lat="39.445833" long="-123.805278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="long"/>
+<w tok="enough"/>
+<w tok="borne"/>
+<w tok="the"/>
+<w tok="name"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="traitor"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="respectfully"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="its"/>
+<w tok="name"/>
+<w tok="be"/>
+<w tok="changed"/>
+<w tok="to"/>
+<toponym term="Fort McRae">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="honor"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="hero"/>
+<w tok="of"/>
+<toponym term="Fort Craig">
+<candidates>
+<cand lat="33.635556" long="-107.014167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="J."/>
+<w tok="LIPPITT"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Second"/>
+<w tok="Infty"/>
+<w tok="."/>
+<w tok="California"/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Humbldt"/>
+<w tok="Mil"/>
+<w tok="."/>
+<w tok="Dist"/>
+<w tok="."/>
+</s>
+</doc>

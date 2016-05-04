@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-66" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="89"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="office"/>
+<w tok=","/>
+<w tok="orders"/>
+<w tok="Fifty-fifth"/>
+<w tok="Georgia"/>
+<w tok="Regiment"/>
+<w tok="from"/>
+<w tok="Johnson"/>
+<w tok="&apos;s"/>
+<w tok="army"/>
+<w tok="to"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="presume"/>
+<w tok="the"/>
+<w tok="Sixty-fifth"/>
+<w tok="was"/>
+<w tok="meant"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="Fifty-fifth"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="with"/>
+<w tok="Johnston"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="you"/>
+<w tok="not"/>
+<w tok="correct"/>
+<w tok="the"/>
+<w tok="error"/>
+<w tok="and"/>
+<w tok="order"/>
+<w tok="the"/>
+<w tok="Sixty-fifth"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="?"/>
+<w tok="In"/>
+<w tok="consequence"/>
+<w tok="of"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="attack"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="300"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Fourth"/>
+<w tok="Georgia"/>
+<w tok="Cavalry"/>
+<w tok="here"/>
+<w tok="dismounted"/>
+<w tok=";"/>
+<w tok="their"/>
+<w tok="horses"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Atlanta">
+<candidates>
+<cand lat="33.7588490568" long="-84.3711156" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Enemy"/>
+<w tok="has"/>
+<w tok="made"/>
+<w tok="no"/>
+<w tok="attack"/>
+<w tok="here"/>
+<w tok="since"/>
+<w tok="my"/>
+<w tok="last"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="try"/>
+<w tok="at"/>
+<w tok="some"/>
+<w tok="other"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="lines"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="SAMUEL"/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok=","/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

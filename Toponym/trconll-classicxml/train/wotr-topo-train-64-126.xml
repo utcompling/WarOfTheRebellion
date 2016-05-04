@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-126" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="POST"/>
+<w tok="OF"/>
+<toponym term="ROLLA">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="O"/>
+<w tok="."/>
+<w tok="Guitar"/>
+<w tok=","/>
+<w tok="commanding"/>
+<toponym term="Rolla District">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="within"/>
+<w tok="suggestion"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Warmoth"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="opinion"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="appropriate"/>
+<w tok="and"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="acted"/>
+<w tok="upon"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="."/>
+<w tok="ALBERT"/>
+<w tok="SIGEL"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="also"/>
+<w tok="recommend"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok="companies"/>
+<w tok="along"/>
+<w tok="the"/>
+<toponym term="Pacific Railroad">
+<candidates>
+</candidates>
+</toponym>
+<w tok="be"/>
+<w tok="called"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="37.32" long="-91.96" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Dent Counties">
+<candidates>
+<cand lat="37.61" long="-91.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="ALBERT"/>
+<w tok="SIGEL"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

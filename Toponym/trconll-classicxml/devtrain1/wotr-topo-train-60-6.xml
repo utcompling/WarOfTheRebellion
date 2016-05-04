@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-6" title="60" domain="wotr">
+<s id="s1">
+<w tok="Major"/>
+<w tok="PICKETT"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="16"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="John"/>
+<w tok="Taylor"/>
+<w tok="Wood"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<toponym term="RICHMOND">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="the"/>
+<w tok="result"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="operations"/>
+<w tok="near"/>
+<toponym term="New Berne">
+<candidates>
+<cand lat="35.109167" long="-77.069167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Leaving"/>
+<toponym term="Kinston">
+<candidates>
+<cand lat="35.270556" long="-77.585" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="noon"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="31st"/>
+<w tok="ultimo"/>
+<w tok=","/>
+<w tok="we"/>
+<w tok="reached"/>
+<toponym term="New
+
+Berne ">
+<candidates>
+<cand lat="35.109167" long="-77.069167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="4"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=";"/>
+<w tok="passed"/>
+<w tok="down"/>
+<w tok="and"/>
+<w tok="up"/>
+<w tok="in"/>
+<w tok="front"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="without"/>
+<w tok="discovering"/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="thick"/>
+<w tok="for"/>
+<w tok="shut"/>
+<w tok="in"/>
+<w tok="everything"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="daybreak"/>
+<w tok="returned"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="to"/>
+<toponym term="Batchelder&apos;s Creek">
+<candidates>
+<cand lat="35.1177327135" long="-77.0765055239" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="our"/>
+<w tok="forces"/>
+<w tok="were"/>
+<w tok="crossing"/>
+<w tok="."/>
+<w tok="Monday"/>
+<w tok=","/>
+<w tok="reconnoitered"/>
+<w tok=";"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="gun-boat"/>
+<w tok="in"/>
+<w tok="sight"/>
+<w tok="."/>
+<w tok="After"/>
+<w tok="dark"/>
+<w tok="attacked"/>
+<w tok="and"/>
+<w tok="captured"/>
+<w tok="her"/>
+<w tok="."/>
+<w tok="She"/>
+<w tok="was"/>
+<w tok="moored"/>
+<w tok="close"/>
+<w tok="in"/>
+<w tok="shore"/>
+<w tok="in"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="rake"/>
+<w tok="the"/>
+<w tok="approaches"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="line"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="tried"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="her"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="failed"/>
+<w tok="."/>
+<w tok="Her"/>
+<w tok="fires"/>
+<w tok="were"/>
+<w tok="nearly"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="attempting"/>
+<w tok="to"/>
+<w tok="tow"/>
+<w tok="her"/>
+<w tok="out"/>
+<w tok="were"/>
+<w tok="subjected"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="fire"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="and"/>
+<w tok="infantry"/>
+<w tok="."/>
+<w tok="Fired"/>
+<w tok="her"/>
+<w tok=","/>
+<w tok="bringing"/>
+<w tok="off"/>
+<w tok="all"/>
+<w tok="our"/>
+<w tok="boats"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="next"/>
+<w tok="morning"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="forces"/>
+<w tok="were"/>
+<w tok="ordered"/>
+<w tok="back"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="water"/>
+<w tok="front"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="I"/>
+<w tok="found"/>
+<w tok="open"/>
+<w tok="and"/>
+<w tok="unguarded"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="judge"/>
+<w tok=","/>
+<w tok="their"/>
+<w tok="force"/>
+<w tok="was"/>
+<w tok="small"/>
+<w tok=","/>
+<w tok="say"/>
+<w tok="4,000"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="press"/>
+<w tok="forward"/>
+<w tok="to"/>
+<w tok="completion"/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="ready"/>
+<w tok="for"/>
+<w tok="service"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="month"/>
+<w tok="or"/>
+<w tok="six"/>
+<w tok="weeks"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="TAYLOR"/>
+<w tok="WOOD"/>
+<w tok="."/>
+</s>
+</doc>

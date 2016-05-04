@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-75" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="JOHN"/>
+<w tok="A."/>
+<w tok="McCLERNAND"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9689216714" long="-90.0690324629" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="thence"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="headquarters"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="assume"/>
+<w tok="personal"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="now"/>
+<w tok="serving"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="campaign"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="further"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="bring"/>
+<w tok="from"/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="white"/>
+<w tok="infantry"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="the"/>
+<w tok="necessary"/>
+<w tok="garrison"/>
+<w tok="for"/>
+<w tok="defense"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="position"/>
+<w tok="in"/>
+<w tok="conjunction"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="navy"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="necessary"/>
+<w tok="garrison"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="thinks"/>
+<w tok=","/>
+<w tok="should"/>
+<w tok="not"/>
+<w tok="exceed"/>
+<w tok="2,000"/>
+<w tok="infantry"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="and"/>
+<w tok="heavy"/>
+<w tok="artillery"/>
+<w tok="troops"/>
+<w tok="now"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="which"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="heretofore"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="duty"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="deemed"/>
+<w tok="sufficient"/>
+<w tok="for"/>
+<w tok="scouting"/>
+<w tok="purposes"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DRAKE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-59" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="material"/>
+<w tok="change"/>
+<w tok="here"/>
+<w tok="since"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="hold"/>
+<w tok="south"/>
+<w tok="end"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="increased"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="Their"/>
+<w tok="fleet"/>
+<w tok="of"/>
+<w tok="monitors"/>
+<w tok="in"/>
+<toponym term="Stono">
+<candidates>
+<cand lat="32.6567195451" long="-80.0114629632" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="incessantly"/>
+<w tok="shelling"/>
+<w tok="our"/>
+<w tok="lines"/>
+<w tok="."/>
+<w tok="Officers"/>
+<w tok="captured"/>
+<w tok="say"/>
+<w tok="this"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="carefully"/>
+<w tok="matured"/>
+<w tok="plan"/>
+<w tok="of"/>
+<w tok="attack"/>
+<w tok="on"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="confidently"/>
+<w tok="expected"/>
+<w tok="will"/>
+<w tok="succeed"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Johnston"/>
+<w tok="has"/>
+<w tok="ordered"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="need"/>
+<w tok="more"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

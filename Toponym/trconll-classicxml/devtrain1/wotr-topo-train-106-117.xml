@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-117" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="CAMP"/>
+<w tok="BARBITT"/>
+<w tok=","/>
+<w tok="Near"/>
+<toponym term="Visalia">
+<candidates>
+<cand lat="36.316667" long="-119.3" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="pursuant"/>
+<w tok="to"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="headquarters"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="this"/>
+<w tok="day"/>
+<w tok="selected"/>
+<w tok="a"/>
+<w tok="permanent"/>
+<w tok="camp"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="of"/>
+<toponym term="Visalia">
+<candidates>
+<cand lat="36.316667" long="-119.3" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Said"/>
+<w tok="camp"/>
+<w tok="is"/>
+<w tok="situated"/>
+<w tok="about"/>
+<w tok="one"/>
+<w tok="mile"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="of"/>
+<toponym term="Visalia">
+<candidates>
+<cand lat="36.316667" long="-119.3" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="named"/>
+<w tok=","/>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="approval"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok=","/>
+<toponym term="Camp Babbitt">
+<candidates>
+<cand lat="36.335278" long="-119.287778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="honor"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="deputy"/>
+<w tok="quartermaster-general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok="Department"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="Babbitt"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="further"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="pursuant"/>
+<w tok="to"/>
+<w tok="said"/>
+<w tok="instructions"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="flour"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="purchased"/>
+<w tok="at"/>
+<w tok="$"/>
+<w tok="5"/>
+<w tok="per"/>
+<w tok="100"/>
+<w tok="pounds"/>
+<w tok=","/>
+<w tok="barley"/>
+<w tok="at"/>
+<w tok="2"/>
+<w tok="cents"/>
+<w tok="["/>
+<w tok="per"/>
+<w tok="pound"/>
+<w tok="]"/>
+<w tok=","/>
+<w tok="hay"/>
+<w tok="from"/>
+<w tok="$"/>
+<w tok="20"/>
+<w tok="to"/>
+<w tok="$"/>
+<w tok="25"/>
+<w tok="per"/>
+<w tok="ton"/>
+<w tok=","/>
+<w tok="according"/>
+<w tok="to"/>
+<w tok="quality"/>
+<w tok=";"/>
+<w tok="wood"/>
+<w tok="from"/>
+<w tok="$"/>
+<w tok="3"/>
+<w tok="to"/>
+<w tok="$"/>
+<w tok="4"/>
+<w tok="per"/>
+<w tok="cord"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="beef"/>
+<w tok="at"/>
+<w tok="5"/>
+<w tok="cents"/>
+<w tok="per"/>
+<w tok="pound"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="such"/>
+<w tok="articles"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="procured"/>
+<w tok="from"/>
+<w tok="loyal"/>
+<w tok="citizens"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="supplies"/>
+<w tok="other"/>
+<w tok="than"/>
+<w tok="those"/>
+<w tok="mentioned"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="shipped"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<toponym term="Stockton">
+<candidates>
+<cand lat="37.975556" long="-121.300833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="EVANS"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+</s>
+</doc>

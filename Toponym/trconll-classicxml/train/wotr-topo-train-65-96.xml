@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-96" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864-11"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Shots"/>
+<w tok="fired"/>
+<w tok="from"/>
+<w tok="10-inch"/>
+<w tok="columbiads"/>
+<w tok=","/>
+<w tok="8-inch"/>
+<w tok="Parrott"/>
+<w tok=","/>
+<w tok="6-inch"/>
+<w tok="Parrott"/>
+<w tok=","/>
+<w tok="40"/>
+<w tok="and"/>
+<w tok="30"/>
+<w tok="pounder"/>
+<w tok="Parrots"/>
+<w tok="at"/>
+<w tok="south"/>
+<w tok="angle"/>
+<w tok=","/>
+<w tok="156"/>
+<w tok=";"/>
+<w tok="129"/>
+<w tok="hit"/>
+<w tok="."/>
+<w tok="Mortar"/>
+<w tok="shells"/>
+<w tok="fired"/>
+<w tok=","/>
+<w tok="13"/>
+<w tok=";"/>
+<w tok="7"/>
+<w tok="hit"/>
+<w tok="."/>
+<w tok="Damage"/>
+<w tok=","/>
+<w tok="trifling"/>
+<w tok="."/>
+<w tok="Casualties"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="man"/>
+<w tok="wounded"/>
+<w tok="in"/>
+<w tok="ankle"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

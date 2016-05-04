@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-34" title="106" domain="wotr">
+<s id="s1">
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="HARVEY"/>
+<w tok="LEE"/>
+<w tok=","/>
+<w tok="Fourth"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<toponym term="Benicia Barracks">
+<candidates>
+<cand lat="38.054036" long="-122.135561" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Benicia">
+<candidates>
+<cand lat="38.063333" long="-122.156111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="read"/>
+<w tok="and"/>
+<w tok="hand"/>
+<w tok="the"/>
+<w tok="inclosed"/>
+<w tok="letter"/>
+<w tok="as"/>
+<w tok="directed"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="let"/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="understand"/>
+<w tok="generally"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="suspending"/>
+<w tok="the"/>
+<w tok="writ"/>
+<w tok="of"/>
+<w tok="habeas"/>
+<w tok="corpus"/>
+<w tok="and"/>
+<w tok="directing"/>
+<w tok="the"/>
+<w tok="arrest"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="persons"/>
+<w tok="guilty"/>
+<w tok="of"/>
+<w tok="disloyal"/>
+<w tok="practices"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="rigidly"/>
+<w tok="enforced"/>
+<w tok="."/>
+<w tok="Those"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="leading"/>
+<w tok="secessionists"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="confined"/>
+<w tok="at"/>
+<toponym term="Alcatraz">
+<candidates>
+<cand lat="37.82667" long="-122.423333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="those"/>
+<w tok="who"/>
+<w tok="may"/>
+<w tok="happen"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="drunken"/>
+<w tok="brawlers"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="if"/>
+<w tok="no"/>
+<w tok="account"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="confined"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="guardhouse"/>
+<w tok="unless"/>
+<w tok="they"/>
+<w tok="take"/>
+<w tok="the"/>
+<w tok="oath"/>
+<w tok="of"/>
+<w tok="allegiance"/>
+<w tok="."/>
+<w tok="Practices"/>
+<w tok="injurious"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok="or"/>
+<w tok="offensive"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="loyal"/>
+<w tok="sentiment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="will"/>
+<w tok="under"/>
+<w tok="no"/>
+<w tok="circumstances"/>
+<w tok="be"/>
+<w tok="permitted"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

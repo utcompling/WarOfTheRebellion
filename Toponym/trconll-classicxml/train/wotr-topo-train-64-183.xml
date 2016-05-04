@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-183" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="FREUDENBERG"/>
+<w tok=","/>
+<w tok="Veteran"/>
+<w tok="Reserve"/>
+<w tok="Corps"/>
+<w tok=","/>
+<toponym term="Madison">
+<candidates>
+<cand lat="43.066667" long="-89.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wis.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="immediately"/>
+<w tok="repair"/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="to"/>
+<toponym term="Camp Reno">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="to"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Wisconsin"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

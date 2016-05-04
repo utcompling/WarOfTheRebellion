@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-142" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="O."/>
+<w tok="C."/>
+<w tok="ORD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="generals"/>
+<w tok="commanding"/>
+<w tok="forces"/>
+<w tok="in"/>
+<w tok="different"/>
+<w tok="portions"/>
+<w tok="of"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4250643149" long="-99.292791041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="instructed"/>
+<w tok="to"/>
+<w tok="collect"/>
+<w tok="beef-cattle"/>
+<w tok="whenever"/>
+<w tok="practicable"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="ship"/>
+<w tok="by"/>
+<w tok="each"/>
+<w tok="returning"/>
+<w tok="steamer"/>
+<w tok="to"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="many"/>
+<w tok="as"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="profitably"/>
+<w tok="taken"/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="will"/>
+<w tok="of"/>
+<w tok="course"/>
+<w tok="only"/>
+<w tok="apply"/>
+<w tok="to"/>
+<w tok="such"/>
+<w tok="steamers"/>
+<w tok="as"/>
+<w tok="are"/>
+<w tok="suitable"/>
+<w tok="for"/>
+<w tok="transporting"/>
+<w tok="cattle"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="great"/>
+<w tok="scarcity"/>
+<w tok="of"/>
+<w tok="beef-cattle"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="region"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="difficulty"/>
+<w tok="of"/>
+<w tok="procuring"/>
+<w tok="them"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="upper Mississippi">
+<candidates>
+</candidates>
+</toponym>
+<w tok="make"/>
+<w tok="it"/>
+<w tok="necessary"/>
+<w tok="that"/>
+<w tok="great"/>
+<w tok="attention"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="paid"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="duty"/>
+<w tok="of"/>
+<w tok="collecting"/>
+<w tok="such"/>
+<w tok="stock"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="points"/>
+<w tok="where"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="feasible"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

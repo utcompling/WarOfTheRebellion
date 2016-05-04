@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-59" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="23"/>
+<w tok="-"/>
+<w tok="MARCH"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="Scout"/>
+<w tok="from"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="into"/>
+<toponym term="Northern Arkansas">
+<candidates>
+<cand lat="34.8891006473" long="-92.4237757567" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="skirmishes"/>
+<w tok="near"/>
+<toponym term="Buffalo City">
+<candidates>
+<cand lat="36.167778" long="-92.442222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="March"/>
+<w tok="1"/>
+<w tok=")"/>
+<w tok="and"/>
+<w tok="at"/>
+<toponym term="Bennett&apos;s Bayou">
+<candidates>
+<cand lat="36.388611" long="-91.814444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="March"/>
+<w tok="2"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Eli"/>
+<w tok="Hughes"/>
+<w tok=","/>
+<w tok="Sixth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="expedition"/>
+<w tok="."/>
+<toponym term="SPRINGFIELD">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="herewith"/>
+<w tok="to"/>
+<w tok="submit"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="official"/>
+<w tok="report"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="50"/>
+<w tok=","/>
+<w tok="issued"/>
+<w tok="from"/>
+<w tok="district"/>
+<w tok="headquarters"/>
+<toponym term="Southwest Missouri">
+<candidates>
+<cand lat="37.3893905502" long="-93.3229887732" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="February"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="left"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="111"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="south"/>
+<w tok="into"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.9194484564" long="-92.4021956427" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="of"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="crossed"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reaching"/>
+<toponym term="Yellville">
+<candidates>
+<cand lat="36.229722" long="-92.685278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="26th"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="conformity"/>
+<w tok="to"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="received"/>
+<w tok="prior"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="departure"/>
+<w tok="from"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="dispatched"/>
+<w tok="30"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="escort"/>
+<w tok="refugees"/>
+<w tok="desiring"/>
+<w tok="to"/>
+<w tok="emigrate"/>
+<w tok="to"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Traversing"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="situate"/>
+<w tok="between"/>
+<w tok="Sugar"/>
+<w tok="Loaf"/>
+<w tok="Prairie"/>
+<w tok="and"/>
+<toponym term="Yellville">
+<candidates>
+<cand lat="36.229722" long="-92.685278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9194484564" long="-92.4021956427" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="encountered"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="killed"/>
+<w tok="2"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="subsequently"/>
+<w tok="ascertained"/>
+<w tok=","/>
+<w tok="belonged"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="Gunning"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="took"/>
+<w tok="up"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="march"/>
+<w tok="from"/>
+<toponym term="Yellville">
+<candidates>
+<cand lat="36.229722" long="-92.685278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="28th"/>
+<w tok=","/>
+<w tok="halting"/>
+<w tok="30"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Yellville">
+<candidates>
+<cand lat="36.229722" long="-92.685278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="below"/>
+<toponym term="Buffalo City">
+<candidates>
+<cand lat="36.167778" long="-92.442222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="remained"/>
+<w tok="three"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="scouring"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="on"/>
+<w tok="both"/>
+<w tok="sides"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="March"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="detachment"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Overman"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="Sixth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="down"/>
+<w tok="river"/>
+<w tok="on"/>
+<w tok="opposite"/>
+<w tok="side"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="which"/>
+<w tok="my"/>
+<w tok="operations"/>
+<w tok="were"/>
+<w tok="confined"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="now"/>
+<w tok="had"/>
+<w tok="only"/>
+<w tok="40"/>
+<w tok="men"/>
+<w tok="left"/>
+<w tok="remaining"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="About"/>
+<w tok="10"/>
+<w tok="o&apos;clock"/>
+<w tok="on"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="1st"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="near"/>
+<w tok="or"/>
+<w tok="not"/>
+<w tok="far"/>
+<w tok="from"/>
+<toponym term="Buffalo City">
+<candidates>
+<cand lat="36.167778" long="-92.442222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="encountered"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="killed"/>
+<w tok="Lieutenant"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="Eighth"/>
+<w tok="Missouri"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="named"/>
+<w tok="Charles"/>
+<w tok="Cain"/>
+<w tok=","/>
+<w tok="known"/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="desperado"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="regarded"/>
+<w tok="with"/>
+<w tok="terror"/>
+<w tok="by"/>
+<w tok="all"/>
+<w tok="loyal"/>
+<w tok="citizens"/>
+<w tok="."/>
+<w tok="Meanwhile"/>
+<w tok="Lieutenant"/>
+<w tok="Overman"/>
+<w tok="was"/>
+<w tok="contending"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="Tracy"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="not"/>
+<w tok="far"/>
+<w tok="distant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="succeeded"/>
+<w tok="in"/>
+<w tok="killing"/>
+<w tok="2"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="band"/>
+<w tok="and"/>
+<w tok="capturing"/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="killed"/>
+<w tok="was"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="name"/>
+<w tok="of"/>
+<w tok="Heron"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="Baptist"/>
+<w tok="preacher"/>
+<w tok=","/>
+<w tok="whose"/>
+<w tok="name"/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="know"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="March"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="left"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="above"/>
+<toponym term="Calico Rock">
+<candidates>
+<cand lat="36.1225" long="-92.133611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="crossed"/>
+<w tok="mountain"/>
+<w tok="to"/>
+<toponym term="Bennett&apos;s Bayou">
+<candidates>
+<cand lat="36.388611" long="-91.814444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<toponym term="North Fork White River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="I"/>
+<w tok="came"/>
+<w tok="in"/>
+<w tok="contact"/>
+<w tok="with"/>
+<w tok="about"/>
+<w tok="50"/>
+<w tok="guerrillas"/>
+<w tok="with"/>
+<w tok="Tracy"/>
+<w tok="at"/>
+<w tok="their"/>
+<w tok="head"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="had"/>
+<w tok="there"/>
+<w tok="murdered"/>
+<w tok="a"/>
+<w tok="Union"/>
+<w tok="man"/>
+<w tok="named"/>
+<w tok="Anderson"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="negro"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="my"/>
+<w tok="approach"/>
+<w tok="Tracy"/>
+<w tok="dispersed"/>
+<w tok="his"/>
+<w tok="men"/>
+<w tok="among"/>
+<w tok="the"/>
+<w tok="hills"/>
+<w tok="and"/>
+<w tok="fired"/>
+<w tok="upon"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="from"/>
+<w tok="behind"/>
+<w tok="rocks"/>
+<w tok="and"/>
+<w tok="trees"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="without"/>
+<w tok="effect"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="March"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="deployed"/>
+<w tok="small"/>
+<w tok="detachments"/>
+<w tok="of"/>
+<w tok="skirmishers"/>
+<w tok=","/>
+<w tok="thoroughly"/>
+<w tok="scoured"/>
+<toponym term="Bennett&apos;s Bayou">
+<candidates>
+<cand lat="36.388611" long="-91.814444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="killed"/>
+<w tok="Frank"/>
+<w tok="Russell"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="notorious"/>
+<w tok="guerrilla"/>
+<w tok="from"/>
+<toponym term="Wright County">
+<candidates>
+<cand lat="37.27" long="-92.46" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="name"/>
+<w tok="of"/>
+<w tok="Howard"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Fulton County">
+<candidates>
+<cand lat="36.388611" long="-91.814444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9194484564" long="-92.4021956427" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="also"/>
+<w tok="captured"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="gang"/>
+<w tok="."/>
+<w tok="Thence"/>
+<w tok="proceeded"/>
+<w tok="through"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4087705905" long="-99.2659347454" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Wright Counties">
+<candidates>
+<cand lat="37.27" long="-92.46" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="I"/>
+<w tok="turned"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="district"/>
+<w tok="provost-marshal"/>
+<toponym term="Southwest Missouri">
+<candidates>
+<cand lat="37.3893905502" long="-93.3229887732" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="captured"/>
+<w tok="during"/>
+<w tok="scout"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="which"/>
+<w tok="consisted"/>
+<w tok="of"/>
+<w tok="16"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="fire-arms"/>
+<w tok=","/>
+<w tok="such"/>
+<w tok="as"/>
+<w tok="shotguns"/>
+<w tok=","/>
+<w tok="rifles"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="I"/>
+<w tok="found"/>
+<w tok="forage"/>
+<w tok="in"/>
+<w tok="abundance"/>
+<w tok="during"/>
+<w tok="whole"/>
+<w tok="of"/>
+<w tok="scout"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ELI"/>
+<w tok="HUGHES"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Company"/>
+<w tok="K"/>
+<w tok=","/>
+<w tok="Sixth"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-168" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="My"/>
+<w tok="forces"/>
+<w tok="are"/>
+<w tok="pursuing"/>
+<w tok="a"/>
+<w tok="gang"/>
+<w tok="of"/>
+<w tok="bushwhackers"/>
+<w tok="through"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="39.38" long="-94.77" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Clay">
+<candidates>
+<cand lat="39.31" long="-94.42" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Counties"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="may"/>
+<w tok="attempt"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="Please"/>
+<w tok="give"/>
+<w tok="them"/>
+<w tok="a"/>
+<w tok="warm"/>
+<w tok="reception"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

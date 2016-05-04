@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-3" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.402433938" long="-94.09709911" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Mr."/>
+<w tok="A."/>
+<w tok="FARIBAULT"/>
+<w tok=":"/>
+<w tok="DEAR"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="From"/>
+<w tok="recent"/>
+<w tok="information"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="received"/>
+<w tok="it"/>
+<w tok="appears"/>
+<w tok="that"/>
+<w tok="Tah-naf-soo-o-tah"/>
+<w tok="and"/>
+<w tok="Wah-she-chou-wilkou-e-i-dan"/>
+<w tok=","/>
+<w tok="two"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="lower"/>
+<w tok="Sioux"/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="principally"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="massacres"/>
+<w tok="of"/>
+<w tok="1862"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="about"/>
+<toponym term="Faribault">
+<candidates>
+<cand lat="44.290589" long="-93.268319" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="some"/>
+<w tok="months"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="summer"/>
+<w tok="and"/>
+<w tok="fall"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="Taopee"/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="friendly"/>
+<w tok="Indians"/>
+<w tok="must"/>
+<w tok="have"/>
+<w tok="known"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="presence"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="should"/>
+<w tok="have"/>
+<w tok="given"/>
+<w tok="the"/>
+<w tok="necessary"/>
+<w tok="information"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="military"/>
+<w tok="authorities"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="apprehended"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="obliged"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="diligent"/>
+<w tok="inquiry"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="facts"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="requisite"/>
+<w tok="I"/>
+<w tok="should"/>
+<w tok="know"/>
+<w tok="if"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="friendly"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="enjoying"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="whites"/>
+<w tok="at"/>
+<w tok="or"/>
+<w tok="near"/>
+<toponym term="Faribault">
+<candidates>
+<cand lat="44.290589" long="-93.268319" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="so"/>
+<w tok="far"/>
+<w tok="forgotten"/>
+<w tok="their"/>
+<w tok="obligations"/>
+<w tok="of"/>
+<w tok="good"/>
+<w tok="faith"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="conceal"/>
+<w tok="hostile"/>
+<w tok="and"/>
+<w tok="criminal"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="ventured"/>
+<w tok="to"/>
+<w tok="appear"/>
+<w tok="among"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="prompt"/>
+<w tok="investigation"/>
+<w tok="and"/>
+<w tok="reply"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="thankfully"/>
+<w tok="acknowledged"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

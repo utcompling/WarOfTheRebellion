@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-11" title="105" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="M."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENTR"/>
+<w tok="OF"/>
+<w tok="NEWE"/>
+<w tok="MEXICO"/>
+<w tok=","/>
+<w tok="August"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="the"/>
+<w tok="ADJUTANT-GENERAL"/>
+<w tok=","/>
+<toponym term="Washington, D. C.">
+<candidates>
+<cand lat="38.9101716705" long="-77.038413231" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Carleton"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="less"/>
+<w tok="by"/>
+<w tok="700"/>
+<w tok="men"/>
+<w tok="than"/>
+<w tok="is"/>
+<w tok="stated"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="6th"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="followed"/>
+<w tok="by"/>
+<w tok="another"/>
+<w tok="regiment"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="recommend"/>
+<w tok="that"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="and"/>
+<w tok="five"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<toponym term="California">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="regular"/>
+<w tok="troops"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="ready"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="as"/>
+<w tok="soonas"/>
+<w tok="the"/>
+<w tok="answer"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="6th"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="earlier"/>
+<w tok="if"/>
+<w tok="I"/>
+<w tok="find"/>
+<w tok="it"/>
+<w tok="safe"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="ED"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

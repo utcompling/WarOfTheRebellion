@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-107" title="62" domain="wotr">
+<s id="s1">
+<toponym term="FRANKLIN">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="7"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="important"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="communication"/>
+<w tok="received"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="to-day"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="Levy"/>
+<w tok="is"/>
+<w tok="dated"/>
+<w tok="headquarters"/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Forces"/>
+<w tok="in"/>
+<toponym term="Western Louisiana">
+<candidates>
+<cand lat="31.3860004967" long="-93.2074294423" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="New Iberia">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="which"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="appear"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Taylor"/>
+<w tok="&apos;s"/>
+<w tok="headquarters"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="within"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="removed"/>
+<w tok="from"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="New Iberia">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="DWIGHT"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c"/>
+<w tok="."/>
+</s>
+</doc>

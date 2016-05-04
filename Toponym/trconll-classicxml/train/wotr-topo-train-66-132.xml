@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-132" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<w tok="Yellow"/>
+<w tok="Bluff"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="We"/>
+<w tok="have"/>
+<w tok="taken"/>
+<toponym term="Baldwin">
+<candidates>
+<cand lat="30.303889" long="-81.975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="locomotive"/>
+<w tok="and"/>
+<w tok="train"/>
+<w tok="at"/>
+<toponym term="Callahan">
+<candidates>
+<cand lat="30.560833" long="-81.830833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="between"/>
+<w tok="there"/>
+<w tok="and"/>
+<toponym term="Baldwin">
+<candidates>
+<cand lat="30.303889" long="-81.975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="march"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="to"/>
+<w tok="capture"/>
+<w tok="."/>
+<w tok="Take"/>
+<w tok="six"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="locomotive"/>
+<w tok="and"/>
+<w tok="train"/>
+<w tok="to"/>
+<toponym term="Baldwin">
+<candidates>
+<cand lat="30.303889" long="-81.975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="When"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="done"/>
+<w tok="what"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok=","/>
+<w tok="go"/>
+<w tok="back"/>
+<w tok="to"/>
+<toponym term="Yellow Bluff">
+<candidates>
+<cand lat="31.959922" long="-87.482175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

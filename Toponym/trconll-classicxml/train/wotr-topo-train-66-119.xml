@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-119" title="66" domain="wotr">
+<s id="s1">
+<w tok="FLAG-STEAMER"/>
+<w tok="PHILADELPHIA"/>
+<w tok=","/>
+<toponym term="Port Royal Harbor">
+<candidates>
+<cand lat="32.383333" long="-80.695556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=","/>
+<w tok="Hdqrs"/>
+<w tok="."/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="may"/>
+<w tok="remember"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="importance"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="attached"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="passage"/>
+<w tok="between"/>
+<toponym term="Port Royal">
+<candidates>
+<cand lat="32.383333" long="-80.695556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Calibogue Sound">
+<candidates>
+<cand lat="32.1011244145" long="-80.839820043" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="written"/>
+<w tok="to"/>
+<w tok="by"/>
+<w tok="yourself"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="its"/>
+<w tok="security"/>
+<w tok="by"/>
+<w tok="water"/>
+<w tok="."/>
+<w tok="Last"/>
+<w tok="night"/>
+<w tok="some"/>
+<w tok="examination"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="approaches"/>
+<w tok="by"/>
+<w tok="water"/>
+<w tok="were"/>
+<w tok="made"/>
+<w tok="by"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="officers"/>
+<w tok="without"/>
+<w tok="being"/>
+<w tok="perceived"/>
+<w tok="by"/>
+<w tok="your"/>
+<w tok="pickets"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="anchored"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="tug"/>
+<w tok="some"/>
+<w tok="50"/>
+<w tok="feet"/>
+<w tok="from"/>
+<toponym term="Hilton Head Island">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="entrance"/>
+<w tok="of"/>
+<toponym term="Scull Creek">
+<candidates>
+<cand lat="32.2373405133" long="-80.7525210848" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="after"/>
+<w tok="passing"/>
+<w tok="entirely"/>
+<w tok="around"/>
+<toponym term="Pinckney Island">
+<candidates>
+<cand lat="32.243768" long="-80.765305" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="came"/>
+<w tok="through"/>
+<toponym term="Scull Creek">
+<candidates>
+<cand lat="32.2373405133" long="-80.7525210848" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="nearly"/>
+<w tok="touching"/>
+<w tok="the"/>
+<w tok="steam-boats"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="coal"/>
+<w tok="wharf"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="oars"/>
+<w tok=";"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="never"/>
+<w tok="once"/>
+<w tok="hailed"/>
+<w tok="form"/>
+<w tok="the"/>
+<w tok="shore"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="may"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="way"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="results"/>
+<w tok="of"/>
+<w tok="these"/>
+<w tok="examinations"/>
+<w tok="indicates"/>
+<w tok="that"/>
+<toponym term="Scull Creek">
+<candidates>
+<cand lat="32.2373405133" long="-80.7525210848" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="tolerably"/>
+<w tok="well"/>
+<w tok="observed"/>
+<w tok="by"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="steamers"/>
+<w tok="at"/>
+<w tok="each"/>
+<w tok="outlet"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="impassable"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="battery"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="But"/>
+<toponym term="Mackay Creek">
+<candidates>
+<cand lat="32.2271397083" long="-80.7913304699" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="unguarded"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="water"/>
+<w tok="sufficient"/>
+<w tok="for"/>
+<w tok="rebel"/>
+<w tok="rams"/>
+<w tok="or"/>
+<w tok="other"/>
+<w tok="vessels"/>
+<w tok="to"/>
+<w tok="pass"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="order"/>
+<w tok="it"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="obstructed"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="boom"/>
+<w tok="at"/>
+<w tok="its"/>
+<w tok="entrance"/>
+<w tok="into"/>
+<w tok="the"/>
+<toponym term="Checkhessee River">
+<candidates>
+<cand lat="32.2774428911" long="-80.7253985872" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="as"/>
+<w tok="Pinckney"/>
+<w tok="Island"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok=","/>
+<w tok="this"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="easily"/>
+<w tok="cut"/>
+<w tok="loose"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="order"/>
+<w tok=","/>
+<w tok="therefore"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="sure"/>
+<w tok="of"/>
+<w tok="closing"/>
+<w tok="this"/>
+<w tok="passage"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="pickets"/>
+<w tok="be"/>
+<w tok="placed"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="notice"/>
+<w tok="or"/>
+<w tok="hinder"/>
+<w tok="any"/>
+<w tok="attempt"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="kind"/>
+<w tok="."/>
+<w tok="Some"/>
+<w tok="battery"/>
+<w tok="should"/>
+<w tok="also"/>
+<w tok="be"/>
+<w tok="placed"/>
+<w tok=","/>
+<w tok="because"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="posted"/>
+<w tok="two"/>
+<w tok="steamers"/>
+<w tok="to"/>
+<w tok="watch"/>
+<toponym term="Scull Creek">
+<candidates>
+<cand lat="32.2373405133" long="-80.7525210848" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="others"/>
+<w tok="to"/>
+<w tok="spare"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="either"/>
+<w tok="are"/>
+<w tok="drawn"/>
+<w tok="off"/>
+<w tok="to"/>
+<w tok="where"/>
+<toponym term="Mackay Creek">
+<candidates>
+<cand lat="32.2271397083" long="-80.7913304699" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="enters"/>
+<w tok="May"/>
+<w tok="River"/>
+<w tok=","/>
+<w tok="Scull"/>
+<w tok="Creek"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="more"/>
+<w tok="or"/>
+<w tok="less"/>
+<w tok="opened"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="DAHLGREN"/>
+<w tok=","/>
+<w tok="Rear-Admiral"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="S."/>
+<w tok="Atlantic"/>
+<w tok="Blockading"/>
+<w tok="Squadron"/>
+<w tok="."/>
+</s>
+</doc>

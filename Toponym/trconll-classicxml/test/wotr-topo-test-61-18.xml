@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-18" title="61" domain="wotr">
+<s id="s1">
+<w tok="12th.-During"/>
+<w tok="he"/>
+<w tok="night"/>
+<w tok="we"/>
+<w tok="heard"/>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="we"/>
+<w tok="were"/>
+<w tok="informed"/>
+<w tok="that"/>
+<w tok="Freeman"/>
+<w tok="was"/>
+<w tok="marching"/>
+<w tok="to"/>
+<w tok="Couch"/>
+<w tok="&apos;s"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="some"/>
+<w tok="10"/>
+<w tok="miles"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Thomasville">
+<candidates>
+<cand lat="36.789167" long="-91.532222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Of"/>
+<w tok="course"/>
+<w tok="we"/>
+<w tok="expected"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="going"/>
+<w tok="there"/>
+<w tok="to"/>
+<w tok="meet"/>
+<w tok="and"/>
+<w tok="fight"/>
+<w tok="us"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="were"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="march"/>
+<w tok="in"/>
+<w tok="good"/>
+<w tok="time"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="Couch"/>
+<w tok="&apos;s"/>
+<w tok="about"/>
+<w tok="10"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="Freeman"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="now"/>
+<w tok="we"/>
+<w tok="could"/>
+<w tok="see"/>
+<w tok="wherein"/>
+<w tok="Freeman"/>
+<w tok="had"/>
+<w tok="out"/>
+<w tok="generale"/>
+<w tok="us"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="instead"/>
+<w tok="of"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="Couch"/>
+<w tok="&apos;s"/>
+<w tok="had"/>
+<w tok="gone"/>
+<w tok="some"/>
+<w tok="place"/>
+<w tok="else"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="halted"/>
+<w tok="here"/>
+<w tok="for"/>
+<w tok="dinner"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="resumed"/>
+<w tok="our"/>
+<w tok="march"/>
+<w tok="."/>
+<w tok="About"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="farther"/>
+<w tok="on"/>
+<w tok="we"/>
+<w tok="saw"/>
+<w tok="2"/>
+<w tok="men"/>
+<w tok="mount"/>
+<w tok="and"/>
+<w tok="run"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="pursued"/>
+<w tok="and"/>
+<w tok="shot"/>
+<w tok="both"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="were"/>
+<w tok="dressed"/>
+<w tok="in"/>
+<w tok="Federal"/>
+<w tok="uniform"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="marched"/>
+<w tok="on"/>
+<w tok="to"/>
+<toponym term="Thomasville">
+<candidates>
+<cand lat="36.789167" long="-91.532222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="camped"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="marched"/>
+<w tok="23"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="13th.-Marched"/>
+<w tok="to"/>
+<w tok="James"/>
+<w tok="Harris"/>
+<w tok="&apos;"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Turkey Oak">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="camped"/>
+<w tok=";"/>
+<w tok="marched"/>
+<w tok="18"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="14th.-This"/>
+<w tok="day"/>
+<w tok="was"/>
+<w tok="spent"/>
+<w tok="in"/>
+<w tok="gathering"/>
+<w tok="together"/>
+<w tok="families"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="north"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="scouting"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="."/>
+<w tok="15.-Marched"/>
+<w tok="to"/>
+<w tok="Eaton"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Jack&apos;s Fork">
+<candidates>
+</candidates>
+</toponym>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="16th.-We"/>
+<w tok="left"/>
+<w tok="a"/>
+<w tok="guard"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="teams"/>
+<w tok="and"/>
+<w tok="came"/>
+<w tok="into"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="making"/>
+<w tok="any"/>
+<w tok="further"/>
+<w tok="discoveries"/>
+<w tok=";"/>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="22"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="17th.-Started"/>
+<w tok="in"/>
+<w tok="search"/>
+<w tok="of"/>
+<w tok="some"/>
+<w tok="rebels"/>
+<w tok="said"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="on"/>
+<toponym term="Possum Creek">
+<candidates>
+<cand lat="36.66" long="-90.87" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="found"/>
+<w tok="no"/>
+<w tok="signs"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="camped"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="house"/>
+<w tok="of"/>
+<w tok="Mr."/>
+<w tok="Coats"/>
+<w tok=";"/>
+<w tok="marched"/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="18th.-Marched"/>
+<w tok="down"/>
+<toponym term="Possum">
+<candidates>
+<cand lat="36.66" long="-90.87" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="Joe"/>
+<w tok="Harris"/>
+<w tok="&apos;"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="Learned"/>
+<w tok="here"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="guerrilla"/>
+<w tok="Bill"/>
+<w tok="Coats"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="before"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="house"/>
+<w tok="on"/>
+<toponym term="Hamilton Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="We"/>
+<w tok="learned"/>
+<w tok="that"/>
+<w tok="Coats"/>
+<w tok="had"/>
+<w tok="moved"/>
+<w tok="his"/>
+<w tok="camp"/>
+<w tok="to"/>
+<toponym term="Big Piney">
+<candidates>
+<cand lat="37.671944" long="-92.098056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="We"/>
+<w tok="went"/>
+<w tok="across"/>
+<w tok="to"/>
+<toponym term="Piney">
+<candidates>
+<cand lat="37.884167" long="-92.064167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<w tok="James"/>
+<w tok="Johnson"/>
+<w tok="&apos;s"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="there"/>
+<w tok="scattered"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="hills"/>
+<w tok=","/>
+<w tok="hoping"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="us"/>
+<w tok="might"/>
+<w tok="come"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="found"/>
+<w tok="nothing"/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="camped"/>
+<w tok="together"/>
+<w tok="at"/>
+<toponym term="Smiley&apos;s Mill">
+<candidates>
+</candidates>
+</toponym>
+<w tok="marched"/>
+<w tok="24"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="19th.-We"/>
+<w tok="scouted"/>
+<w tok="on"/>
+<toponym term="Piney">
+<candidates>
+<cand lat="37.884167" long="-92.064167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Possum">
+<candidates>
+<cand lat="36.66" long="-90.87" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="found"/>
+<w tok="nothing"/>
+<w tok=";"/>
+<w tok="camped"/>
+<w tok="at"/>
+<w tok="Jos"/>
+<w tok="."/>
+<w tok="Gladdon"/>
+<w tok="&apos;s"/>
+<w tok="place"/>
+<w tok=";"/>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="."/>
+</s>
+</doc>

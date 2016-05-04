@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-67" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<toponym term="OREGON">
+<candidates>
+<cand lat="43.998588065" long="-120.636819779" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fort Vancouver">
+<candidates>
+<cand lat="45.622583" long="-122.662367" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="November"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="F."/>
+<w tok="MAURY"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Oregon"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="expedition"/>
+<w tok="against"/>
+<w tok="the"/>
+<w tok="Snake"/>
+<w tok="Indians"/>
+<w tok=","/>
+<toponym term="Fort Dalles">
+<candidates>
+<cand lat="45.599722" long="-121.184167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Oreg.">
+<candidates>
+<cand lat="43.998588065" long="-120.636819779" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="write"/>
+<w tok="to"/>
+<w tok="express"/>
+<w tok="my"/>
+<w tok="sense"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="valuable"/>
+<w tok="and"/>
+<w tok="important"/>
+<w tok="services"/>
+<w tok="rendered"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="and"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="past"/>
+<w tok="season"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="long"/>
+<w tok="march"/>
+<w tok="for"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok=","/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="1,000"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok="free"/>
+<w tok="from"/>
+<w tok="all"/>
+<w tok="untoward"/>
+<w tok="events"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="privations"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="journey"/>
+<w tok="were"/>
+<w tok="cheerfully"/>
+<w tok="endured"/>
+<w tok="with"/>
+<w tok="soldierly"/>
+<w tok="fortitude"/>
+<w tok="and"/>
+<w tok="alacrity"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="one"/>
+<w tok="doubts"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="opporutnity"/>
+<w tok="had"/>
+<w tok="offered"/>
+<w tok="the"/>
+<w tok="gallant"/>
+<w tok="troops"/>
+<w tok="under"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="would"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="distinguished"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="face"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Let"/>
+<w tok="them"/>
+<w tok="not"/>
+<w tok="imagine"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="frontier"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="appreciate"/>
+<w tok="the"/>
+<w tok="services"/>
+<w tok="your"/>
+<w tok="expedition"/>
+<w tok="rendered"/>
+<w tok="by"/>
+<w tok="displaying"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="in"/>
+<w tok="so"/>
+<w tok="many"/>
+<w tok="localities"/>
+<w tok="the"/>
+<w tok="power"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="soldiers"/>
+<w tok="of"/>
+<w tok="an"/>
+<toponym term="Oregon">
+<candidates>
+<cand lat="43.998588065" long="-120.636819779" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="regiment"/>
+<w tok="have"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="events"/>
+<w tok="had"/>
+<w tok="the"/>
+<w tok="satisfaction"/>
+<w tok="of"/>
+<w tok="seeing"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="summer"/>
+<w tok="and"/>
+<w tok="fall"/>
+<w tok="of"/>
+<w tok="1862"/>
+<w tok="and"/>
+<w tok="1863"/>
+<w tok="systematic"/>
+<w tok="steps"/>
+<w tok="taken"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="time"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="overland"/>
+<w tok="emigration"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="people"/>
+<w tok="of"/>
+<toponym term="Oregon">
+<candidates>
+<cand lat="43.998588065" long="-120.636819779" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="myself"/>
+<w tok="are"/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok="ready"/>
+<w tok="to"/>
+<w tok="express"/>
+<w tok="their"/>
+<w tok="high"/>
+<w tok="appreciation"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="honorable"/>
+<w tok="manner"/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Oregon"/>
+<w tok="Cavalry"/>
+<w tok="have"/>
+<w tok="discharged"/>
+<w tok="the"/>
+<w tok="duties"/>
+<w tok="thus"/>
+<w tok="devolved"/>
+<w tok="upon"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="BENJ"/>
+<w tok="."/>
+<w tok="ALVORD"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

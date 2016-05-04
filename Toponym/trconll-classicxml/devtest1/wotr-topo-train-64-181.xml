@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-181" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.9093759967" long="-77.0351091688" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9029518751" long="-77.0350475202" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864-3"/>
+<w tok="p.m."/>
+<w tok="Major-General"/>
+<w tok="POPE"/>
+<w tok=","/>
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wis.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="Provost-Marshal-General"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="Veteran"/>
+<w tok="Reserve"/>
+<w tok="troops"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="department"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="those"/>
+<w tok="employed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Adjutant-General"/>
+<w tok="at"/>
+<w tok="recruiting"/>
+<w tok="rendezvous"/>
+<w tok=","/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="placed"/>
+<w tok="under"/>
+<w tok="your"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Adjutant-General"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="turn"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="all"/>
+<w tok="not"/>
+<w tok="absolutely"/>
+<w tok="required"/>
+<w tok="for"/>
+<w tok="recruiting"/>
+<w tok="purposes"/>
+<w tok="."/>
+<w tok="Public"/>
+<w tok="stores"/>
+<w tok="remote"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="secured"/>
+<w tok="in"/>
+<w tok="store-houses"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="as"/>
+<w tok="private"/>
+<w tok="property"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

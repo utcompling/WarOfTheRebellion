@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-60" title="105" domain="wotr">
+<s id="s1">
+<toponym term="Fort Walla Walla">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="August"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="I."/>
+<w tok="Captain"/>
+<w tok="George"/>
+<w tok="B."/>
+<w tok="Currey"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Oregon"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="sergeants"/>
+<w tok=","/>
+<w tok="four"/>
+<w tok="coporals"/>
+<w tok="and"/>
+<w tok="twenty-four"/>
+<w tok="privates"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="instant"/>
+<w tok="on"/>
+<w tok="detached"/>
+<w tok="service"/>
+<w tok="for"/>
+<w tok="the"/>
+<toponym term="Umatilla Indian Reservation">
+<candidates>
+<cand lat="45.7" long="-118.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Grande Ronde Prairie">
+<candidates>
+</candidates>
+</toponym>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="III"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="arriving"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Umatilla Reservation">
+<candidates>
+<cand lat="45.7" long="-118.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Currey"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="a"/>
+<w tok="reliable"/>
+<w tok="sergeant"/>
+<w tok="and"/>
+<w tok="ten"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Fourth"/>
+<w tok="California"/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="Hillyer"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="V."/>
+<w tok="Written"/>
+<w tok="instructions"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="Captain"/>
+<w tok="Currey"/>
+<w tok="from"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Steinberger"/>
+<w tok=":"/>
+<w tok="WILLIAM"/>
+<w tok="MYLES"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Washington"/>
+<w tok="Territory"/>
+<w tok="Infty."/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Post"/>
+<w tok="Adjt"/>
+<w tok="."/>
+</s>
+</doc>

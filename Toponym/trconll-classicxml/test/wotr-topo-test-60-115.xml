@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-115" title="60" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="POTOMAC"/>
+<w tok=","/>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="TOWNSEND"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8767380278" long="-77.0711402562" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9099452971" long="-77.0387180807" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="honorable"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="and"/>
+<w tok="inclosures"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Robert"/>
+<w tok="E."/>
+<w tok="Lee"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="Northern"/>
+<w tok="Virginia"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="my"/>
+<w tok="reply"/>
+<w tok="thereto"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="MEADE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

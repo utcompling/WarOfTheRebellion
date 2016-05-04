@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-29" title="65" domain="wotr">
+<s id="s1">
+<toponym term="BALDWIN">
+<candidates>
+<cand lat="30.303889" long="-81.975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="9.40"/>
+<w tok=","/>
+<w tok="4th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="here"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok=";"/>
+<w tok="enemy"/>
+<w tok="has"/>
+<w tok="retreated"/>
+<w tok="to"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="cover"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="gun-boats"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="fortifying"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="estimated"/>
+<w tok="at"/>
+<w tok="12,000"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="receiving"/>
+<w tok="re-enforcement"/>
+<w tok="form"/>
+<toponym term="New Berne">
+<candidates>
+<cand lat="35.109167" long="-77.069167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. C.">
+<candidates>
+<cand lat="35.5513838175" long="-79.2751526381" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Our"/>
+<w tok="and"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="pickets"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Our"/>
+<w tok="main"/>
+<w tok="body"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="7,000"/>
+<w tok="strong"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="rear"/>
+<w tok="of"/>
+<toponym term="McGirt&apos;s Creek">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="side"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="back"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="victory"/>
+<w tok="at"/>
+<toponym term="Ocean Pond">
+<candidates>
+<cand lat="30.214233" long="-82.388589" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="complete"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="pursuit"/>
+<w tok=","/>
+<w tok="especially"/>
+<w tok="by"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="unsatisfactory"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

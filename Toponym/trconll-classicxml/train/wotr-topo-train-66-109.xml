@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-109" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="NORTHERN"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="24,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="S."/>
+<w tok="HARTWELL"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok=","/>
+<w tok="Folly"/>
+<w tok="Island"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="brigadier-general"/>
+<w tok="commanding"/>
+<w tok="having"/>
+<w tok="seen"/>
+<w tok="the"/>
+<w tok="outpost"/>
+<w tok="report"/>
+<w tok="from"/>
+<toponym term="Cole&apos;s Island">
+<candidates>
+<cand lat="32.460452995" long="-80.848180036" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="and"/>
+<w tok="23rd"/>
+<w tok="of"/>
+<w tok="July"/>
+<w tok=","/>
+<w tok="directs"/>
+<w tok=":"/>
+<w tok="First"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="garrison"/>
+<w tok="at"/>
+<w tok="Battery"/>
+<w tok="Numbers"/>
+<w tok="2"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="better"/>
+<w tok="practice"/>
+<w tok="they"/>
+<w tok="be"/>
+<w tok="relieved"/>
+<w tok="by"/>
+<w tok="men"/>
+<w tok="that"/>
+<w tok="are"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="."/>
+<w tok="that"/>
+<w tok="after"/>
+<w tok="cutting"/>
+<w tok="the"/>
+<w tok="fuses"/>
+<w tok="for"/>
+<w tok="shells"/>
+<w tok="before"/>
+<w tok="firing"/>
+<w tok=","/>
+<w tok="fine"/>
+<w tok="powder"/>
+<w tok="be"/>
+<w tok="rubbed"/>
+<w tok="in"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="hole"/>
+<w tok="made"/>
+<w tok="larger"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="appearance"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="pickets"/>
+<w tok="opposite"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="on"/>
+<toponym term="Cole&apos;s Island">
+<candidates>
+<cand lat="32.460452995" long="-80.848180036" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="fire"/>
+<w tok="be"/>
+<w tok="opened"/>
+<w tok="upon"/>
+<w tok="them"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="with"/>
+<w tok="grape"/>
+<w tok="and"/>
+<w tok="canister"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="lookout"/>
+<w tok="be"/>
+<w tok="cut"/>
+<w tok="down"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="30-pounders"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="."/>
+<w tok="Fourth"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="weather"/>
+<w tok="becomes"/>
+<w tok="again"/>
+<w tok="clear"/>
+<w tok="and"/>
+<w tok="dry"/>
+<w tok="the"/>
+<w tok="fallen"/>
+<w tok="trees"/>
+<w tok="and"/>
+<w tok="brush-wood"/>
+<w tok="opposite"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="of"/>
+<toponym term="Cole&apos;s Island">
+<candidates>
+<cand lat="32.460452995" long="-80.848180036" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="be"/>
+<w tok="ignited"/>
+<w tok="by"/>
+<w tok="shells"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="K."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-8" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="16th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Nothing"/>
+<w tok="important"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="threw"/>
+<w tok="yesterday"/>
+<w tok="273"/>
+<w tok="shells"/>
+<w tok="at"/>
+<w tok="city"/>
+<w tok=";"/>
+<w tok="over"/>
+<w tok="one-fourth"/>
+<w tok="fell"/>
+<w tok="short"/>
+<w tok=";"/>
+<w tok="some"/>
+<w tok="ranged"/>
+<w tok="nearly"/>
+<w tok="5"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Two"/>
+<w tok="fires"/>
+<w tok="occurred"/>
+<w tok=";"/>
+<w tok="not"/>
+<w tok="much"/>
+<w tok="damage"/>
+<w tok=";"/>
+<w tok="nobody"/>
+<w tok="hurt"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="leave"/>
+<w tok="to-morrow"/>
+<w tok="for"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="return"/>
+<w tok="probably"/>
+<w tok="in"/>
+<w tok="one"/>
+<w tok="week"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

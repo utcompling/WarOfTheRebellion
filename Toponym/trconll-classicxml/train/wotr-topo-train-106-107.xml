@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-107" title="106" domain="wotr">
+<s id="s1">
+<w tok="D."/>
+<w tok="FERGUSSON"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="Mark"/>
+<w tok="Aldrich"/>
+<w tok="and"/>
+<w tok="M."/>
+<w tok="G."/>
+<w tok="Gay"/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ariz. Ter.">
+<candidates>
+<cand lat="34.3270757305" long="-111.71484785" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="being"/>
+<w tok="duly"/>
+<w tok="sworn"/>
+<w tok=","/>
+<w tok="depose"/>
+<w tok="and"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="Hiram"/>
+<w tok="Stevens"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="made"/>
+<w tok="the"/>
+<w tok="foregoing"/>
+<w tok="affidavit"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="residents"/>
+<w tok="of"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="during"/>
+<w tok="its"/>
+<w tok="occupation"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Confederate"/>
+<w tok="States"/>
+<w tok="between"/>
+<w tok="the"/>
+<w tok="months"/>
+<w tok="of"/>
+<w tok="February"/>
+<w tok="and"/>
+<w tok="May"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="statements"/>
+<w tok="made"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="Hiram"/>
+<w tok="Stevens"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="numbers"/>
+<w tok=","/>
+<w tok="discipline"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="Confederate"/>
+<w tok="troops"/>
+<w tok="are"/>
+<w tok="correct"/>
+<w tok="and"/>
+<w tok="true"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="knowledge"/>
+<w tok="and"/>
+<w tok="belief"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="ALDRICH"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="G."/>
+<w tok="GAY"/>
+<w tok="."/>
+</s>
+</doc>

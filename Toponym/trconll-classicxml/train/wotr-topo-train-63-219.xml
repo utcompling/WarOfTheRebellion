@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-219" title="63" domain="wotr">
+<s id="s1">
+<toponym term="BOONEVILLE">
+<candidates>
+<cand lat="38.250445" long="-104.260792" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="COLO. TER.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="A"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="gentlemen"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="Government"/>
+<w tok="expressman"/>
+<w tok="passed"/>
+<w tok="our"/>
+<w tok="place"/>
+<w tok="this"/>
+<w tok="("/>
+<w tok="Sunday"/>
+<w tok=")"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="reported"/>
+<w tok="troubles"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="Sioux"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="41.053889" long="-95.881389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="said"/>
+<w tok="you"/>
+<w tok="had"/>
+<w tok="ordered"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="concentrate"/>
+<w tok="at"/>
+<w tok="some"/>
+<w tok="point"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="41.053889" long="-95.881389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="trust"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="take"/>
+<w tok="from"/>
+<w tok="us"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="protection"/>
+<w tok="to"/>
+<w tok="our"/>
+<w tok="women"/>
+<w tok="and"/>
+<w tok="children"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="taking"/>
+<w tok="away"/>
+<w tok="Company"/>
+<w tok="L."/>
+<w tok="Should"/>
+<w tok="this"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="sure"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="remonstrance"/>
+<w tok="sent"/>
+<w tok="you"/>
+<w tok="as"/>
+<w tok="long"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="moral"/>
+<w tok="law"/>
+<w tok=","/>
+<w tok="headed"/>
+<w tok="by"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="fraternally"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="G."/>
+<w tok="BONNE"/>
+<w tok="."/>
+</s>
+</doc>

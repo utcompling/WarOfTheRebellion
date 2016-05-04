@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-193" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="TEN"/>
+<w tok="BROECK"/>
+<w tok=","/>
+<toponym term="Davenport">
+<candidates>
+<cand lat="41.543056" long="-90.590833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Iowa">
+<candidates>
+<cand lat="42.0761575128" long="-93.480924066" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Send"/>
+<w tok="company"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok="to"/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Sibley"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="relieved"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Judd"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="Veteran"/>
+<w tok="Reserve"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

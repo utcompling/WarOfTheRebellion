@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-112" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="steamer"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Ten"/>
+<w tok="schooners"/>
+<w tok="remain"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="rest"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok="is"/>
+<w tok="unchanged"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="flag-staff"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="middle"/>
+<w tok="battery"/>
+<w tok="was"/>
+<w tok="shot"/>
+<w tok="away"/>
+<w tok="by"/>
+<w tok="our"/>
+<w tok="guns"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=";"/>
+<w tok="it"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="replaced"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Small"/>
+<w tok="working"/>
+<w tok="parties"/>
+<w tok="at"/>
+<toponym term="Gregg">
+<candidates>
+<cand lat="37.19805" long="-77.45025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Wagner">
+<candidates>
+<cand lat="32.718611" long="-79.884722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Carson"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="Twenty-Fifth"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="relieved"/>
+<w tok="Captain"/>
+<w tok="Morrison"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="Colquitt"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="brigade"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Colquitt"/>
+<w tok="on"/>
+<w tok="James"/>
+<w tok="Island"/>
+<w tok="."/>
+<w tok="Forty-two-pounder"/>
+<w tok="rifle"/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="shell"/>
+<w tok="fired"/>
+<w tok="yesterday"/>
+<w tok=";"/>
+<w tok="fragments"/>
+<w tok="struck"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

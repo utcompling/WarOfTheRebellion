@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-149" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="NEW"/>
+<w tok="MEXICO"/>
+<w tok=","/>
+<toponym term="Santa Fe">
+<candidates>
+<cand lat="35.667222" long="-105.964444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4397275726" long="-106.092423838" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOSEPH"/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Arizona"/>
+<w tok=","/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="pursuance"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="purpose"/>
+<w tok="not"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="any"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="long"/>
+<w tok="while"/>
+<w tok="at"/>
+<toponym term="Fort Bowie">
+<candidates>
+<cand lat="32.146111" long="-109.435556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Chiricahua Mountains">
+<candidates>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="Captain"/>
+<w tok="Hinds"/>
+<w tok="&apos;"/>
+<w tok="company"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Ford"/>
+<w tok="&apos;s"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="judgment"/>
+<w tok=","/>
+<w tok="practicable"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="so"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="thus"/>
+<w tok="relieved"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Hinds"/>
+<w tok="&apos;"/>
+<w tok="company"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="post"/>
+<w tok="at"/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="officer"/>
+<w tok="and"/>
+<w tok="twenty"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="named"/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="beyond"/>
+<w tok="the"/>
+<toponym term="Waco Tanks">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="letter"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="dated"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="needed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="kept"/>
+<w tok="upon"/>
+<w tok="that"/>
+<w tok="duty"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="Captain"/>
+<w tok="Roberts"/>
+<w tok="&apos;"/>
+<w tok="expedition"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JAMES"/>
+<w tok="H."/>
+<w tok="CARLETON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

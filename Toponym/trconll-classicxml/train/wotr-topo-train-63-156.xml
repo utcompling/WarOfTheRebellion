@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-156" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CULPEPER">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.550923524" long="-78.5025297014" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864-11"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="12.10"/>
+<w tok="a.m."/>
+<w tok=","/>
+<w tok="16th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Please"/>
+<w tok="send"/>
+<w tok="General"/>
+<w tok="Hunter"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="dispatches"/>
+<w tok="from"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="fear"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="late"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="spring"/>
+<w tok="movement"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="desirous"/>
+<w tok="of"/>
+<w tok="sending"/>
+<w tok="and"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="rank"/>
+<w tok="with"/>
+<w tok="duplicates"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="further"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok="."/>
+</s>
+</doc>

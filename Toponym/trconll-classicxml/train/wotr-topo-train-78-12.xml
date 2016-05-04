@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-12" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-11"/>
+<w tok="."/>
+<w tok="40"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Captain"/>
+<w tok="G."/>
+<w tok="H."/>
+<w tok="LAIRD"/>
+<w tok=","/>
+<toponym term="Falmouth">
+<candidates>
+<cand lat="38.673889" long="-84.334167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="via"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="expects"/>
+<w tok="to"/>
+<w tok="strike"/>
+<w tok="Morgan"/>
+<w tok="at"/>
+<w tok="or"/>
+<w tok="near"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="telegraphed"/>
+<w tok="General"/>
+<w tok="Heitzelman"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="re-"/>
+<w tok="enforcements"/>
+<w tok="from"/>
+<toponym term="Covington">
+<candidates>
+<cand lat="39.065" long="-84.509722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="six"/>
+<w tok="guns"/>
+<w tok="and"/>
+<w tok="300"/>
+<w tok="men"/>
+<w tok="at"/>
+<toponym term="Falmouth">
+<candidates>
+<cand lat="38.673889" long="-84.334167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="better"/>
+<w tok="await"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="more"/>
+<w tok="troops"/>
+<w tok="before"/>
+<w tok="pushing"/>
+<w tok="on"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="out"/>
+<w tok="scouts"/>
+<w tok=";"/>
+<w tok="ascertain"/>
+<w tok="if"/>
+<w tok="Burbridge"/>
+<w tok="is"/>
+<w tok="fighting"/>
+<w tok=";"/>
+<w tok="if"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="do"/>
+<w tok="all"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="pushed"/>
+<w tok="against"/>
+<w tok="Morgan"/>
+<w tok="&apos;s"/>
+<w tok="rear"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

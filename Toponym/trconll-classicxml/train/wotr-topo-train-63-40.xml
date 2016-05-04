@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-40" title="63" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="THIRTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="76"/>
+<w tok="."/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="V."/>
+<w tok="Company"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="Fourteenth"/>
+<w tok="Regiment"/>
+<w tok="Rhode"/>
+<w tok="Island"/>
+<w tok="Volunteer"/>
+<w tok="Heavy"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="hereby"/>
+<w tok="detached"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="Comstock"/>
+<w tok="&apos;s"/>
+<w tok="battalion"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="reported"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="senior"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="T."/>
+<w tok="W."/>
+<w tok="Fry"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="Thompson"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Aransas Pass">
+<candidates>
+<cand lat="27.86935" long="-97.097" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="station"/>
+<w tok="."/>
+<w tok="VI"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Regiment"/>
+<w tok="of"/>
+<w tok="Engineers"/>
+<w tok=","/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok=","/>
+<w tok="now"/>
+<w tok="located"/>
+<w tok="at"/>
+<toponym term="Aransas Pass">
+<candidates>
+<cand lat="27.86935" long="-97.097" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="relieved"/>
+<w tok="from"/>
+<w tok="duty"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="reported"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="senior"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="I."/>
+<w tok="C."/>
+<w tok="Blanchard"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="Hodge"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Brazos Santiago">
+<candidates>
+</candidates>
+</toponym>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="VIII"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Gilbert"/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="Pierce"/>
+<w tok=","/>
+<w tok="quartermaster"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="cause"/>
+<w tok="all"/>
+<w tok="water"/>
+<w tok="transports"/>
+<w tok="in"/>
+<w tok="or"/>
+<w tok="near"/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="immediately"/>
+<w tok="anchored"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="lie"/>
+<w tok="at"/>
+<w tok="anchor"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="not"/>
+<w tok="in"/>
+<w tok="use"/>
+<w tok=","/>
+<w tok="outside"/>
+<w tok="of"/>
+<toponym term="Fort Esperanza">
+<candidates>
+<cand lat="28.227222" long="-96.640278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="under"/>
+<w tok="its"/>
+<w tok="guns"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="also"/>
+<w tok="have"/>
+<w tok="all"/>
+<w tok="small"/>
+<w tok="craft"/>
+<w tok="so"/>
+<w tok="cared"/>
+<w tok="for"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="their"/>
+<w tok="surprise"/>
+<w tok="and"/>
+<w tok="captured"/>
+<w tok="."/>
+<w tok="IX"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="Warren"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="measures"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="any"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="approaching"/>
+<w tok="by"/>
+<w tok="land"/>
+<w tok="nearer"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="island"/>
+<w tok="than"/>
+<w tok="the"/>
+<w tok="mainland"/>
+<w tok="beyond"/>
+<toponym term="Bayucas Island">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="vessels"/>
+<w tok="bearing"/>
+<w tok="such"/>
+<w tok="flag"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="stopped"/>
+<w tok="opposite"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="upper"/>
+<w tok="bayou"/>
+<w tok=","/>
+<w tok="otherwise"/>
+<w tok="known"/>
+<w tok="as"/>
+<toponym term="Bayucas">
+<candidates>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="flank"/>
+<w tok="cartridge"/>
+<w tok="from"/>
+<w tok="right"/>
+<w tok="battery"/>
+<w tok="on"/>
+<toponym term="McHenry&apos;s Bayou">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="followed"/>
+<w tok="by"/>
+<w tok="solid"/>
+<w tok="shot"/>
+<w tok="or"/>
+<w tok="shell"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="signal"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="obeyed"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="John"/>
+<w tok="A."/>
+<w tok="McClernand"/>
+<w tok=":"/>
+<w tok="SAMUEL"/>
+<w tok="CALDWELL"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-175" title="106" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9098929542" long="-77.0353539743" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="H."/>
+<w tok="ALLEN"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok="and"/>
+<w tok="submitted"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="time"/>
+<w tok="no"/>
+<w tok="additional"/>
+<w tok="arms"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="California">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="measures"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="as"/>
+<w tok="early"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="to"/>
+<w tok="arrest"/>
+<w tok="any"/>
+<w tok="apprehend"/>
+<w tok="dange"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="harbor"/>
+<w tok="of"/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

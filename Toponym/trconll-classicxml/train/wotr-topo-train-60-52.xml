@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-52" title="60" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="CAVALRY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="February"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="headquarters"/>
+<w tok="Cavalry"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="proceeded"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="6th"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="division"/>
+<w tok="*"/>
+<w tok="("/>
+<w tok="1,360"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="battery"/>
+<w tok=")"/>
+<w tok="to"/>
+<toponym term="Culpeper Ford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="crossed"/>
+<w tok="at"/>
+<w tok="11"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="without"/>
+<w tok="opposition"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="people"/>
+<w tok="crossed"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="hour"/>
+<w tok="at"/>
+<toponym term="Germanna">
+<candidates>
+<cand lat="38.378117" long="-77.783185" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="above"/>
+<w tok=","/>
+<w tok="and"/>
+<toponym term="Ely&apos;s Ford">
+<candidates>
+<cand lat="38.3569449794" long="-77.6946016041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="below"/>
+<w tok="."/>
+<w tok="Reconnoitering"/>
+<w tok="parties"/>
+<w tok="were"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="toward"/>
+<toponym term="Chancellorsville">
+<candidates>
+<cand lat="38.308333" long="-77.634444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="different"/>
+<w tok="roads"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Germanna pike">
+<candidates>
+</candidates>
+</toponym>
+<w tok="across"/>
+<w tok="the"/>
+<w tok="stone"/>
+<w tok="pike"/>
+<w tok=","/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="plank"/>
+<w tok="road"/>
+<w tok="from"/>
+<toponym term="Orange Court-House">
+<candidates>
+<cand lat="38.2452246725" long="-78.1111849844" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Fredericksburg">
+<candidates>
+<cand lat="38.301829" long="-77.470778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="A"/>
+<w tok="considerable"/>
+<w tok="force"/>
+<w tok="under"/>
+<w tok="Colonel"/>
+<w tok="Alger"/>
+<w tok="drove"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="body"/>
+<w tok="of"/>
+<w tok="rebel"/>
+<w tok="cavalry"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="ridge"/>
+<w tok="road"/>
+<w tok="to"/>
+<toponym term="Robertson&apos;s Tavern">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="thence"/>
+<w tok="across"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="plank"/>
+<w tok="road"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Cooke"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="successful"/>
+<w tok="reconnaissance"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="above"/>
+<toponym term="Germanna">
+<candidates>
+<cand lat="38.378117" long="-77.783185" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<toponym term="Jacobs&apos; Ford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="capturing"/>
+<w tok="the"/>
+<w tok="picket"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="ended"/>
+<w tok="operations"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="day"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="went"/>
+<w tok="into"/>
+<w tok="camp"/>
+<w tok="near"/>
+<w tok="--"/>
+<w tok="-"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Germanna">
+<candidates>
+<cand lat="38.378117" long="-77.783185" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="plank"/>
+<w tok="road"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="all"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="learn"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="occupy"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="position"/>
+<w tok="as"/>
+<w tok="when"/>
+<w tok="our"/>
+<w tok="army"/>
+<w tok="crossed"/>
+<w tok="in"/>
+<w tok="November"/>
+<w tok="last"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="no"/>
+<w tok="considerable"/>
+<w tok="force"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Mine Run">
+<candidates>
+<cand lat="38.3379" long="-77.8187" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Hampton"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="is"/>
+<w tok="at"/>
+<toponym term="Hamilton&apos;s Crossing">
+<candidates>
+</candidates>
+</toponym>
+<w tok="A"/>
+<w tok="large"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok="without"/>
+<w tok="horses"/>
+<w tok="or"/>
+<w tok="arms"/>
+<w tok=";"/>
+<w tok="240"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="men"/>
+<w tok="picket"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="from"/>
+<toponym term="Germanna">
+<candidates>
+<cand lat="38.378117" long="-77.783185" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="United States Ford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="only"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="detail"/>
+<w tok="sent"/>
+<w tok="had"/>
+<w tok="horses"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="6"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="7th"/>
+<w tok="I"/>
+<w tok="received"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="recross"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="and"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="9"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="my"/>
+<w tok="entire"/>
+<w tok="command"/>
+<w tok="had"/>
+<w tok="recrossed"/>
+<w tok="without"/>
+<w tok="molestation"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="reached"/>
+<w tok="camp"/>
+<w tok="at"/>
+<w tok="4"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="without"/>
+<w tok="loss"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="few"/>
+<w tok="prisoners"/>
+<w tok="were"/>
+<w tok="taken"/>
+<w tok="and"/>
+<w tok="forwarded"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="provost-marshal"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="corps"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="KILPATRICK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

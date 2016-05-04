@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-16" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864-8.30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Governor"/>
+<w tok="Milton"/>
+<w tok="telegraphs"/>
+<w tok="following"/>
+<w tok=":"/>
+<w tok="Enemy"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="5,000"/>
+<w tok="strong"/>
+<w tok="."/>
+<w tok="Not"/>
+<w tok="force"/>
+<w tok="enough"/>
+<w tok="in"/>
+<w tok="State"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="him"/>
+<w tok="passing"/>
+<w tok="through"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="McClellan"/>
+<w tok=","/>
+<toponym term="West Florida">
+<candidates>
+<cand lat="30.2933579266" long="-84.7830444305" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="telegraphs"/>
+<w tok="for"/>
+<w tok="re-enforcement"/>
+<w tok="."/>
+<w tok="Immense"/>
+<w tok="loss"/>
+<w tok="of"/>
+<w tok="subsistence"/>
+<w tok="for"/>
+<w tok="armies"/>
+<w tok="and"/>
+<w tok="of"/>
+<w tok="property"/>
+<w tok="seems"/>
+<w tok="inevitable"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="need"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="5,000"/>
+<w tok="additional"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="sent"/>
+<w tok="Governor"/>
+<w tok="Milton"/>
+<w tok="all"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="spare"/>
+<w tok="without"/>
+<w tok="risking"/>
+<w tok="loss"/>
+<w tok="of"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Can"/>
+<w tok="not"/>
+<w tok="two"/>
+<w tok="brigades"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="there"/>
+<w tok="from"/>
+<toponym term="Northwest Georgia">
+<candidates>
+<cand lat="34.5602645773" long="-85.1083716912" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="North Carolina">
+<candidates>
+<cand lat="35.5769588429" long="-79.2749298335" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="temporarily"/>
+<w tok="?"/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-111" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="OREGON"/>
+<w tok=","/>
+<toponym term="Fort Vancouver">
+<candidates>
+<cand lat="45.622583" long="-122.662367" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="ASSISTANT"/>
+<w tok="ADJUTANT-GENERAL"/>
+<w tok=","/>
+<w tok="Headquarters"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7771136168" long="-122.419744809" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Herewith"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="forward"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="ultimo"/>
+<w tok="from"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="F."/>
+<w tok="Maury"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="Oregon"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="emigrant"/>
+<w tok="road"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="He"/>
+<w tok="was"/>
+<w tok="encamped"/>
+<w tok="on"/>
+<toponym term="Bruneau River">
+<candidates>
+<cand lat="42.949167" long="-115.961944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="forty"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Salmon Falls">
+<candidates>
+<cand lat="38.758056" long="-121.058333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="perceive"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="proposes"/>
+<w tok="to"/>
+<w tok="start"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="28th"/>
+<w tok="ultimo"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="return"/>
+<w tok="."/>
+<w tok="So"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="learn"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="emigrants"/>
+<w tok="who"/>
+<w tok="kept"/>
+<w tok="the"/>
+<w tok="old"/>
+<w tok="road"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Snake River">
+<candidates>
+<cand lat="46.186111" long="-119.028611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="had"/>
+<w tok="little"/>
+<w tok="trouble"/>
+<w tok="from"/>
+<w tok="Indians"/>
+<w tok="."/>
+<w tok="Those"/>
+<w tok="who"/>
+<w tok="crossed"/>
+<toponym term="Snake River">
+<candidates>
+<cand lat="46.186111" long="-119.028611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="above"/>
+<toponym term="Fort Hall">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="kept"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="trying"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Salmon River">
+<candidates>
+<cand lat="41.377778" long="-123.492778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="mines"/>
+<w tok=","/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="in"/>
+<w tok="some"/>
+<w tok="instances"/>
+<w tok="attacked"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Snakes"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="also"/>
+<w tok="attacked"/>
+<w tok="travelers"/>
+<w tok="east"/>
+<w tok="of"/>
+<toponym term="Fort Hall">
+<candidates>
+<cand lat="43.020191" long="-112.634708" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Maury"/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="Crawford"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="of"/>
+<w tok="seventy-five"/>
+<w tok="men"/>
+<w tok="enrolled"/>
+<w tok="in"/>
+<toponym term="Nebraska Territory">
+<candidates>
+<cand lat="41.5191830582" long="-99.760026263" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="naturally"/>
+<w tok="kept"/>
+<w tok="the"/>
+<w tok="old"/>
+<w tok="emigrant"/>
+<w tok="road"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="notice"/>
+<w tok="that"/>
+<w tok="Colonel"/>
+<w tok="Maury"/>
+<w tok="reports"/>
+<w tok="an"/>
+<w tok="emigration"/>
+<w tok="this"/>
+<w tok="autumn"/>
+<w tok="of"/>
+<w tok="about"/>
+<w tok="1,300"/>
+<w tok="wagons"/>
+<w tok="with"/>
+<w tok="8,000"/>
+<w tok="people"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="BENJAMIN"/>
+<w tok="ALVORD"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

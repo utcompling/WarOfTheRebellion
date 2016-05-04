@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-25" title="105" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Edward"/>
+<w tok="E."/>
+<w tok="Eyre"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="California"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<toponym term="FORT BARRETT">
+<candidates>
+<cand lat="33.120278" long="-111.888056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Pima Villages">
+<candidates>
+<cand lat="33.120278" long="-111.888056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ariz.">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="death"/>
+<w tok="of"/>
+<w tok="Second"/>
+<w tok="Lieutenant"/>
+<w tok="James"/>
+<w tok="Barrett"/>
+<w tok=","/>
+<w tok="late"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="shot"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="skirmish"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="rebel"/>
+<w tok="picket"/>
+<w tok="at"/>
+<toponym term="Picacho Pass">
+<candidates>
+<cand lat="32.631111" long="-111.415556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ariz. Ter.">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="about"/>
+<w tok="thirty"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="15th"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="only"/>
+<w tok="relative"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="deceased"/>
+<w tok="is"/>
+<w tok="Mrs."/>
+<w tok="Ellen"/>
+<w tok="Brady"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="last"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="by"/>
+<w tok="deceased"/>
+<w tok=","/>
+<w tok="four"/>
+<w tok="years"/>
+<w tok="ago"/>
+<w tok=","/>
+<w tok="resided"/>
+<w tok="in"/>
+<toponym term="Albany">
+<candidates>
+<cand lat="42.6342279499" long="-73.7691638766" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Y.">
+<candidates>
+<cand lat="42.8764682155" long="-75.6232894497" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="major"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="E."/>
+<w tok="EYRE"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.121119912" long="-119.72506297" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

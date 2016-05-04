@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-13" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-1"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Enemy"/>
+<w tok="from"/>
+<toponym term="Seabrook Island">
+<candidates>
+<cand lat="32.582222" long="-80.163333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="driven"/>
+<w tok="back"/>
+<w tok="advanced"/>
+<w tok="pickets"/>
+<w tok="on"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="must"/>
+<w tok="stop"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Colquitt"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok="just"/>
+<w tok="leaving"/>
+<w tok="for"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="ca"/>
+<w tok="n&apos;t"/>
+<w tok="guard"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="to"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="including"/>
+<w tok=","/>
+<w tok="unless"/>
+<w tok="re-enforced"/>
+<w tok="temporarily"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

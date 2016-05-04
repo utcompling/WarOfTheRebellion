@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-168" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<w tok="Saint"/>
+<w tok="Joseph"/>
+<w tok=","/>
+<w tok="Mo."/>
+<w tok=","/>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Sergt"/>
+<w tok="."/>
+<w tok="T."/>
+<w tok="J."/>
+<w tok="WESTLY"/>
+<w tok=","/>
+<toponym term="Brookfield">
+<candidates>
+<cand lat="39.783056" long="-93.073889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SERGEANT"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="express"/>
+<w tok="his"/>
+<w tok="thanks"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="prompt"/>
+<w tok="and"/>
+<w tok="efficient"/>
+<w tok="service"/>
+<w tok="rendered"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="under"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="pursuing"/>
+<w tok=","/>
+<w tok="dispersing"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="capturing"/>
+<w tok="the"/>
+<w tok="desperadoes"/>
+<w tok="Hickman"/>
+<w tok=","/>
+<w tok="Hinds"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Lazier"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="only"/>
+<w tok="regret"/>
+<w tok="the"/>
+<w tok="capturing"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="fellows"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="violated"/>
+<w tok="all"/>
+<w tok="claims"/>
+<w tok="to"/>
+<w tok="life"/>
+<w tok="or"/>
+<w tok="consideration"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="since"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="prisoners"/>
+<w tok="the"/>
+<w tok="law"/>
+<w tok="must"/>
+<w tok="visit"/>
+<w tok="swift"/>
+<w tok="and"/>
+<w tok="sure"/>
+<w tok="punishment"/>
+<w tok="upon"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Hoping"/>
+<w tok="your"/>
+<w tok="little"/>
+<w tok="command"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="good"/>
+<w tok="citizens"/>
+<w tok="of"/>
+<toponym term="Brookfield">
+<candidates>
+<cand lat="39.783056" long="-93.073889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="always"/>
+<w tok="respond"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="calls"/>
+<w tok="of"/>
+<w tok="justice"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="alacrity"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="sergeant"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="A."/>
+<w tok="HOLLOWAY"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

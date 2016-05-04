@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-128" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="O."/>
+<w tok="COLLINS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Fort Laramie">
+<candidates>
+<cand lat="42.209167" long="-104.535861" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Lieutenant"/>
+<w tok="Dunn"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="fight"/>
+<w tok="with"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="Cheyennes"/>
+<w tok="near"/>
+<toponym term="Fremont&apos;s Orchard">
+<candidates>
+<cand lat="39.22" long="-104.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="12th"/>
+<w tok="instant"/>
+<w tok=";"/>
+<w tok="4"/>
+<w tok="men"/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="fatally"/>
+<w tok=";"/>
+<w tok="several"/>
+<w tok="Indians"/>
+<w tok="killed"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="have"/>
+<w tok="gone"/>
+<w tok="with"/>
+<w tok="stolen"/>
+<w tok="stock"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="direction"/>
+<w tok="."/>
+<w tok="Look"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="and"/>
+<w tok="skill"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="stealing"/>
+<w tok="in"/>
+<w tok="every"/>
+<w tok="direction"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="refusing"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="up"/>
+<w tok="stock"/>
+<w tok="when"/>
+<w tok="caught"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok="."/>
+</s>
+</doc>

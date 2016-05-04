@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-47" title="75" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="Field"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864-2"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Military"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="seems"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="first"/>
+<w tok="plan"/>
+<w tok="of"/>
+<w tok="proposed"/>
+<w tok="operations"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok=";"/>
+<w tok="but"/>
+<w tok=","/>
+<w tok="inasmuch"/>
+<w tok="as"/>
+<w tok="Johnston"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="in"/>
+<toponym term="Buzzard Roost Gap">
+<candidates>
+<cand lat="34.803232" long="-85.011871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="long"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="threatened"/>
+<w tok=","/>
+<w tok="Hooker"/>
+<w tok="&apos;s"/>
+<w tok="corp"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="to"/>
+<w tok="re-enforce"/>
+<w tok="General"/>
+<w tok="McPherson"/>
+<w tok=","/>
+<w tok="whilst"/>
+<w tok="General"/>
+<w tok="Palmer"/>
+<w tok="&apos;s"/>
+<w tok="corps"/>
+<w tok="could"/>
+<w tok="be"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="reserve"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="moment"/>
+<w tok="&apos;s"/>
+<w tok="notice"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Howard"/>
+<w tok="&apos;s"/>
+<w tok="Corps"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="to"/>
+<w tok="defend"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="and"/>
+<w tok="hold"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="in"/>
+<w tok="check"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="mean"/>
+<w tok="time"/>
+<w tok="the"/>
+<w tok="depot"/>
+<w tok="could"/>
+<w tok="be"/>
+<w tok="withdrawn"/>
+<w tok="to"/>
+<toponym term="Ringgold">
+<candidates>
+<cand lat="34.917222" long="-85.115833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to-morrow"/>
+<w tok="night"/>
+<w tok="General"/>
+<w tok="Schofield"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="take"/>
+<w tok="position"/>
+<w tok="in"/>
+<w tok="front"/>
+<w tok="of"/>
+<toponym term="Ringgold">
+<candidates>
+<cand lat="34.917222" long="-85.115833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="General"/>
+<w tok="Stoneman"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="covering"/>
+<w tok="its"/>
+<w tok="front"/>
+<w tok=","/>
+<w tok="whilst"/>
+<w tok="Palmer"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="Howard"/>
+<w tok="&apos;s"/>
+<w tok="corps"/>
+<w tok="could"/>
+<w tok="march"/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="suggest"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="main"/>
+<toponym term="Mill Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="to"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="sending"/>
+<w tok="their"/>
+<w tok="wagons"/>
+<w tok="by"/>
+<w tok="the"/>
+<toponym term="Trickum road">
+<candidates>
+</candidates>
+</toponym>
+<w tok="covering"/>
+<w tok="their"/>
+<w tok="movement"/>
+<w tok="with"/>
+<w tok="McCook"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="can"/>
+<w tok="afterward"/>
+<w tok="occupy"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Ship&apos;s Gap">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="securing"/>
+<w tok="our"/>
+<w tok="communications"/>
+<w tok="with"/>
+<toponym term="Ringgold">
+<candidates>
+<cand lat="34.917222" long="-85.115833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="THOMAS"/>
+<w tok="."/>
+</s>
+</doc>

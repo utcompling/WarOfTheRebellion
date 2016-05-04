@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-17" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="General"/>
+<w tok="McGinnis"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Third"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="see"/>
+<w tok="that"/>
+<w tok="his"/>
+<w tok="right"/>
+<w tok="flank"/>
+<w tok="covers"/>
+<w tok="the"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4198113407" long="-99.262957413" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="."/>
+<w tok="LAWLER"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+</s>
+</doc>

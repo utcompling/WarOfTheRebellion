@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-99" title="64" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="N."/>
+<w tok="MEX"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="G."/>
+<w tok="OFFICE"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="17"/>
+<w tok="."/>
+<toponym term="Santa Fe">
+<candidates>
+<cand lat="35.666543863" long="-105.943289391" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4151677176" long="-106.119616549" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="V."/>
+<w tok="The"/>
+<w tok="exigencies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="public"/>
+<w tok="service"/>
+<w tok="requires"/>
+<w tok="that"/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="take"/>
+<w tok="post"/>
+<w tok="at"/>
+<toponym term="Fort Union">
+<candidates>
+<cand lat="35.907262" long="-105.012226" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4151677176" long="-106.119616549" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="is"/>
+<w tok="charged"/>
+<w tok="with"/>
+<w tok="personally"/>
+<w tok="seeing"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="company"/>
+<w tok="is"/>
+<w tok="put"/>
+<w tok="into"/>
+<w tok="a"/>
+<w tok="state"/>
+<w tok="of"/>
+<w tok="drill"/>
+<w tok=","/>
+<w tok="discipline"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="good"/>
+<w tok="order"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="two"/>
+<w tok="drills"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="every"/>
+<w tok="week"/>
+<w tok="day-one"/>
+<w tok="on"/>
+<w tok="foot"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="mounted"/>
+<w tok=";"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="officers"/>
+<w tok="recite"/>
+<w tok="in"/>
+<w tok="tactics"/>
+<w tok="to"/>
+<w tok="himself"/>
+<w tok="three"/>
+<w tok="times"/>
+<w tok="a"/>
+<w tok="week"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="non-commissioned"/>
+<w tok="officers"/>
+<w tok="recite"/>
+<w tok="in"/>
+<w tok="tactics"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="adjutant"/>
+<w tok="three"/>
+<w tok="times"/>
+<w tok="a"/>
+<w tok="week"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="is"/>
+<w tok="properly"/>
+<w tok="instructed"/>
+<w tok="and"/>
+<w tok="ready"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="points"/>
+<w tok="for"/>
+<w tok="field"/>
+<w tok="service"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Carleton"/>
+<w tok=":"/>
+<w tok="CYRUS"/>
+<w tok="H."/>
+<w tok="DE"/>
+<w tok="FORREST"/>
+<w tok=","/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

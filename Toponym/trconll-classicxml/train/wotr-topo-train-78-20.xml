@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-20" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LOUISVILLE">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Heintzelman"/>
+<w tok="telegraphs"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="Hobson"/>
+<w tok="is"/>
+<w tok="hard"/>
+<w tok="pressed"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="not"/>
+<w tok="captured"/>
+<w tok="entire"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="sent"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok="of"/>
+<w tok="National"/>
+<w tok="Guard"/>
+<w tok="of"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Veteran"/>
+<w tok="Reserves"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="crossing"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="at"/>
+<toponym term="Cincinnati">
+<candidates>
+<cand lat="39.0876358933" long="-84.5600838214" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ohio">
+<candidates>
+<cand lat="40.3936282738" long="-82.7300096532" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Where"/>
+<w tok="is"/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="?"/>
+<w tok="Keep"/>
+<w tok="me"/>
+<w tok="posted"/>
+<w tok="."/>
+<w tok="HENRY"/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

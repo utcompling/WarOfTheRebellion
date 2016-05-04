@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-41" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="15th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Major-General"/>
+<w tok="SHERMAN"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="has"/>
+<w tok="ordered"/>
+<w tok="thirty"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="supplies"/>
+<w tok="of"/>
+<w tok="subsistence"/>
+<w tok="and"/>
+<w tok="ammunition"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="to"/>
+<toponym term="Shreveport">
+<candidates>
+<cand lat="32.5147222222" long="-93.7472222222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="they"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="GREEN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

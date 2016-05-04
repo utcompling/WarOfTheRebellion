@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-60" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="H."/>
+<w tok="RYAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<w tok="Cadron"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="can"/>
+<w tok="move"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="office"/>
+<w tok="to"/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Lovejoy"/>
+<w tok="&apos;s"/>
+<w tok="battalion"/>
+<w tok="is"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="it"/>
+<w tok="does"/>
+<w tok=","/>
+<w tok="relieve"/>
+<w tok="the"/>
+<w tok="Fourth"/>
+<w tok="Arkansas"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Moore"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="order"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Salomon"/>
+<w tok="."/>
+<w tok="Try"/>
+<w tok="to"/>
+<w tok="clean"/>
+<w tok="out"/>
+<w tok="the"/>
+<w tok="conscriptors"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="can"/>
+<w tok="rely"/>
+<w tok="upon"/>
+<w tok="it"/>
+<w tok="that"/>
+<w tok="whenever"/>
+<w tok="you"/>
+<w tok="need"/>
+<w tok="support"/>
+<w tok="it"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fullest"/>
+<w tok="extent"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="power"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="keep"/>
+<w tok="my"/>
+<w tok="attention"/>
+<w tok="constantly"/>
+<w tok="directed"/>
+<w tok="upon"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="every"/>
+<w tok="day"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="oftener"/>
+<w tok=","/>
+<w tok="even"/>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="news"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="a"/>
+<w tok="great"/>
+<w tok="advantage"/>
+<w tok="to"/>
+<w tok="us"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="through"/>
+<w tok="to"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="even"/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="only"/>
+<w tok="held"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="hours"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="CARR"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

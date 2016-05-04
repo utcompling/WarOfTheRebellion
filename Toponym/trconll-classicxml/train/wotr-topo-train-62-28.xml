@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-28" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NEBRASKA"/>
+<w tok=","/>
+<toponym term="Omaha">
+<candidates>
+<cand lat="41.25" long="-96.0" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Nebr. Ter.">
+<candidates>
+<cand lat="41.5118550709" long="-99.733992628" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Captain"/>
+<w tok="JOHN"/>
+<w tok="WILCOX"/>
+<w tok=","/>
+<w tok="Co."/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="Seventh"/>
+<w tok="Iowa"/>
+<w tok="Cav."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok=","/>
+<toponym term="Dakota">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Nebr. Ter.">
+<candidates>
+<cand lat="41.5118550709" long="-99.733992628" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="favor"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="16th"/>
+<w tok="instant"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="under"/>
+<w tok="existing"/>
+<w tok="circumstances"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="deemed"/>
+<w tok="safe"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="captured"/>
+<w tok="property"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Nebraska">
+<candidates>
+<cand lat="41.5118550709" long="-99.733992628" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="soldiers"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="turning"/>
+<w tok="it"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="Hoffman"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Indian"/>
+<w tok="agent"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="Ponca"/>
+<w tok="Indians"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="suggests"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="one"/>
+<w tok="should"/>
+<w tok="receive"/>
+<w tok="it"/>
+<w tok="as"/>
+<w tok="Major"/>
+<w tok="Hoffman"/>
+<w tok="&apos;s"/>
+<w tok="agent"/>
+<w tok="at"/>
+<toponym term="Niobrara">
+<candidates>
+<cand lat="42.75" long="-98.031944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="some"/>
+<w tok="other"/>
+<w tok="convenient"/>
+<w tok="place"/>
+<w tok="within"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="dangerous"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="it"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Ponca Reservation">
+<candidates>
+<cand lat="42.63" long="-97.88" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="delivery"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="Major"/>
+<w tok="Hoffman"/>
+<w tok="refuses"/>
+<w tok="to"/>
+<w tok="receive"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="turn"/>
+<w tok="it"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="acting"/>
+<w tok="assistant"/>
+<w tok="quartermaster"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="accounted"/>
+<w tok="for"/>
+<w tok="by"/>
+<w tok="him"/>
+<w tok="and"/>
+<w tok="disposed"/>
+<w tok="of"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="hereafter"/>
+<w tok="be"/>
+<w tok="directed"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEORGE"/>
+<w tok="S."/>
+<w tok="HAMPTON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

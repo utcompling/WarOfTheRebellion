@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-63" title="60" domain="wotr">
+<s id="s1">
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="DAVIS"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="VIRGINIA"/>
+<w tok="AND"/>
+<w tok="NORTH"/>
+<w tok="CAROLINA"/>
+<w tok=","/>
+<toponym term="Fort Monroe">
+<candidates>
+<cand lat="37.003611" long="-76.3075" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="approved"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="operation"/>
+<w tok="was"/>
+<w tok="skillfully"/>
+<w tok="and"/>
+<w tok="brilliantly"/>
+<w tok="done"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="gives"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="renewed"/>
+<w tok="confidence"/>
+<w tok="in"/>
+<w tok="General"/>
+<w tok="Wistar"/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="division"/>
+<w tok="."/>
+<w tok="BENJ"/>
+<w tok="."/>
+<w tok="F."/>
+<w tok="BUTLER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

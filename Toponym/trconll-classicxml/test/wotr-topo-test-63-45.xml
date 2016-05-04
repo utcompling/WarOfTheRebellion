@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-45" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="H."/>
+<w tok="RYAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Who"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="Texas"/>
+<w tok="general"/>
+<w tok="and"/>
+<w tok="what"/>
+<w tok="is"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="?"/>
+<w tok="Tell"/>
+<w tok="Fuller"/>
+<w tok="to"/>
+<w tok="defend"/>
+<toponym term="Dardanelle">
+<candidates>
+<cand lat="35.2225" long="-93.160278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="man"/>
+<w tok="."/>
+<w tok="How"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="above"/>
+<w tok="?"/>
+<w tok="Answer"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="NATHAN"/>
+<w tok="KIMBALL"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

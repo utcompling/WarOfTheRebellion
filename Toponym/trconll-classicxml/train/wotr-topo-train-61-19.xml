@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-19" title="61" domain="wotr">
+<s id="s1">
+<w tok="20th.-We"/>
+<w tok="marched"/>
+<w tok="to"/>
+<w tok="Numbers"/>
+<w tok="1."/>
+<w tok="on"/>
+<toponym term="Piney">
+<candidates>
+<cand lat="37.884167" long="-92.064167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="18"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="21st.-Marche"/>
+<w tok="to"/>
+<w tok="camp"/>
+<w tok="at"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="making"/>
+<w tok="any"/>
+<w tok="discoveries"/>
+<w tok="worthy"/>
+<w tok="of"/>
+<w tok="note"/>
+<w tok="."/>
+<w tok="22nd.-We"/>
+<w tok="started"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Waynesville">
+<candidates>
+<cand lat="37.820278" long="-92.213611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="marched"/>
+<w tok="to"/>
+<w tok="Kivott"/>
+<w tok="&apos;s"/>
+<w tok=";"/>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="23rd.-Went"/>
+<w tok="to"/>
+<toponym term="Waynesville">
+<candidates>
+<cand lat="37.820278" long="-92.213611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="Fischer"/>
+<w tok=";"/>
+<w tok="18"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="24th.-Started"/>
+<w tok="up"/>
+<toponym term="Roubidoux">
+<candidates>
+<cand lat="37.8512" long="-92.2125" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="marched"/>
+<w tok="to"/>
+<w tok="Finley"/>
+<w tok="&apos;s"/>
+<w tok=";"/>
+<w tok="15"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="25th.-Marched"/>
+<w tok="up"/>
+<w tok="the"/>
+<toponym term="Roubidoux">
+<candidates>
+<cand lat="37.8512" long="-92.2125" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="some"/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="for"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="forage"/>
+<w tok="were"/>
+<w tok="obliged"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="to"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="being"/>
+<w tok="40"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="Finley"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="."/>
+<w tok="26th.-Started"/>
+<w tok="for"/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="evening"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="marched"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="27th.-Marched"/>
+<w tok="30"/>
+<w tok="miles"/>
+<w tok="and"/>
+<w tok="camped"/>
+<w tok="."/>
+<w tok="28th.-Arrived"/>
+<w tok="in"/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="safe"/>
+<w tok="and"/>
+<w tok="sound"/>
+<w tok="."/>
+<w tok="29th.-Reported"/>
+<w tok="to"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Rolla"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="L."/>
+<w tok="WOODS"/>
+<w tok="."/>
+<w tok="D."/>
+<w tok="CAUSORT"/>
+<w tok="."/>
+<w tok="AARON"/>
+<w tok="S."/>
+<w tok="VAIL"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Scouts"/>
+<w tok="."/>
+</s>
+</doc>

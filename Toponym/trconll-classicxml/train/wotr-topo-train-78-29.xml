@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-29" title="78" domain="wotr">
+<s id="s1">
+<toponym term="COLLIERVILLE">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="WASHBURN"/>
+<w tok=":"/>
+<w tok="One"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="escaped"/>
+<w tok="prisoners"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="body"/>
+<w tok="of"/>
+<w tok="rebel"/>
+<w tok="infantry"/>
+<w tok="larger"/>
+<w tok="than"/>
+<w tok="my"/>
+<w tok="whole"/>
+<w tok="infantry"/>
+<w tok="force"/>
+<w tok="marched"/>
+<w tok="into"/>
+<toponym term="Ripley">
+<candidates>
+<cand lat="35.743056" long="-89.533889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="D."/>
+<w tok="STURGIS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

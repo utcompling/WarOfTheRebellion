@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-135" title="106" domain="wotr">
+<s id="s1">
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="THOMAS"/>
+<w tok=","/>
+<w tok="Adjutant-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9038569084" long="-77.0358172217" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="communication"/>
+<w tok="addressed"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="by"/>
+<w tok="His"/>
+<w tok="Excellency"/>
+<w tok="Don"/>
+<w tok="Ignacio"/>
+<w tok="Pesqueira"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="Governor"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="of"/>
+<w tok="Sonora"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="reply"/>
+<w tok="to"/>
+<w tok="mine"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok="of"/>
+<w tok="May"/>
+<w tok="last"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="was"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="office"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="most"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

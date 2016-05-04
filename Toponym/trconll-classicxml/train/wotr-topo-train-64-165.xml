@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-165" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SAINT LOUIS">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Further"/>
+<w tok="in"/>
+<w tok="answer"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="relative"/>
+<w tok="to"/>
+<w tok="calling"/>
+<w tok="out"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="towns"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="our"/>
+<w tok="forces"/>
+<w tok="are"/>
+<w tok="concentrating"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="deems"/>
+<w tok="it"/>
+<w tok="more"/>
+<w tok="advisable"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="necessity"/>
+<w tok="for"/>
+<w tok="local"/>
+<w tok="protection"/>
+<w tok="becomes"/>
+<w tok="certain"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="call"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="regiment"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="of"/>
+<w tok="select"/>
+<w tok="and"/>
+<w tok="reliable"/>
+<w tok="men-say"/>
+<w tok="provisional"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="mean"/>
+<w tok="time"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="bids"/>
+<w tok="me"/>
+<w tok="recommended"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="in"/>
+<w tok="view"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="step"/>
+<w tok="if"/>
+<w tok="matters"/>
+<w tok="grow"/>
+<w tok="more"/>
+<w tok="threatening"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="yet"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="does"/>
+<w tok="not"/>
+<w tok="deem"/>
+<w tok="it"/>
+<w tok="advisable"/>
+<w tok="to"/>
+<w tok="disturb"/>
+<w tok="the"/>
+<w tok="farmers"/>
+<w tok="in"/>
+<w tok="their"/>
+<w tok="work"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="will"/>
+<w tok="await"/>
+<w tok="further"/>
+<w tok="developments"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="intentions"/>
+<w tok="before"/>
+<w tok="more"/>
+<w tok="decided"/>
+<w tok="action"/>
+<w tok="."/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="TOTTEN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

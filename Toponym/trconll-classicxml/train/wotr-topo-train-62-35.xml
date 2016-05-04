@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-35" title="62" domain="wotr">
+<s id="s1">
+<toponym term="FORT SMITH">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="dispatch"/>
+<w tok="ordering"/>
+<w tok="General"/>
+<w tok="Carr"/>
+<w tok="on"/>
+<w tok="duty"/>
+<w tok="here"/>
+<w tok="was"/>
+<w tok="forwarded"/>
+<w tok="by"/>
+<w tok="special"/>
+<w tok="messenger"/>
+<w tok="immediately"/>
+<w tok="after"/>
+<w tok="its"/>
+<w tok="receipt"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="messenger"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="returned"/>
+<w tok="yet"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="T."/>
+<w tok="J."/>
+<w tok="ANDERSON"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

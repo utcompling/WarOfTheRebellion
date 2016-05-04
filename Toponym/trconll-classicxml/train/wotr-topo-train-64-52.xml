@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-52" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="BANKS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="please"/>
+<w tok="order"/>
+<w tok="Major-General"/>
+<w tok="Reynolds"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="at"/>
+<toponym term="Natchez">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="after"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="spared"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok="only"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="probably"/>
+<w tok="be"/>
+<w tok="in"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="coming"/>
+<w tok="of"/>
+<w tok="next"/>
+<w tok="week"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ED"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

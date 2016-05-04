@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-44" title="75" domain="wotr">
+<s id="s1">
+<toponym term="TUNNEL HILL">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864-7.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="5.50"/>
+<w tok="a."/>
+<w tok="m"/>
+<w tok="."/>
+<w tok="11th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.9286251828" long="-77.0722119359" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9141357971" long="-77.0293838181" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="McPherson"/>
+<w tok="reached"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="found"/>
+<w tok="the"/>
+<w tok="place"/>
+<w tok="strongly"/>
+<w tok="fortified"/>
+<w tok="and"/>
+<w tok="guarded"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="break"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="."/>
+<w tok="According"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="instructions"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="drew"/>
+<w tok="back"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="debouches"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="gorge"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="defensive"/>
+<w tok="position"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="guards"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="pass"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="valley"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Oostenaula">
+<candidates>
+<cand lat="34.253889" long="-85.176667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="available"/>
+<w tok="to"/>
+<w tok="us"/>
+<w tok="."/>
+<toponym term="Buzzard Roost Gap">
+<candidates>
+<cand lat="34.803232" long="-85.011871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="through"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="passes"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="naturally"/>
+<w tok="and"/>
+<w tok="artificially"/>
+<w tok="too"/>
+<w tok="strong"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="attempted"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="must"/>
+<w tok="feign"/>
+<w tok="on"/>
+<toponym term="Buzzard Roost">
+<candidates>
+<cand lat="34.803232" long="-85.011871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="pass"/>
+<w tok="through"/>
+<toponym term="Snake Creek Gap">
+<candidates>
+<cand lat="34.6512213946" long="-85.059357236" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="place"/>
+<w tok="myself"/>
+<w tok="between"/>
+<w tok="Johnston"/>
+<w tok="and"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="when"/>
+<w tok="we"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="fight"/>
+<w tok="it"/>
+<w tok="out"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="making"/>
+<w tok="the"/>
+<w tok="preliminary"/>
+<w tok="move"/>
+<w tok="."/>
+<w tok="Certain"/>
+<w tok="that"/>
+<w tok="Johnston"/>
+<w tok="can"/>
+<w tok="make"/>
+<w tok="no"/>
+<w tok="detachments"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="no"/>
+<w tok="hurry"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="cavalry"/>
+<w tok="is"/>
+<w tok="just"/>
+<w tok="approaching"/>
+<w tok="from"/>
+<toponym term="Kentucky">
+<candidates>
+<cand lat="37.5263812139" long="-85.3041615381" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Tennessee">
+<candidates>
+<cand lat="35.8420488332" long="-86.3319274523" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="detained"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="difficulty"/>
+<w tok="of"/>
+<w tok="getting"/>
+<w tok="horse"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="even"/>
+<w tok="now"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="my"/>
+<w tok="minimum"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

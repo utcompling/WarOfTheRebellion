@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-79" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="Second"/>
+<w tok="Colorado"/>
+<w tok="ought"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="distributed"/>
+<w tok="in"/>
+<w tok="three"/>
+<w tok="or"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="from"/>
+<w tok="now"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="is"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="a"/>
+<w tok="courier"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="posted"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sufficient"/>
+<w tok="for"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="act"/>
+<w tok="upon"/>
+<w tok="."/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

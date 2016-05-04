@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-20" title="63" domain="wotr">
+<s id="s1">
+<toponym term="NASHVILLE">
+<candidates>
+<cand lat="36.166667" long="-86.783333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Grant"/>
+<w tok="tells"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="will"/>
+<w tok="hold"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Banks"/>
+<w tok="&apos;"/>
+<w tok="troops"/>
+<w tok="are"/>
+<w tok="ordered"/>
+<w tok="elsewhere"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="for"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="loaned"/>
+<w tok="Banks"/>
+<w tok="for"/>
+<w tok="thirty"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="should"/>
+<w tok="send"/>
+<w tok="to"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="dispatch"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="possibly"/>
+<w tok="spare"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="if"/>
+<w tok="Steele"/>
+<w tok="can"/>
+<w tok="hold"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Shreveport">
+<candidates>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="organized"/>
+<w tok="enemy"/>
+<w tok="will"/>
+<w tok="then"/>
+<w tok="be"/>
+<w tok="held"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="great"/>
+<w tok="and"/>
+<w tok="safe"/>
+<w tok="distance"/>
+<w tok="from"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Surely"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="now"/>
+<w tok="is"/>
+<w tok="safe"/>
+<w tok="with"/>
+<w tok="its"/>
+<w tok="organized"/>
+<w tok="militia"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

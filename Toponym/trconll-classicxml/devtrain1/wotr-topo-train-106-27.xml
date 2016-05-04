@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-27" title="106" domain="wotr">
+<s id="s1">
+<toponym term="FORT CRITTENDEN">
+<candidates>
+<cand lat="31.6542429722" long="-110.710236081" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="-"/>
+<w tok="9"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="leave"/>
+<w tok="for"/>
+<toponym term="Ruby">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="arrive"/>
+<w tok="there"/>
+<w tok="Saturday"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="write"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

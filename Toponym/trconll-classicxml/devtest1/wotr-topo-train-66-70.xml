@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-70" title="66" domain="wotr">
+<s id="s1">
+<w tok="U."/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="WABASH"/>
+<w tok=","/>
+<toponym term="Port Royal">
+<candidates>
+<cand lat="32.383333" long="-80.695556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="By"/>
+<w tok="dispatch"/>
+<w tok="received"/>
+<w tok="yesterday"/>
+<w tok="from"/>
+<w tok="Admiral"/>
+<w tok="Dahlgren"/>
+<w tok="i"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="contemplated"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="army"/>
+<w tok="forces"/>
+<w tok="to"/>
+<w tok="erect"/>
+<w tok="a"/>
+<w tok="battery"/>
+<w tok="of"/>
+<w tok="two"/>
+<w tok="guns"/>
+<w tok="on"/>
+<toponym term="Scull Creek">
+<candidates>
+<cand lat="32.2373405133" long="-80.7525210848" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="upon"/>
+<w tok="your"/>
+<w tok="requisition"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="accordance"/>
+<w tok="therewith"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="("/>
+<w tok="caliber"/>
+<w tok="8"/>
+<w tok="or"/>
+<w tok="9"/>
+<w tok="inch"/>
+<w tok=")"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="promptly"/>
+<w tok="sent"/>
+<w tok="whenever"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="call"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="D."/>
+<w tok="CAMP"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Navy"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c"/>
+<w tok="."/>
+</s>
+</doc>

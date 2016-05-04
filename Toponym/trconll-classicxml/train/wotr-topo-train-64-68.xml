@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-68" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SPRINGFIELD">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Marmaduke"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="on"/>
+<toponym term="White Stone Prairie">
+<candidates>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="1,500"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="400"/>
+<w tok="rebels"/>
+<w tok="on"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="below"/>
+<toponym term="Buffalo City">
+<candidates>
+</candidates>
+</toponym>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Southwest"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok="."/>
+</s>
+</doc>

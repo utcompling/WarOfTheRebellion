@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-62" title="105" domain="wotr">
+<s id="s1">
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="George"/>
+<w tok="B."/>
+<w tok="Currey"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Oregon"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<toponym term="GRANDE RONDE">
+<candidates>
+<cand lat="45.06" long="-123.609167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="second"/>
+<w tok="day"/>
+<w tok="from"/>
+<w tok="Umatilla"/>
+<w tok="Agency"/>
+<w tok="I"/>
+<w tok="surprised"/>
+<w tok="Tenounis"/>
+<w tok="&apos;"/>
+<w tok="("/>
+<w tok="the"/>
+<w tok="Dreamer"/>
+<w tok=")"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="1"/>
+<w tok="o&apos;clock"/>
+<w tok="at"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Held"/>
+<w tok="a"/>
+<w tok="long"/>
+<w tok="talk"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="endeavoring"/>
+<w tok="to"/>
+<w tok="induce"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok="to"/>
+<toponym term="Walla Walla">
+<candidates>
+<cand lat="46.065" long="-118.330278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="This"/>
+<w tok="he"/>
+<w tok="obstinately"/>
+<w tok="refused"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="gave"/>
+<w tok="him"/>
+<w tok="until"/>
+<w tok="8"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="to"/>
+<w tok="consider"/>
+<w tok="in"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="the"/>
+<w tok="expiration"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="time"/>
+<w tok="he"/>
+<w tok="told"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="tyee"/>
+<w tok="at"/>
+<toponym term="Walla Walla">
+<candidates>
+<cand lat="46.065" long="-118.330278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="wished"/>
+<w tok="to"/>
+<w tok="see"/>
+<w tok="him"/>
+<w tok="he"/>
+<w tok="might"/>
+<w tok="come"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="would"/>
+<w tok="not"/>
+<w tok="go"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="then"/>
+<w tok="concluded"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="him"/>
+<w tok="a"/>
+<w tok="prisoner"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="he"/>
+<w tok="resisted"/>
+<w tok=","/>
+<w tok="firing"/>
+<w tok="at"/>
+<w tok="me"/>
+<w tok="twice"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shot"/>
+<w tok="him"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="revolver"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="principal"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="While"/>
+<w tok="this"/>
+<w tok="was"/>
+<w tok="going"/>
+<w tok="on"/>
+<w tok="several"/>
+<w tok="shots"/>
+<w tok="were"/>
+<w tok="fired"/>
+<w tok="among"/>
+<w tok="my"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="crowd"/>
+<w tok="of"/>
+<w tok="some"/>
+<w tok="fifteen"/>
+<w tok="or"/>
+<w tok="twenty"/>
+<w tok="Indias"/>
+<w tok=","/>
+<w tok="whom"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="mere"/>
+<w tok="spectators"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="fire"/>
+<w tok="from"/>
+<w tok="my"/>
+<w tok="men"/>
+<w tok="&apos;s"/>
+<w tok="yagers"/>
+<w tok="sent"/>
+<w tok="them"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="sight"/>
+<w tok="except"/>
+<w tok="two"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="fell"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Indians"/>
+<w tok="claim"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="shot"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="were"/>
+<w tok="friendly"/>
+<w tok="Indians"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="may"/>
+<w tok="create"/>
+<w tok="some"/>
+<w tok="dissatisfaction"/>
+<w tok="among"/>
+<w tok="those"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="reserve"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="remain"/>
+<w tok="here"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="to"/>
+<w tok="recruit"/>
+<w tok="my"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="watch"/>
+<w tok="the"/>
+<w tok="shape"/>
+<w tok="things"/>
+<w tok="are"/>
+<w tok="taking"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="CURREY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="Oregon"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="Commanding"/>
+<w tok="OFFICER"/>
+<w tok="AT"/>
+<toponym term="FORT WALLA WALLA">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WASH. TER.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-67" title="75" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="CHIEF"/>
+<w tok="OF"/>
+<w tok="CAVALRY"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="CUMBERLAND"/>
+<w tok=","/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="K."/>
+<w tok="GARRARD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Major-General"/>
+<w tok="Sherman"/>
+<w tok="has"/>
+<w tok="directed"/>
+<w tok="Major-General"/>
+<w tok="Thomas"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="your"/>
+<w tok="division"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="to"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="these"/>
+<w tok="instructions"/>
+<w tok="and"/>
+<w tok="your"/>
+<w tok="arrival"/>
+<w tok="at"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+</s>
+</doc>

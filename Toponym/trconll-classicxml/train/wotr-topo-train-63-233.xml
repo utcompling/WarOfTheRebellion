@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-233" title="63" domain="wotr">
+<s id="s1">
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="WAR"/>
+<w tok="DEPT."/>
+<w tok=","/>
+<w tok="ADJT"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok="&apos;S"/>
+<w tok="OFFICE"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="164"/>
+<w tok="."/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="direction"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="United"/>
+<w tok="States"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="Indian"/>
+<w tok="Territory"/>
+<w tok="and"/>
+<w tok="military"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="included"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok="by"/>
+<w tok="General"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="current"/>
+<w tok="series"/>
+<w tok=","/>
+<w tok="are"/>
+<w tok="hereby"/>
+<w tok="transferred"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok="."/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="Blunt"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="repair"/>
+<w tok="to"/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="TOWNSEND"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Copies"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<w tok="Generals"/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="Steele"/>
+<w tok=","/>
+<w tok="Curtis"/>
+<w tok=","/>
+<w tok="Blunt"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Kimball"/>
+<w tok="."/>
+<w tok=")"/>
+</s>
+</doc>

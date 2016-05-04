@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-78" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="13,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="importance"/>
+<w tok="has"/>
+<w tok="occurred"/>
+<w tok="since"/>
+<w tok="my"/>
+<w tok="last"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="exception"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="unmasking"/>
+<w tok="of"/>
+<w tok="one"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="light"/>
+<w tok="Parrott"/>
+<w tok="guns"/>
+<w tok="than"/>
+<w tok="have"/>
+<w tok="heretofore"/>
+<w tok="been"/>
+<w tok="employed"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="situated"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="foot"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="scarp"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="work"/>
+<w tok="of"/>
+<toponym term="Gregg">
+<candidates>
+<cand lat="37.19805" long="-77.45025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="observation"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

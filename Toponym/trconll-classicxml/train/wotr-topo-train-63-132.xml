@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-132" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6874169615" long="-89.6200113892" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.3915284595" long="-94.1155242782" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="misinterpret"/>
+<w tok="my"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="4th"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Sixth"/>
+<w tok="Regiment"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="leave"/>
+<toponym term="Minnesota">
+<candidates>
+<cand lat="46.3795137918" long="-94.2215860907" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="until"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="Eighth"/>
+<w tok="Regiment"/>
+<w tok="from"/>
+<w tok="expedition"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="used"/>
+<w tok="precisely"/>
+<w tok="as"/>
+<w tok="if"/>
+<w tok="no"/>
+<w tok="orders"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="subject"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="had"/>
+<w tok="ever"/>
+<w tok="been"/>
+<w tok="issued"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok="useless"/>
+<w tok="to"/>
+<w tok="notify"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="about"/>
+<w tok="being"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

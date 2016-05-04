@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-16" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="NINETEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Morganza">
+<candidates>
+<cand lat="30.735556" long="-91.61" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="LAWLER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="mentioned"/>
+<w tok="the"/>
+<w tok="suggestions"/>
+<w tok="you"/>
+<w tok="made"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="in"/>
+<w tok="reference"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="disposition"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Emory"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="detachment"/>
+<w tok="to"/>
+<w tok="guard"/>
+<w tok="the"/>
+<w tok="Texas"/>
+<w tok="road"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="SENTELL"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Provost-Marshall"/>
+<w tok=","/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="."/>
+</s>
+</doc>

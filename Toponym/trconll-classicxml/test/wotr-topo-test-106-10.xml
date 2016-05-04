@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-10" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="THOMAS"/>
+<w tok=","/>
+<w tok="Adjutant-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington, D. C.">
+<candidates>
+<cand lat="38.8568201347" long="-76.9976806641" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="For"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="General-in-Chief"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="forward"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="David"/>
+<w tok="Fergusson"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term=" Western Arizona">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="subject"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Carleton"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="advance"/>
+<w tok="of"/>
+<toponym term="Fort Yuma">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="*"/>
+<w tok="In"/>
+<w tok="a"/>
+<w tok="previous"/>
+<w tok="communication"/>
+<w tok="addressed"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="I"/>
+<w tok="asked"/>
+<w tok="for"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="supplies"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+<cand lat="37.984444" long="-120.381667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="doing"/>
+<w tok="so"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="great"/>
+<w tok="saving"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="cost"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="anticipation"/>
+<w tok="of"/>
+<w tok="approval"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="now"/>
+<w tok="making"/>
+<w tok="arrangements"/>
+<w tok="for"/>
+<w tok="shipping"/>
+<w tok="the"/>
+<w tok="next"/>
+<w tok="supplies"/>
+<w tok="to"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="three"/>
+<w tok="ports"/>
+<w tok="in"/>
+<toponym term="Sonora">
+<candidates>
+<cand lat="37.984444" long="-120.381667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok=","/>
+<w tok="probably"/>
+<toponym term="Libertad">
+<candidates>
+<cand lat="36.48066" long="-119.87904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<w tok="whence"/>
+<w tok="we"/>
+<w tok="shall"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="difficulties"/>
+<w tok="to"/>
+<w tok="encounter"/>
+<w tok="in"/>
+<w tok="transporating"/>
+<w tok="the"/>
+<w tok="stores"/>
+<w tok="to"/>
+<toponym term="Tuscon">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="safely"/>
+<w tok="and"/>
+<w tok="economically"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

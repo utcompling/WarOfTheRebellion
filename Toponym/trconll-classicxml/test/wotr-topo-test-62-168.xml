@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-168" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FOURTH"/>
+<w tok="SUB-DISTRICT"/>
+<w tok=","/>
+<w tok="DIST"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="CENTRAL"/>
+<w tok="MO."/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Central"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="pursuant"/>
+<w tok="to"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="you"/>
+<w tok="I"/>
+<w tok="left"/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="Thursday"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="21st"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="three"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="regiment"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok=";"/>
+<w tok="arrived"/>
+<w tok="here"/>
+<w tok="on"/>
+<w tok="Wednesday"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="27th"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Ewing"/>
+<w tok="will"/>
+<w tok="turn"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="relieve"/>
+<w tok="the"/>
+<w tok="Kansas"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="Colonel"/>
+<w tok="Dodd"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="directs"/>
+<w tok="from"/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Bates County">
+<candidates>
+</candidates>
+</toponym>
+<w tok="two"/>
+<w tok="to"/>
+<toponym term="Harrisonville">
+<candidates>
+<cand lat="38.653611" long="-94.346944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="one"/>
+<w tok="to"/>
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="post"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="at"/>
+<w tok="Independence"/>
+<w tok=","/>
+<w tok="one"/>
+<w tok="at"/>
+<toponym term="Hickaman Mills">
+<candidates>
+<cand lat="38.919444" long="-94.518611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="one"/>
+<w tok="at"/>
+<toponym term="Westport">
+<candidates>
+<cand lat="39.053333" long="-94.591944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="three"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="find"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="very"/>
+<w tok="scarce"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="General"/>
+<w tok="Ewing"/>
+<w tok="will"/>
+<w tok="probably"/>
+<w tok="take"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="transportation"/>
+<w tok="as"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="ask"/>
+<w tok="that"/>
+<w tok="horses"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="obtained"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="necessary"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="all"/>
+<w tok="be"/>
+<w tok="mounted"/>
+<w tok="and"/>
+<w tok="drilling"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="take"/>
+<w tok="a"/>
+<w tok="complete"/>
+<w tok="tour"/>
+<w tok="through"/>
+<w tok="my"/>
+<w tok="sub-district"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="take"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="FORD"/>
+<w tok=","/>
+<w tok="2nd"/>
+<w tok="Colo."/>
+<w tok="Vol"/>
+<w tok="."/>
+<w tok="Cav."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="4th"/>
+<w tok="Sub-Dist."/>
+<w tok=","/>
+<w tok="Central"/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Mo"/>
+<w tok="."/>
+</s>
+</doc>

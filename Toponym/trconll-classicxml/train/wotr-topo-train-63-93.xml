@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-93" title="63" domain="wotr">
+<s id="s1">
+<toponym term="PILOT KNOB">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok=":"/>
+<w tok="Some"/>
+<w tok="more"/>
+<w tok="of"/>
+<w tok="those"/>
+<w tok="most"/>
+<w tok="notorious"/>
+<w tok="bandits"/>
+<w tok="and"/>
+<w tok="guerrillas"/>
+<w tok="I"/>
+<w tok="got"/>
+<w tok="track"/>
+<w tok="of"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="into"/>
+<toponym term="Illinois">
+<candidates>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="I"/>
+<w tok="send"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="?"/>
+<w tok="To"/>
+<w tok="catch"/>
+<w tok="the"/>
+<w tok="leaders"/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="catch"/>
+<w tok="these"/>
+<w tok="robbers"/>
+<w tok="at"/>
+<w tok="their"/>
+<w tok="haunt"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="more"/>
+<w tok="good"/>
+<w tok="than"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="whole"/>
+<w tok="companies"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="when"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="once"/>
+<w tok="come"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="N."/>
+<w tok="HERDER"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

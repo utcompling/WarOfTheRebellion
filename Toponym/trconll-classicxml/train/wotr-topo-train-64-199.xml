@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-199" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Patterson"/>
+<w tok=","/>
+<w tok="Twenty-ninth"/>
+<w tok="Iowa"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="went"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="sent"/>
+<w tok="down"/>
+<w tok="and"/>
+<w tok="across"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="returned"/>
+<w tok="and"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="thoroughly"/>
+<w tok="scouting"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="directions"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="satisfied"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="to"/>
+<w tok="exceed"/>
+<w tok="50"/>
+<w tok="armed"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="between"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="reports"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="contrary"/>
+<w tok="are"/>
+<w tok="exaggerations"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="was"/>
+<w tok="unable"/>
+<w tok="to"/>
+<w tok="meet"/>
+<w tok="with"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="Steele"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="learned"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="27"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="largest"/>
+<w tok="number"/>
+<w tok="seen"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="one"/>
+<w tok="time"/>
+<w tok=","/>
+<w tok="left"/>
+<w tok="Franklin"/>
+<w tok="&apos;s"/>
+<w tok="place"/>
+<w tok="early"/>
+<w tok="Tuesday"/>
+<w tok="morning"/>
+<w tok="and"/>
+<w tok="went"/>
+<w tok="to"/>
+<toponym term="Clear Lake">
+<candidates>
+<cand lat="34.121944" long="-93.066111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="would"/>
+<w tok="have"/>
+<w tok="followed"/>
+<w tok="them"/>
+<w tok="thither"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="party"/>
+<w tok="from"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="34.778056" long="-91.871667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="whom"/>
+<w tok="he"/>
+<w tok="communicated"/>
+<w tok="went"/>
+<w tok="that"/>
+<w tok="way"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="instructed"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="full"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="received"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="forwarded"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="SALOMON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

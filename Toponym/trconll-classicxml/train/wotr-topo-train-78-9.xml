@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-9" title="78" domain="wotr">
+<s id="s1">
+<toponym term="COLUMBUS">
+<candidates>
+<cand lat="38.262222" long="-85.057778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="HEINTZELMAN"/>
+<w tok=","/>
+<w tok="Spencer"/>
+<w tok="House"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok="just"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok=":"/>
+<toponym term="LOUISVILLE">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="POTTER"/>
+<w tok=":"/>
+<w tok="Operator"/>
+<w tok="at"/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="telegraphs"/>
+<w tok="that"/>
+<w tok="rebels"/>
+<w tok="are"/>
+<w tok="again"/>
+<w tok="entering"/>
+<w tok="town"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="circuit"/>
+<w tok="is"/>
+<w tok="broken"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="hope"/>
+<w tok="to"/>
+<w tok="force"/>
+<w tok="the"/>
+<w tok="way"/>
+<w tok="to"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="not"/>
+<w tok="the"/>
+<w tok="regiments"/>
+<w tok="at"/>
+<toponym term="Cincinnati">
+<candidates>
+<cand lat="39.1046886222" long="-84.5381111652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Covington">
+<candidates>
+<cand lat="39.065" long="-84.509722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="waiting"/>
+<w tok="muster-out"/>
+<w tok="be"/>
+<w tok="pushed"/>
+<w tok="down"/>
+<w tok="that"/>
+<w tok="line"/>
+<w tok="?"/>
+<w tok="H."/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="POTTER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

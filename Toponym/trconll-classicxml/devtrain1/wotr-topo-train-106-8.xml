@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-8" title="106" domain="wotr">
+<s id="s1">
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DIST"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="WESTERN"/>
+<toponym term="ARIZONA">
+<candidates>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="."/>
+<w tok="2"/>
+<w tok="."/>
+<toponym term="Tuscon">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ariz.">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="September"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="hereby"/>
+<w tok="published"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="and"/>
+<w tok="guidance"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="whom"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="concern"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="private"/>
+<w tok="sale"/>
+<w tok="by"/>
+<w tok="any"/>
+<w tok="person"/>
+<w tok="whatever"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="military"/>
+<w tok="service"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="public"/>
+<w tok="property"/>
+<w tok="whatsoever"/>
+<w tok="is"/>
+<w tok="prohibited"/>
+<w tok="by"/>
+<w tok="law"/>
+<w tok="and"/>
+<w tok="regulations"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="prohibition"/>
+<w tok="extends"/>
+<w tok="to"/>
+<w tok="and"/>
+<w tok="includes"/>
+<w tok="provisions"/>
+<w tok="issued"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="savings"/>
+<w tok="from"/>
+<w tok="which"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="sold"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="subsistence"/>
+<w tok="department"/>
+<w tok="only"/>
+<w tok="."/>
+<w tok="Any"/>
+<w tok="citizens"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="who"/>
+<w tok="shall"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="violation"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="prohibition"/>
+<w tok=","/>
+<w tok="purchase"/>
+<w tok="or"/>
+<w tok="take"/>
+<w tok="in"/>
+<w tok="trade"/>
+<w tok="or"/>
+<w tok="barter"/>
+<w tok="from"/>
+<w tok="any"/>
+<w tok="person"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="military"/>
+<w tok="service"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="any"/>
+<w tok="article"/>
+<w tok="or"/>
+<w tok="articles"/>
+<w tok="of"/>
+<w tok="public"/>
+<w tok="property"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="fined"/>
+<w tok="$"/>
+<w tok="50"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="default"/>
+<w tok="of"/>
+<w tok="payment"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="confined"/>
+<w tok="for"/>
+<w tok="one"/>
+<w tok="month"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guard"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="any"/>
+<w tok="merchant"/>
+<w tok="or"/>
+<w tok="trader"/>
+<w tok="who"/>
+<w tok="shall"/>
+<w tok="so"/>
+<w tok="offend"/>
+<w tok="shall"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="addition"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="penatly"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="deprived"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="license"/>
+<w tok="to"/>
+<w tok="trade"/>
+<w tok="and"/>
+<w tok="thereafter"/>
+<w tok="be"/>
+<w tok="denied"/>
+<w tok="the"/>
+<w tok="privilege"/>
+<w tok="of"/>
+<w tok="trading"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="fines"/>
+<w tok="collected"/>
+<w tok="under"/>
+<w tok="this"/>
+<w tok="order"/>
+<w tok="shall"/>
+<w tok="go"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fund"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="benefit"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="sick"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Column"/>
+<w tok="from"/>
+<toponym term="California">
+<candidates>
+</candidates>
+</toponym>
+<w tok="D."/>
+<w tok="FERGUSSON"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-160" title="64" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="18"/>
+<w tok="."/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Cavalry"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="by"/>
+<w tok="easy"/>
+<w tok="marches"/>
+<w tok="to"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="district"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<w tok="reporting"/>
+<w tok="daily"/>
+<w tok="its"/>
+<w tok="where-abouts"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="."/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok="will"/>
+<w tok="encamp"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Bayou Two Prairies">
+<candidates>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Ashley&apos;s Station">
+<candidates>
+<cand lat="34.828056" long="-91.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="east"/>
+<w tok="of"/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="34.778056" long="-91.871667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="camp"/>
+<w tok="near"/>
+<toponym term="Ashley&apos;s Station">
+<candidates>
+<cand lat="34.828056" long="-91.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="encumbered"/>
+<w tok="with"/>
+<w tok="impedimenta"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="kept"/>
+<w tok="ready"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="moment"/>
+<w tok="&apos;s"/>
+<w tok="warning"/>
+<w tok="."/>
+<w tok="4"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="sixth"/>
+<w tok="Illinois"/>
+<w tok="Infantry"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="by"/>
+<w tok="railroad"/>
+<w tok="to"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="."/>
+<w tok="5"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirteenth"/>
+<w tok="Illinois"/>
+<w tok="Cavalry"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="join"/>
+<w tok="its"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="marching"/>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="till"/>
+<w tok="it"/>
+<w tok="crosses"/>
+<toponym term="Bayou">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Meto">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="taking"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="road"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="reporting"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="daily"/>
+<w tok="its"/>
+<w tok="whereabouts"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="or"/>
+<w tok="messenger"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="the"/>
+<w tok="day"/>
+<w tok="before"/>
+<w tok="it"/>
+<w tok="reaches"/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="6"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Third"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Carr"/>
+<w tok=":"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

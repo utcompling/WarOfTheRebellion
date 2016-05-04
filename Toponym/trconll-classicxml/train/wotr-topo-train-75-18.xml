@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-18" title="75" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="MAY"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="p."/>
+<w tok="m.-Fort"/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="McCook"/>
+<w tok="to"/>
+<w tok="Schofield"/>
+<w tok=","/>
+<w tok="relating"/>
+<w tok="to"/>
+<w tok="combat"/>
+<w tok="near"/>
+<toponym term="Varnell&apos;s Station">
+<candidates>
+<cand lat="34.899444" long="-84.964444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="see"/>
+<w tok="Part"/>
+<w tok="II"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="750"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPARTMENT"/>
+<w tok="AND"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="TENNESSEE"/>
+<w tok=","/>
+<w tok="Camp"/>
+<w tok="at"/>
+<toponym term="Snake Creek Gap">
+<candidates>
+<cand lat="34.6512213946" long="-85.059357236" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-5.30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Military"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="dispatch+"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Stevenson"/>
+<w tok="at"/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Roddey"/>
+<w tok="it"/>
+<w tok="seems"/>
+<w tok="has"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Tennessee River">
+<candidates>
+<cand lat="37.067222" long="-88.564722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="about"/>
+<w tok="5,000"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="estimated"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="endeavoring"/>
+<w tok="to"/>
+<w tok="cut"/>
+<w tok="our"/>
+<w tok="lines"/>
+<w tok="of"/>
+<w tok="communication"/>
+<w tok="."/>
+<w tok="Gresham"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Pulaski">
+<candidates>
+<cand lat="32.391111" long="-81.956111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Force"/>
+<w tok="in"/>
+<toponym term="Clinton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="near"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="though"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="several"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="running"/>
+<w tok="["/>
+<w tok="pushing"/>
+<w tok="]"/>
+<w tok="through"/>
+<toponym term="Snake Creek Gap">
+<candidates>
+<cand lat="34.6512213946" long="-85.059357236" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="My"/>
+<w tok="advance"/>
+<w tok="commanded"/>
+<w tok="the"/>
+<w tok="debouch"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="eastern"/>
+<w tok="side"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="seven"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="parked"/>
+<w tok="my"/>
+<w tok="trains"/>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="entrance"/>
+<w tok="and"/>
+<w tok="left"/>
+<w tok="two"/>
+<w tok="brigades"/>
+<w tok="to"/>
+<w tok="guard"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="news"/>
+<w tok="from"/>
+<w tok="Garrard"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="McPHERSON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

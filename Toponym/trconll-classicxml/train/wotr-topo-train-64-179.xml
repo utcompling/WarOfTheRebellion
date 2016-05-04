@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-179" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Esq."/>
+<w tok=","/>
+<toponym term="Weston">
+<candidates>
+<cand lat="39.413333" long="-94.897778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="DEAR"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="in"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="date"/>
+<w tok="and"/>
+<w tok="thank"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="already"/>
+<w tok="placed"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="villains"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="direction"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="killed"/>
+<w tok="3"/>
+<w tok="men"/>
+<w tok="at"/>
+<toponym term="Arnoldsville">
+<candidates>
+<cand lat="39.67" long="-94.81" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="the"/>
+<w tok="murderers"/>
+<w tok="of"/>
+<w tok="Wilson"/>
+<w tok="and"/>
+<w tok="Christian"/>
+<w tok=","/>
+<w tok="beyond"/>
+<w tok="doubt"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="detachments"/>
+<w tok="will"/>
+<w tok="fall"/>
+<w tok="upon"/>
+<w tok="them"/>
+<w tok="with"/>
+<w tok="sure"/>
+<w tok="destruction"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="opportunity"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="Paw"/>
+<w tok="Paws"/>
+<w tok="to"/>
+<w tok="put"/>
+<w tok="their"/>
+<w tok="efficiency"/>
+<w tok="and"/>
+<w tok="loyalty"/>
+<w tok="beyond"/>
+<w tok="doubt"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="CLINTON"/>
+<w tok=","/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

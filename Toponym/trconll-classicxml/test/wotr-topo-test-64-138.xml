@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-138" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="K."/>
+<w tok="HAYWARD"/>
+<w tok=","/>
+<toponym term="Hannibal">
+<candidates>
+<cand lat="39.704167" long="-91.3775" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Can"/>
+<w tok="you"/>
+<w tok="name"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="militia"/>
+<w tok="company"/>
+<w tok="in"/>
+<toponym term="Ralls County">
+<candidates>
+<cand lat="39.53" long="-91.53" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="called"/>
+<w tok="into"/>
+<w tok="service"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="summer"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="an"/>
+<w tok="officer"/>
+<w tok="to"/>
+<toponym term="Hannibal">
+<candidates>
+<cand lat="39.704167" long="-91.3775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="wage"/>
+<w tok="a"/>
+<w tok="war"/>
+<w tok="of"/>
+<w tok="sure"/>
+<w tok="and"/>
+<w tok="swift"/>
+<w tok="destruction"/>
+<w tok="against"/>
+<w tok="the"/>
+<w tok="murdering"/>
+<w tok=","/>
+<w tok="thieving"/>
+<w tok="gang"/>
+<w tok="of"/>
+<w tok="villains"/>
+<w tok="that"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="at"/>
+<w tok="work"/>
+<w tok="in"/>
+<toponym term="Pike">
+<candidates>
+<cand lat="39.34" long="-91.17" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="neighboring"/>
+<w tok="counties"/>
+<w tok="."/>
+<w tok="Shooting"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="spot"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="rule"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-46" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="LYNDE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Ninth"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<toponym term="Fort Scott">
+<candidates>
+<cand lat="37.835278" long="-94.701944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Move"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="to"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Judson"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="Steele"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="GREEN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-6" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4673307011" long="-91.1450191082" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="JOHN"/>
+<w tok="LEVERING"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9689216714" long="-90.0690324629" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="change"/>
+<w tok="has"/>
+<w tok="taken"/>
+<w tok="place"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="departure"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="230"/>
+<w tok="Fourth"/>
+<w tok="Wisconsin"/>
+<w tok="Cavalry"/>
+<w tok="veterans"/>
+<w tok="."/>
+<w tok="Montly"/>
+<w tok="return"/>
+<w tok="was"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Irwin"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="ordered"/>
+<w tok="another"/>
+<w tok="for"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="various"/>
+<w tok="reports"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="threatened"/>
+<w tok="attack"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="asked"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="gun-boat"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+</s>
+</doc>

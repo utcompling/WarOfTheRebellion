@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-97" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="George"/>
+<w tok="G."/>
+<w tok="Meade"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Potomac"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="POTOMAC"/>
+<w tok=","/>
+<w tok="March"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="No"/>
+<w tok="intelligence"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Kilpatrick"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="since"/>
+<w tok="yesterday"/>
+<w tok="at"/>
+<w tok="2"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="which"/>
+<w tok="time"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="passing"/>
+<w tok="through"/>
+<toponym term="Spotsylvania Court-House">
+<candidates>
+<cand lat="38.2242" long="-77.5981" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="having"/>
+<w tok="captured"/>
+<w tok="the"/>
+<w tok="picket"/>
+<w tok="at"/>
+<toponym term="Ely&apos;s Ford">
+<candidates>
+<cand lat="38.3569449794" long="-77.6946016041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rappahannock">
+<candidates>
+<cand lat="37.5875" long="-76.289167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="consisting"/>
+<w tok="of"/>
+<w tok="1"/>
+<w tok="captain"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="lieutenant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="15"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="diversion"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="favor"/>
+<w tok="the"/>
+<w tok="Sixth"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Sedgwick"/>
+<w tok=","/>
+<w tok="moved"/>
+<w tok="from"/>
+<w tok="its"/>
+<w tok="camp"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="27th"/>
+<w tok="and"/>
+<w tok="occupied"/>
+<toponym term="Madison Court-House">
+<candidates>
+<cand lat="38.376944" long="-78.260833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="28th"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="Custer"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="cavalry"/>
+<w tok="force"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="left"/>
+<toponym term="Madison Court-House">
+<candidates>
+<cand lat="38.376944" long="-78.260833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="attempt"/>
+<w tok="the"/>
+<w tok="destruction"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Lynchburg Railroad bridge">
+<candidates>
+<cand lat="37.403672" long="-79.170205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="over"/>
+<w tok="the"/>
+<toponym term="Rivanna">
+<candidates>
+<cand lat="37.75098" long="-78.16361" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Charlottesville">
+<candidates>
+<cand lat="38.0299" long="-78.479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Custer"/>
+<w tok="reached"/>
+<w tok="the"/>
+<w tok="bridge"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="found"/>
+<w tok="it"/>
+<w tok="strongly"/>
+<w tok="guarded"/>
+<w tok="by"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="destroyed"/>
+<w tok="another"/>
+<w tok="bridge"/>
+<w tok="over"/>
+<w tok="the"/>
+<toponym term="Rivanna">
+<candidates>
+<cand lat="37.75098" long="-78.16361" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="within"/>
+<w tok="2"/>
+<w tok="miles"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok=","/>
+<w tok="drove"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="destroyed"/>
+<w tok="6"/>
+<w tok="caissons"/>
+<w tok="with"/>
+<w tok="ammunition"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="forges"/>
+<w tok="with"/>
+<w tok="harness"/>
+<w tok=","/>
+<w tok="burnt"/>
+<w tok="3"/>
+<w tok="large"/>
+<w tok="flouring"/>
+<w tok="mills"/>
+<w tok="filled"/>
+<w tok="with"/>
+<w tok="grain"/>
+<w tok="took"/>
+<w tok="1"/>
+<w tok="standard"/>
+<w tok="bearing"/>
+<w tok="the"/>
+<w tok="Virginia"/>
+<w tok="State"/>
+<w tok="arms"/>
+<w tok=","/>
+<w tok="seized"/>
+<w tok="500"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="Government"/>
+<w tok="wagons"/>
+<w tok="loaded"/>
+<w tok="with"/>
+<w tok="bacon"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="return"/>
+<w tok="cut"/>
+<w tok="his"/>
+<w tok="way"/>
+<w tok="through"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok="under"/>
+<w tok="Generals"/>
+<w tok="Stuart"/>
+<w tok="and"/>
+<w tok="Wickham"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="slight"/>
+<w tok="loss"/>
+<w tok="to"/>
+<w tok="himself"/>
+<w tok=","/>
+<w tok="inflicting"/>
+<w tok="severe"/>
+<w tok="loss"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="bringing"/>
+<w tok="back"/>
+<w tok="50"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="returning"/>
+<w tok="to"/>
+<toponym term="Madison Court-House">
+<candidates>
+<cand lat="38.376944" long="-78.260833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="6"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="this"/>
+<w tok="day"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="accomplished"/>
+<w tok="since"/>
+<w tok="his"/>
+<w tok="departure"/>
+<w tok="therefrom"/>
+<w tok="a"/>
+<w tok="march"/>
+<w tok="of"/>
+<w tok="over"/>
+<w tok="100"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="force"/>
+<w tok="at"/>
+<toponym term="Madison">
+<candidates>
+<cand lat="38.380833" long="-78.258056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="withdrawn"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="MEADE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

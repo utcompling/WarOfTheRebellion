@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-185" title="106" domain="wotr">
+<s id="s1">
+<toponym term="CAMP BABBITT">
+<candidates>
+<cand lat="36.335278" long="-119.287778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Near"/>
+<toponym term="Visalia">
+<candidates>
+<cand lat="36.316667" long="-119.3" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tulare County">
+<candidates>
+<cand lat="36.23" long="-118.8" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Numbers"/>
+<w tok="13"/>
+<w tok="."/>
+<w tok="October"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="camp"/>
+<w tok="is"/>
+<w tok="hereby"/>
+<w tok="named"/>
+<w tok="and"/>
+<w tok="shall"/>
+<w tok="hereafter"/>
+<w tok="be"/>
+<w tok="known"/>
+<w tok="and"/>
+<w tok="called"/>
+<toponym term="Camp Babbitt">
+<candidates>
+<cand lat="36.335278" long="-119.287778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="honor"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="Babbitt"/>
+<w tok=","/>
+<w tok="deputy"/>
+<w tok="quartermaster-general"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok=":"/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="EVANS"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+</s>
+</doc>

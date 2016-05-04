@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-13" title="60" domain="wotr">
+<s id="s1">
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="C."/>
+<w tok="R."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+<w tok="FEBRUARY"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="Skirmish"/>
+<w tok="near"/>
+<toponym term="Strasburg">
+<candidates>
+<cand lat="38.990556" long="-78.358611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va">
+<candidates>
+<cand lat="37.3964661387" long="-78.8299613381" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Robert"/>
+<w tok="S."/>
+<w tok="Rodgers"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Eastern"/>
+<w tok="Shore"/>
+<w tok="Maryland"/>
+<w tok="Infantry"/>
+<w tok="."/>
+<toponym term="MARTINSBURG">
+<candidates>
+<cand lat="39.459167" long="-77.967778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.4971211974" long="-78.6385920208" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="party"/>
+<w tok="detached"/>
+<w tok="by"/>
+<w tok="Major"/>
+<w tok="Bell"/>
+<w tok="passed"/>
+<w tok="through"/>
+<toponym term="Winchester">
+<candidates>
+<cand lat="39.183333" long="-78.166667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="were"/>
+<w tok="attacked"/>
+<w tok="near"/>
+<toponym term="Strasburg">
+<candidates>
+<cand lat="38.990556" long="-78.358611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="driven"/>
+<w tok="back"/>
+<w tok=","/>
+<w tok="losing"/>
+<w tok="7"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="100"/>
+<w tok="on"/>
+<toponym term="Fisher&apos;s Hill">
+<candidates>
+<cand lat="38.9838" long="-78.3959" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="200"/>
+<w tok="at"/>
+<toponym term="Woodstock">
+<candidates>
+<cand lat="38.876944" long="-78.511389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Have"/>
+<w tok="heard"/>
+<w tok="nothing"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="Bell"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="RODGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

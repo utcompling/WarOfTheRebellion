@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-24" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="THAYER"/>
+<w tok=","/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Shelby"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Osage River">
+<candidates>
+<cand lat="38.596944" long="-91.945278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="nor"/>
+<w tok="is"/>
+<w tok="he"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Boston Mountains">
+<candidates>
+<cand lat="35.791111" long="-93.106667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="learn"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="is"/>
+<w tok="quiet"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

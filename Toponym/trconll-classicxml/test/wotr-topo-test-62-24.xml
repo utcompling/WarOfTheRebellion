@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-24" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4546674531" long="-91.1364040375" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="SELFRIDGE"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Navy"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Station"/>
+<w tok=":"/>
+<w tok="DEAR"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="have"/>
+<w tok="again"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Atchafalaya">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="force"/>
+<w tok="unknown"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="that"/>
+<w tok="50"/>
+<w tok="visited"/>
+<toponym term="Waterloo">
+<candidates>
+<cand lat="30.694722" long="-91.357222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="Friday"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="that"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="their"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="their"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="considerable"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="design"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="bank"/>
+<w tok="is"/>
+<w tok="still"/>
+<w tok="entertained"/>
+<w tok="by"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="deem"/>
+<w tok="it"/>
+<w tok="my"/>
+<w tok="duty"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="longer"/>
+<w tok="presence"/>
+<w tok="here"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Conestoga"/>
+<w tok="and"/>
+<w tok="General"/>
+<w tok="Price"/>
+<w tok="does"/>
+<w tok="["/>
+<w tok="not"/>
+<w tok="]"/>
+<w tok="seem"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="my"/>
+<w tok="thanks"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="great"/>
+<w tok="promptness"/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="Richardson"/>
+<w tok="&apos;s"/>
+<w tok="in"/>
+<w tok="coming"/>
+<w tok="to"/>
+<w tok="co-operate"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="high"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

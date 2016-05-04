@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-59" title="105" domain="wotr">
+<s id="s1">
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok="AT"/>
+<toponym term="FORT WALLA WALLA">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="We"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="undersigned"/>
+<w tok=","/>
+<w tok="citizens"/>
+<w tok="of"/>
+<toponym term="Grande Ronde Valley">
+<candidates>
+<cand lat="45.362778" long="-117.955" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="petition"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="assistance"/>
+<w tok="of"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="of"/>
+<w tok="soldiers"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="stationed"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="Whereas"/>
+<w tok="depredations"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="committed"/>
+<w tok="here"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="are"/>
+<w tok="so"/>
+<w tok="scattered"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="valley"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="the"/>
+<w tok="measn"/>
+<w tok="of"/>
+<w tok="defense"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="our"/>
+<w tok="lives"/>
+<w tok="and"/>
+<w tok="property"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="safe"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="grant"/>
+<w tok="our"/>
+<w tok="petition"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="confer"/>
+<w tok="a"/>
+<w tok="great"/>
+<w tok="favor"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="petitioners"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="E."/>
+<w tok="FOX"/>
+<w tok="D."/>
+<w tok="CHAPLIN"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="ARNOLD"/>
+<w tok="."/>
+<w tok="["/>
+<w tok="AND"/>
+<w tok="20"/>
+<w tok="OTHERS"/>
+<w tok="."/>
+<w tok="]"/>
+</s>
+</doc>

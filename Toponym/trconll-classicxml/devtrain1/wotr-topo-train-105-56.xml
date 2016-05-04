@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-56" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="170"/>
+<w tok="."/>
+<toponym term="Fort Walla Walla">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash.">
+<candidates>
+<cand lat="47.40278953" long="-120.628463978" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="August"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="Apperson"/>
+<w tok=","/>
+<w tok="Compamy"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Oregon"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="fifteen"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="17th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Umatilla Reservation">
+<candidates>
+<cand lat="45.7" long="-118.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="II"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="detachment"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="ten"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="company"/>
+<w tok="now"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="there"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Currey"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="Government"/>
+<w tok="property"/>
+<w tok="and"/>
+<w tok="assistance"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="enforcement"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="authority"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="agent"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indian"/>
+<w tok="Department"/>
+<w tok="."/>
+<w tok="III"/>
+<w tok="."/>
+<w tok="Forty"/>
+<w tok="rounds"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok="and"/>
+<w tok="seven"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="subsistence"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="party"/>
+<w tok="."/>
+<w tok="IV"/>
+<w tok="."/>
+<w tok="Instructions"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="Lieutenant"/>
+<w tok="Apperson"/>
+<w tok="from"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Steinberger"/>
+<w tok=":"/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="MYLES"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="First"/>
+<w tok="Washington"/>
+<w tok="Territory"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Post"/>
+<w tok="Adjutant"/>
+<w tok="."/>
+</s>
+</doc>

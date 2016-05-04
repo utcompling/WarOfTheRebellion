@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-12" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="STEELE"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Mann"/>
+<w tok="&apos;s"/>
+<w tok="battery"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Missouri"/>
+<w tok="Artillery"/>
+<w tok="is"/>
+<w tok="under"/>
+<w tok="orders"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="One-fourth"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="still"/>
+<w tok="absent"/>
+<w tok="on"/>
+<w tok="furlough"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="14th"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="complete"/>
+<w tok="new"/>
+<w tok="battery"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="here"/>
+<w tok="for"/>
+<w tok="him"/>
+<w tok="in"/>
+<w tok="ten"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="requisition"/>
+<w tok="for"/>
+<w tok="equipments"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="filled"/>
+<w tok="in"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="that"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="recommend"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="be"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="wait"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="shall"/>
+<w tok="so"/>
+<w tok="order"/>
+<w tok="unless"/>
+<w tok="you"/>
+<w tok="dissent"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

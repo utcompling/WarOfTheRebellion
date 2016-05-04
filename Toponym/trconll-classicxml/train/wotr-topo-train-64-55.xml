@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-55" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="McNEIL"/>
+<w tok=":"/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="La Fourche">
+<candidates>
+<cand lat="29.49" long="-90.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="extract"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Chrysler"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok="from"/>
+<toponym term="Morganza">
+<candidates>
+<cand lat="30.735556" long="-91.61" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="day"/>
+<w tok=";"/>
+<w tok="I"/>
+<w tok="also"/>
+<w tok="learned"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok="were"/>
+<w tok="crossing"/>
+<w tok="at"/>
+<w tok="Bayou"/>
+<w tok="Grossetete"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="their"/>
+<w tok="destination"/>
+<w tok="was"/>
+<toponym term="La Fourche">
+<candidates>
+<cand lat="29.49" long="-90.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="request"/>
+<w tok="to"/>
+<w tok="visit"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok="is"/>
+<w tok="granted"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="such"/>
+<w tok="time"/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="deem"/>
+<w tok="prudent"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="before"/>
+<w tok="you"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="well"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="such"/>
+<w tok="reconnaissances"/>
+<w tok="as"/>
+<w tok="would"/>
+<w tok="develop"/>
+<w tok="the"/>
+<w tok="movements"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="O."/>
+<w tok="MATTHEWS"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

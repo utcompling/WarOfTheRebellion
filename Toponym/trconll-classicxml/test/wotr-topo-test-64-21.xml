@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-21" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864-2.30"/>
+<w tok="p.m."/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="information"/>
+<w tok="from"/>
+<w tok="Mr."/>
+<w tok="Williams"/>
+<w tok="a"/>
+<w tok="son"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Jesse"/>
+<w tok="Williams"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="taken"/>
+<w tok="prisoner"/>
+<w tok="and"/>
+<w tok="released"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Whit River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="Shelby"/>
+<w tok="would"/>
+<w tok="cross"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="12"/>
+<w tok="miles"/>
+<w tok="above"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="intended"/>
+<w tok="joining"/>
+<w tok="McRae"/>
+<w tok="and"/>
+<w tok="operating"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="when"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="opportunity"/>
+<w tok="offered"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="he"/>
+<w tok="intended"/>
+<w tok="bringing"/>
+<w tok="McRae"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="and"/>
+<w tok="rejoin"/>
+<w tok="Price"/>
+<w tok="."/>
+<w tok="Rations"/>
+<w tok=","/>
+<w tok="horseshoes"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="10"/>
+<w tok="o&apos;clock"/>
+<w tok="this"/>
+<w tok="a.m."/>
+<w tok="All"/>
+<w tok="my"/>
+<w tok="horses"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="shod"/>
+<w tok="and"/>
+<w tok="be"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="march"/>
+<w tok="at"/>
+<w tok="7"/>
+<w tok="o&apos;clock"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="F."/>
+<w tok="GEIGER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

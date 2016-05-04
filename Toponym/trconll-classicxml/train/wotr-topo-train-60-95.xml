@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-95" title="60" domain="wotr">
+<s id="s1">
+<toponym term="LYNCHBURG">
+<candidates>
+<cand lat="37.403672" long="-79.170205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok=":"/>
+<toponym term="CHARLOTTESVILLE">
+<candidates>
+<cand lat="38.0299" long="-78.479" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Enemy"/>
+<w tok="retreated"/>
+<w tok="toward"/>
+<toponym term="Madison">
+<candidates>
+</candidates>
+</toponym>
+<w tok="our"/>
+<w tok="cavalry"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="."/>
+<w tok="FRANCIS"/>
+<w tok="T."/>
+<w tok="NICHOLS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

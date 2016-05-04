@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-59" title="60" domain="wotr">
+<s id="s1">
+<w tok="Major-General"/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Isaac"/>
+<w tok="J."/>
+<w tok="Wistar"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="expedition"/>
+<w tok="."/>
+<toponym term="FORT MAGRUDER">
+<candidates>
+<cand lat="37.26397" long="-76.6663" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="My"/>
+<w tok="infantry"/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="passing"/>
+<w tok="through"/>
+<toponym term="Williamsburg">
+<candidates>
+<cand lat="37.270833" long="-76.706944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="2"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="small"/>
+<w tok="detachment"/>
+<w tok="some"/>
+<w tok="distance"/>
+<w tok="ahead"/>
+<w tok="to"/>
+<w tok="scatter"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="infantry"/>
+<w tok="pickets"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="impression"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="constitute"/>
+<w tok="the"/>
+<w tok="incursive"/>
+<w tok="force"/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok="."/>
+<w tok="Cavalry"/>
+<w tok="and"/>
+<w tok="myself"/>
+<w tok="will"/>
+<w tok="start"/>
+<w tok="in"/>
+<w tok="one"/>
+<w tok="hour"/>
+<w tok=","/>
+<w tok="passing"/>
+<w tok="infantry"/>
+<w tok="near"/>
+<toponym term="Burnt Ordinary">
+<candidates>
+<cand lat="37.38" long="-76.804167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Saw"/>
+<w tok="every"/>
+<w tok="detachment"/>
+<w tok="commander"/>
+<w tok="personally"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="explained"/>
+<w tok="fully"/>
+<w tok="and"/>
+<w tok="distributed"/>
+<w tok="maps"/>
+<w tok=","/>
+<w tok="spikes"/>
+<w tok=","/>
+<w tok="matches"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="files"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="is"/>
+<w tok="well"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Graham"/>
+<w tok="here"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="get"/>
+<w tok="news"/>
+<w tok="through"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="by"/>
+<w tok="Monday"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="I."/>
+<w tok="J."/>
+<w tok="WISTAR"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

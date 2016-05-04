@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-26" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPARTMENT"/>
+<w tok="AND"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="TENNESSEE"/>
+<w tok=","/>
+<toponym term="Camp Sugar Valley">
+<candidates>
+<cand lat="34.558056" long="-85.011944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-10.45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Brigadier-General"/>
+<w tok="GARRARD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="Remain"/>
+<w tok="at"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="34.709722" long="-85.283889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="Patrol"/>
+<w tok="on"/>
+<w tok="to"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="down"/>
+<w tok="toward"/>
+<toponym term="Rome">
+<candidates>
+<cand lat="34.26" long="-85.185" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Get"/>
+<w tok="up"/>
+<w tok="your"/>
+<w tok="forage"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="McPHERSON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

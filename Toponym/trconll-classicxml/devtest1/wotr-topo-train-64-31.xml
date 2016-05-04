@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-31" title="64" domain="wotr">
+<s id="s1">
+<toponym term="PILOT KNOB">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Lieutenant"/>
+<w tok="H."/>
+<w tok="HANNAHS"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="battalion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Sixth"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="here"/>
+<w tok="is"/>
+<w tok="well"/>
+<w tok="armed"/>
+<w tok=";"/>
+<w tok="discipline"/>
+<w tok="tolerably"/>
+<w tok="good"/>
+<w tok=";"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="hard"/>
+<w tok="set"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="fairly"/>
+<w tok="drilled"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="effective"/>
+<w tok="set"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="ordered"/>
+<w tok="away"/>
+<w tok="from"/>
+<w tok="me"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="just"/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="do"/>
+<w tok="with"/>
+<w tok="my"/>
+<w tok="post"/>
+<w tok="what"/>
+<w tok="General"/>
+<w tok="Halleck"/>
+<w tok="ordered"/>
+<w tok="Colonel"/>
+<w tok="Glover"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="at"/>
+<toponym term="Bolla">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Herder"/>
+<w tok="has"/>
+<w tok="telegraphed"/>
+<w tok="for"/>
+<w tok="cars"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="his"/>
+<w tok="regiment"/>
+<w tok="to"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="It"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="this"/>
+<w tok="p.m"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="gone"/>
+<w tok="there"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="no"/>
+<w tok="guard"/>
+<w tok="along"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="TYLER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

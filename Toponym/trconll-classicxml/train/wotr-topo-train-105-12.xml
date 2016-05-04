@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-12" title="105" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="N."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="NEW"/>
+<w tok="MEXICO"/>
+<w tok=","/>
+<toponym term="Santa Fe.">
+<candidates>
+<cand lat="35.6951223872" long="-105.910483543" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4361527922" long="-106.092270975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JAMES"/>
+<w tok="H."/>
+<w tok="CARLETON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fort Bliss">
+<candidates>
+<cand lat="31.801847" long="-106.424608" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4264675693" long="-99.224702175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="arrange"/>
+<w tok="the"/>
+<w tok="affairs"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="district"/>
+<w tok="so"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="turned"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="next"/>
+<w tok="in"/>
+<w tok="rank"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="hold"/>
+<w tok="yourself"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="repair"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="headquarters"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GURDEN"/>
+<w tok="CHAPIN"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Seventh"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

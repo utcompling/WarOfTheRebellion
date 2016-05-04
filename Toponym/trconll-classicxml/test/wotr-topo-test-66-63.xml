@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-63" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="SAMUEL"/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Confederate"/>
+<w tok="Forces"/>
+<w tok=","/>
+<toponym term="S. Carolina">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Georgia">
+<candidates>
+<cand lat="32.6526116737" long="-83.3881531677" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5674668383" long="-82.4661622949" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7462763092" long="-79.930102135" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="voluminous"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="wish"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="informed"/>
+<w tok="definitely"/>
+<w tok="whether"/>
+<w tok="the"/>
+<w tok="intention"/>
+<w tok="declared"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="13th"/>
+<w tok="ultimo"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="carried"/>
+<w tok="into"/>
+<w tok="effect"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="information"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="what"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok="these"/>
+<w tok="officers"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="confined"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="this"/>
+<w tok="question"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="answered"/>
+<w tok="for"/>
+<w tok="military"/>
+<w tok="reasons"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="you"/>
+<w tok="inform"/>
+<w tok="me"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="degree"/>
+<w tok="of"/>
+<w tok="exposure"/>
+<w tok="to"/>
+<w tok="which"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="subjected"/>
+<w tok=";"/>
+<w tok="whether"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok="most"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="least"/>
+<w tok=","/>
+<w tok="exposed"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="that"/>
+<w tok="exposed"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="medium"/>
+<w tok="degree"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="also"/>
+<w tok="request"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="allow"/>
+<w tok="one"/>
+<w tok="general"/>
+<w tok="officer"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="field"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="prisoners"/>
+<w tok="to"/>
+<w tok="subscribe"/>
+<w tok="to"/>
+<w tok="and"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="a"/>
+<w tok="statement"/>
+<w tok="giving"/>
+<w tok="me"/>
+<w tok="the"/>
+<w tok="kind"/>
+<w tok="and"/>
+<w tok="quantity"/>
+<w tok="of"/>
+<w tok="food"/>
+<w tok="dealt"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="the"/>
+<w tok="comforts"/>
+<w tok="afforded"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="way"/>
+<w tok="of"/>
+<w tok="beds"/>
+<w tok=","/>
+<w tok="bedding"/>
+<w tok=","/>
+<w tok="blankets"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="The"/>
+<w tok="object"/>
+<w tok="of"/>
+<w tok="these"/>
+<w tok="requests"/>
+<w tok="is"/>
+<w tok="simply"/>
+<w tok="to"/>
+<w tok="ascertain"/>
+<w tok="the"/>
+<w tok="exact"/>
+<w tok="manner"/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="these"/>
+<w tok="officers"/>
+<w tok="are"/>
+<w tok="treated"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="may"/>
+<w tok="treat"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="manner"/>
+<w tok="a"/>
+<w tok="like"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="officer"/>
+<w tok="now"/>
+<w tok="confined"/>
+<w tok="in"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.777673413" long="-79.9391143572" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="placed"/>
+<w tok="your"/>
+<w tok="prisoners"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="similar"/>
+<w tok="position"/>
+<w tok="of"/>
+<w tok="exposure"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

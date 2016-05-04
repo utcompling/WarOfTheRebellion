@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-188" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="SIOUX CITY">
+<candidates>
+<cand lat="42.498056" long="-96.395556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=":"/>
+<w tok="Troops"/>
+<w tok="leave"/>
+<toponym term="Sioux City">
+<candidates>
+<cand lat="42.498056" long="-96.395556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-day"/>
+<w tok=";"/>
+<w tok="will"/>
+<w tok="leave"/>
+<toponym term="Fort Pierre">
+<candidates>
+<cand lat="44.358889" long="-100.375833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="20th"/>
+<w tok="June"/>
+<w tok=";"/>
+<w tok="reach"/>
+<toponym term="Swan Lake">
+<candidates>
+<cand lat="45.726667" long="-95.821389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="troops"/>
+<w tok="had"/>
+<w tok="better"/>
+<w tok="strike"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="Indians"/>
+<w tok="above"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="they"/>
+<w tok="cross"/>
+<w tok="the"/>
+<toponym term="James River">
+<candidates>
+<cand lat="36.941667" long="-76.443611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="send"/>
+<w tok="scouts"/>
+<w tok="down"/>
+<toponym term="Nicollet&apos;s trail">
+<candidates>
+</candidates>
+</toponym>
+<w tok="toward"/>
+<toponym term="Pierre">
+<candidates>
+<cand lat="44.358889" long="-100.375833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="meet"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="ALF"/>
+<w tok="."/>
+<w tok="SULLY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

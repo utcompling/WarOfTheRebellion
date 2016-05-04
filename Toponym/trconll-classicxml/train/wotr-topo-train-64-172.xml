@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-172" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864-8.40"/>
+<w tok="p.m"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="as"/>
+<w tok="requested"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="not"/>
+<w tok="send"/>
+<w tok="any"/>
+<w tok="others"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Sixth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Brown"/>
+<w tok=":"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="STEGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

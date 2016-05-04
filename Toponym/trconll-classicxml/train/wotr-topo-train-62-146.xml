@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-146" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Matagorda Peninsula">
+<candidates>
+<cand lat="28.585" long="-96.018333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.5105460061" long="-99.1089455205" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="P."/>
+<w tok="BENTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="at"/>
+<toponym term="Indianola">
+<candidates>
+<cand lat="28.511944" long="-96.4875" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="very"/>
+<w tok="careful"/>
+<w tok="to"/>
+<w tok="provide"/>
+<w tok="against"/>
+<w tok="any"/>
+<w tok="attack"/>
+<w tok="by"/>
+<w tok="water"/>
+<w tok="on"/>
+<w tok="such"/>
+<w tok="transports"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="time"/>
+<w tok="be"/>
+<w tok="lying"/>
+<w tok="at"/>
+<w tok="or"/>
+<w tok="near"/>
+<w tok="your"/>
+<w tok="wharf"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="keep"/>
+<w tok="your"/>
+<w tok="troops"/>
+<w tok="well"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="alert"/>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="artillery"/>
+<w tok="properly"/>
+<w tok="disposed"/>
+<w tok="with"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="see"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="transports"/>
+<w tok=","/>
+<w tok="whilst"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="have"/>
+<w tok="their"/>
+<w tok="guns"/>
+<w tok="and"/>
+<w tok="their"/>
+<w tok="crews"/>
+<w tok="constantly"/>
+<w tok="ready"/>
+<w tok="for"/>
+<w tok="action"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="always"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="such"/>
+<w tok="times"/>
+<w tok=","/>
+<w tok="keep"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="on"/>
+<w tok="guard"/>
+<w tok="on"/>
+<w tok="or"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="transports"/>
+<w tok=","/>
+<w tok="ready"/>
+<w tok="instantly"/>
+<w tok="to"/>
+<w tok="repel"/>
+<w tok="a"/>
+<w tok="boat"/>
+<w tok="attack"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="DANA"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

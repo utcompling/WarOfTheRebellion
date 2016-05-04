@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-68" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="HUMBOLDT"/>
+<w tok="MILITARY"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="transmit"/>
+<w tok="herewith"/>
+<w tok="the"/>
+<w tok="official"/>
+<w tok="reports"/>
+<w tok="of"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Olney"/>
+<w tok="and"/>
+<w tok="Lieutenant"/>
+<w tok="Noyes"/>
+<w tok="relative"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="unfortunate"/>
+<w tok="affair"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="8th"/>
+<w tok="instant"/>
+<w tok="on"/>
+<toponym term="Redwood Creek">
+<candidates>
+<cand lat="41.292222" long="-124.091944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="14th"/>
+<w tok="instant"/>
+<w tok="I"/>
+<w tok="delivered"/>
+<w tok="over"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="Indian"/>
+<w tok="prisoners"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="834"/>
+<w tok="in"/>
+<w tok="number"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="Mr."/>
+<w tok="Hanson"/>
+<w tok=","/>
+<w tok="Jr."/>
+<w tok="son"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indian"/>
+<w tok="superintendent"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="written"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="father"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="remained"/>
+<w tok="at"/>
+<toponym term="Crescent City">
+<candidates>
+<cand lat="41.755833" long="-124.201667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Among"/>
+<w tok="these"/>
+<w tok="were"/>
+<w tok="the"/>
+<w tok="noted"/>
+<w tok="chiefs"/>
+<w tok="of"/>
+<w tok="predatory"/>
+<w tok="bands"/>
+<w tok=","/>
+<w tok="Las-Sic"/>
+<w tok=","/>
+<w tok="Say-Winne"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Claw-Foot"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="many"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="followers"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="left"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Panama"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="day"/>
+<w tok="for"/>
+<toponym term="Crescent City">
+<candidates>
+<cand lat="41.755833" long="-124.201667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="together"/>
+<w tok="with"/>
+<w tok="Captain"/>
+<w tok="O&apos;Brien"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="("/>
+<w tok="C"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="FRANCIS"/>
+<w tok="J."/>
+<w tok="LIPPITT"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Second"/>
+<w tok="California"/>
+<w tok="Vol"/>
+<w tok="."/>
+<w tok="Infty."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Humboldt"/>
+<w tok="Mil"/>
+<w tok="."/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok="."/>
+</s>
+</doc>

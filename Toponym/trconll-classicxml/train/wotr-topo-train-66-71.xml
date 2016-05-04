@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-71" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9079636749" long="-77.0446581631" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="June"/>
+<w tok="25"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Hallowell"/>
+<w tok=","/>
+<w tok="Fifty-fourth"/>
+<w tok="Massachusetts"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="feel"/>
+<w tok="very"/>
+<w tok="much"/>
+<w tok="mortified"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="thing"/>
+<w tok="should"/>
+<w tok="happen"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="do"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="offer"/>
+<w tok="and"/>
+<w tok="explanation"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="whole"/>
+<w tok="affairs"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="misconception"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="staff"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="issue"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Hallowell"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="did"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="Fifty-fifth"/>
+<w tok="and"/>
+<w tok="Fifty-fourth"/>
+<w tok="Massachusetts"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="view"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="very"/>
+<w tok="bad"/>
+<w tok="condition"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="regiments"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="in"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="pay"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="extremely"/>
+<w tok="anxious"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="some"/>
+<w tok="steps"/>
+<w tok="by"/>
+<w tok="which"/>
+<w tok="it"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="remedied"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="therefore"/>
+<w tok="consented"/>
+<w tok="to"/>
+<w tok="permit"/>
+<w tok="Colonel"/>
+<w tok="Hallowell"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="to"/>
+<toponym term="New York">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="leave"/>
+<w tok="of"/>
+<w tok="absence"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="permission"/>
+<w tok="to"/>
+<w tok="ask"/>
+<w tok="leave"/>
+<w tok="to"/>
+<w tok="visit"/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="An"/>
+<w tok="order"/>
+<w tok=","/>
+<w tok="instead"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="requisite"/>
+<w tok="leave"/>
+<w tok="of"/>
+<w tok="absence"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="given"/>
+<w tok="thought"/>
+<w tok="a"/>
+<w tok="misunderstanding"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="well"/>
+<w tok="aware"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="prohibition"/>
+<w tok="of"/>
+<w tok="allowing"/>
+<w tok="officers"/>
+<w tok="to"/>
+<w tok="visit"/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="always"/>
+<w tok="strictly"/>
+<w tok="observed"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Hallowell"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="immediately"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="regiment"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

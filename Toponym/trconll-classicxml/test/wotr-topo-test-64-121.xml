@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-121" title="64" domain="wotr">
+<s id="s1">
+<toponym term="FORT LEAVENWORTH">
+<candidates>
+<cand lat="39.34" long="-939.355" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok=":"/>
+<w tok="Information"/>
+<w tok="from"/>
+<toponym term="Fort Scott">
+<candidates>
+<cand lat="37.835278" long="-94.701944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="informs"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="12"/>
+<w tok="bushwhackers"/>
+<w tok="under"/>
+<w tok="Henry"/>
+<w tok="Taylor"/>
+<w tok="entered"/>
+<toponym term="Lamar">
+<candidates>
+<cand lat="37.493611" long="-94.272222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="yesterday"/>
+<w tok="["/>
+<w tok="28th*"/>
+<w tok="]"/>
+<w tok="and"/>
+<w tok="burned"/>
+<w tok="ten"/>
+<w tok="houses"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="were"/>
+<w tok="only"/>
+<w tok="women"/>
+<w tok="and"/>
+<w tok="children"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok="having"/>
+<w tok="left"/>
+<w tok="some"/>
+<w tok="days"/>
+<w tok="since"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="R."/>
+<w tok="CURTIS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Copy"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Brown"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=")"/>
+</s>
+</doc>

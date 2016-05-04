@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-106" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="HUMBOLD"/>
+<w tok="MILITARY"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="WHIPPLE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Battalion"/>
+<w tok="of"/>
+<w tok="Mountaineers"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="directs"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="furnish"/>
+<w tok="an"/>
+<w tok="escort"/>
+<w tok="to"/>
+<w tok="Manheim"/>
+<w tok="&amp;"/>
+<w tok="Co."/>
+<w tok="&apos;s"/>
+<w tok="train"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="for"/>
+<toponym term="Fort Gaston">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="escort"/>
+<w tok="to"/>
+<w tok="consist"/>
+<w tok="of"/>
+<w tok="not"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="ten"/>
+<w tok="men"/>
+<w tok="under"/>
+<w tok="an"/>
+<w tok="acting"/>
+<w tok="non-commissioned"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="detailed"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Weavervile">
+<candidates>
+<cand lat="40.736667" long="-122.936111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="battalion"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="CHARLES"/>
+<w tok="H."/>
+<w tok="BARTH"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Infty"/>
+<w tok="."/>
+<w tok="Cal"/>
+<w tok="."/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

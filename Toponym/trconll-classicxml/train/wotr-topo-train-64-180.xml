@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-180" title="64" domain="wotr">
+<s id="s1">
+<w tok="WAR"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.9093759967" long="-77.0351091688" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9028918306" long="-77.0360254087" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="CURTIS"/>
+<w tok=","/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.34" long="-939.355" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="telegram"/>
+<w tok="of"/>
+<w tok="31st"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Ordnance"/>
+<w tok="Bureau"/>
+<w tok="will"/>
+<w tok="receive"/>
+<w tok="instructions"/>
+<w tok="according"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="request"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="latest"/>
+<w tok="information"/>
+<w tok="from"/>
+<toponym term="Virginia">
+<candidates>
+<cand lat="37.5311489851" long="-78.6692983474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Georgia">
+<candidates>
+<cand lat="32.6656625738" long="-83.4260001496" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="gratifying"/>
+<w tok="."/>
+<w tok="Grant"/>
+<w tok="was"/>
+<w tok="yesterday"/>
+<w tok="within"/>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="of"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5246603637" long="-77.4276028235" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Sherman"/>
+<w tok="has"/>
+<w tok="thrashed"/>
+<w tok="Johnston"/>
+<w tok="pretty"/>
+<w tok="severely"/>
+<w tok="."/>
+<w tok="EDWIN"/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+</s>
+</doc>

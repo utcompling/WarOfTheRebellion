@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-180" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="DIV."/>
+<w tok=","/>
+<w tok="13TH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="14"/>
+<w tok="."/>
+<toponym term="Indianola">
+<candidates>
+<cand lat="28.511944" long="-96.4875" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4217270487" long="-99.3215961878" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="disobedience"/>
+<w tok="of"/>
+<w tok="orders"/>
+<w tok="and"/>
+<w tok="supposed"/>
+<w tok="disrespect"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="brigadier-general"/>
+<w tok="commanding"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Fitz"/>
+<w tok="Henry"/>
+<w tok="Warren"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="been"/>
+<w tok="satisfactorily"/>
+<w tok="explained"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="brigadier-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok="takes"/>
+<w tok="great"/>
+<w tok="pleasure"/>
+<w tok="in"/>
+<w tok="relieving"/>
+<w tok="General"/>
+<w tok="Warren"/>
+<w tok="from"/>
+<w tok="arrest"/>
+<w tok="and"/>
+<w tok="restoring"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="gallant"/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Benton"/>
+<w tok=":"/>
+<w tok="B."/>
+<w tok="WILSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

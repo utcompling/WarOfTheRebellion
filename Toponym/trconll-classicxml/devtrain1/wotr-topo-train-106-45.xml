@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-45" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="FERRIS"/>
+<w tok="FORMAN"/>
+<w tok=","/>
+<w tok="Fourth"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<toponym term="Camp Latham">
+<candidates>
+<cand lat="34.007778" long="-118.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Los Angeles">
+<candidates>
+<cand lat="34.0582531367" long="-118.222263311" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Immediately"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="reciept"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="communication"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok="directs"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="dispatch"/>
+<w tok="an"/>
+<w tok="express"/>
+<w tok="to"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="George"/>
+<w tok="S."/>
+<w tok="Evans"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="directing"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="to"/>
+<w tok="Visalia"/>
+<w tok=","/>
+<w tok="there"/>
+<w tok="to"/>
+<w tok="await"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

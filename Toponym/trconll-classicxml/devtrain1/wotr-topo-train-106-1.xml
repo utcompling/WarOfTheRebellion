@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-1" title="106" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="-Translation"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="M."/>
+<w tok="ROMERO"/>
+<w tok=","/>
+<w tok="Charge"/>
+<w tok="d&apos;Affaires"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mexican"/>
+<w tok="Republic"/>
+<w tok="at"/>
+<toponym term="Washington">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Representing"/>
+<w tok="the"/>
+<w tok="interest"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Territory"/>
+<w tok="of"/>
+<w tok="Arizona"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="being"/>
+<w tok="well"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="affairs"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+<cand lat="37.984444" long="-120.381667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="localitiesx"/>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="attacks"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="devastate"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="my"/>
+<w tok="duty"/>
+<w tok="for"/>
+<w tok="humanity"/>
+<w tok="&apos;s"/>
+<w tok="sake"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="representation"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="which"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="myjudgment"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="greatest"/>
+<w tok="importance"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="inahbitants"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="those"/>
+<w tok="to"/>
+<toponym term="Sonora">
+<candidates>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="inhabit"/>
+<w tok="the"/>
+<w tok="shores"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Gulf of California">
+<candidates>
+<cand lat="27.0336738322" long="-110.738881642" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Colorado River">
+<candidates>
+<cand lat="28.594722" long="-95.983056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="therefore"/>
+<w tok="I"/>
+<w tok="consider"/>
+<w tok="it"/>
+<w tok="worthy"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="attention"/>
+<w tok="of"/>
+<w tok="both"/>
+<toponym term="Mexico">
+<candidates>
+<cand lat="24.268246075" long="-103.358276446" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="duty"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="friendly"/>
+<w tok="nation"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="the"/>
+<w tok="inroads"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="savages"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="limits"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="into"/>
+<toponym term="the territory of Mexico">
+<candidates>
+<cand lat="24.268246075" long="-103.358276446" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="thus"/>
+<w tok="to"/>
+<w tok="put"/>
+<w tok="a"/>
+<w tok="stop"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="ravages"/>
+<w tok="too"/>
+<w tok="often"/>
+<w tok="committed"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="although"/>
+<w tok="such"/>
+<w tok="are"/>
+<w tok="the"/>
+<w tok="intentions"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="United"/>
+<w tok="States"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="position"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="its"/>
+<w tok="actual"/>
+<w tok="state"/>
+<w tok="of"/>
+<w tok="affairs"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="see"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="map"/>
+<w tok="inclosed"/>
+<w tok=","/>
+<w tok="entirely"/>
+<w tok="overrule"/>
+<w tok="the"/>
+<w tok="good"/>
+<w tok="intentions"/>
+<w tok="and"/>
+<w tok="frustrate"/>
+<w tok="the"/>
+<w tok="efforts"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="Government"/>
+<w tok=","/>
+<w tok="particularly"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="western"/>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="mostly"/>
+<w tok="a"/>
+<w tok="desert"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<toponym term="Fort Yuma">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Colorado">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Third"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="in"/>
+<w tok="consequence"/>
+<w tok="of"/>
+<w tok="300"/>
+<w tok="miles"/>
+<w tok="of"/>
+<w tok="desert"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="gap"/>
+<w tok="is"/>
+<w tok="left"/>
+<w tok="open"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="inroads"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="vainly"/>
+<w tok="occupy"/>
+<w tok="the"/>
+<w tok="eastern"/>
+<w tok="frontier"/>
+<w tok="."/>
+<w tok="Fourth"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="I"/>
+<w tok="said"/>
+<w tok="before"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="between"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Fort Yuma">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="deserted"/>
+<w tok="and"/>
+<w tok="uninhabited"/>
+<w tok="country"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="this"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="an"/>
+<w tok="inconvenience"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="savages"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="find"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="very"/>
+<w tok="difficulties"/>
+<w tok="created"/>
+<w tok="bythe"/>
+<w tok="desert"/>
+<w tok="an"/>
+<w tok="asylum"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="attacks"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="find"/>
+<w tok="it"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="overcome"/>
+<w tok="the"/>
+<w tok="obstacles"/>
+<w tok="in"/>
+<w tok="their"/>
+<w tok="way"/>
+<w tok="."/>
+<w tok="Fifth"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="in"/>
+<w tok="virtue"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="reasons"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="indispensable"/>
+<w tok="to"/>
+<w tok="establish"/>
+<w tok="a"/>
+<w tok="fort"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="of"/>
+<toponym term="Sori">
+<candidates>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="twenty-five"/>
+<w tok="or"/>
+<w tok="thirty"/>
+<w tok="miles"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="boundaries"/>
+<w tok="of"/>
+<toponym term="Mexico">
+<candidates>
+<cand lat="24.268246075" long="-103.358276446" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="not"/>
+<w tok="above"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="stop"/>
+<w tok="the"/>
+<w tok="incursions"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="pursue"/>
+<w tok="themw"/>
+<w tok="ithin"/>
+<w tok="said"/>
+<toponym term="territory of Mexico">
+<candidates>
+<cand lat="24.268246075" long="-103.358276446" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Sixth"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="such"/>
+<w tok="military"/>
+<w tok="post"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="reasons"/>
+<w tok="exposed"/>
+<w tok=","/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="established"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="limits"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="necessities"/>
+<w tok="of"/>
+<w tok="life"/>
+<w tok="for"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="animals"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="water"/>
+<w tok=","/>
+<w tok="pasture"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="vegetation"/>
+<w tok="."/>
+<w tok="Seventh"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="within"/>
+<w tok="the"/>
+<toponym term="Mexican territory">
+<candidates>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="resources"/>
+<w tok="are"/>
+<w tok="more"/>
+<w tok="easily"/>
+<w tok="found"/>
+<w tok="to"/>
+<w tok="establish"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="post"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="safety"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="life"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="interest"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="inhabitants"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="region"/>
+<w tok="."/>
+<w tok="Eight"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="in"/>
+<w tok="exchange"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="benefits"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="proposed"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="inhabitants"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+<cand lat="37.984444" long="-120.381667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="would"/>
+<w tok="aks"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok=":"/>
+<w tok="("/>
+<w tok="1"/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="right"/>
+<w tok="of"/>
+<w tok="exportation"/>
+<w tok="and"/>
+<w tok="importation"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="kinds"/>
+<w tok="of"/>
+<w tok="produce"/>
+<w tok="intended"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="consumption"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="of"/>
+<toponym term="Lobos">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Gulf of California">
+<candidates>
+</candidates>
+</toponym>
+<w tok="free"/>
+<w tok="of"/>
+<w tok="duties"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="2"/>
+<w tok=")"/>
+<w tok="To"/>
+<w tok="establish"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="place"/>
+<w tok="warehouses"/>
+<w tok="to"/>
+<w tok="deposit"/>
+<w tok="the"/>
+<w tok="productions"/>
+<w tok="and"/>
+<w tok="merchandise"/>
+<w tok="in"/>
+<w tok="transit"/>
+<w tok="to"/>
+<w tok="and"/>
+<w tok="fro"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="3"/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="right"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="interests"/>
+<w tok="in"/>
+<w tok="transit"/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="from"/>
+<w tok="any"/>
+<w tok="danger"/>
+<w tok="whatever"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="not"/>
+<w tok="exceeding"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="posted"/>
+<w tok="when"/>
+<w tok="not"/>
+<w tok="in"/>
+<w tok="service"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="of"/>
+<toponym term="Lobos">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="4"/>
+<w tok=")"/>
+<w tok="That"/>
+<w tok="the"/>
+<w tok="duty"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="force"/>
+<w tok="be"/>
+<w tok="exclusively"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="interest"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="its"/>
+<w tok="citizens"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="of"/>
+<toponym term="Lobos">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="to"/>
+<toponym term="Arizona">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="5"/>
+<w tok=")"/>
+<w tok="That"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Sori">
+<candidates>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="of"/>
+<toponym term="Lobos">
+<candidates>
+</candidates>
+</toponym>
+<w tok="shall"/>
+<w tok="not"/>
+<w tok="interfere"/>
+<w tok="in"/>
+<w tok="any"/>
+<w tok="political"/>
+<w tok="dispute"/>
+<w tok="whatever"/>
+<w tok="that"/>
+<w tok="may"/>
+<w tok="occur"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+<cand lat="37.984444" long="-120.381667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="their"/>
+<w tok="only"/>
+<w tok="occupation"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="punishment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="which"/>
+<w tok="end"/>
+<w tok="they"/>
+<w tok="shall"/>
+<w tok="act"/>
+<w tok="in"/>
+<w tok="concert"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="authorities"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="find"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="expositions"/>
+<w tok="worthy"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="attention"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="into"/>
+<w tok="consideration"/>
+<w tok="the"/>
+<w tok="interest"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+<cand lat="37.984444" long="-120.381667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="recommend"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="Government"/>
+<w tok="to"/>
+<w tok="concede"/>
+<w tok="our"/>
+<w tok="demands"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="interest"/>
+<w tok="I"/>
+<w tok="take"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="affair"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="assure"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="pure"/>
+<w tok="desire"/>
+<w tok="to"/>
+<w tok="secure"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="frontier"/>
+<w tok="States"/>
+<w tok="peace"/>
+<w tok="and"/>
+<w tok="prosperity"/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="exterminate"/>
+<w tok="the"/>
+<w tok="savages"/>
+<w tok="who"/>
+<w tok="annoy"/>
+<w tok="so"/>
+<w tok="much"/>
+<w tok="in"/>
+<w tok="particular"/>
+<w tok="the"/>
+<w tok="States"/>
+<w tok="of"/>
+<toponym term="Sonora">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Chihuahua">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Durango">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Territory"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="AINSA"/>
+<w tok="."/>
+</s>
+</doc>

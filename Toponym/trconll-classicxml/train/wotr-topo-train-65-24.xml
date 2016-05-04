@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-24" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=";"/>
+<w tok="A"/>
+<w tok="gun-boat"/>
+<w tok="sunken"/>
+<w tok="off"/>
+<w tok="Battery"/>
+<w tok="Marshall"/>
+<w tok="."/>
+<w tok="Supposed"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="done"/>
+<w tok="by"/>
+<toponym term="Mobile">
+<candidates>
+<cand lat="30.6971437183" long="-88.0115777436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="torpedo-boat"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="George"/>
+<w tok="E."/>
+<w tok="Dixon"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="Twenty-first"/>
+<w tok="Alabama"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="went"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="which"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="regret"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="been"/>
+<w tok="heard"/>
+<w tok="of"/>
+<w tok="since"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+</s>
+</doc>

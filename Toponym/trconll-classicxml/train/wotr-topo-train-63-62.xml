@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-62" title="63" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON, D. C.">
+<candidates>
+<cand lat="38.9249732487" long="-77.0166011395" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864-1"/>
+<w tok="p.m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<toponym term="Nashville">
+<candidates>
+<cand lat="36.166667" long="-86.783333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Order"/>
+<w tok="either"/>
+<w tok="Captain"/>
+<w tok="Wilson"/>
+<w tok="or"/>
+<w tok="Hains"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="engineers"/>
+<w tok="("/>
+<w tok="which-ever"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="best"/>
+<w tok="spare"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="immediately"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok="doe"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

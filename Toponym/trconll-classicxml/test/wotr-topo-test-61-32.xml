@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-32" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="6-10"/>
+<w tok=","/>
+<w tok="1864.-Scout"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Sni Hills">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Charles"/>
+<w tok="F."/>
+<w tok="Coleman"/>
+<w tok=","/>
+<w tok="Ninth"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="31.818056" long="-93.516667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="After"/>
+<w tok="hunting"/>
+<w tok="bushwhackers"/>
+<w tok="faithfully"/>
+<w tok="for"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="returned"/>
+<w tok="late"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="under"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="meet"/>
+<w tok="with"/>
+<w tok="as"/>
+<w tok="good"/>
+<w tok="success"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="hoped"/>
+<w tok="to"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="did"/>
+<w tok="finally"/>
+<w tok="succeed"/>
+<w tok="in"/>
+<w tok="driving"/>
+<w tok="them"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Sni Hills">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="place"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="there"/>
+<w tok="were"/>
+<w tok="about"/>
+<w tok="200"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="found"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="parties"/>
+<w tok="numbering"/>
+<w tok="from"/>
+<w tok="10"/>
+<w tok="to"/>
+<w tok="40"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="a"/>
+<w tok="running"/>
+<w tok="fight"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="kind"/>
+<w tok="we"/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="many"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="took"/>
+<w tok="2"/>
+<w tok="horses"/>
+<w tok="from"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="wounded"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="have"/>
+<w tok="all"/>
+<w tok="gone"/>
+<w tok="east"/>
+<w tok="and"/>
+<w tok="northeast"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="intend"/>
+<w tok="to"/>
+<w tok="bushwhack"/>
+<w tok="them"/>
+<w tok="when"/>
+<w tok="they"/>
+<w tok="return"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="F."/>
+<w tok="COLEMAN"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="HADLEY"/>
+<w tok=","/>
+<w tok="Act"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Dist"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Border"/>
+</s>
+</doc>

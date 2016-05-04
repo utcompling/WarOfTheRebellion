@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-7" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4673307011" long="-91.1450191082" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="GREGORY"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Navy"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Division"/>
+<w tok=","/>
+<toponym term="Donaldsonville">
+<candidates>
+<cand lat="30.1" long="-90.994167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="reason"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="gun-boat"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="here"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="some"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

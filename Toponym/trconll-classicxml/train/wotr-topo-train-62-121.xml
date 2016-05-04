@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-121" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JENNISON"/>
+<w tok=","/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans.">
+<candidates>
+<cand lat="38.504658757" long="-98.3776932912" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Nothing"/>
+<w tok="known"/>
+<w tok="officially"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="Kansas"/>
+<w tok="."/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

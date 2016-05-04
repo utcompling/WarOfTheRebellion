@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-64" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864-7"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Yesterday"/>
+<w tok="morning"/>
+<w tok="Brigadier-General"/>
+<w tok="Robertson"/>
+<w tok="attached"/>
+<w tok="enemy"/>
+<w tok="on"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Stono">
+<candidates>
+<cand lat="32.6567195451" long="-80.0114629632" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="drove"/>
+<w tok="them"/>
+<w tok="from"/>
+<w tok="first"/>
+<w tok="position"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="loss"/>
+<w tok="to"/>
+<w tok="us"/>
+<w tok="of"/>
+<w tok="over"/>
+<w tok="100"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="Last"/>
+<w tok="night"/>
+<w tok="and"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="enemy"/>
+<w tok="fell"/>
+<w tok="back"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="transports"/>
+<w tok="near"/>
+<toponym term="Legareville">
+<candidates>
+<cand lat="32.6548327199" long="-80.0552628682" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="passed"/>
+<w tok="over"/>
+<w tok="the"/>
+<toponym term="James">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Morris Islands">
+<candidates>
+<cand lat="32.7124145847" long="-79.8938915759" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Two"/>
+<w tok="monitors"/>
+<w tok="and"/>
+<w tok="several"/>
+<w tok="gun-boats"/>
+<w tok="still"/>
+<w tok="in"/>
+<toponym term="Stono">
+<candidates>
+<cand lat="32.6567195451" long="-80.0114629632" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="driven"/>
+<w tok="by"/>
+<w tok="our"/>
+<w tok="batteries"/>
+<w tok="beyond"/>
+<w tok="effective"/>
+<w tok="range"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="monitor"/>
+<w tok="believed"/>
+<w tok="seriously"/>
+<w tok="damaged"/>
+<w tok="by"/>
+<w tok="sot"/>
+<w tok="from"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="Brooke"/>
+<w tok="guns"/>
+<w tok="."/>
+<w tok="Movements"/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="indicate"/>
+<w tok="purpose"/>
+<w tok="to"/>
+<w tok="change"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="attack"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="prisoners"/>
+<w tok="["/>
+<w tok="and"/>
+<w tok="]"/>
+<w tok="manuscript"/>
+<w tok="captured"/>
+<w tok="it"/>
+<w tok="appears"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="now"/>
+<w tok="operating"/>
+<w tok="against"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="comprises"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="available"/>
+<w tok="force"/>
+<w tok="on"/>
+<toponym term="South Atlantic coast">
+<candidates>
+<cand lat="33.539228591" long="-78.4116899635" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Bombardment"/>
+<w tok="of"/>
+<toponym term="Fort Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="very"/>
+<w tok="heavy"/>
+<w tok="for"/>
+<w tok="several"/>
+<w tok="days"/>
+<w tok="and"/>
+<w tok="continues"/>
+<w tok="so"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok=","/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

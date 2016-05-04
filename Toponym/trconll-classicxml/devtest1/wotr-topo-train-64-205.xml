@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-205" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBOROUGH">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="current"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="appears"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="running"/>
+<w tok="north"/>
+<w tok="and"/>
+<w tok="east"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

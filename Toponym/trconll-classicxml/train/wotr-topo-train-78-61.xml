@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-61" title="78" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="JUNE"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="For"/>
+<w tok="Stanton"/>
+<w tok="to"/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="reply"/>
+<w tok=","/>
+<w tok="relative"/>
+<w tok="to"/>
+<w tok="Sturgis"/>
+<w tok="&apos;"/>
+<w tok="operations"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="see"/>
+<w tok="Vol"/>
+<w tok="."/>
+<w tok="XXXVIII"/>
+<w tok=","/>
+<w tok="Part"/>
+<w tok="IV"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="474"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Big Shanty">
+<candidates>
+<cand lat="34.023333" long="-84.615278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864-3"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="7"/>
+<w tok="."/>
+<w tok="10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Hon"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.9040271486" long="-77.0319949801" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.8916980885" long="-77.0392188417" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok="is"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="front"/>
+<w tok=","/>
+<w tok="advancing"/>
+<w tok="his"/>
+<w tok="lines"/>
+<w tok="on"/>
+<toponym term="Kenesaw">
+<candidates>
+</candidates>
+</toponym>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="fair"/>
+<w tok="day"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="past"/>
+<w tok="two"/>
+<w tok="weeks"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="is"/>
+<w tok="going"/>
+<w tok="on"/>
+<w tok="well"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="has"/>
+<w tok="already"/>
+<w tok="received"/>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok="&apos;s"/>
+<w tok="high"/>
+<w tok="commendations"/>
+<w tok="for"/>
+<w tok="his"/>
+<w tok="success"/>
+<w tok="and"/>
+<w tok="energy"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="has"/>
+<w tok="ordered"/>
+<w tok="the"/>
+<w tok="seizure"/>
+<w tok="of"/>
+<w tok="fresh"/>
+<w tok="horses"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="cost"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="utter"/>
+<w tok="extermination"/>
+<w tok="of"/>
+<w tok="Morgan"/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="guerrillas"/>
+<w tok="in"/>
+<toponym term="Kentucky">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="*"/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="DAYTON"/>
+<w tok=","/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

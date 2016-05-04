@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-61" title="63" domain="wotr">
+<s id="s1">
+<toponym term="FORT LARAMIE">
+<candidates>
+<cand lat="42.209167" long="-104.535861" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Mitchell"/>
+<w tok="telegraphs"/>
+<w tok="information"/>
+<w tok="received"/>
+<w tok="that"/>
+<w tok="Indians"/>
+<w tok="stole"/>
+<w tok="175"/>
+<w tok="horses"/>
+<w tok="near"/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="co-operate"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Is"/>
+<w tok="it"/>
+<w tok="true"/>
+<w tok="?"/>
+<w tok="When"/>
+<w tok="and"/>
+<w tok="where"/>
+<w tok="?"/>
+<w tok="If"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="call"/>
+<w tok="on"/>
+<w tok="Major"/>
+<w tok="Mackey"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Halleck">
+<candidates>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="all"/>
+<w tok="troops"/>
+<w tok="he"/>
+<w tok="can"/>
+<w tok="spare"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="telegraph"/>
+<w tok="me"/>
+<w tok="what"/>
+<w tok="help"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="send"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="O."/>
+<w tok="COLLINS"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Eleventh"/>
+<w tok="Ohio"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+</s>
+</doc>

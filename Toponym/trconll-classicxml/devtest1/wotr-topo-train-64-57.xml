@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-57" title="64" domain="wotr">
+<s id="s1">
+<toponym term="BATON ROUGE">
+<candidates>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864-10.45"/>
+<w tok="a.m"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="B."/>
+<w tok="IRWIN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="what"/>
+<w tok="I"/>
+<w tok="deem"/>
+<w tok="reliable"/>
+<w tok="information"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="Colonel"/>
+<w tok="Scott"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Amite River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Burlington">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="Friday"/>
+<w tok="last"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="1,000"/>
+<w tok="to"/>
+<w tok="1,500"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="nine"/>
+<w tok="pieces"/>
+<w tok="artillery"/>
+<w tok=";"/>
+<w tok="all"/>
+<w tok="mounted"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="gave"/>
+<w tok="out"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="intended"/>
+<w tok="to"/>
+<w tok="attack"/>
+<w tok="the"/>
+<w tok="stockade"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Highland road">
+<candidates>
+<cand lat="30.3589526662" long="-91.103362835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="my"/>
+<w tok="information"/>
+<w tok="thinks"/>
+<w tok=","/>
+<w tok="what"/>
+<w tok="is"/>
+<w tok="more"/>
+<w tok="probable"/>
+<w tok=","/>
+<w tok="intending"/>
+<w tok="to"/>
+<w tok="raid"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="coast"/>
+<w tok="plantations"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="P."/>
+<w tok="BENTON"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

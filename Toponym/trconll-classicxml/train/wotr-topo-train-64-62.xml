@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-62" title="64" domain="wotr">
+<s id="s1">
+<toponym term="DEVALL&apos;S BLUFF">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864-12.30"/>
+<w tok="p.m."/>
+<w tok="Brigadier-General"/>
+<w tok="CARR"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok=";"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Carr"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Little"/>
+<w tok="Rock"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="command"/>
+<w tok="consists"/>
+<w tok="of"/>
+<w tok="First"/>
+<w tok="Regiment"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Regiment"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Fourth"/>
+<w tok="Regiment"/>
+<w tok="Arkansas"/>
+<w tok="Mounted"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="Battery"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Missouri"/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="now"/>
+<w tok="camped"/>
+<w tok="at"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Can"/>
+<w tok="muster"/>
+<w tok="850"/>
+<w tok="."/>
+<w tok="Cavalry"/>
+<w tok="horses"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="poor"/>
+<w tok="condition"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="if"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="active"/>
+<w tok="service"/>
+<w tok="anywhere"/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="R."/>
+<w tok="LIVINGSTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

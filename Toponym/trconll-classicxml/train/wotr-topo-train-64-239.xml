@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-239" title="64" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WASHINGTON"/>
+<w tok="F."/>
+<w tok="GEIGER"/>
+<w tok=","/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="at"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="district"/>
+<w tok="commander"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="express"/>
+<w tok="disapprobation"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="having"/>
+<w tok="left"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="regretted"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="really"/>
+<w tok="valuable"/>
+<w tok="services"/>
+<w tok="on"/>
+<w tok="your"/>
+<w tok="last"/>
+<w tok="scout"/>
+<w tok="should"/>
+<w tok="merit"/>
+<w tok="anything"/>
+<w tok="else"/>
+<w tok="but"/>
+<w tok="praise"/>
+<w tok=";"/>
+<w tok="you"/>
+<w tok="should"/>
+<w tok="not"/>
+<w tok="have"/>
+<w tok="left"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="and"/>
+<w tok="incurred"/>
+<w tok="censure"/>
+<w tok="."/>
+<w tok="Communicate"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok="at"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="is"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Give"/>
+<w tok="him"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="under"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="acted"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="additional"/>
+<w tok="one"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="must"/>
+<w tok="keep"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="north"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Little Red">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="must"/>
+<w tok="send"/>
+<w tok="news"/>
+<w tok="daily"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Carr"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Little"/>
+<w tok="Rock"/>
+<w tok="."/>
+<w tok="Direct"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="whom"/>
+<w tok="you"/>
+<w tok="left"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="troops"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Little Red">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="relieved"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="Tenth"/>
+<w tok="Illinois"/>
+<w tok="Cavalry"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="regiment"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="depot"/>
+<w tok="opposite"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="Missouri"/>
+<w tok="to"/>
+<toponym term="Ashley&apos;s Station">
+<candidates>
+<cand lat="34.828056" long="-91.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="contemplated"/>
+<w tok="to"/>
+<w tok="encamp"/>
+<w tok="your"/>
+<w tok="regiment"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="must"/>
+<w tok="provide"/>
+<w tok="rations"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="when"/>
+<w tok="they"/>
+<w tok="reach"/>
+<toponym term="Ashley&apos;s">
+<candidates>
+<cand lat="34.828056" long="-91.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="complied"/>
+<w tok="with"/>
+<w tok="these"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="wish"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="stallion"/>
+<w tok=","/>
+<w tok="send"/>
+<w tok="him"/>
+<w tok="over"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="cars"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

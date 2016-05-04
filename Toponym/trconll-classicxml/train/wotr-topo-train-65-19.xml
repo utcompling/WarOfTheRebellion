@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-19" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-11"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="Finegan"/>
+<w tok="&apos;s"/>
+<w tok="success"/>
+<w tok="yesterday"/>
+<w tok="was"/>
+<w tok="very"/>
+<w tok="creditable"/>
+<w tok=","/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="being"/>
+<w tok="much"/>
+<w tok="superior"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="own"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="re-enforcement"/>
+<w tok="had"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="reached"/>
+<w tok="him"/>
+<w tok="owing"/>
+<w tok="to"/>
+<w tok="delays"/>
+<w tok="on"/>
+<w tok="road"/>
+<w tok="."/>
+<w tok="Losses"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="reported"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

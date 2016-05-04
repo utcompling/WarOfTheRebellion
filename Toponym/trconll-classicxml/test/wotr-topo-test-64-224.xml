@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-224" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wis.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Minnesota"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="400"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="withhold"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok="be"/>
+<w tok="immediately"/>
+<w tok="replaced"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok="sent"/>
+<w tok="you"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="and"/>
+<toponym term="Davenport">
+<candidates>
+<cand lat="41.543056" long="-90.590833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="accordingly"/>
+<w tok="send"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="force"/>
+<w tok="originally"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="had"/>
+<w tok="best"/>
+<w tok="use"/>
+<w tok="the"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="such"/>
+<w tok="parts"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="needed"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="establish"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="on"/>
+<toponym term="James River">
+<candidates>
+<cand lat="36.941667" long="-76.443611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="until"/>
+<w tok="relieved"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="designated"/>
+<w tok="for"/>
+<w tok="its"/>
+<w tok="permanent"/>
+<w tok="garrison"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="hear"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="have"/>
+<w tok="reached"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="on"/>
+<toponym term="James River">
+<candidates>
+<cand lat="36.941667" long="-76.443611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="direct"/>
+<w tok="the"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="from"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Missouri River">
+<candidates>
+<cand lat="38.813611" long="-90.119722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Sully"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="notified"/>
+<w tok="in"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="what"/>
+<w tok="point"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3930268925" long="-92.4404240775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="direct"/>
+<w tok="their"/>
+<w tok="march"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="most"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="MELINE"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

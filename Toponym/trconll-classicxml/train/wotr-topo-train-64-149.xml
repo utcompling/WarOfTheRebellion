@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-149" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Send"/>
+<w tok="with"/>
+<w tok="Colonel"/>
+<w tok="Thomas"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="force"/>
+<w tok="originally"/>
+<w tok="ordered"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="replace"/>
+<w tok="the"/>
+<w tok="400"/>
+<w tok="men"/>
+<w tok="you"/>
+<w tok="were"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="withhold"/>
+<w tok="by"/>
+<w tok="four"/>
+<w tok="strong"/>
+<w tok="companies"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="for"/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="Acknowledge"/>
+<w tok="receipt"/>
+<w tok="."/>
+<w tok="Confer"/>
+<w tok="with"/>
+<w tok="General"/>
+<w tok="Dana"/>
+<w tok="whether"/>
+<w tok="this"/>
+<w tok="arrangement"/>
+<w tok="satisfies"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="Department"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

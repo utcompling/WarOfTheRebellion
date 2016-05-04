@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-36" title="61" domain="wotr">
+<s id="s1">
+<w tok="February"/>
+<w tok="2.-The"/>
+<w tok="steamer"/>
+<w tok="Mill"/>
+<w tok="Boy"/>
+<w tok="was"/>
+<w tok="wrecked"/>
+<w tok="about"/>
+<w tok="9"/>
+<w tok="miles"/>
+<w tok="above"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="forage"/>
+<w tok="and"/>
+<w tok="subsistence"/>
+<w tok="stores"/>
+<w tok="lost"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="gun"/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="was"/>
+<w tok="saved"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="detachment"/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="Murphy"/>
+<w tok=","/>
+<w tok="ordered"/>
+<w tok="to"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="another"/>
+<w tok="boat"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="returned"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="streams"/>
+<w tok="were"/>
+<w tok="so"/>
+<w tok="swollen"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Dunscomb"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Arkansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="January"/>
+<w tok="30"/>
+<w tok="for"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7472610614" long="-92.2787852305" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="returned"/>
+<w tok=";"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="4th"/>
+<w tok="for"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7472610614" long="-92.2787852305" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="taking"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="ferry-boats"/>
+<w tok="destroyed"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="McRae"/>
+<w tok="in"/>
+<w tok="possession"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="4.-Lieutenant"/>
+<w tok="Moore"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="left"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="53"/>
+<w tok="men"/>
+<w tok="for"/>
+<toponym term="Smithville">
+<candidates>
+<cand lat="36.08" long="-91.303889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Evening Shade">
+<candidates>
+<cand lat="36.070556" long="-91.621389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Hookram">
+<candidates>
+<cand lat="36.155833" long="-91.505" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="returned"/>
+<w tok="February"/>
+<w tok="9"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="6.-A"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok="arrived"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Wolf"/>
+<w tok=","/>
+<w tok="rendering"/>
+<w tok="up"/>
+<w tok="4"/>
+<w tok="men"/>
+<w tok="taken"/>
+<w tok="while"/>
+<w tok="on"/>
+<w tok="picket"/>
+<w tok="by"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="forces"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="7.-Sixty"/>
+<w tok="men"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="and"/>
+<w tok="8"/>
+<w tok="men"/>
+<w tok="Fourth"/>
+<w tok="Arkansas"/>
+<w tok="Mounted"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Stephens"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="40"/>
+<w tok="men"/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Majors"/>
+<w tok=","/>
+<w tok="same"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="toward"/>
+<toponym term="Smithville">
+<candidates>
+<cand lat="36.08" long="-91.303889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="returned"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="9.-Steamer"/>
+<w tok="Dove"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="Left"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="11th"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="mail"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="inclusive"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="98"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="Four"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="detached"/>
+<w tok="to"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok="of"/>
+<w tok="guarding"/>
+<w tok="commissary"/>
+<w tok="and"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="stores"/>
+<w tok="since"/>
+<w tok="January"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="returned"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="12.-Lieutenant-Colonel"/>
+<w tok="Baumer"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="350"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Arkansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="left"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="attack"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok=";"/>
+<w tok="returned"/>
+<w tok="February"/>
+<w tok="20"/>
+<w tok="."/>
+<w tok="Same"/>
+<w tok="day"/>
+<w tok="a"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="arrived"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Wasson"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="rendering"/>
+<w tok="up"/>
+<w tok="Captain"/>
+<w tok="P."/>
+<w tok="B."/>
+<w tok="Rouch"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="L"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="23"/>
+<w tok="enlisted"/>
+<w tok="men"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="19.-A"/>
+<w tok="forage"/>
+<w tok="train"/>
+<w tok="of"/>
+<w tok="thirty-five"/>
+<w tok="wagons"/>
+<w tok=","/>
+<w tok="escorted"/>
+<w tok="by"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eleventh"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Castle"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="attacked"/>
+<w tok="about"/>
+<w tok="2"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Rutherford"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Castle"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="men"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="29"/>
+<w tok="captured"/>
+<w tok=","/>
+<w tok="besides"/>
+<w tok="a"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="teamsters"/>
+<w tok="."/>
+<w tok="Immediately"/>
+<w tok="upon"/>
+<w tok="having"/>
+<w tok="received"/>
+<w tok="information"/>
+<w tok="400"/>
+<w tok="men"/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Livington"/>
+<w tok="took"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="had"/>
+<w tok="fled"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="20.-A"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok="from"/>
+<w tok="Captain"/>
+<w tok="Rutherford"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Monkin"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Arkansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="Same"/>
+<w tok="day"/>
+<w tok="another"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Love"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="scouts"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="arrived"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="Sergeant"/>
+<w tok="Cooper"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="25.-A"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="200"/>
+<w tok="men"/>
+<w tok="Fourth"/>
+<w tok="Arkansas"/>
+<w tok="Mounted"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Baxter"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="recapture"/>
+<w tok="the"/>
+<w tok="mules"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Rutherford"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="19th"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="27.-A"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="75"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Ribble"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="24"/>
+<w tok="men"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Kauffman"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="re-enforce"/>
+<w tok="Colonel"/>
+<w tok="Baxter"/>
+<w tok="."/>
+<w tok="Scout"/>
+<w tok="not"/>
+<w tok="returned"/>
+<w tok="yet"/>
+<w tok="."/>
+</s>
+</doc>

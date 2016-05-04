@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-14" title="60" domain="wotr">
+<s id="s1">
+<toponym term="CUMBERLAND">
+<candidates>
+<cand lat="39.647778" long="-78.762778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MD.">
+<candidates>
+<cand lat="38.975771548" long="-76.4996610488" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864-6"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="telegram"/>
+<w tok=","/>
+<w tok="advising"/>
+<w tok="me"/>
+<w tok="of"/>
+<w tok="capture"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Scammon"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="burning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Levi"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Presume"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="done"/>
+<w tok="by"/>
+<w tok="Ferguson"/>
+<w tok="&apos;s"/>
+<w tok="guerrillas"/>
+<w tok="."/>
+<w tok="Mulligan"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="Sullivan"/>
+<w tok="&apos;s"/>
+<w tok="forces"/>
+<w tok="have"/>
+<w tok="formed"/>
+<w tok="a"/>
+<w tok="junction"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="are"/>
+<w tok="pursuing"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="vigorously"/>
+<w tok="."/>
+<w tok="Sullivan"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="brisk"/>
+<w tok="a"/>
+<w tok="skirmish"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="near"/>
+<toponym term="Romney">
+<candidates>
+<cand lat="39.345" long="-78.756944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="captured"/>
+<w tok="several"/>
+<w tok="prisoners"/>
+<w tok=":"/>
+<toponym term="GALLIPOLIS">
+<candidates>
+<cand lat="38.815278" long="-82.1975" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="OHIO">
+<candidates>
+<cand lat="40.3655949303" long="-82.8385920544" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+</s>
+</doc>

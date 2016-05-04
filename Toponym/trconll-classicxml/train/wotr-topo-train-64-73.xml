@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-73" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SUB-DISTRICT"/>
+<toponym term="Cape Girardeau">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok="District"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Since"/>
+<w tok="writing"/>
+<w tok="you"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="date"/>
+<w tok=","/>
+<w tok="concerning"/>
+<w tok="repairing"/>
+<w tok="the"/>
+<w tok="forts"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Cole"/>
+<w tok=","/>
+<w tok="chief"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="visited"/>
+<w tok="the"/>
+<w tok="posts"/>
+<w tok="and"/>
+<w tok="outworks"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="explained"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="what"/>
+<w tok="I"/>
+<w tok="thought"/>
+<w tok="was"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="place"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="condition"/>
+<w tok="for"/>
+<w tok="defense"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="minute"/>
+<w tok="examination"/>
+<w tok=";"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="my"/>
+<w tok="views"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="expressed"/>
+<w tok="himself"/>
+<w tok="as"/>
+<w tok="concurring"/>
+<w tok="in"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="by"/>
+<w tok="conferring"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="more"/>
+<w tok="fully"/>
+<w tok="understand"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="than"/>
+<w tok="from"/>
+<w tok="my"/>
+<w tok="letter"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

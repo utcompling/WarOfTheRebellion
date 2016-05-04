@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-18" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="TOWNSEND"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Washington, D. C.">
+<candidates>
+<cand lat="38.8998762938" long="-77.0025510407" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Dispatch"/>
+<w tok="received"/>
+<w tok="ordering"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok="to"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="urgently"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="them"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="recommend"/>
+<w tok="a"/>
+<w tok="delay"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="to"/>
+<w tok="enable"/>
+<w tok="board"/>
+<w tok="of"/>
+<w tok="examination"/>
+<w tok="to"/>
+<w tok="finish"/>
+<w tok="the"/>
+<w tok="examination"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="officers"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="regiment"/>
+<w tok="came"/>
+<w tok="here"/>
+<w tok="perfectly"/>
+<w tok="new"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="kept"/>
+<w tok="here"/>
+<w tok="for"/>
+<w tok="discipline"/>
+<w tok=","/>
+<w tok="drill"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="rid"/>
+<w tok="of"/>
+<w tok="incompetent"/>
+<w tok="officers"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

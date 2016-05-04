@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-43" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7609239432" long="-104.9652184" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0131108782" long="-105.624788078" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="CHARLOT"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok=":"/>
+<w tok="Received"/>
+<w tok="no"/>
+<w tok="information"/>
+<w tok="from"/>
+<w tok="Lieutenant"/>
+<w tok="Eayre"/>
+<w tok="since"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="was"/>
+<w tok="to"/>
+<w tok="reach"/>
+<toponym term="Larned">
+<candidates>
+<cand lat="38.183056" long="-99.218056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="25th"/>
+<w tok="."/>
+<w tok="Rumored"/>
+<w tok="here"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="fight"/>
+<w tok="with"/>
+<w tok="Cheyennes"/>
+<w tok="on"/>
+<toponym term="Smoky Hill">
+<candidates>
+<cand lat="38.761778" long="-99.532194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="badly"/>
+<w tok="cut"/>
+<w tok="up"/>
+<w tok="."/>
+<w tok="Do"/>
+<w tok="n&apos;t"/>
+<w tok="credit"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="true"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="sent"/>
+<w tok="detachments"/>
+<w tok="from"/>
+<toponym term="Lyon">
+<candidates>
+<cand lat="38.074167" long="-103.1325" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Fillmore">
+<candidates>
+<cand lat="32.257778" long="-106.743333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="see"/>
+<w tok="."/>
+<w tok="Scouts"/>
+<w tok="returned"/>
+<w tok="from"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="no"/>
+<w tok="rebels"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="pickets"/>
+<w tok="and"/>
+<w tok="scouts"/>
+<w tok="out"/>
+<w tok="and"/>
+<w tok="well"/>
+<w tok="posted"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

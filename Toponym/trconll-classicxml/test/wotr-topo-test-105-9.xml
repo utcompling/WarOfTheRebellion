@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-9" title="105" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="K."/>
+<w tok="]"/>
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="COLUMN"/>
+<w tok="FROM"/>
+<toponym term="CALIFORNIA">
+<candidates>
+</candidates>
+</toponym>
+<w tok="CAMP"/>
+<w tok="ON"/>
+<toponym term="RIO GRANDE">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Numbers"/>
+<w tok="16"/>
+<w tok="."/>
+<w tok="Near"/>
+<toponym term="Fort Quitman">
+<candidates>
+<cand lat="31.0625" long="-105.583889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4264675693" long="-99.224702175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1865"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="12"/>
+<w tok="m."/>
+<w tok="to-day"/>
+<w tok="Captain"/>
+<w tok="John"/>
+<w tok="C."/>
+<w tok="Cremony"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="company"/>
+<w tok="("/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Fort Quitman">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="hoist"/>
+<w tok="over"/>
+<w tok="it"/>
+<w tok="the"/>
+<w tok="national"/>
+<w tok="colors"/>
+<w tok="the"/>
+<w tok="old"/>
+<w tok="Stars"/>
+<w tok="and"/>
+<w tok="Stripes"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="this"/>
+<w tok="act"/>
+<w tok="still"/>
+<w tok="another"/>
+<w tok="post"/>
+<w tok="comes"/>
+<w tok="under"/>
+<w tok="its"/>
+<w tok="rightful"/>
+<w tok="flag"/>
+<w tok="and"/>
+<w tok="once"/>
+<w tok="more"/>
+<w tok="becomes"/>
+<w tok="consecrated"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.2717009977" long="-98.1929174638" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="II"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Edmond"/>
+<w tok="D."/>
+<w tok="Shirland"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok=","/>
+<w tok="yet"/>
+<w tok="by"/>
+<w tok="easy"/>
+<w tok="marches"/>
+<w tok=","/>
+<w tok="to"/>
+<toponym term="Fort Davis">
+<candidates>
+<cand lat="30.592778" long="-103.891944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4264675693" long="-99.224702175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="hoist"/>
+<w tok="over"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="the"/>
+<w tok="national"/>
+<w tok="colors"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="Captain"/>
+<w tok="Shirland"/>
+<w tok="finds"/>
+<w tok="any"/>
+<w tok="sick"/>
+<w tok="or"/>
+<w tok="wounded"/>
+<w tok="soldiers"/>
+<w tok="there"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="them"/>
+<w tok="prisoners"/>
+<w tok="of"/>
+<w tok="war"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="put"/>
+<w tok="them"/>
+<w tok="upon"/>
+<w tok="their"/>
+<w tok="parole"/>
+<w tok="and"/>
+<w tok="let"/>
+<w tok="them"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="to"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.3929264901" long="-99.238393168" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="unable"/>
+<w tok="to"/>
+<w tok="travel"/>
+<w tok=","/>
+<w tok="captain"/>
+<w tok="Shirland"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="by"/>
+<w tok="express"/>
+<w tok="what"/>
+<w tok="they"/>
+<w tok="need"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="way"/>
+<w tok="of"/>
+<w tok="surgical"/>
+<w tok="or"/>
+<w tok="medical"/>
+<w tok="attention"/>
+<w tok=";"/>
+<w tok="what"/>
+<w tok="they"/>
+<w tok="need"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="way"/>
+<w tok="of"/>
+<w tok="food"/>
+<w tok="or"/>
+<w tok="transportation"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="other"/>
+<w tok="essential"/>
+<w tok="facts"/>
+<w tok="connected"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="which"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="known"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="them"/>
+<w tok="properly"/>
+<w tok="cared"/>
+<w tok="for"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="is"/>
+<w tok="abandoned"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Shirland"/>
+<w tok="will"/>
+<w tok="retrace"/>
+<w tok="his"/>
+<w tok="steps"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="III"/>
+<w tok="."/>
+<w tok="Twenty"/>
+<w tok="effective"/>
+<w tok="men"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<w tok="Company"/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok="toreport"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Shirland"/>
+<w tok="for"/>
+<w tok="detached"/>
+<w tok="service"/>
+<w tok="to"/>
+<toponym term="Fort Davis">
+<candidates>
+<cand lat="30.592778" long="-103.891944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4264675693" long="-99.224702175" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Carleton"/>
+<w tok=";"/>
+<w tok="BEN"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="CUTLER"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="California"/>
+<w tok="Vol"/>
+<w tok="."/>
+<w tok="Infty."/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

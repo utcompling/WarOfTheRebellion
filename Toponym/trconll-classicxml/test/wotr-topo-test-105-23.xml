@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-23" title="105" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="Z"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="COLUMN"/>
+<w tok="FROM"/>
+<toponym term="CALIFORNIA">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Numbers"/>
+<w tok="36"/>
+<w tok="."/>
+<toponym term="Santa Fe.">
+<candidates>
+<cand lat="35.6951223872" long="-105.910483543" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4343162524" long="-106.080648357" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Edward"/>
+<w tok="E."/>
+<w tok="Eyre"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="to"/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="bearer"/>
+<w tok="of"/>
+<w tok="dispatches"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="148"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="headquarters"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="mexico"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="August"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Having"/>
+<w tok="performed"/>
+<w tok="this"/>
+<w tok="duty"/>
+<w tok=","/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="rejoin"/>
+<w tok="his"/>
+<w tok="regiment"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="practicable"/>
+<w tok="moment"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Carleton"/>
+<w tok=":"/>
+<w tok="BEN"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="CUTLER"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="California"/>
+<w tok="Vol"/>
+<w tok="."/>
+<w tok="Infty."/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

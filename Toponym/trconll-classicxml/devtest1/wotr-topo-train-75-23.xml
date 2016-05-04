@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-23" title="75" domain="wotr">
+<s id="s1">
+<w tok="IN"/>
+<w tok="FIELD"/>
+<w tok=","/>
+<w tok="About"/>
+<w tok="five"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-2"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="HOOKER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Dispatch"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="My"/>
+<w tok="advance"/>
+<w tok="is"/>
+<w tok="within"/>
+<w tok="one"/>
+<w tok="mile"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="half"/>
+<w tok="of"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="So"/>
+<w tok="far"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="only"/>
+<w tok="met"/>
+<w tok="cavalry"/>
+<w tok=";"/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="sharp"/>
+<w tok="little"/>
+<w tok="skirmish"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="brigade"/>
+<w tok="which"/>
+<w tok="arrived"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="and"/>
+<w tok="intended"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="and"/>
+<w tok="hold"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="we"/>
+<w tok="were"/>
+<w tok="too"/>
+<w tok="quick"/>
+<w tok="from"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="not"/>
+<w tok="learn"/>
+<w tok="whether"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="any"/>
+<w tok="considerable"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="at"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="not"/>
+<w tok=";"/>
+<w tok="expect"/>
+<w tok="to"/>
+<w tok="find"/>
+<w tok="out"/>
+<w tok="shortly"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="I"/>
+<w tok="succeeded"/>
+<w tok="in"/>
+<w tok="breaking"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="I"/>
+<w tok="intend"/>
+<w tok="to"/>
+<w tok="withdrawn"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="back"/>
+<w tok="and"/>
+<w tok="take"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="defensive"/>
+<w tok="position"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="entrance"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="and"/>
+<w tok="await"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="Major-General"/>
+<w tok="Sherman"/>
+<w tok="."/>
+<w tok="Sincerely"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="McPHERSON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

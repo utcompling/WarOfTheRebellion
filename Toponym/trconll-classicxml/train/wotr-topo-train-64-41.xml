@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-41" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier-General"/>
+<w tok="FISK"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok="at"/>
+<toponym term="Palmyra">
+<candidates>
+<cand lat="39.7975" long="-91.524722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="city"/>
+<w tok=","/>
+<w tok="their"/>
+<w tok="services"/>
+<w tok="being"/>
+<w tok="required"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Rosecrans"/>
+<w tok=":"/>
+<w tok="FRANK"/>
+<w tok="ENO"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

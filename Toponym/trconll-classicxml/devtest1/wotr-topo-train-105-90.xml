@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-90" title="105" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.9080538456" long="-77.0379780054" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.900709303" long="-77.0340121364" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<toponym term="Camp Douglas">
+<candidates>
+<cand lat="40.765278" long="-111.833056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Salt Lake City">
+<candidates>
+<cand lat="40.75" long="-111.883333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Utah">
+<candidates>
+<cand lat="39.3601786049" long="-111.651046439" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="congratulate"/>
+<w tok="you"/>
+<w tok="and"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="on"/>
+<w tok="their"/>
+<w tok="heroic"/>
+<w tok="conduct"/>
+<w tok="and"/>
+<w tok="brilliant"/>
+<w tok="victory"/>
+<w tok="on"/>
+<toponym term="Bear River">
+<candidates>
+<cand lat="41.615278" long="-112.125556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="are"/>
+<w tok="this"/>
+<w tok="day"/>
+<w tok="appointed"/>
+<w tok="a"/>
+<w tok="brigadier-general"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok="."/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

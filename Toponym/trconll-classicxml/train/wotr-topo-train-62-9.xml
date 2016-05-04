@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-9" title="62" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="Honorable"/>
+<w tok="S."/>
+<w tok="H."/>
+<w tok="Boyd"/>
+<w tok=","/>
+<w tok="member"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="House"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="State"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="received"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="W."/>
+<w tok="Davidson"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="at"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7465010451" long="-92.2822458346" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="speaks"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="&quot;"/>
+<w tok="conciliatory"/>
+<w tok="policy"/>
+<w tok=":"/>
+<w tok="&quot;"/>
+<w tok="&quot;"/>
+<w tok="I"/>
+<w tok="wrote"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="introduction"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="for"/>
+<w tok="Mr."/>
+<w tok="E."/>
+<w tok="W."/>
+<w tok="Gantt"/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="reclaimed"/>
+<w tok="rebel"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="all"/>
+<w tok="for"/>
+<w tok="him"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="desires"/>
+<w tok="the"/>
+<w tok="good"/>
+<w tok="of"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="sound"/>
+<w tok=","/>
+<w tok="not"/>
+<w tok="only"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="emancipation"/>
+<w tok="proclamation"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="question"/>
+<w tok="and"/>
+<w tok="desires"/>
+<w tok="a"/>
+<w tok="convention"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="to"/>
+<w tok="repeal"/>
+<w tok="the"/>
+<w tok="slavery"/>
+<w tok="clause"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="constitution"/>
+<w tok="of"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="find"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="of"/>
+<w tok="talent"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="acts"/>
+<w tok="with"/>
+<w tok="that"/>
+<w tok="great"/>
+<w tok="party"/>
+<w tok="which"/>
+<w tok="proclaims"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="universal"/>
+<w tok="emancipation"/>
+<w tok="."/>
+<w tok="Gantt"/>
+<w tok="stands"/>
+<w tok="high"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="course"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="taken"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="tell"/>
+<w tok="you"/>
+<w tok="all"/>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="conciliatory"/>
+<w tok="policy"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok=","/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="hour"/>
+<w tok=","/>
+<w tok="ninety"/>
+<w tok="days"/>
+<w tok="after"/>
+<w tok="we"/>
+<w tok="took"/>
+<w tok="possession"/>
+<w tok="of"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7465010451" long="-92.2822458346" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="reclaimed"/>
+<w tok="one"/>
+<w tok="rebel"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="dishearting"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="really"/>
+<w tok="Union"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="disgusting"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="whole"/>
+<w tok="army"/>
+<w tok="."/>
+<w tok="&quot;"/>
+<w tok="All"/>
+<w tok="the"/>
+<w tok="stories"/>
+<w tok="you"/>
+<w tok="see"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Chicago"/>
+<w tok="Times"/>
+<w tok="about"/>
+<w tok="secessionists"/>
+<w tok="coming"/>
+<w tok="in"/>
+<w tok="and"/>
+<w tok="laying"/>
+<w tok="down"/>
+<w tok="their"/>
+<w tok="arms"/>
+<w tok="and"/>
+<w tok="their"/>
+<w tok="prejudices"/>
+<w tok="are"/>
+<w tok="sheer"/>
+<w tok="lies"/>
+<w tok="."/>
+<w tok="Those"/>
+<w tok="who"/>
+<w tok="come"/>
+<w tok="in"/>
+<w tok="were"/>
+<w tok="always"/>
+<w tok="Union"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="not"/>
+<w tok="made"/>
+<w tok="so"/>
+<w tok="by"/>
+<w tok="any"/>
+<w tok="conciliatory"/>
+<w tok="policy"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="hunted"/>
+<w tok="like"/>
+<w tok="game"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="hills"/>
+<w tok="of"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="coming"/>
+<w tok="in"/>
+<w tok="because"/>
+<w tok="they"/>
+<w tok="found"/>
+<w tok="a"/>
+<w tok="rallying"/>
+<w tok="point-a"/>
+<w tok="Federal"/>
+<w tok="army"/>
+<w tok="."/>
+<w tok="Not"/>
+<w tok="one"/>
+<w tok="rebel"/>
+<w tok="in"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7465010451" long="-92.2822458346" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="come"/>
+<w tok="forward"/>
+<w tok="and"/>
+<w tok="renewed"/>
+<w tok="his"/>
+<w tok="allegiance"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="Government"/>
+<w tok=","/>
+<w tok="nor"/>
+<w tok="no"/>
+<w tok="conciliatory"/>
+<w tok="policy"/>
+<w tok="could"/>
+<w tok="make"/>
+<w tok="them"/>
+<w tok="do"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="it"/>
+<w tok="makes"/>
+<w tok="them"/>
+<w tok="only"/>
+<w tok="more"/>
+<w tok=","/>
+<w tok="obstinate"/>
+<w tok="in"/>
+<w tok="their"/>
+<w tok="opinions"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="may"/>
+<w tok="rely"/>
+<w tok="on"/>
+<w tok="what"/>
+<w tok="I"/>
+<w tok="write"/>
+<w tok="you"/>
+<w tok="as"/>
+<w tok="facts"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Union"/>
+<w tok="men"/>
+<w tok="of"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="&apos;unconditional"/>
+<w tok="Union"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="&apos;"/>
+<w tok="and"/>
+<w tok=","/>
+<w tok="strange"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="appear"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="favor"/>
+<w tok="of"/>
+<w tok="expunging"/>
+<w tok="the"/>
+<w tok="perpetual"/>
+<w tok="slavery"/>
+<w tok="clause"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="any"/>
+<w tok="other"/>
+<w tok="slavery"/>
+<w tok="clause"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="constitution"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="can"/>
+<w tok="use"/>
+<w tok="my"/>
+<w tok="name"/>
+<w tok="for"/>
+<w tok="these"/>
+<w tok="facts"/>
+<w tok="whenever"/>
+<w tok="you"/>
+<w tok="please"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="vouched"/>
+<w tok="for"/>
+<w tok="by"/>
+<w tok="Gantt"/>
+<w tok=","/>
+<w tok="Judge"/>
+<w tok="Isaac"/>
+<w tok="Murphy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="thorough"/>
+<w tok="Union"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="my"/>
+<w tok="own"/>
+<w tok="observation"/>
+<w tok="."/>
+<w tok="&quot;"/>
+</s>
+</doc>

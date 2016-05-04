@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-100" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Denver">
+<candidates>
+<cand lat="39.76185" long="-104.881105" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0026106961" long="-105.541287554" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="G."/>
+<w tok="H."/>
+<w tok="HARDIN"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cav"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Co."/>
+<w tok="G"/>
+<w tok=","/>
+<toponym term="Camp Wild">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0026106961" long="-105.541287554" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="weather"/>
+<w tok="now"/>
+<w tok="having"/>
+<w tok="moderated"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="proceed"/>
+<w tok="with"/>
+<w tok="Company"/>
+<w tok="G"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="scene"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="Indian"/>
+<w tok="depredations"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="STILWELL"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

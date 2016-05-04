@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-14" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="Finegan"/>
+<w tok="reports"/>
+<w tok="enemy"/>
+<w tok="moved"/>
+<w tok="in"/>
+<w tok="large"/>
+<w tok="force"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="artillery"/>
+<w tok="from"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<toponym term="Baldwin">
+<candidates>
+<cand lat="30.303889" long="-81.975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Gardner"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="re-enforce"/>
+<w tok="him"/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="available"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Force"/>
+<w tok="sent"/>
+<w tok="from"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="already"/>
+<w tok="been"/>
+<w tok="reported"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

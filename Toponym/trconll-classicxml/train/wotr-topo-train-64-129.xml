@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-129" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="ask"/>
+<w tok="permission"/>
+<w tok="to"/>
+<w tok="issue"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="property"/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="citizen"/>
+<w tok="guards"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="prize"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="captors"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="an"/>
+<w tok="incentive"/>
+<w tok="for"/>
+<w tok="active"/>
+<w tok="co-operation"/>
+<w tok="against"/>
+<w tok="these"/>
+<w tok="demons"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

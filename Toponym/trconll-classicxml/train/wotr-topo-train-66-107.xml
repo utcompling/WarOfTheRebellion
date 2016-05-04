@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-107" title="66" domain="wotr">
+<s id="s1">
+<toponym term="CITY POINT">
+<candidates>
+<cand lat="37.315" long="-77.276944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.5314696432" long="-78.7182098579" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864-5.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="25th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Please"/>
+<w tok="direct"/>
+<w tok="General"/>
+<w tok="Foster"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="William"/>
+<w tok="Birney"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Butler"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="his"/>
+<w tok="services"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="dispensed"/>
+<w tok="with"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="brigade"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="brought"/>
+<w tok="here"/>
+<w tok="if"/>
+<w tok="General"/>
+<w tok="Foster"/>
+<w tok="thinks"/>
+<w tok="he"/>
+<w tok="can"/>
+<w tok="do"/>
+<w tok="without"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Whilst"/>
+<w tok="operations"/>
+<w tok="continue"/>
+<w tok="here"/>
+<w tok="much"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="done"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok="except"/>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="what"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="got"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok="."/>
+</s>
+</doc>

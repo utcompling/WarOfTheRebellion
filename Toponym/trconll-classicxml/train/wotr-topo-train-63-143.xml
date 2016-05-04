@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-143" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Do"/>
+<w tok="not"/>
+<w tok="arm"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="home"/>
+<w tok="guards"/>
+<w tok="without"/>
+<w tok="great"/>
+<w tok="necessity"/>
+<w tok=","/>
+<w tok="nor"/>
+<w tok="any"/>
+<w tok="in"/>
+<w tok="places"/>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="leading"/>
+<w tok=","/>
+<w tok="thoroughly"/>
+<w tok="loyal"/>
+<w tok="element"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="the"/>
+<w tok="basis"/>
+<w tok="and"/>
+<w tok="satisfied"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="basis"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="voluntary"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="practicable"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

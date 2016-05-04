@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-13" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Morganza">
+<candidates>
+<cand lat="30.735556" long="-91.61" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="LAWLER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detachment"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="hold"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="moment"/>
+<w tok="&apos;s"/>
+<w tok="notice"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="ambulances"/>
+<w tok="but"/>
+<w tok="without"/>
+<w tok="wagons"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="park"/>
+<w tok="your"/>
+<w tok="wagons"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="secure"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="FREDERIC"/>
+<w tok="SPEED"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

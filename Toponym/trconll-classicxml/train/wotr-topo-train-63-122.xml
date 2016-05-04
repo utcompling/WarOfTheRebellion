@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-122" title="63" domain="wotr">
+<s id="s1">
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Lieutenant"/>
+<w tok="A."/>
+<w tok="L."/>
+<w tok="GOODING"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Colorado"/>
+<w tok="Cavalry"/>
+<w tok="("/>
+<w tok="Through"/>
+<w tok="Colonel"/>
+<w tok="James"/>
+<w tok="H."/>
+<w tok="Ford"/>
+<w tok=","/>
+<w tok="comdg"/>
+<w tok="."/>
+<w tok="4th"/>
+<w tok="Sub-Dist."/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="LIEUTENANT"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok=","/>
+<w tok="through"/>
+<w tok="headquarters"/>
+<w tok="Fourth"/>
+<w tok="Sub-district"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="8th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="thorough"/>
+<w tok="and"/>
+<w tok="efficient"/>
+<w tok="manner"/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="scouted"/>
+<w tok="the"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="country"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="subsequent"/>
+<w tok="excellent"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok=","/>
+<w tok="merits"/>
+<w tok="and"/>
+<w tok="receives"/>
+<w tok="the"/>
+<w tok="thanks"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="."/>
+<w tok="Such"/>
+<w tok="work"/>
+<w tok="will"/>
+<w tok="certainly"/>
+<w tok="prevent"/>
+<w tok="bushwhackers"/>
+<w tok="from"/>
+<w tok="obtaining"/>
+<w tok="a"/>
+<w tok="hold"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="STEGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

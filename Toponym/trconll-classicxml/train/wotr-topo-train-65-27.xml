@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-27" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="additional"/>
+<w tok="news"/>
+<w tok="from"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="here"/>
+<w tok=";"/>
+<w tok="enemy"/>
+<w tok="shelling"/>
+<w tok="city"/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok=";"/>
+<w tok="damage"/>
+<w tok="slight"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Hill"/>
+<w tok="telegraphs"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="here"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="same"/>
+<w tok="evening"/>
+<w tok="for"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Anderson"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="reported"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="know"/>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok=","/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="and"/>
+<w tok="Insp"/>
+<w tok="."/>
+<w tok="General"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

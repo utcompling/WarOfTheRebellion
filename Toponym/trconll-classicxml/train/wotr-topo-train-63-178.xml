@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-178" title="63" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DIST"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="MINN."/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="NORTHWEST"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.3915284595" long="-94.1155242782" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="C."/>
+<w tok="HATCH"/>
+<w tok=","/>
+<w tok="Independent"/>
+<w tok="Battalion"/>
+<w tok=","/>
+<toponym term="Fort Abecrombie">
+<candidates>
+<cand lat="46.4448" long="-96.71859" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="Orders"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="issued"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Fort Abercrombie">
+<candidates>
+<cand lat="46.4448" long="-96.71859" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="turn"/>
+<w tok="over"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="immediately"/>
+<w tok="upon"/>
+<w tok="your"/>
+<w tok="arrival"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="battalion"/>
+<w tok="from"/>
+<toponym term="Pembina">
+<candidates>
+<cand lat="48.78" long="-96.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="march"/>
+<w tok="to"/>
+<toponym term="Sauk Center">
+<candidates>
+<cand lat="45.736389" long="-94.954167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="least"/>
+<w tok="possible"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="retain"/>
+<w tok="three"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="battalion"/>
+<w tok="at"/>
+<toponym term="Fort Abercrombie">
+<candidates>
+<cand lat="46.4448" long="-96.71859" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="detached"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="perform"/>
+<w tok="patrol"/>
+<w tok="duty"/>
+<w tok="along"/>
+<w tok="and"/>
+<w tok="down"/>
+<w tok="the"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="season"/>
+<w tok="will"/>
+<w tok="permit"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="to"/>
+<w tok="Pembina"/>
+<w tok="and"/>
+<w tok="keep"/>
+<w tok="open"/>
+<w tok="communication"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="dispatch"/>
+<w tok="one"/>
+<w tok="full"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="equally"/>
+<w tok="divided"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="Minnesota"/>
+<w tok="Volunteers"/>
+<w tok="at"/>
+<toponym term="Pomme de Terre">
+<candidates>
+<cand lat="46.070833" long="-95.946667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="45.885233" long="-95.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="garrison"/>
+<w tok="those"/>
+<w tok="posts"/>
+<w tok="until"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="upward"/>
+<w tok="of"/>
+<w tok="80"/>
+<w tok="recruits"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="battalion"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Fort Snelling">
+<candidates>
+<cand lat="44.892778" long="-93.180556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="detained"/>
+<w tok="until"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="dispatched"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="now"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok="from"/>
+<toponym term="Detroit">
+<candidates>
+<cand lat="42.331389" long="-83.045833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="As"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok="after"/>
+<w tok="your"/>
+<w tok="arrival"/>
+<w tok="at"/>
+<toponym term="Fort Abercrombie">
+<candidates>
+<cand lat="46.4448" long="-96.71859" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="dispatch"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="chiefs"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="in"/>
+<w tok="custody"/>
+<w tok="to"/>
+<toponym term="Fort Abercrombie">
+<candidates>
+<cand lat="46.4448" long="-96.71859" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="dispatch"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="chiefs"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="in"/>
+<w tok="custody"/>
+<w tok="to"/>
+<toponym term="Fort Snelling">
+<candidates>
+<cand lat="44.892778" long="-93.180556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="guard"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Sibley"/>
+<w tok=":"/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="OLIN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

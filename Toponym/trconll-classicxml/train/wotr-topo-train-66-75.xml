@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-75" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9079636749" long="-77.0446581631" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="a"/>
+<w tok="letter+"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Samuel"/>
+<w tok="Jones"/>
+<w tok=","/>
+<w tok="covering"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Adjutant-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="from"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="Wessells"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="general"/>
+<w tok="officers"/>
+<w tok="now"/>
+<w tok="prisoners"/>
+<w tok="of"/>
+<w tok="war"/>
+<w tok="in"/>
+<toponym term="Charleston">
+<candidates>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="also"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="reply+"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Samuel"/>
+<w tok="Jones"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="it"/>
+<w tok="meets"/>
+<w tok="the"/>
+<w tok="views"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok="to"/>
+<w tok="exchange"/>
+<w tok="these"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="rank"/>
+<w tok="for"/>
+<w tok="rank"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="its"/>
+<w tok="equivalent"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="ask"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="requisite"/>
+<w tok="authority"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="given"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="see"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="exchange"/>
+<w tok="is"/>
+<w tok="properly"/>
+<w tok="conducted"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

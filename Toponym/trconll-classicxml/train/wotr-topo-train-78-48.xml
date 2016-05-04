@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-48" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=","/>
+<toponym term="Camp Nelson">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="word"/>
+<w tok="by"/>
+<w tok="couriers"/>
+<w tok="from"/>
+<toponym term="Georgetown">
+<candidates>
+<cand lat="38.209722" long="-84.56" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="11"/>
+<w tok="."/>
+<w tok="40"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="parties"/>
+<w tok="toward"/>
+<toponym term="Mount Sterling">
+<candidates>
+<cand lat="38.056667" long="-83.944444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="capture"/>
+<w tok="straggling"/>
+<w tok="rebels"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="authorized"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="offer"/>
+<w tok="a"/>
+<w tok="reward"/>
+<w tok="of"/>
+<w tok="$"/>
+<w tok="1,000"/>
+<w tok="to"/>
+<w tok="any"/>
+<w tok="one"/>
+<w tok="who"/>
+<w tok="shall"/>
+<w tok="capture"/>
+<w tok="Colonel"/>
+<w tok="D."/>
+<w tok="Howard"/>
+<w tok="Smith"/>
+<w tok="."/>
+<w tok="Three"/>
+<w tok="hundred"/>
+<w tok="prisoners"/>
+<w tok="are"/>
+<w tok="just"/>
+<w tok="coming"/>
+<w tok="in"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="spare"/>
+<w tok=","/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="two"/>
+<w tok="good"/>
+<w tok="couriers"/>
+<w tok=","/>
+<w tok="one"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Hamilton"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="sent"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="for"/>
+<w tok="both"/>
+<w tok="parties"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="toward"/>
+<toponym term="Mount Sterling">
+<candidates>
+<cand lat="38.056667" long="-83.944444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="informing"/>
+<w tok="them"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="reward"/>
+<w tok="offered"/>
+<w tok="for"/>
+<w tok="Colonel"/>
+<w tok="Smith"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

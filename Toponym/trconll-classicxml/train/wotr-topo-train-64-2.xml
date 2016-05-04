@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-2" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7609239432" long="-104.9652184" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="CHARLOT"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Kans."/>
+<w tok=","/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.34" long="-939.355" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans">
+<candidates>
+<cand lat="38.4783644923" long="-98.322752921" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Lieutenant"/>
+<w tok="George"/>
+<w tok="S."/>
+<w tok="Eayre"/>
+<w tok=","/>
+<w tok="Independent"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Colorado"/>
+<w tok="Volunteer"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="O&apos;Brien"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="at"/>
+<toponym term="Cottonwood">
+<candidates>
+<cand lat="38.385833" long="-96.056389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="some"/>
+<w tok="fears"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="latter"/>
+<w tok="has"/>
+<w tok="reference"/>
+<w tok="to"/>
+<w tok="Lieutenant"/>
+<w tok="George"/>
+<w tok="S."/>
+<w tok="Eayre"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Independent"/>
+<w tok="Battery"/>
+<w tok=","/>
+<w tok="Colorado"/>
+<w tok="Volunteer"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="one"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="battery"/>
+<w tok=","/>
+<w tok="two"/>
+<w tok="mountain"/>
+<w tok="howitzers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="40"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="went"/>
+<w tok="out"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="24th"/>
+<w tok="day"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="("/>
+<w tok="Cheyennes"/>
+<w tok=")"/>
+<w tok="who"/>
+<w tok="stole"/>
+<w tok="Irwin"/>
+<w tok=","/>
+<w tok="Jackman"/>
+<w tok="&amp;"/>
+<w tok="Co."/>
+<w tok="&apos;s"/>
+<w tok="cattle"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="instructed"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="by"/>
+<w tok="couriers"/>
+<w tok="until"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="near"/>
+<w tok="to"/>
+<toponym term="Lyon">
+<candidates>
+<cand lat="38.074167" long="-103.1325" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Larned">
+<candidates>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="did"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="day"/>
+<w tok="of"/>
+<w tok="May"/>
+<w tok=","/>
+<w tok="since"/>
+<w tok="which"/>
+<w tok="time"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="heard"/>
+<w tok="nothing"/>
+<w tok="from"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="felt"/>
+<w tok="no"/>
+<w tok="uneasiness"/>
+<w tok="until"/>
+<w tok="now"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="reason"/>
+<w tok="that"/>
+<w tok="high"/>
+<w tok="water"/>
+<w tok="has"/>
+<w tok="caused"/>
+<w tok="great"/>
+<w tok="irregularity"/>
+<w tok="of"/>
+<w tok="mails"/>
+<w tok=","/>
+<w tok="particularly"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="O&apos;Brien"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="any"/>
+<w tok="information"/>
+<w tok="he"/>
+<w tok="could"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="send"/>
+<w tok="by"/>
+<w tok="courier"/>
+<w tok="to"/>
+<toponym term="Fort Lyon">
+<candidates>
+<cand lat="38.074167" long="-103.1325" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="any"/>
+<w tok="information"/>
+<w tok="they"/>
+<w tok="had"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="whereabouts"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Eayre"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="These"/>
+<w tok="Indians"/>
+<w tok="I"/>
+<w tok="fear"/>
+<w tok="are"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="our"/>
+<w tok="out"/>
+<w tok="settlements"/>
+<w tok="a"/>
+<w tok="bad"/>
+<w tok="time"/>
+<w tok="this"/>
+<w tok="season"/>
+<w tok="."/>
+<w tok="Most"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<toponym term="Colorado">
+<candidates>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="march"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="southeast"/>
+<w tok="corner"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="but"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="are"/>
+<w tok="under"/>
+<w tok="orders"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="destination"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="company"/>
+<w tok="is"/>
+<w tok="left"/>
+<w tok="at"/>
+<toponym term="Fremont&apos;s Orchard">
+<candidates>
+<cand lat="40.559167" long="-105.078056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="at"/>
+<toponym term="Fort Garland">
+<candidates>
+<cand lat="37.42397" long="-105.43224" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="much"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

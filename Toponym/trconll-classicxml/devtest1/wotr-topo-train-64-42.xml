@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-42" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SAINT JOSEPH">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Gregory"/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="Seventh"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Palmyra">
+<candidates>
+<cand lat="39.7975" long="-91.524722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="reach"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Tuesday"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

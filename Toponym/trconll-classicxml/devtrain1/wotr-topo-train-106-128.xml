@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-128" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<toponym term="OREGON">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Fort Vancouver">
+<candidates>
+<cand lat="45.622583" long="-122.662367" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wash. Ter.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="A."/>
+<w tok="C."/>
+<w tok="GIBBS"/>
+<w tok=","/>
+<w tok="Governor"/>
+<w tok="of"/>
+<w tok="Oregon"/>
+<w tok=","/>
+<toponym term="Salem">
+<candidates>
+<cand lat="44.930833" long="-123.028889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Oreg.">
+<candidates>
+<cand lat="43.9648146975" long="-120.640257188" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Who"/>
+<w tok="are"/>
+<w tok="&quot;"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="?"/>
+<w tok="&quot;"/>
+<w tok="The"/>
+<w tok="third"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="tenth"/>
+<w tok="article"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="constitution"/>
+<w tok="of"/>
+<toponym term="Oregon">
+<candidates>
+<cand lat="43.9648146975" long="-120.640257188" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="says"/>
+<w tok=":"/>
+<w tok="&quot;"/>
+<w tok="The"/>
+<w tok="Governor"/>
+<w tok="shall"/>
+<w tok="appoint"/>
+<w tok="the"/>
+<w tok="adjutant-general"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="chief"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="staff"/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="own"/>
+<w tok="staff"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="elected"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="persons"/>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok="military"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="their"/>
+<w tok="respective"/>
+<w tok="districts."/>
+<w tok="&quot;"/>
+<w tok="My"/>
+<w tok="opinion"/>
+<w tok="is"/>
+<w tok="requested"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="meaning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="term"/>
+<w tok="&quot;"/>
+<w tok="all"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="&quot;"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="paragraph"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="understand"/>
+<w tok="by"/>
+<w tok="this"/>
+<w tok="all"/>
+<w tok="regimental"/>
+<w tok="and"/>
+<w tok="company"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="colonels"/>
+<w tok=","/>
+<w tok="lieutenant-colonels"/>
+<w tok=","/>
+<w tok="majors"/>
+<w tok=","/>
+<w tok="captains"/>
+<w tok=","/>
+<w tok="first"/>
+<w tok="lieutenants"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="second"/>
+<w tok="lieutenants"/>
+<w tok=","/>
+<w tok="either"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="understand"/>
+<w tok="the"/>
+<w tok="constitution"/>
+<w tok="to"/>
+<w tok="confer"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="Governor"/>
+<w tok="the"/>
+<w tok="appointment"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="other"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="every"/>
+<w tok="branch"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="staff"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="See"/>
+<w tok="Colonel"/>
+<w tok="H."/>
+<w tok="L."/>
+<w tok="Scott"/>
+<w tok="&apos;s"/>
+<w tok="Military"/>
+<w tok="Dictionary"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="389"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="phrase"/>
+<w tok="&quot;"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="staff"/>
+<w tok="&quot;"/>
+<w tok="must"/>
+<w tok="include"/>
+<w tok="all"/>
+<w tok="officers"/>
+<w tok="not"/>
+<w tok="regimental"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="general"/>
+<w tok="officers"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="See"/>
+<w tok="Halleck"/>
+<w tok="&apos;s"/>
+<w tok="Military"/>
+<w tok="Act"/>
+<w tok=","/>
+<w tok="p."/>
+<w tok="236"/>
+<w tok=","/>
+<w tok="first"/>
+<w tok="edition"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="BENJ"/>
+<w tok="."/>
+<w tok="ALVORD"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

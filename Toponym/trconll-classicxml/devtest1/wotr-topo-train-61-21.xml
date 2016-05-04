@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-21" title="61" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="ROLLA"/>
+<w tok=","/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="forwarded"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="here"/>
+<w tok="take"/>
+<w tok="occasion"/>
+<w tok="to"/>
+<w tok="remark"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="at"/>
+<toponym term="Waynesville">
+<candidates>
+<cand lat="37.820278" long="-92.213611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="always"/>
+<w tok="exhibited"/>
+<w tok="creditable"/>
+<w tok="zeal"/>
+<w tok="in"/>
+<w tok="ridding"/>
+<w tok="the"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="hors"/>
+<w tok="thieves"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="deserves"/>
+<w tok="the"/>
+<w tok="praise"/>
+<w tok="and"/>
+<w tok="confidence"/>
+<w tok="of"/>
+<w tok="those"/>
+<w tok="in"/>
+<w tok="authority"/>
+<w tok="."/>
+<w tok="JOS"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="EPSTEIN"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-169" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10.30"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="When"/>
+<w tok="will"/>
+<w tok="order"/>
+<w tok="reach"/>
+<w tok="me"/>
+<w tok="ordering"/>
+<w tok="my"/>
+<w tok="regiment"/>
+<w tok="to"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="suppose"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="order"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="at"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="there"/>
+<w tok="until"/>
+<w tok="my"/>
+<w tok="arrival"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok="for"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

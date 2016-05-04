@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-75" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Jeremiah"/>
+<w tok="C."/>
+<w tok="Sullivan"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<toponym term="HARPER&apos;S FERRY">
+<candidates>
+<cand lat="39.325398" long="-77.743599" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="W. VA.">
+<candidates>
+<cand lat="38.6181240043" long="-80.7432235798" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="prisoners"/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="Major"/>
+<w tok="Cole"/>
+<w tok="are"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Mosby"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Mosby"/>
+<w tok="to-day"/>
+<w tok="received"/>
+<w tok="his"/>
+<w tok="commission"/>
+<w tok="of"/>
+<w tok="lieutenant-colonel"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="officers"/>
+<w tok="were"/>
+<w tok="dressed"/>
+<w tok="up"/>
+<w tok=","/>
+<w tok="celebrating"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Cole"/>
+<w tok="caught"/>
+<w tok="them"/>
+<w tok="with"/>
+<w tok="their"/>
+<w tok="good"/>
+<w tok="clothes"/>
+<w tok="on"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="loss"/>
+<w tok="2"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="missing"/>
+<w tok="."/>
+<w tok="Rebels"/>
+<w tok="&apos;"/>
+<w tok=","/>
+<w tok="5"/>
+<w tok="killed"/>
+<w tok=";"/>
+<w tok="wounded"/>
+<w tok="unknown"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="C."/>
+<w tok="SULLIVAN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="KELLEY"/>
+<w tok="."/>
+</s>
+</doc>

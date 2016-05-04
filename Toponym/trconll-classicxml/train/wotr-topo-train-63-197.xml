@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-197" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WAUGH"/>
+<w tok=","/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="telegraphed"/>
+<w tok="you"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="want"/>
+<w tok="those"/>
+<w tok="guerrillas"/>
+<w tok="captured"/>
+<w tok=","/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="dispersed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="line"/>
+<w tok="kept"/>
+<w tok="in"/>
+<w tok="order"/>
+<w tok="."/>
+<w tok="Where"/>
+<w tok="do"/>
+<w tok="300"/>
+<w tok="or"/>
+<w tok="400"/>
+<w tok="guerrillas"/>
+<w tok="come"/>
+<w tok="from"/>
+<w tok="?"/>
+<w tok="If"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="indifferently"/>
+<w tok="armed"/>
+<w tok=","/>
+<w tok="take"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="have"/>
+<w tok="done"/>
+<w tok="well"/>
+<w tok="in"/>
+<w tok="capturing"/>
+<w tok="24"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="better"/>
+<w tok="by"/>
+<w tok="killing"/>
+<w tok="or"/>
+<w tok="capturing"/>
+<w tok="the"/>
+<w tok="rest"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="Colonel"/>
+<w tok="Fuller"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="some"/>
+<w tok="force"/>
+<w tok="from"/>
+<toponym term="Dardanelle">
+<candidates>
+<cand lat="35.2225" long="-93.160278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="100"/>
+<w tok="resolute"/>
+<w tok=","/>
+<w tok="energetic"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="right"/>
+<w tok="ought"/>
+<w tok="to"/>
+<w tok="kill"/>
+<w tok="and"/>
+<w tok="capture"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="scoundrels"/>
+<w tok="around"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="do"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="force"/>
+<w tok="here"/>
+<w tok="to"/>
+<w tok="re-enforce"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Seize"/>
+<w tok="and"/>
+<w tok="impress"/>
+<w tok="horses"/>
+<w tok="belonging"/>
+<w tok="to"/>
+<w tok="rebels"/>
+<w tok="and"/>
+<w tok="their"/>
+<w tok="sympathizers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="drive"/>
+<w tok="every"/>
+<w tok="disloyal"/>
+<w tok="man"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="."/>
+<w tok="Hang"/>
+<w tok="or"/>
+<w tok="shoot"/>
+<w tok="every"/>
+<w tok="devil"/>
+<w tok="who"/>
+<w tok="robs"/>
+<w tok="and"/>
+<w tok="murders"/>
+<w tok="citizens"/>
+<w tok="or"/>
+<w tok="destroyers"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="."/>
+<w tok="Take"/>
+<w tok="good"/>
+<w tok="care"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="loyal"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="women"/>
+<w tok="and"/>
+<w tok="children"/>
+<w tok="."/>
+<w tok="Do"/>
+<w tok="n&apos;t"/>
+<w tok="burn"/>
+<w tok="any"/>
+<w tok="houses"/>
+<w tok="nor"/>
+<w tok="destroy"/>
+<w tok="other"/>
+<w tok="property"/>
+<w tok="."/>
+<w tok="Destroy"/>
+<w tok="the"/>
+<w tok="scoundrels"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="will"/>
+<w tok="hurt"/>
+<w tok="no"/>
+<w tok="one"/>
+<w tok="."/>
+<w tok="NATHAN"/>
+<w tok="KIMBALL"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

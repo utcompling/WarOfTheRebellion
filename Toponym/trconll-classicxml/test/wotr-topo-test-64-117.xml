@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-117" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="orders"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Clayton"/>
+<w tok="be"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="also"/>
+<w tok="that"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="navy"/>
+<w tok=":"/>
+<toponym term="PINE BLUFF">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Captain"/>
+<w tok="Moore"/>
+<w tok="with"/>
+<w tok="150"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="returned"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="four-day"/>
+<w tok="scout"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="north"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="went"/>
+<w tok="to"/>
+<toponym term="Arkansas Post">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Reports"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="clear"/>
+<w tok="upon"/>
+<w tok="that"/>
+<w tok="side"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="exception"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="straggling"/>
+<w tok="bands"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="reports"/>
+<w tok="Marmaduke"/>
+<w tok="on"/>
+<toponym term="Bayou Bartholomew">
+<candidates>
+<cand lat="32.72291" long="-92.06402" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="crossing"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Monticello and Arkansas Post road">
+<candidates>
+</candidates>
+</toponym>
+<w tok="POWELL"/>
+<w tok="CLAYTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Carr"/>
+<w tok=":"/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="MINER"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

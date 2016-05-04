@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-74" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="Allston"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="Twenty-seventh"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="relieved"/>
+<w tok="Captain"/>
+<w tok="Hammond"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="Twenty-fifth"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="steamer"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="wharf"/>
+<w tok="without"/>
+<w tok="a"/>
+<w tok="proper"/>
+<w tok="head"/>
+<w tok="of"/>
+<w tok="steam"/>
+<w tok="and"/>
+<w tok="began"/>
+<w tok="drifting"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="tide"/>
+<w tok="below"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="."/>
+<w tok="Seeing"/>
+<w tok="that"/>
+<w tok="she"/>
+<w tok="ran"/>
+<w tok="great"/>
+<w tok="risk"/>
+<w tok="of"/>
+<w tok="being"/>
+<w tok="fired"/>
+<w tok="into"/>
+<w tok="by"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="directed"/>
+<w tok="both"/>
+<w tok="the"/>
+<w tok="telegraphic"/>
+<w tok="and"/>
+<w tok="signal"/>
+<w tok="operators"/>
+<w tok="to"/>
+<w tok="call"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="tried"/>
+<w tok="for"/>
+<w tok="twenty"/>
+<w tok="minutes"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="12.30"/>
+<w tok="to"/>
+<w tok="12.50"/>
+<w tok=","/>
+<w tok="without"/>
+<w tok="success"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="the"/>
+<w tok="wharf"/>
+<w tok=";"/>
+<w tok="injured"/>
+<w tok="part"/>
+<w tok="successfully"/>
+<w tok="removed"/>
+<w tok="by"/>
+<w tok="Major"/>
+<w tok="Rhett"/>
+<w tok=","/>
+<w tok="surgeon"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok="."/>
+</s>
+</doc>

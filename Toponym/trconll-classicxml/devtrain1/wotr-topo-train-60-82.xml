@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-82" title="60" domain="wotr">
+<s id="s1">
+<toponym term="NEW CREEK">
+<candidates>
+<cand lat="39.375" long="-79.026667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="W. VA.">
+<candidates>
+<cand lat="38.6181240043" long="-80.7432235798" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="MATHEWS"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=";"/>
+<w tok="Captain"/>
+<w tok="Wallace"/>
+<w tok="just"/>
+<w tok="in"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="to"/>
+<toponym term="Moorefield">
+<candidates>
+<cand lat="39.066667" long="-78.966667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="captured"/>
+<w tok="Lieutenant"/>
+<w tok="Parker"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="privates"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="3"/>
+<w tok="horses"/>
+<w tok="."/>
+<w tok="Parker"/>
+<w tok="is"/>
+<w tok="first"/>
+<w tok="lieutenant"/>
+<w tok="of"/>
+<w tok="Kuykendall"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="officer"/>
+<w tok="who"/>
+<w tok="guarded"/>
+<w tok="Wallace"/>
+<w tok="to"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="MULLIGAN"/>
+<w tok=","/>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="KELLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

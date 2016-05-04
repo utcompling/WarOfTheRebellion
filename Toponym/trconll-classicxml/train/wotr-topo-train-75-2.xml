@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-2" title="75" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="OHIO"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-9"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="P."/>
+<w tok="HOVEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Twenty-third"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Ellidge&apos;s Mill">
+<candidates>
+</candidates>
+</toponym>
+<w tok="down"/>
+<w tok="to"/>
+<w tok="Lee"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="directions"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="and"/>
+<w tok="hold"/>
+<w tok="the"/>
+<w tok="gap"/>
+<w tok="leading"/>
+<w tok="from"/>
+<w tok="Lee"/>
+<w tok="&apos;s"/>
+<toponym term="Varnell&apos;s Station">
+<candidates>
+<cand lat="34.899444" long="-84.964444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="supply"/>
+<w tok="train"/>
+<w tok="leaves"/>
+<w tok="Lee"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="forward"/>
+<w tok="and"/>
+<w tok="join"/>
+<w tok="your"/>
+<w tok="division"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="a"/>
+<w tok="guide"/>
+<w tok="to"/>
+<w tok="conduct"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="division"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="CAMPBELL"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

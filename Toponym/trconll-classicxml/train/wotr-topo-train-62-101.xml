@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-101" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.76185" long="-104.881105" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0026106961" long="-105.541287554" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="G."/>
+<w tok="L."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cav"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<toponym term="Camp Wild">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0026106961" long="-105.541287554" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="proceed"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="company"/>
+<w tok="down"/>
+<w tok="the"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="41.053889" long="-95.881389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="obedience"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="orders"/>
+<w tok="already"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="STILWELL"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

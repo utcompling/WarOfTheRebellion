@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-212" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SAINT JOSEPH">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="P."/>
+<w tok="SANDERSON"/>
+<w tok=","/>
+<w tok="Provost-Marshal-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="H."/>
+<w tok="T."/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="his"/>
+<w tok="written"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="campaign"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="an"/>
+<w tok="extended"/>
+<w tok="report"/>
+<w tok="from"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="most"/>
+<w tok="reliable"/>
+<w tok="officers"/>
+<w tok="on"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="region"/>
+<w tok="through"/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="made"/>
+<w tok="his"/>
+<w tok="pilgrimage"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="his"/>
+<w tok="own"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="encouraged"/>
+<w tok="to"/>
+<w tok="regard"/>
+<w tok="him"/>
+<w tok="with"/>
+<w tok="favor"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Leonard"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok="is"/>
+<w tok="much"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="["/>
+<w tok="prejudice"/>
+<w tok="]"/>
+<w tok="and"/>
+<w tok="damaging"/>
+<w tok="to"/>
+<w tok="our"/>
+<w tok="cause"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

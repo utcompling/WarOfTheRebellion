@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-182" title="63" domain="wotr">
+<s id="s1">
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="last"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="transports"/>
+<w tok="having"/>
+<w tok="arrived"/>
+<w tok="form"/>
+<w tok="above"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="take"/>
+<w tok="this"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="opportunity"/>
+<w tok="of"/>
+<w tok="notifying"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Military"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mississippi"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="with"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="immediately"/>
+<w tok="to"/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7216941609" long="-89.6472661653" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

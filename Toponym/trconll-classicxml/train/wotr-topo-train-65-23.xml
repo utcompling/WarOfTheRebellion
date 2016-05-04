@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-23" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="sent"/>
+<w tok="General"/>
+<w tok="Taliaferro"/>
+<w tok="to"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="go"/>
+<w tok="there"/>
+<w tok="myself"/>
+<w tok="at"/>
+<w tok="proper"/>
+<w tok="moment"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="know"/>
+<w tok="him"/>
+<w tok=";"/>
+<w tok="have"/>
+<w tok="confidence"/>
+<w tok="in"/>
+<w tok="him"/>
+<w tok=";"/>
+<w tok="he"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="promoted"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="know"/>
+<w tok="enough"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Anderson"/>
+<w tok="to"/>
+<w tok="ask"/>
+<w tok="for"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="SEDDON"/>
+<w tok="."/>
+</s>
+</doc>

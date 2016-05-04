@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-31" title="78" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Memphis">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="STURGIS"/>
+<w tok=":"/>
+<w tok="Do"/>
+<w tok="you"/>
+<w tok="want"/>
+<w tok="any"/>
+<w tok="more"/>
+<w tok="cars"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="?"/>
+<w tok="Is"/>
+<w tok="there"/>
+<w tok="any"/>
+<w tok="truth"/>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="moving"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Collierville">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="White&apos;s Station">
+<candidates>
+<cand lat="35.101944" long="-89.859722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="mentioned"/>
+<w tok="a"/>
+<w tok="while"/>
+<w tok="since"/>
+<w tok="?"/>
+<w tok="Are"/>
+<w tok="you"/>
+<w tok="perfectly"/>
+<w tok="safe"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="do"/>
+<w tok="you"/>
+<w tok="want"/>
+<w tok="anything"/>
+<w tok="?"/>
+<w tok="C."/>
+<w tok="C."/>
+<w tok="WASHBURN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

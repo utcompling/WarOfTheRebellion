@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-9" title="65" domain="wotr">
+<s id="s1">
+<toponym term="SAVANNAH">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Nothing"/>
+<w tok="important"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="return"/>
+<w tok="to-morrow"/>
+<w tok="to"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Enemy"/>
+<w tok="has"/>
+<w tok="recommenced"/>
+<w tok="shelling"/>
+<toponym term="Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="of"/>
+<w tok="course"/>
+<w tok="with"/>
+<w tok="little"/>
+<w tok="effect"/>
+<w tok=","/>
+<w tok="bomb-proof"/>
+<w tok="being"/>
+<w tok="in"/>
+<w tok="excellent"/>
+<w tok="condition"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

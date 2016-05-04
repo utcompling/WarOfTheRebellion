@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-111" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="25,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Florida"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Upon"/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok="and"/>
+<w tok="four"/>
+<w tok="pieces"/>
+<w tok="and"/>
+<w tok="caissons"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="light"/>
+<w tok="battery"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="regiment"/>
+<w tok="will"/>
+<w tok="bring"/>
+<w tok="its"/>
+<w tok="knapsacks"/>
+<w tok=","/>
+<w tok="shelter-tents"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="camp"/>
+<w tok="kettles"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="officers"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="small"/>
+<w tok="valise"/>
+<w tok="each"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="baggage"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="four"/>
+<w tok="pieces"/>
+<w tok="and"/>
+<w tok="caissons"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="fully"/>
+<w tok="manned"/>
+<w tok=","/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="equipped"/>
+<w tok="in"/>
+<w tok="every"/>
+<w tok="respect"/>
+<w tok="for"/>
+<w tok="active"/>
+<w tok="service"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="come"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="testimony"/>
+<w tok="before"/>
+<w tok="a"/>
+<w tok="court-martial"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

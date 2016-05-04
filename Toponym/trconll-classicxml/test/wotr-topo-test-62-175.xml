@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-175" title="62" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864-11"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="R."/>
+<w tok="CURTIS"/>
+<w tok=","/>
+<w tok="fort"/>
+<toponym term="Leavernworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans.">
+<candidates>
+<cand lat="38.5015386573" long="-98.3905398745" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Some"/>
+<w tok="citizens"/>
+<w tok="of"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3122751768" long="-92.4463968439" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="having"/>
+<w tok="represented"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="special"/>
+<w tok="danger"/>
+<w tok="of"/>
+<w tok="renewed"/>
+<w tok="troubles"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="of"/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="toward"/>
+<toponym term="New Mexico">
+<candidates>
+</candidates>
+</toponym>
+<w tok="he"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="attention"/>
+<w tok="he"/>
+<w tok="called"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="matter"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="that"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="measures"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="the"/>
+<w tok="apprehended"/>
+<w tok="disturbance"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Similar"/>
+<w tok="dispatch"/>
+<w tok=","/>
+<w tok="same"/>
+<w tok="date"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Rosecrans"/>
+<w tok="."/>
+<w tok=")"/>
+</s>
+</doc>

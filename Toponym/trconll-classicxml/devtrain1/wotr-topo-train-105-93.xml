@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-93" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="HUMBOLDT"/>
+<w tok="MILITARY"/>
+<w tok="DISTRICT"/>
+<w tok="."/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="30th"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok="a"/>
+<w tok="Government"/>
+<w tok="pack"/>
+<w tok="train"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="four"/>
+<w tok="men"/>
+<w tok="belonging"/>
+<w tok="to"/>
+<w tok="companies"/>
+<w tok="at"/>
+<toponym term="Fort Gaston">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="attacked"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="in"/>
+<w tok="ambush"/>
+<w tok=","/>
+<w tok="numbering"/>
+<w tok="about"/>
+<w tok="twenty"/>
+<w tok=","/>
+<w tok="some"/>
+<w tok="thirteen"/>
+<w tok="miles"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<toponym term="Fort Gaston">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Private"/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="K"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Corporal"/>
+<w tok="Smith"/>
+<w tok="["/>
+<w tok="Agan"/>
+<w tok="]"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Indians"/>
+<w tok="captured"/>
+<w tok="everything"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="five"/>
+<w tok="Government"/>
+<w tok="mules"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="effects"/>
+<w tok="of"/>
+<w tok="Lieutenants"/>
+<w tok="Stewart"/>
+<w tok="and"/>
+<w tok="Winchill"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="coming"/>
+<w tok="in"/>
+<w tok=","/>
+<w tok="detachments"/>
+<w tok="from"/>
+<toponym term="Fort Gaston">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Camp Curtis">
+<candidates>
+</candidates>
+</toponym>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="but"/>
+<w tok="returned"/>
+<w tok="without"/>
+<w tok="finding"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="pursuance"/>
+<w tok="of"/>
+<w tok="department"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="April"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=","/>
+<w tok="received"/>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Panama"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Gibbs"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="regment"/>
+<w tok=","/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Hanna"/>
+<w tok=","/>
+<w tok="have"/>
+<w tok="embarked"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Benicia">
+<candidates>
+<cand lat="38.063333" long="-122.156111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Private"/>
+<w tok="D."/>
+<w tok="Squibb"/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="E"/>
+<w tok=","/>
+<w tok="goes"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="company"/>
+<w tok="."/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Theller"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="ordered"/>
+<w tok="here"/>
+<w tok="from"/>
+<w tok="Fort"/>
+<w tok="Gaston"/>
+<w tok="to"/>
+<w tok="replace"/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="FRANCIS"/>
+<w tok="J."/>
+<w tok="LIPPITT"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="Cal"/>
+<w tok="."/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Humboldt"/>
+<w tok="Mil"/>
+<w tok="."/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

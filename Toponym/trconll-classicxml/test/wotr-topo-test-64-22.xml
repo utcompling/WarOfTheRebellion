@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-22" title="64" domain="wotr">
+<s id="s1">
+<w tok="General"/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Forces"/>
+<w tok="at"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.1833989111" long="-93.3180655539" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark">
+<candidates>
+<cand lat="34.8845895019" long="-92.4599340435" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=";"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="met"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok="at"/>
+<toponym term="Norristown">
+<candidates>
+<cand lat="40.12" long="-75.341667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="was"/>
+<w tok="well"/>
+<w tok="at"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="when"/>
+<w tok="we"/>
+<w tok="left"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="."/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="Colonel"/>
+<w tok="Cloud"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Kansas"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="routed"/>
+<w tok="Jackman"/>
+<w tok="on"/>
+<toponym term="Piney">
+<candidates>
+<cand lat="35.440556" long="-93.190278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="northwest"/>
+<w tok="of"/>
+<toponym term="Dover">
+<candidates>
+<cand lat="35.400556" long="-93.1125" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="captured"/>
+<w tok="15"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Went"/>
+<w tok="to"/>
+<toponym term="Dover">
+<candidates>
+<cand lat="35.400556" long="-93.1125" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="found"/>
+<w tok="no"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Coffee"/>
+<w tok="gone"/>
+<w tok="after"/>
+<w tok="Shelby"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Thayer"/>
+<w tok="wishes"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="communicate"/>
+<w tok="with"/>
+<w tok="["/>
+<w tok="him"/>
+<w tok="]"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="can"/>
+<w tok="meet"/>
+<w tok="our"/>
+<w tok="scouts"/>
+<w tok="east"/>
+<w tok="of"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="have"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="news"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="about"/>
+<w tok="Shelby"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="hear"/>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="Cabell"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="hear"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="whereabouts"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="DOUDNA"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="Ninth"/>
+<w tok="Kansas"/>
+<w tok="Volunteer"/>
+<w tok="Cav."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Battalion"/>
+<w tok="."/>
+</s>
+</doc>

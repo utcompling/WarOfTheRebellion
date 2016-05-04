@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-208" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SAINT JOSEPH">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="ordered"/>
+<w tok="a"/>
+<w tok="thorough"/>
+<w tok="investigation"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="outrages"/>
+<w tok="at"/>
+<toponym term="Lawrence">
+<candidates>
+<cand lat="37.11" long="-93.83" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="immediately"/>
+<w tok="upon"/>
+<w tok="hearing"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="veterans"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="badly"/>
+<w tok="advised"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

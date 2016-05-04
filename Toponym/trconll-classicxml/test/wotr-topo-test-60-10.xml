@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-10" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Joel"/>
+<w tok="R."/>
+<w tok="Griffin"/>
+<w tok=","/>
+<w tok="Sixty-second"/>
+<w tok="Georgia"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<toponym term="JACKSON">
+<candidates>
+<cand lat="36.390278" long="-77.422222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="at"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Yesterday"/>
+<w tok="morning"/>
+<w tok="with"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="200"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="mountain"/>
+<w tok="rifled"/>
+<w tok="piece"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="fight"/>
+<w tok="of"/>
+<w tok="two"/>
+<w tok="hours"/>
+<w tok="with"/>
+<w tok="1,200"/>
+<w tok="of"/>
+<w tok="enemy"/>
+<w tok="and"/>
+<w tok="three"/>
+<w tok="pieces"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="["/>
+<w tok="Yankees"/>
+<w tok="]"/>
+<w tok="were"/>
+<w tok="driven"/>
+<w tok="from"/>
+<toponym term="Windsor">
+<candidates>
+<cand lat="35.998056" long="-76.948889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. C.">
+<candidates>
+<cand lat="35.5777062573" long="-79.1944359793" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="boats"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="We"/>
+<w tok="lost"/>
+<w tok="6"/>
+<w tok="men"/>
+<w tok=";"/>
+<w tok="enemy"/>
+<w tok="not"/>
+<w tok="known"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="GRIFFIN"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-16" title="61" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="ROLLA"/>
+<w tok=","/>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="left"/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="of"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Murphy"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="post"/>
+<w tok="at"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Murphy"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="received"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="instant"/>
+<w tok="we"/>
+<w tok="started"/>
+<w tok="with"/>
+<w tok="30"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="sour"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="marched"/>
+<w tok="to"/>
+<w tok="Eaton"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Jack&apos;s Fork">
+<candidates>
+</candidates>
+</toponym>
+<w tok="distance"/>
+<w tok="from"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="22"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="6th"/>
+<w tok="we"/>
+<w tok="marched"/>
+<w tok="to"/>
+<w tok="Gilliland"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="in"/>
+<toponym term="Peace Valley">
+<candidates>
+<cand lat="36.874444" long="-91.731389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="distance"/>
+<w tok=","/>
+<w tok="22"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="Heard"/>
+<w tok="that"/>
+<w tok="Lieutenant"/>
+<w tok="Carvill"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Fifth"/>
+<w tok="Regiment"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="gone"/>
+<w tok="north"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="West Plaims">
+<candidates>
+<cand lat="36.737222" long="-91.865" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Houston">
+<candidates>
+<cand lat="37.323333" long="-91.959722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="."/>
+</s>
+</doc>

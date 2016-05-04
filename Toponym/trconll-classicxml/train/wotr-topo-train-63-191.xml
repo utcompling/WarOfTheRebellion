@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-191" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CULPEPER">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.550923524" long="-78.5025297014" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="1.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Major-General"/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Please"/>
+<w tok="ask"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="to"/>
+<w tok="authorize"/>
+<w tok="the"/>
+<w tok="transfer"/>
+<w tok="of"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Indian Territory">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="every"/>
+<w tok="reason"/>
+<w tok="why"/>
+<w tok="this"/>
+<w tok="Territory"/>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="State of Arkansas">
+<candidates>
+<cand lat="34.8727279336" long="-92.4674963559" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="under"/>
+<w tok="one"/>
+<w tok="man"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="man"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="case"/>
+<w tok="this"/>
+<w tok="change"/>
+<w tok="is"/>
+<w tok="made"/>
+<w tok="I"/>
+<w tok="wish"/>
+<w tok="General"/>
+<w tok="Blunt"/>
+<w tok="ordered"/>
+<w tok="back"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Curtis"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok="."/>
+</s>
+</doc>

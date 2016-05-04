@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-31" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="FIFTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Huntsville">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JOHN"/>
+<w tok="D."/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="How"/>
+<w tok="is"/>
+<w tok="Gresham"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="distributed"/>
+<w tok="?"/>
+<w tok="Places"/>
+<w tok="and"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="at"/>
+<w tok="each"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

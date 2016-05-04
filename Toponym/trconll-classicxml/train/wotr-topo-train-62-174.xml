@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-174" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="KANSAS"/>
+<w tok=","/>
+<toponym term="Fort Leavernworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="continue"/>
+<w tok="to"/>
+<w tok="act"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="occasion"/>
+<w tok="requires"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="either"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok=","/>
+<w tok="till"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="relieved"/>
+<w tok=","/>
+<w tok="according"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="Suppose"/>
+<w tok="the"/>
+<w tok="Kansas"/>
+<w tok="troops"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3122751768" long="-92.4463968439" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="side"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="leave"/>
+<w tok="and"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="controlled"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="expect"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="hasty"/>
+<w tok="visit"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="southern"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="before"/>
+<w tok="determining"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="new"/>
+<w tok="arrangements"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="R."/>
+<w tok="CURTIS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

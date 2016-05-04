@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-69" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Benjamin"/>
+<w tok="F."/>
+<w tok="Kelly"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<toponym term="CUMBERLAND">
+<candidates>
+<cand lat="39.647778" long="-78.762778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MD.">
+<candidates>
+<cand lat="38.975771548" long="-76.4996610488" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="8"/>
+<w tok="."/>
+<w tok="45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="express"/>
+<w tok="train"/>
+<w tok="west"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="was"/>
+<w tok="thrown"/>
+<w tok="off"/>
+<w tok="the"/>
+<w tok="track"/>
+<w tok="near"/>
+<toponym term="Kearneysville">
+<candidates>
+<cand lat="39.388056" long="-77.885556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="hand"/>
+<w tok="of"/>
+<w tok="Gilmor"/>
+<w tok="&apos;s"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="numbering"/>
+<w tok="about"/>
+<w tok="25"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="burn"/>
+<w tok="the"/>
+<w tok="train"/>
+<w tok="or"/>
+<w tok="take"/>
+<w tok="away"/>
+<w tok="any"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="robbed"/>
+<w tok="the"/>
+<w tok="conduct"/>
+<w tok="and"/>
+<w tok="passengers"/>
+<w tok="of"/>
+<w tok="quite"/>
+<w tok="a"/>
+<w tok="sum"/>
+<w tok="of"/>
+<w tok="money"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="Sullivan"/>
+<w tok="reports"/>
+<w tok="his"/>
+<w tok="cavalry"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Duffie"/>
+<w tok="reports"/>
+<w tok="his"/>
+<w tok="cavalry"/>
+<w tok="had"/>
+<w tok="captured"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guerrilla"/>
+<w tok="force"/>
+<w tok="that"/>
+<w tok="took"/>
+<w tok="General"/>
+<w tok="Scammon"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="does"/>
+<w tok="not"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="is"/>
+<w tok="recaptured"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="KELLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

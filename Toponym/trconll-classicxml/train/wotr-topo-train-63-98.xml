@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-98" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7837401052" long="-122.419290341" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="ADJUTANT-GENERAL"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="ARMY"/>
+<w tok=","/>
+<toponym term="Washington City">
+<candidates>
+<cand lat="38.8953082549" long="-77.006702221" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9161122855" long="-77.0453944253" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Captain"/>
+<w tok="B."/>
+<w tok="C."/>
+<w tok="Cutler"/>
+<w tok=","/>
+<w tok="assistant"/>
+<w tok="adjutant-general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="Mexico"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="my"/>
+<w tok="headquarters"/>
+<w tok="with"/>
+<w tok="dispatches"/>
+<w tok="from"/>
+<w tok="Brigadier-General"/>
+<w tok="Carleton"/>
+<w tok="."/>
+<w tok="Inclosed"/>
+<w tok="herewith"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Carleton"/>
+<w tok="&apos;s"/>
+<w tok="communication"/>
+<w tok="addressed"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="7th"/>
+<w tok="ultimo"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="from"/>
+<w tok="Captain"/>
+<w tok="Cutler"/>
+<w tok="communicating"/>
+<w tok="the"/>
+<w tok="wishes"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="already"/>
+<w tok="reported"/>
+<w tok="the"/>
+<w tok="departure"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="Mexico"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="seventh"/>
+<w tok="and"/>
+<w tok="last"/>
+<w tok="company"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="reached"/>
+<toponym term="Fort Yuma">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="six"/>
+<w tok="companies"/>
+<w tok="are"/>
+<w tok="far"/>
+<w tok="in"/>
+<w tok="advance"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="enable"/>
+<w tok="General"/>
+<w tok="Carleton"/>
+<w tok="to"/>
+<w tok="comply"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="General-in-Chief"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="my"/>
+<w tok="chief"/>
+<w tok="quartermaster"/>
+<w tok="to"/>
+<w tok="prepare"/>
+<w tok="with"/>
+<w tok="dispatch"/>
+<w tok="the"/>
+<w tok="thirty"/>
+<w tok="wagons"/>
+<w tok=";"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="forward"/>
+<w tok="from"/>
+<toponym term="Southern California">
+<candidates>
+<cand lat="34.4801509907" long="-117.205925523" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="laden"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="articles"/>
+<w tok="of"/>
+<w tok="subsistence"/>
+<w tok="asked"/>
+<w tok="for"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="moment"/>
+<w tok="practicable"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

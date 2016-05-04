@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-253" title="64" domain="wotr">
+<s id="s1">
+<toponym term="CAPE GIRARDEAU">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="view"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="threatening"/>
+<w tok="state"/>
+<w tok="of"/>
+<w tok="affairs"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="border"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Dallas">
+<candidates>
+<cand lat="37.67" long="-93.02" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="be"/>
+<w tok="drawn"/>
+<w tok="into"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="just"/>
+<w tok="as"/>
+<w tok="effective"/>
+<w tok="as"/>
+<w tok="on"/>
+<w tok="outpost"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="guard"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="better"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="be"/>
+<w tok="within"/>
+<w tok="supporting"/>
+<w tok="distance"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="so"/>
+<w tok="remote"/>
+<w tok="and"/>
+<w tok="so"/>
+<w tok="easily"/>
+<w tok="surrounded"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="an"/>
+<w tok="object"/>
+<w tok="of"/>
+<w tok="constant"/>
+<w tok="solicitude"/>
+<w tok="."/>
+<w tok="Twice"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="week"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="re-enforcements"/>
+<w tok="there"/>
+<w tok=";"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="."/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="."/>
+</s>
+</doc>

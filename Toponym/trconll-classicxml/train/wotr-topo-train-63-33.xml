@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-33" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="ASST"/>
+<w tok="."/>
+<w tok="ADJT"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="KANSAS"/>
+<w tok=","/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans.">
+<candidates>
+<cand lat="38.4725534774" long="-98.3849821249" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="instant"/>
+<w tok="a"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="Cheyenne"/>
+<w tok="Indians"/>
+<w tok="stole"/>
+<w tok="175"/>
+<w tok="head"/>
+<w tok="of"/>
+<w tok="cattle"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok="contractors"/>
+<w tok=","/>
+<w tok="Irwin"/>
+<w tok=","/>
+<w tok="Jackmen"/>
+<w tok="&amp;"/>
+<w tok="Co."/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="headquarters"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Big Sandy">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Smoky Hill">
+<candidates>
+<cand lat="38.761778" long="-99.532194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="route"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="overland"/>
+<w tok="stage"/>
+<w tok="line"/>
+<w tok="("/>
+<w tok="which"/>
+<w tok="they"/>
+<w tok="ran"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="was"/>
+<w tok="first"/>
+<w tok="started"/>
+<w tok="from"/>
+<toponym term="Leavenworth">
+<candidates>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="Indians"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="stock"/>
+<w tok="were"/>
+<w tok="traced"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="herders"/>
+<w tok="about"/>
+<w tok="15"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="then"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="stream"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="trail"/>
+<w tok="ran"/>
+<w tok="a"/>
+<w tok="due"/>
+<w tok="east"/>
+<w tok="course"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="would"/>
+<w tok="take"/>
+<w tok="them"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="headwaters"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Smoky Hill">
+<candidates>
+<cand lat="38.761778" long="-99.532194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="and"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="recover"/>
+<w tok="the"/>
+<w tok="stock"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="they"/>
+<w tok="refuse"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="it"/>
+<w tok="up"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="chastise"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

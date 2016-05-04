@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-78" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SAINT"/>
+<w tok="LOUIS"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="HERDER"/>
+<w tok=","/>
+<w tok="Pilot"/>
+<w tok="Knob"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="come"/>
+<w tok="to"/>
+<toponym term="De Soto">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="day"/>
+<w tok="&apos;s"/>
+<w tok="train"/>
+<w tok="and"/>
+<w tok="settle"/>
+<w tok="the"/>
+<w tok="increasing"/>
+<w tok="and"/>
+<w tok="perplexing"/>
+<w tok="troubles"/>
+<w tok="in"/>
+<w tok="relation"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="opening"/>
+<w tok="of"/>
+<w tok="saloons"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="and"/>
+<toponym term="Victoria">
+<candidates>
+<cand lat="28.816944" long="-96.993333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="daily"/>
+<w tok="called"/>
+<w tok="upon"/>
+<w tok="by"/>
+<w tok="parties"/>
+<w tok="from"/>
+<w tok="both"/>
+<w tok="points"/>
+<w tok="."/>
+<w tok="Go"/>
+<w tok="there"/>
+<w tok="and"/>
+<w tok="make"/>
+<w tok="such"/>
+<w tok="regulations"/>
+<w tok="as"/>
+<w tok="will"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="service"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="oppressive"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="residents"/>
+<w tok="or"/>
+<w tok="travelers"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="."/>
+<w tok="Visit"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="before"/>
+<w tok="you"/>
+<w tok="return"/>
+<w tok="and"/>
+<w tok="consult"/>
+<w tok="with"/>
+<w tok="me"/>
+<w tok="personally"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

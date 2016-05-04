@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-201" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="TRUMBULL"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="congratulate"/>
+<w tok="you"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="success"/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Aberdeen">
+<candidates>
+<cand lat="34.713333" long="-91.222222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="one"/>
+<w tok="battalion"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="ten"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="re-enforce"/>
+<w tok="Colonel"/>
+<w tok="Geiger"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Little Red River">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="above"/>
+<toponym term="Searcy">
+<candidates>
+<cand lat="35.925556" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="early"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="4th"/>
+<w tok="of"/>
+<w tok="June"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Carr"/>
+<w tok=":"/>
+<w tok="CHARLES"/>
+<w tok="W."/>
+<w tok="MINER"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

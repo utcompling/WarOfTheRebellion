@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-7" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Rear-Admiral"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="DAHLGREN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="South"/>
+<w tok="Atlantic"/>
+<w tok="Blockading"/>
+<w tok="Squadron"/>
+<w tok=":"/>
+<w tok="ADMIRAL"/>
+<w tok=":"/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok=","/>
+<w tok="until"/>
+<w tok="lately"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="practice"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="vessels"/>
+<w tok="blockading"/>
+<toponym term="Saint Helena">
+<candidates>
+<cand lat="32.376272" long="-80.572228" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="boat"/>
+<w tok="or"/>
+<w tok="boats"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="up"/>
+<w tok="into"/>
+<toponym term="Coosaw Sound">
+<candidates>
+<cand lat="32.4764565437" long="-80.5738322985" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="opposite"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="of"/>
+<toponym term="Coosaw">
+<candidates>
+<cand lat="32.4752980113" long="-80.5859773409" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Morgan&apos;s Islands">
+<candidates>
+<cand lat="32.4652" long="-80.5194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok="that"/>
+<w tok="this"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="lately"/>
+<w tok="discontinued"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="instructions"/>
+<w tok="be"/>
+<w tok="given"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="commanding"/>
+<w tok="on"/>
+<w tok="that"/>
+<w tok="station"/>
+<w tok="to"/>
+<w tok="resume"/>
+<w tok="such"/>
+<w tok="patrol"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="extend"/>
+<w tok="to"/>
+<w tok="tour"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="saw-mill"/>
+<w tok="on"/>
+<toponym term="Coosaw Island">
+<candidates>
+<cand lat="32.4752980113" long="-80.5859773409" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="A"/>
+<w tok="descent"/>
+<w tok="was"/>
+<w tok="made"/>
+<w tok="night"/>
+<w tok="before"/>
+<w tok="last"/>
+<w tok="upon"/>
+<toponym term="Morgan&apos;s Island">
+<candidates>
+<cand lat="32.4652" long="-80.5194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="12"/>
+<w tok="persons"/>
+<w tok="carried"/>
+<w tok="off"/>
+<w tok="."/>
+<w tok="Parties"/>
+<w tok="have"/>
+<w tok="also"/>
+<w tok="been"/>
+<w tok="seen"/>
+<w tok="reconnoitering"/>
+<w tok="the"/>
+<w tok="saw-mill"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="destruction"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="a"/>
+<w tok="serious"/>
+<w tok="inconvenience"/>
+<w tok="to"/>
+<w tok="us"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="HATCH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="."/>
+</s>
+</doc>

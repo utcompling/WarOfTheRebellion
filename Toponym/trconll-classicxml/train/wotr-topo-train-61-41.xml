@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-41" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="12-20"/>
+<w tok=","/>
+<w tok="1864.-Expedition"/>
+<w tok="from"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="after"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="Baumer"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="FIRST"/>
+<w tok="NEBRASKA"/>
+<w tok="CAVALRY"/>
+<w tok=","/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9325104559" long="-92.5081881469" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="verbal"/>
+<w tok="instructions"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Livingston"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Regiment"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="left"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="7"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="12th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="search"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Weather"/>
+<w tok="was"/>
+<w tok="clear"/>
+<w tok="and"/>
+<w tok="pleasant"/>
+<w tok="."/>
+<w tok="Started"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="northeasterly"/>
+<w tok="direction"/>
+<w tok="and"/>
+<w tok="traveled"/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="halted"/>
+<w tok="to"/>
+<w tok="close"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="column"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="noon"/>
+<w tok="we"/>
+<w tok="crossed"/>
+<w tok="junction"/>
+<w tok="of"/>
+<toponym term="Mount Olive">
+<candidates>
+<cand lat="36.1" long="-91.9" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Hookram">
+<candidates>
+<cand lat="36.155833" long="-91.505" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Mount Olive">
+<candidates>
+<cand lat="36.1" long="-91.9" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="roads"/>
+<w tok="."/>
+<w tok="Just"/>
+<w tok="before"/>
+<w tok="reaching"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="met"/>
+<w tok="two"/>
+<w tok="flags"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok="from"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="bringing"/>
+<w tok="in"/>
+<w tok="Captain"/>
+<w tok="Rouch"/>
+<w tok="and"/>
+<w tok="18"/>
+<w tok="privates"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="exchange"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="cross-roads"/>
+<w tok="deployed"/>
+<w tok="skirmishers"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="hills"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="halted"/>
+<w tok="for"/>
+<w tok="ten"/>
+<w tok="minutes"/>
+<w tok="to"/>
+<w tok="rest"/>
+<w tok="the"/>
+<w tok="animals"/>
+<w tok=";"/>
+<w tok="distance"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok=","/>
+<w tok="12"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="1.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="passed"/>
+<w tok="Curia"/>
+<w tok="Post-Ofice"/>
+<w tok=","/>
+<w tok="taking"/>
+<toponym term="Hookram road">
+<candidates>
+<cand lat="36.155833" long="-91.505" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Up"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="we"/>
+<w tok="passed"/>
+<w tok="no"/>
+<w tok="plantations"/>
+<w tok="that"/>
+<w tok="had"/>
+<w tok="either"/>
+<w tok="forage"/>
+<w tok="or"/>
+<w tok="beef-cattle"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="mile"/>
+<w tok="from"/>
+<w tok="McCord"/>
+<w tok="&apos;s"/>
+<w tok="struck"/>
+<w tok="headquarters"/>
+<w tok="of"/>
+<toponym term="Spring Creek">
+<candidates>
+<cand lat="36.114722" long="-91.073889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="followed"/>
+<w tok="down"/>
+<w tok="its"/>
+<w tok="valley"/>
+<w tok="to"/>
+<toponym term="Hookram">
+<candidates>
+<cand lat="36.155833" long="-91.505" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Passing"/>
+<w tok="through"/>
+<toponym term="Hookram">
+<candidates>
+<cand lat="36.155833" long="-91.505" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="we"/>
+<w tok="turned"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="westerly"/>
+<w tok="direction"/>
+<w tok="and"/>
+<w tok="pushed"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="Widow"/>
+<w tok="Martin"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="1\2"/>
+<w tok="miles"/>
+<w tok="distant"/>
+<w tok="from"/>
+<toponym term="Hookram">
+<candidates>
+<cand lat="36.155833" long="-91.505" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="We"/>
+<w tok="camped"/>
+<w tok="here"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="and"/>
+<w tok="had"/>
+<w tok="corn"/>
+<w tok="and"/>
+<w tok="fodder"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="animals"/>
+<w tok="."/>
+<w tok="Mrs."/>
+<w tok="Love"/>
+<w tok="("/>
+<w tok="Widow"/>
+<w tok="Martin"/>
+<w tok="&apos;s"/>
+<w tok="daughter"/>
+<w tok=")"/>
+<w tok="has"/>
+<w tok="two"/>
+<w tok="head"/>
+<w tok="of"/>
+<w tok="beef-cattle"/>
+<w tok="("/>
+<w tok="poor"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="she"/>
+<w tok="is"/>
+<w tok="desirous"/>
+<w tok="of"/>
+<w tok="selling"/>
+<w tok="."/>
+<w tok="Gave"/>
+<w tok="receipts"/>
+<w tok="for"/>
+<w tok="all"/>
+<w tok="forage"/>
+<w tok="used"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="mile"/>
+<w tok="east"/>
+<w tok="of"/>
+<w tok="Widow"/>
+<w tok="Martin"/>
+<w tok="&apos;s"/>
+<w tok="crossed"/>
+<toponym term="Salem road">
+<candidates>
+<cand lat="36.370556" long="-91.823889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Day"/>
+<w tok="&apos;s"/>
+<w tok="march"/>
+<w tok=","/>
+<w tok="28"/>
+<w tok="miles"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-125" title="60" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="CAVALRY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="March"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="cipher"/>
+<w tok=","/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok=","/>
+<w tok="dated"/>
+<toponym term="Fort Magruder">
+<candidates>
+<cand lat="37.26397" long="-76.6663" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5353833809" long="-78.6396228604" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=":"/>
+<w tok="HEADQUARTERS"/>
+<w tok="CAVALRY"/>
+<w tok="EXPEDITION"/>
+<w tok=","/>
+<w tok="March"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864-9"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="PLEASONTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="reached"/>
+<w tok="General"/>
+<w tok="Butler"/>
+<w tok="&apos;s"/>
+<w tok="lines"/>
+<w tok="with"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="good"/>
+<w tok="order"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="failed"/>
+<w tok="to"/>
+<w tok="accomplish"/>
+<w tok="the"/>
+<w tok="great"/>
+<w tok="object"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="destroyed"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="communications"/>
+<w tok="at"/>
+<w tok="various"/>
+<w tok="points"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Virginia Central Railroad">
+<candidates>
+</candidates>
+</toponym>
+<w tok="also"/>
+<w tok="the"/>
+<w tok="canal"/>
+<w tok="and"/>
+<w tok="mills"/>
+<w tok="along"/>
+<w tok="the"/>
+<toponym term="James River">
+<candidates>
+<cand lat="36.941667" long="-76.443611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="much"/>
+<w tok="other"/>
+<w tok="valuable"/>
+<w tok="property"/>
+<w tok="."/>
+<w tok="Drove"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="into"/>
+<w tok="and"/>
+<w tok="through"/>
+<w tok="his"/>
+<w tok="fortifications"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="suburbs"/>
+<w tok="of"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="made"/>
+<w tok="several"/>
+<w tok="unsuccessful"/>
+<w tok="efforts"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Potomac"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="lost"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="150"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="entire"/>
+<w tok="command"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="good"/>
+<w tok="order"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="needs"/>
+<w tok="but"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rest"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="ask"/>
+<w tok="for"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="KILPATRICK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Expedition"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="view"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="failure"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="command"/>
+<w tok="by"/>
+<w tok="land"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="urge"/>
+<w tok="that"/>
+<w tok="transportation"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="immediately"/>
+<w tok="from"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="transport"/>
+<w tok="it"/>
+<w tok="by"/>
+<w tok="water"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="is"/>
+<w tok="composed"/>
+<w tok="of"/>
+<w tok="picket"/>
+<w tok="troops"/>
+<w tok="from"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="divisions"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="corps"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="organization"/>
+<w tok="and"/>
+<w tok="effectiveness"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="remaining"/>
+<w tok="divisions"/>
+<w tok="is"/>
+<w tok="seriously"/>
+<w tok="impaired"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="absence"/>
+<w tok="of"/>
+<w tok="so"/>
+<w tok="large"/>
+<w tok="a"/>
+<w tok="number"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="PLEASONTON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="HUMPHREYS"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

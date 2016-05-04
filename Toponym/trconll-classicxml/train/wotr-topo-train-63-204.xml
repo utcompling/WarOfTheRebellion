@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-204" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CULPEPER COURT-HOUSE">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.550923524" long="-78.5025297014" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864-10.30"/>
+<w tok="p.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="8.30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="127th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<toponym term="Nashville">
+<candidates>
+<cand lat="36.166667" long="-86.783333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="General"/>
+<w tok="Rosecrans"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="to"/>
+<toponym term="Cairo">
+<candidates>
+<cand lat="37.013056" long="-89.180278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="forces"/>
+<w tok="he"/>
+<w tok="can"/>
+<w tok=","/>
+<w tok="specifying"/>
+<w tok="three"/>
+<w tok="regiments"/>
+<w tok="that"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="can"/>
+<w tok="have"/>
+<w tok="them"/>
+<w tok="used"/>
+<w tok="against"/>
+<w tok="Forrest"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok="."/>
+</s>
+</doc>

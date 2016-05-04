@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-3" title="65" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="25"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="Davis"/>
+<w tok=","/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="fourth"/>
+<w tok="Pennsylvania"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="destruction"/>
+<w tok="of"/>
+<w tok="blockade-runner"/>
+<w tok="Presto"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="operations"/>
+<w tok="July"/>
+<w tok="1-6"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.7124145847" long="-79.8938915759" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="part"/>
+<w tok="taken"/>
+<w tok="by"/>
+<w tok="the"/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.7124145847" long="-79.8938915759" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="batteries"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="destruction"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Presto"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="attempted"/>
+<w tok="to"/>
+<w tok="enter"/>
+<w tok="the"/>
+<w tok="harbor"/>
+<w tok="of"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok=":"/>
+<w tok="After"/>
+<w tok="passing"/>
+<w tok="safely"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok=","/>
+<w tok="she"/>
+<w tok="struck"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="bar"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="shore"/>
+<w tok=","/>
+<w tok="between"/>
+<toponym term="Forts Beauregard">
+<candidates>
+<cand lat="31.77442" long="-91.82074" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Moultrie">
+<candidates>
+<cand lat="32.759392" long="-79.857792" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="She"/>
+<w tok="was"/>
+<w tok="discovered"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="aground"/>
+<w tok="at"/>
+<w tok="reveille"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="three"/>
+<w tok="30-pounder"/>
+<w tok="Parrotts"/>
+<w tok="in"/>
+<toponym term="Fort Putnam">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="were"/>
+<w tok="immediately"/>
+<w tok="opened"/>
+<w tok="upon"/>
+<w tok="her"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="first"/>
+<w tok="3"/>
+<w tok="shells"/>
+<w tok="("/>
+<w tok="time"/>
+<w tok="fuse"/>
+<w tok=")"/>
+<w tok="burst"/>
+<w tok="over"/>
+<w tok="her"/>
+<w tok=","/>
+<w tok="driving"/>
+<w tok="away"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="discharging"/>
+<w tok="the"/>
+<w tok="cargo"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="8"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="300-pounder"/>
+<w tok="Parrott"/>
+<w tok="in"/>
+<toponym term="Battery Chatfield">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="opened"/>
+<w tok="opened"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="with"/>
+<w tok="good"/>
+<w tok="effect"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="shell"/>
+<w tok="striking"/>
+<w tok="the"/>
+<w tok="furnaces"/>
+<w tok="."/>
+<w tok="About"/>
+<w tok="this"/>
+<w tok="time"/>
+<w tok="two"/>
+<w tok="monitors"/>
+<w tok="moved"/>
+<w tok="up"/>
+<w tok="and"/>
+<w tok="commenced"/>
+<w tok="firing"/>
+<w tok="at"/>
+<w tok="long"/>
+<w tok="range"/>
+<w tok=","/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="shots"/>
+<w tok="passing"/>
+<w tok="over"/>
+<w tok="or"/>
+<w tok="falling"/>
+<w tok="short"/>
+<w tok="."/>
+<toponym term="Fort Strong">
+<candidates>
+<cand lat="42.329989" long="-70.955981" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="opened"/>
+<w tok="soon"/>
+<w tok="after"/>
+<w tok=","/>
+<w tok="firing"/>
+<w tok="a"/>
+<w tok="shell"/>
+<w tok="every"/>
+<w tok="fifteen"/>
+<w tok="minutes"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="200-pounder"/>
+<w tok="Parrott"/>
+<w tok="until"/>
+<w tok="7"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="A"/>
+<w tok="100-pounder"/>
+<w tok="Parrott"/>
+<w tok="at"/>
+<toponym term="Strong">
+<candidates>
+<cand lat="42.329989" long="-70.955981" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="opened"/>
+<w tok="at"/>
+<w tok="noon"/>
+<w tok="and"/>
+<w tok="continued"/>
+<w tok="to"/>
+<w tok="fire"/>
+<w tok="until"/>
+<w tok="daylight"/>
+<w tok="the"/>
+<w tok="next"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="fire"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="gun"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="that"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="30-pounders"/>
+<w tok="in"/>
+<toponym term="Putnam">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="prevented"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="from"/>
+<w tok="getting"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="her"/>
+<w tok="cargo"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="She"/>
+<w tok="was"/>
+<w tok="set"/>
+<w tok="on"/>
+<w tok="fire"/>
+<w tok="about"/>
+<w tok="noon"/>
+<w tok="and"/>
+<w tok="burned"/>
+<w tok="for"/>
+<w tok="two"/>
+<w tok="hours"/>
+<w tok="."/>
+<w tok="During"/>
+<w tok="the"/>
+<w tok="afternoon"/>
+<w tok="her"/>
+<w tok="mainmast"/>
+<w tok="was"/>
+<w tok="cut"/>
+<w tok="away"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="shell"/>
+<w tok="from"/>
+<w tok="our"/>
+<w tok="batteries"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="200-pounder"/>
+<w tok="at"/>
+<toponym term="Fort Strong">
+<candidates>
+<cand lat="42.329989" long="-70.955981" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="threw"/>
+<w tok="15"/>
+<w tok="shells"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="wreck"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="5"/>
+<w tok="struck"/>
+<w tok="the"/>
+<w tok="hull"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="vessel"/>
+<w tok="was"/>
+<w tok="again"/>
+<w tok="set"/>
+<w tok="on"/>
+<w tok="fire"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="afternoon"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="30-pounder"/>
+<w tok="Parrotts"/>
+<w tok="in"/>
+<toponym term="Putnam">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="burned"/>
+<w tok="until"/>
+<w tok="dark"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="fire"/>
+<w tok="was"/>
+<w tok="kept"/>
+<w tok="up"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="30-pounders"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok="and"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="4th"/>
+<w tok="until"/>
+<w tok="daylight"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="anything"/>
+<w tok="being"/>
+<w tok="taken"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="wreck"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="iron-clads"/>
+<w tok="kept"/>
+<w tok="up"/>
+<w tok="a"/>
+<w tok="fire"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok=","/>
+<w tok="3rd"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="4th"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="with"/>
+<w tok="little"/>
+<w tok="accuracy"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="4th"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="constructed"/>
+<w tok="a"/>
+<w tok="foot"/>
+<w tok="bridge"/>
+<w tok="form"/>
+<w tok="the"/>
+<w tok="shore"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="wreck"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="since"/>
+<w tok="then"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="caused"/>
+<w tok="a"/>
+<w tok="shell"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="fired"/>
+<w tok="at"/>
+<w tok="intervals"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="their"/>
+<w tok="obtaining"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="her"/>
+<w tok="cargo"/>
+<w tok="or"/>
+<w tok="other"/>
+<w tok="articles"/>
+<w tok="which"/>
+<w tok="may"/>
+<w tok="not"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="destroyed"/>
+<w tok="."/>
+<w tok="While"/>
+<w tok="our"/>
+<w tok="batteries"/>
+<w tok="were"/>
+<w tok="shelling"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="batteries"/>
+<w tok="on"/>
+<toponym term="Sullivan&apos;s">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="kept"/>
+<w tok="up"/>
+<w tok="a"/>
+<w tok="heavy"/>
+<w tok="fire"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="threw"/>
+<w tok="400"/>
+<w tok="shells"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="burst"/>
+<w tok="in"/>
+<w tok="and"/>
+<w tok="around"/>
+<w tok="our"/>
+<w tok="batteries"/>
+<w tok=","/>
+<w tok="wounding"/>
+<w tok="2"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Rhode"/>
+<w tok="Island"/>
+<w tok="Artillery"/>
+<w tok="."/>
+<w tok="During"/>
+<w tok="the"/>
+<w tok="2nd"/>
+<w tok=","/>
+<w tok="3rd"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="4th"/>
+<w tok=","/>
+<w tok="768"/>
+<w tok="projectiles"/>
+<w tok="were"/>
+<w tok="thrown"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="from"/>
+<w tok="our"/>
+<w tok="batteries"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="which"/>
+<toponym term="Chatfield">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="threw"/>
+<w tok="34"/>
+<w tok="300-pounder"/>
+<w tok="shells"/>
+<w tok=":"/>
+<toponym term="Fort Strong">
+<candidates>
+<cand lat="42.329989" long="-70.955981" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="74"/>
+<w tok="200-pounder"/>
+<w tok="shells"/>
+<w tok="and"/>
+<w tok="86100-pounder"/>
+<w tok=";"/>
+<w tok="and"/>
+<toponym term="Fort Putnam">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="535"/>
+<w tok="30-pounder"/>
+<w tok="shells"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="batteries"/>
+<w tok="is"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok=":"/>
+<toponym term="Fort Strong">
+<candidates>
+<cand lat="42.329989" long="-70.955981" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="3,600"/>
+<w tok="yards"/>
+<w tok=";"/>
+<w tok="from"/>
+<toponym term="Battery Chatfield">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="2,700"/>
+<w tok="yards"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="from"/>
+<toponym term="Fort Putnam">
+<candidates>
+<cand lat="41.390089" long="-73.963923" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="2,600"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="vessel"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="complete"/>
+<w tok="wreck"/>
+<w tok=";"/>
+<w tok="she"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="side-wheel"/>
+<w tok="steamer"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="remain"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="DAVIS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="104th"/>
+<w tok="Pennsylvania"/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JOHN"/>
+<w tok="W."/>
+<w tok="TURNER"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

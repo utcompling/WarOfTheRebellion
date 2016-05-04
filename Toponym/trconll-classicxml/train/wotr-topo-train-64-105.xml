@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-105" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="BANKS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="instructed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="transmit"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="given"/>
+<w tok="Brigadier-General"/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="give"/>
+<w tok="any"/>
+<w tok="orders"/>
+<w tok="and"/>
+<w tok="afford"/>
+<w tok="any"/>
+<w tok="facilities"/>
+<w tok="that"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="enable"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="comply"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="speedily"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="J."/>
+<w tok="S."/>
+<w tok="GRAY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

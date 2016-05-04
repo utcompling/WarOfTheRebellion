@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-222" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="G."/>
+<w tok="L."/>
+<w tok="SHOUP"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Escort"/>
+<w tok="to"/>
+<w tok="Commissary"/>
+<w tok="Train"/>
+<w tok="from"/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Fort Union">
+<candidates>
+<cand lat="35.907262" long="-105.012226" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="LIEUTENANT"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="return"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="to"/>
+<toponym term="Camp Fillmore">
+<candidates>
+<cand lat="32.257778" long="-106.743333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="forward"/>
+<w tok="by"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="the"/>
+<w tok="accompanying"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok=","/>
+<toponym term="Fort Union">
+<candidates>
+<cand lat="35.907262" long="-105.012226" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Max.">
+<candidates>
+<cand lat="34.4095461302" long="-106.12872722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="is"/>
+<w tok="therein"/>
+<w tok="requested"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="to"/>
+<w tok="meet"/>
+<w tok="and"/>
+<w tok="escort"/>
+<w tok="the"/>
+<w tok="train"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Indian"/>
+<w tok="troubles"/>
+<w tok="have"/>
+<w tok="reached"/>
+<w tok="a"/>
+<w tok="climax"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="12th"/>
+<w tok="instant"/>
+<w tok="Lieutenant"/>
+<w tok="Dunn"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="party"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="fight"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="Cheyennes"/>
+<w tok="near"/>
+<toponym term="Fremont&apos; Orchard">
+<candidates>
+<cand lat="39.22" long="-104.536667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="had"/>
+<w tok="4"/>
+<w tok="men"/>
+<w tok="badly"/>
+<w tok="wounded"/>
+<w tok="("/>
+<w tok="1"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="has"/>
+<w tok="since"/>
+<w tok="died"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="others"/>
+<w tok="are"/>
+<w tok="expected"/>
+<w tok="to"/>
+<w tok=")"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="were"/>
+<w tok="killed"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="stealing"/>
+<w tok="stock"/>
+<w tok="in"/>
+<w tok="every"/>
+<w tok="direction"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="refusing"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="it"/>
+<w tok="up"/>
+<w tok="."/>
+<w tok="Carbines"/>
+<w tok="with"/>
+<w tok="ammunition"/>
+<w tok="are"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok="to"/>
+<toponym term="Camp Fillmore">
+<candidates>
+<cand lat="32.257778" long="-106.743333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="STILWELL"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-52" title="106" domain="wotr">
+<s id="s1">
+<toponym term="FORT CHURCHILL">
+<candidates>
+<cand lat="39.2925" long="-119.270556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="-"/>
+<w tok="11"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="WRIGHT"/>
+<w tok=":"/>
+<w tok="Indians"/>
+<w tok="at"/>
+<toponym term="Gravelly Ford">
+<candidates>
+<cand lat="40.591944" long="-116.476111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="200"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Humboldt River">
+<candidates>
+<cand lat="39.988056" long="-118.601111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="murderd"/>
+<w tok="twenty-three"/>
+<w tok="emigrants"/>
+<w tok="."/>
+<w tok="Residents"/>
+<w tok="of"/>
+<toponym term="Lower Humboldt">
+<candidates>
+<cand lat="39.988056" long="-118.601111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="ask"/>
+<w tok="for"/>
+<w tok="assistance"/>
+<w tok="."/>
+<w tok="Distance"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="too"/>
+<w tok="great"/>
+<w tok="to"/>
+<w tok="render"/>
+<w tok="required"/>
+<w tok="protection"/>
+<w tok="."/>
+<w tok="Gravelly"/>
+<w tok="Ford"/>
+<w tok="seventy-five"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Ruby Valley">
+<candidates>
+<cand lat="40.4" long="-115.3" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="dispatched"/>
+<w tok="above"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Connor"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="McDERMIT"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-162" title="64" domain="wotr">
+<s id="s1">
+<toponym term="PILOT KNOB">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="H."/>
+<w tok="HANNAHS"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="now"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opinion"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="large"/>
+<w tok="force"/>
+<w tok="higher"/>
+<w tok="up"/>
+<w tok="than"/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="line"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="near"/>
+<toponym term="Pocahontas">
+<candidates>
+<cand lat="37.501111" long="-89.638611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="perhaps"/>
+<w tok="600"/>
+<w tok="or"/>
+<w tok="700"/>
+<w tok="strong"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="band"/>
+<w tok="in"/>
+<w tok="below"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="they"/>
+<w tok="scattered"/>
+<w tok="in"/>
+<w tok="small"/>
+<w tok="squads"/>
+<w tok="of"/>
+<w tok="2,4,5"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="crossing"/>
+<w tok="above"/>
+<w tok=","/>
+<w tok="stealing"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="going"/>
+<w tok="to"/>
+<w tok="bushwhack"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="Ca"/>
+<w tok="n&apos;t"/>
+<w tok="Lieutenant"/>
+<w tok="Henry"/>
+<w tok="May"/>
+<w tok="and"/>
+<w tok="Lieutenant"/>
+<w tok="Henry"/>
+<w tok="Sladek"/>
+<w tok="come"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fair"/>
+<w tok="for"/>
+<w tok="two"/>
+<w tok="days"/>
+<w tok="?"/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="TYLER"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

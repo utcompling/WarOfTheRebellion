@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-111" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10.10"/>
+<w tok="a.m."/>
+<w tok=","/>
+<w tok="13th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Lieutenant-General"/>
+<w tok="GRANT"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9161122855" long="-77.0453944253" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="all"/>
+<w tok="mules"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="to"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2324612641" long="-85.760271535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="reason"/>
+<w tok="why"/>
+<w tok="so"/>
+<w tok="much"/>
+<w tok="transportation"/>
+<w tok="is"/>
+<w tok="used"/>
+<w tok="it"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="so"/>
+<w tok="much"/>
+<w tok="hauling"/>
+<w tok="."/>
+<w tok="For"/>
+<w tok="example"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.197249868" long="-93.3100198871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="all"/>
+<w tok="supplies"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="wagoner"/>
+<w tok="160"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-16" title="60" domain="wotr">
+<s id="s1">
+<w tok="B."/>
+<w tok="F."/>
+<w tok="KELLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="CULLUM"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+<toponym term="CUMBERLAND">
+<candidates>
+<cand lat="39.647778" long="-78.762778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MD.">
+<candidates>
+<cand lat="38.975771548" long="-76.4996610488" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="6"/>
+<w tok="."/>
+<w tok="10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="telegrams"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Duffie"/>
+<w tok="are"/>
+<w tok="transmitted"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="General-in-Chief"/>
+<w tok=":"/>
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7763787403" long="-79.9220476567" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="KELLEY"/>
+<w tok=":"/>
+<w tok="Dispatch"/>
+<w tok="received"/>
+<w tok="at"/>
+<w tok="4"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="from"/>
+<toponym term="Gallipolis">
+<candidates>
+<cand lat="38.815278" long="-82.1975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="informs"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Scammon"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="Lieutenant"/>
+<w tok="Millward"/>
+<w tok=","/>
+<w tok="his"/>
+<w tok="aide"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="4"/>
+<w tok="privates"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="captured"/>
+<w tok="at"/>
+<toponym term="Red House">
+<candidates>
+<cand lat="38.539167" long="-81.896667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="early"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="steamer"/>
+<w tok="Levi"/>
+<w tok="was"/>
+<w tok="burned"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="boat"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="200"/>
+<w tok="rebel"/>
+<w tok="cavalry"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="resistance"/>
+<w tok="was"/>
+<w tok="made"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="cavalry"/>
+<w tok="is"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="."/>
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7763787403" long="-79.9220476567" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="3"/>
+<w tok="."/>
+</s>
+</doc>

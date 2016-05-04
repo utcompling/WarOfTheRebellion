@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-11" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="CAMPBELL"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Hdqrs"/>
+<w tok="."/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ohio"/>
+<w tok=","/>
+<toponym term="Acworth">
+<candidates>
+<cand lat="34.062778" long="-84.67" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6383656936" long="-83.4209946186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="telegraphs"/>
+<w tok="from"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="We"/>
+<w tok="attacked"/>
+<w tok="Morgan"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="and"/>
+<w tok="gained"/>
+<w tok="a"/>
+<w tok="complete"/>
+<w tok="victory"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

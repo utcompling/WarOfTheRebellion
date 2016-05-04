@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-13" title="106" domain="wotr">
+<s id="s1">
+<w tok="WAR"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Washington City">
+<candidates>
+<cand lat="38.9252290471" long="-77.0855712891" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Septemer"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="S."/>
+<w tok="P."/>
+<w tok="CHASE"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Treasury"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok="copies"/>
+<w tok="of"/>
+<w tok="correspondence*"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="office"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Adjutant-General"/>
+<w tok="in"/>
+<w tok="relation"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="occupation"/>
+<w tok="of"/>
+<toponym term="Fort Townsend">
+<candidates>
+<cand lat="48.073333" long="-122.789444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<toponym term="Washington Territory">
+<candidates>
+<cand lat="47.4147699482" long="-120.590413057" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="Collector"/>
+<w tok="Victor"/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="call"/>
+<w tok="your"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="latter"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="Merryman"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="acting"/>
+<w tok="collector"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="P."/>
+<w tok="H."/>
+<w tok="WATSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+</s>
+</doc>

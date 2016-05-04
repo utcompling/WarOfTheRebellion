@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-122" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="NORTHERN"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="27,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="instant"/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok=","/>
+<w tok="requesting"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="with"/>
+<w tok="some"/>
+<w tok="clock-work"/>
+<w tok="torpedoes"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="reply"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Green"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="naval"/>
+<w tok="forces"/>
+<w tok="before"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7462763092" long="-79.930102135" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="informed"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="none"/>
+<w tok="and"/>
+<w tok="knew"/>
+<w tok="nothing"/>
+<w tok="about"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="would"/>
+<w tok="forward"/>
+<w tok="my"/>
+<w tok="letter"/>
+<w tok="to"/>
+<w tok="Admiral"/>
+<w tok="Dahlgren"/>
+<w tok="at"/>
+<w tok="Hilton"/>
+<w tok="Head"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="require"/>
+<w tok="these"/>
+<w tok="torpedoes"/>
+<w tok="to"/>
+<w tok="destroy"/>
+<w tok="the"/>
+<w tok="boom"/>
+<w tok="around"/>
+<toponym term="Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="is"/>
+<w tok="found"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="examination"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="exist"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="face"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="flank"/>
+<w tok="and"/>
+<w tok="gorge"/>
+<w tok=";"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="destruction"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="no"/>
+<w tok="mines"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="brought"/>
+<w tok="properly"/>
+<w tok="in"/>
+<w tok="contact"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="address"/>
+<w tok="you"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="subject"/>
+<w tok=","/>
+<w tok="thinking"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="obtain"/>
+<w tok="these"/>
+<w tok="torpedoes"/>
+<w tok="for"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="SCHIMMELFENNIG"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

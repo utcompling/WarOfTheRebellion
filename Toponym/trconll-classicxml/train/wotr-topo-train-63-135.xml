@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-135" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEFENSES"/>
+<w tok="OF"/>
+<w tok="PLAQUEMINE"/>
+<w tok=","/>
+<toponym term="Plaquemine">
+<candidates>
+<cand lat="30.284167" long="-91.240556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="GEORGE"/>
+<w tok="W."/>
+<w tok="DURGIN"/>
+<w tok=","/>
+<w tok="Jr."/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="have"/>
+<w tok="made"/>
+<w tok="their"/>
+<w tok="appearance"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="neighborhood"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="whose"/>
+<w tok="number"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="unable"/>
+<w tok="to"/>
+<w tok="judge"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="reported"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Indiana Village">
+<candidates>
+<cand lat="32.509444" long="-92.118333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="burning"/>
+<w tok="cotton"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="The"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="sufficient"/>
+<w tok="cavalry"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="seriously"/>
+<w tok="felt"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="of"/>
+<w tok="great"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="RICHARD"/>
+<w tok="G."/>
+<w tok="SHAW"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="14th"/>
+<w tok="Rhode"/>
+<w tok="Island"/>
+<w tok="Heavy"/>
+<w tok="Artg"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Colored"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

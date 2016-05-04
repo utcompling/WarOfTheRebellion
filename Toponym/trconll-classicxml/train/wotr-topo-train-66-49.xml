@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-49" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fla.">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="Week-informed"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="navy"/>
+<w tok="tell"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="steamer"/>
+<w tok="Saint"/>
+<w tok="Mary"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="sunk"/>
+<w tok="5"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="can"/>
+<w tok="easily"/>
+<w tok="be"/>
+<w tok="raised"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="aid"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="centrifugal"/>
+<w tok="pump"/>
+<w tok=","/>
+<w tok="such"/>
+<w tok="as"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="had"/>
+<w tok="on"/>
+<w tok="any"/>
+<w tok="iron-clad"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="direct"/>
+<w tok="your"/>
+<w tok="chief"/>
+<w tok="quartermaster"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="pump"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="an"/>
+<w tok="effort"/>
+<w tok="made"/>
+<w tok="to"/>
+<w tok="raise"/>
+<w tok="her"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="few"/>
+<w tok="wreckers"/>
+<w tok="with"/>
+<w tok="their"/>
+<w tok="apparatus"/>
+<w tok="and"/>
+<w tok="machinery"/>
+<w tok="can"/>
+<w tok="raise"/>
+<w tok="all"/>
+<w tok="that"/>
+<w tok="is"/>
+<w tok="valuable"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Maple"/>
+<w tok="Leaf"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="General"/>
+<w tok="Hunter"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Harriet"/>
+<w tok="A."/>
+<w tok="Weed"/>
+<w tok="."/>
+<w tok="Are"/>
+<w tok="there"/>
+<w tok="not"/>
+<w tok="some"/>
+<w tok="at"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7462763092" long="-79.930102135" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

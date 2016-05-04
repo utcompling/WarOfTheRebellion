@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-151" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Memorandum"/>
+<w tok="in"/>
+<w tok="pencil"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="CLARKE"/>
+<w tok=":"/>
+<w tok="Answer"/>
+<w tok=":"/>
+<w tok="Squad"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="for"/>
+<w tok="he"/>
+<w tok="present"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="will"/>
+<w tok="probably"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="their"/>
+<w tok="company"/>
+<w tok="ere"/>
+<w tok="long"/>
+<w tok=";"/>
+<w tok="but"/>
+<w tok="troops"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="kept"/>
+<w tok="at"/>
+<toponym term="Paris">
+<candidates>
+<cand lat="39.480278" long="-92.001111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="long"/>
+<w tok="as"/>
+<w tok="needed"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Schofield"/>
+<w tok="&apos;s"/>
+<w tok="order"/>
+<w tok="yet"/>
+<w tok="in"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="Arm"/>
+<w tok="question"/>
+<w tok="will"/>
+<w tok="receive"/>
+<w tok="due"/>
+<w tok="attention"/>
+<w tok="."/>
+<w tok="Rebels"/>
+<w tok="must"/>
+<w tok="play"/>
+<w tok="second"/>
+<w tok="fiddle"/>
+<w tok="."/>
+</s>
+</doc>

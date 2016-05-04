@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-33" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864.-Affair"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<toponym term="Caney Bayou">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4525400799" long="-99.2335590996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Hamilton"/>
+<w tok="P."/>
+<w tok="Bee"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="IN"/>
+<w tok="THE"/>
+<w tok="FIELD"/>
+<w tok=","/>
+<toponym term="Ewing&apos;s Plantation">
+<candidates>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="fired"/>
+<w tok="sixty-six"/>
+<w tok="shots"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<toponym term="Caney">
+<candidates>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="great"/>
+<w tok="accuracy"/>
+<w tok=","/>
+<w tok="wounding"/>
+<w tok="3"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="3"/>
+<w tok="horses"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="command"/>
+<w tok="behaved"/>
+<w tok="with"/>
+<w tok="great"/>
+<w tok="coolness"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="an"/>
+<w tok="official"/>
+<w tok="report"/>
+<w tok="is"/>
+<w tok="made"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="forward"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="P."/>
+<w tok="BEE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SLAUGHTER"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

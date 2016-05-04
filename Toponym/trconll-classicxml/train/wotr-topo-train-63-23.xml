@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-23" title="63" domain="wotr">
+<s id="s1">
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="53"/>
+<w tok="."/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="attention"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="called"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="fact"/>
+<w tok="that"/>
+<w tok="district"/>
+<w tok="commanders"/>
+<w tok="have"/>
+<w tok="assumed"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="to"/>
+<w tok="form"/>
+<w tok="sub-provost-marshal"/>
+<w tok="districts"/>
+<w tok="and"/>
+<w tok="appoint"/>
+<w tok="assistant"/>
+<w tok="provost-marshals"/>
+<w tok="thereof"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="direct"/>
+<w tok="violation"/>
+<w tok="of"/>
+<w tok="department"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="provost-marshal-general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="alone"/>
+<w tok="has"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="existing"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="appoint"/>
+<w tok="district"/>
+<w tok="and"/>
+<w tok="assistant"/>
+<w tok="provost-marshals"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="future"/>
+<w tok="no"/>
+<w tok="other"/>
+<w tok="appointments"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="right"/>
+<w tok="of"/>
+<w tok="forming"/>
+<w tok="sub-district"/>
+<w tok="for"/>
+<w tok="assistant"/>
+<w tok="provost-marshals"/>
+<w tok="and"/>
+<w tok="establishing"/>
+<w tok="their"/>
+<w tok="headquarters"/>
+<w tok="also"/>
+<w tok="belongs"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="provost-marshal-general"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="exercised"/>
+<w tok="without"/>
+<w tok="his"/>
+<w tok="authority"/>
+<w tok="."/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="is"/>
+<w tok="announced"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="apportionment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok=":"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<w tok="PROVOST-MARSHAL"/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="MACON CITY">
+<candidates>
+<cand lat="39.740556" long="-92.470556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Macon">
+<candidates>
+<cand lat="39.740556" long="-92.470556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Chariton">
+<candidates>
+<cand lat="39.52" long="-92.96" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Linn">
+<candidates>
+<cand lat="39.87" long="-93.11" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Sullivan">
+<candidates>
+<cand lat="40.21" long="-93.11" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Adair">
+<candidates>
+<cand lat="40.19" long="-92.6" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Macon City">
+<candidates>
+<cand lat="39.740556" long="-92.470556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Second"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Marion">
+<candidates>
+<cand lat="39.81" long="-91.62" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Shelby">
+<candidates>
+<cand lat="39.79" long="-92.07" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Knox">
+<candidates>
+<cand lat="40.12" long="-92.15" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Lewis">
+<candidates>
+<cand lat="40.09" long="-91.73" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Ralls">
+<candidates>
+<cand lat="39.53" long="-91.53" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Hannibal">
+<candidates>
+<cand lat="39.704167" long="-91.3775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Third"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Audrain">
+<candidates>
+<cand lat="39.21" long="-91.84" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="Boone">
+<candidates>
+<cand lat="36.306111" long="-93.093889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Howard">
+<candidates>
+<cand lat="39.14" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Randolph">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Monroe">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Mexico">
+<candidates>
+<cand lat="23.8166940401" long="-103.060346882" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Fourth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Saint Charles">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Lincoln">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Warren">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Pike">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Montgomery">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<w tok="Troy"/>
+<w tok="."/>
+<w tok="Fifth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Livingston">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Grundy">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Mercer">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Carroll">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Ray">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Caldwell">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Daviess">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Harrison">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Chillicothe">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Sixth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Buchanan">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Andrews">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Holt">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Atchison">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Gentry">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="De Kalb">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Clinton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Seventh"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Clay">
+<candidates>
+<cand lat="39.31" long="-94.42" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="41.053889" long="-95.881389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Liberty">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Eighth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Callaway">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="Boone">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Fulton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Ninth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Clark">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Scotland">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Schuyler">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Putnam">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Keokuk">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Iowa">
+<candidates>
+<cand lat="42.0996689229" long="-93.4686902039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CENTRAL"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="PROVOST-MARSHAL"/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Osage">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Cole">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Miller">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Jefferson City">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Second"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Morgan">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Moniteau">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Cooper">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Tipton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Third"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Saline">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Pettis">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Benton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Hickory">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Sedalia">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Fourth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Johnson">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="La Fayette">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Fifth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Cass">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Sixth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Henry">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Bates">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Saint Clair">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Clinton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="ROLLA"/>
+<w tok=","/>
+<w tok="PROVOST-MARSHAL"/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="ROLLA">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Phelps">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Crawford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Dent">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Rolla">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Second"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Texas">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Shannon">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Oregon">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Howell">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Ozark">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Douglas">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Houston">
+<candidates>
+</candidates>
+</toponym>
+<w tok="SOUTHWESTERN"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="PROVOST-MARSHAL"/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="SPRINGFIELD">
+<candidates>
+<cand lat="37.197249868" long="-93.3100198871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Fist"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Laclede">
+<candidates>
+<cand lat="39.7875" long="-93.1697222222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Dallas">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Wright">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Lebanon">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Second"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Polk">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Green">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Christian">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.197249868" long="-93.3100198871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Third"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Vernon">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Cedar">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Barton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Dade">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Greenfield">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Fourth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Lawrence">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Jasper">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Newton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Carthage">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Fifth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="McDonald">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Barry">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Stone">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Taney">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SAINT"/>
+<w tok="LOUIS"/>
+<w tok=","/>
+<w tok="PROVOST-MARSHAL"/>
+<w tok="GENERAL"/>
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="SAINT LOUIS">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Franklin">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Gasconade">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Second"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Jefferson">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Saint Francois">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Saint Genevieve">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Iron">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Reynolds">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Madison">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Third"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Perry">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Cape Girardeau">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Bollinger">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Cape Girardeau">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Fourth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Mississippi">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Stoddard">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="northern"/>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="New Madrid">
+<candidates>
+<cand lat="36.587778" long="-89.535833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="Charleston">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Fifth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Wayne">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Butler">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Ripley">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Carter">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<w tok="--"/>
+<w tok="--"/>
+<w tok="."/>
+<w tok="Sixth"/>
+<w tok="Sub-District.-Counties"/>
+<w tok="of"/>
+<toponym term="Dunklin">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Pemiscot">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="southern"/>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="New Madrid">
+<candidates>
+<cand lat="36.587778" long="-89.535833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Headquarters"/>
+<w tok=","/>
+<toponym term="New Madrid">
+<candidates>
+<cand lat="36.587778" long="-89.535833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Rosecrans"/>
+<w tok=":"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

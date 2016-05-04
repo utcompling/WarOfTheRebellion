@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-58" title="61" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="CENTRAL"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="19"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Burris"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="waylaid"/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Blunt"/>
+<w tok="&apos;s"/>
+<w tok="band"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="reported"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="23rd"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="mortally"/>
+<w tok="wounded"/>
+<w tok="2"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="balance"/>
+<w tok="escaped"/>
+<w tok="into"/>
+<w tok="the"/>
+<toponym term="Sin Hills">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok="."/>
+</s>
+</doc>

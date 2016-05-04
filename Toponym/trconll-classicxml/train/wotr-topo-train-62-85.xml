@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-85" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="BORDER"/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="R."/>
+<w tok="CURTIS"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="If"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="to"/>
+<w tok="command"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Border"/>
+<w tok=","/>
+<w tok="please"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="fix"/>
+<w tok="headquarters"/>
+<w tok="until"/>
+<w tok="I"/>
+<w tok="see"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="decidedly"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="a"/>
+<w tok="revival"/>
+<w tok="of"/>
+<w tok="guerrilla"/>
+<w tok="warfare"/>
+<w tok="along"/>
+<w tok="that"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="border"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Osage">
+<candidates>
+<cand lat="38.596944" long="-91.945278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="requiring"/>
+<w tok="very"/>
+<w tok="close"/>
+<w tok="and"/>
+<w tok="careful"/>
+<w tok="attention"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="commander"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="requiring"/>
+<w tok="the"/>
+<w tok="service"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="that"/>
+<w tok="anticipation"/>
+<w tok="is"/>
+<w tok="verified"/>
+<w tok=","/>
+<toponym term="Fort Scott">
+<candidates>
+<cand lat="37.835278" long="-94.701944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="too"/>
+<w tok="far"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="infested"/>
+<w tok="district"/>
+<w tok="for"/>
+<w tok="district"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<w tok="as"/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="too"/>
+<w tok="far"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="expect"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="relieved"/>
+<w tok="here"/>
+<w tok="within"/>
+<w tok="a"/>
+<w tok="week"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

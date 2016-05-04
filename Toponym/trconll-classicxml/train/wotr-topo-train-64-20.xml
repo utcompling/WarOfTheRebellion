@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-20" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="TRUMBULL"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok="must"/>
+<w tok="continue"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="scouting"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="able"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="no"/>
+<w tok="horses"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Michigan"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="quartermaster"/>
+<w tok="must"/>
+<w tok="make"/>
+<w tok="arrangements"/>
+<w tok="for"/>
+<w tok="shoeing"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Carr"/>
+<w tok=":"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

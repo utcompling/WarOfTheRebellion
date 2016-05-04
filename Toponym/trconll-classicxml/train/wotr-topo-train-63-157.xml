@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-157" title="63" domain="wotr">
+<s id="s1">
+<toponym term="NASHVILLE">
+<candidates>
+<cand lat="36.166667" long="-86.783333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864-10"/>
+<w tok="a.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="3.15"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Lieutenant"/>
+<w tok="General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<toponym term="Culpeper">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.550923524" long="-78.5025297014" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="of"/>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="giving"/>
+<w tok="dates"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="had"/>
+<w tok="had"/>
+<w tok="considerable"/>
+<w tok="skirmishing"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="successful"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="had"/>
+<w tok="halted"/>
+<w tok="and"/>
+<w tok="sent"/>
+<w tok="back"/>
+<w tok="to"/>
+<w tok="Pine"/>
+<w tok="Bluff"/>
+<w tok="for"/>
+<w tok="provisions"/>
+<w tok="and"/>
+<w tok="ammunition"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="seems"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="his"/>
+<w tok="movement"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="slow"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="he"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="so"/>
+<w tok="late"/>
+<w tok="in"/>
+<w tok="reaching"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="Generals"/>
+<w tok="Banks"/>
+<w tok="and"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok="away"/>
+<w tok="behind"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

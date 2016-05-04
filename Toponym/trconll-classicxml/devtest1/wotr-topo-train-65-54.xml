@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-54" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="landed"/>
+<w tok="some"/>
+<w tok="four"/>
+<w tok="or"/>
+<w tok="five"/>
+<w tok="regiments"/>
+<w tok="yesterday"/>
+<w tok="morning"/>
+<w tok="on"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="demonstration"/>
+<w tok="on"/>
+<w tok="our"/>
+<w tok="works"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="were"/>
+<w tok="checked"/>
+<w tok="and"/>
+<w tok="repulsed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="retired"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="But"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="it"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="to"/>
+<w tok="detain"/>
+<w tok="one"/>
+<w tok="day"/>
+<w tok="the"/>
+<w tok="Twentieth"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Regiment"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="battalions"/>
+<w tok="of"/>
+<w tok="Florida"/>
+<w tok="infantry"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="go"/>
+<w tok="on"/>
+<w tok="now"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Twentieth"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="and"/>
+<w tok="Florida"/>
+<w tok="battalions"/>
+<w tok="were"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="taking"/>
+<w tok="the"/>
+<w tok="cars"/>
+<w tok="for"/>
+<toponym term="Virginia">
+<candidates>
+<cand lat="37.5166394909" long="-78.6412449829" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="fortunate"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="an"/>
+<w tok="opportunity"/>
+<w tok="of"/>
+<w tok="exhibiting"/>
+<w tok="their"/>
+<w tok="strength"/>
+<w tok="with"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="day"/>
+<w tok="&apos;s"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

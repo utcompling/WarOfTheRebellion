@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-138" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="7"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Samuel"/>
+<w tok="P."/>
+<w tok="Spear"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Pennsylvania"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Cavalry"/>
+<w tok="Brigade"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="CAVALRY"/>
+<w tok="BRIGADE"/>
+<w tok=","/>
+<w tok="Near"/>
+<toponym term="Williamsburg">
+<candidates>
+<cand lat="37.270833" long="-76.706944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="accordance"/>
+<w tok="to"/>
+<w tok="instructions"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="formed"/>
+<w tok="my"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="leaving"/>
+<w tok="one"/>
+<w tok="squadron"/>
+<w tok="at"/>
+<toponym term="Gloucester Point">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="squadron"/>
+<w tok="at"/>
+<w tok="Lebanon"/>
+<w tok="Church"/>
+<w tok="and"/>
+<w tok="vicinity"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="the"/>
+<w tok="pickets"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="relief"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="about"/>
+<w tok="800"/>
+<w tok="effective"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="front"/>
+<w tok="of"/>
+<toponym term="Fort Magruder">
+<candidates>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="11"/>
+<w tok="o&apos;clock"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="proceeded"/>
+<w tok="in"/>
+</s>
+</doc>

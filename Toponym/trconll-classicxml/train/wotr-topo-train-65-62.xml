@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-62" title="65" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="JULY"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="yesterday"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="fill"/>
+<w tok="your"/>
+<w tok="requisition"/>
+<w tok="unless"/>
+<w tok="it"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="done"/>
+<w tok="by"/>
+<w tok="Brigadier-General"/>
+<w tok="Chesnut"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="whom"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="apply"/>
+<w tok="."/>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

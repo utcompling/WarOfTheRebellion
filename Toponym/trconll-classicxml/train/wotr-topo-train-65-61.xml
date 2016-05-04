@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-61" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="I"/>
+<w tok="get"/>
+<w tok="any"/>
+<w tok="re-enforcements"/>
+<w tok="?"/>
+<w tok="General"/>
+<w tok="Johnston"/>
+<w tok="sent"/>
+<w tok="only"/>
+<w tok="520"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="is"/>
+<w tok="making"/>
+<w tok="a"/>
+<w tok="heavy"/>
+<w tok="demonstrative"/>
+<w tok="attack"/>
+<w tok="on"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="husbanding"/>
+<w tok="my"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="hope"/>
+<w tok="of"/>
+<w tok="being"/>
+<w tok="re-enforced"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="told"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="get"/>
+<w tok="no"/>
+<w tok="help"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="know"/>
+<w tok="better"/>
+<w tok="how"/>
+<w tok="to"/>
+<w tok="act"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

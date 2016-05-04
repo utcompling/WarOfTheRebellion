@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-33" title="64" domain="wotr">
+<s id="s1">
+<toponym term="ROLLA">
+<candidates>
+<cand lat="37.948889" long="-91.763056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="information"/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Sanborn"/>
+<w tok=":"/>
+<w tok="Shelby"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="appeared"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Boston Mountains">
+<candidates>
+<cand lat="35.791111" long="-93.106667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Jackman"/>
+<w tok="designs"/>
+<w tok="getting"/>
+<w tok="the"/>
+<w tok="remainder"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="north"/>
+<w tok="by"/>
+<w tok="moving"/>
+<w tok="in"/>
+<w tok="small"/>
+<w tok="bodies"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="California"/>
+<w tok="House"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="probable"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="that"/>
+<w tok="passed"/>
+<w tok="there"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="27th"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="does"/>
+<w tok="not"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="approach"/>
+<w tok="any"/>
+<w tok="posts"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="disturbance"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="forward"/>
+<w tok="this"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="and"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="North"/>
+<w tok="Missouri"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="RAINSFORD"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

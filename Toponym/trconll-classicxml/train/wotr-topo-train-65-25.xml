@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-25" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864-5.15"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Enemy"/>
+<w tok="has"/>
+<w tok="merely"/>
+<w tok="withdrawn"/>
+<w tok="troops"/>
+<w tok="hence"/>
+<w tok="to"/>
+<w tok="ship"/>
+<w tok="to"/>
+<toponym term="Georgia">
+<candidates>
+<cand lat="32.611483712" long="-83.4029905799" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="East"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="he"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="met"/>
+<w tok="in"/>
+<w tok="force"/>
+<w tok="or"/>
+<w tok="serious"/>
+<w tok="disaster"/>
+<w tok="will"/>
+<w tok="ensue"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="superior"/>
+<w tok="means"/>
+<w tok="of"/>
+<w tok="rapid"/>
+<w tok="transportation"/>
+<w tok="give"/>
+<w tok="him"/>
+<w tok="great"/>
+<w tok="advantages"/>
+<w tok="in"/>
+<w tok="concentration"/>
+<w tok="of"/>
+<w tok="forces"/>
+<w tok="."/>
+<w tok="Five"/>
+<w tok="deserters"/>
+<w tok="just"/>
+<w tok="report"/>
+<w tok="three"/>
+<w tok="brigades"/>
+<w tok="still"/>
+<w tok="on"/>
+<toponym term="Morris">
+<candidates>
+<cand lat="32.7124145847" long="-79.8938915759" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Folly">
+<candidates>
+<cand lat="32.660556" long="-79.931111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Kiawah Island">
+<candidates>
+<cand lat="32.608611" long="-80.081667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Mercer"/>
+<w tok="reports"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="serious"/>
+<w tok="demonstrations"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="front"/>
+<w tok="on"/>
+<toponym term="Whitemarsh Island">
+<candidates>
+<cand lat="32.039444" long="-81.007778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="also"/>
+<w tok="concentration"/>
+<w tok="of"/>
+<w tok="gun-boats"/>
+<w tok="in"/>
+<toponym term="Satilla River">
+<candidates>
+<cand lat="30.983611" long="-81.458056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="30"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="railroad"/>
+<w tok="communication"/>
+<w tok="with"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="line"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="effective"/>
+<w tok="force"/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="state"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="dispersed"/>
+<w tok="from"/>
+<toponym term="North Carolina">
+<candidates>
+<cand lat="35.5769588429" long="-79.2749298335" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Alabama">
+<candidates>
+<cand lat="32.7353251035" long="-86.8466343434" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="line"/>
+<w tok="("/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="over"/>
+<w tok="6,000"/>
+<w tok="are"/>
+<w tok="artillery"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="not"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="withdrawn"/>
+<w tok="without"/>
+<w tok="exposure"/>
+<w tok="to"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="penetrating"/>
+<w tok="lines"/>
+<w tok="of"/>
+<w tok="defense"/>
+<w tok="of"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="before"/>
+<w tok="i"/>
+<w tok="could"/>
+<w tok="concentrate"/>
+<w tok="to"/>
+<w tok="meet"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="Over"/>
+<w tok="6,000"/>
+<w tok="are"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="2,000"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="are"/>
+<w tok="in"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="rest"/>
+<w tok="defending"/>
+<w tok="lines"/>
+<w tok="of"/>
+<w tok="communication"/>
+<w tok="between"/>
+<w tok="this"/>
+<w tok="and"/>
+<w tok="Savannah"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="thence"/>
+<w tok="with"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="so"/>
+<w tok="vital"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="juncture"/>
+<w tok=";"/>
+<w tok="3,000"/>
+<w tok="are"/>
+<w tok="light"/>
+<w tok="and"/>
+<w tok="siege"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="leaving"/>
+<w tok="about"/>
+<w tok="15,000"/>
+<w tok="infantry"/>
+<w tok="now"/>
+<w tok="in"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok=","/>
+<w tok="Except"/>
+<w tok="barely"/>
+<w tok="enough"/>
+<w tok="for"/>
+<w tok="weakest"/>
+<w tok="possible"/>
+<w tok="supports"/>
+<w tok="and"/>
+<w tok="pickets"/>
+<w tok="for"/>
+<w tok="works"/>
+<w tok="on"/>
+<toponym term="John&apos;s">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Sullivan&apos;s">
+<candidates>
+<cand lat="32.7628115361" long="-79.839698676" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="James Islands">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="at"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="every"/>
+<w tok="man"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="spare"/>
+<w tok="with"/>
+<w tok="hope"/>
+<w tok="of"/>
+<w tok="safety"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="trust"/>
+<w tok="the"/>
+<w tok="handsome"/>
+<w tok="victory"/>
+<w tok="at"/>
+<toponym term="Olustee">
+<candidates>
+<cand lat="30.20389" long="-82.42889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="officially"/>
+<w tok="reported"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="earnest"/>
+<w tok="of"/>
+<w tok="what"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="done"/>
+<w tok="to"/>
+<w tok="cripple"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="department"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="then"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="General"/>
+<w tok="Johnson"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="8,000"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok="arms"/>
+<w tok="at"/>
+<w tok="an"/>
+<w tok="early"/>
+<w tok="day"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="His"/>
+<w tok="Excellency"/>
+<w tok="President"/>
+<w tok="JEFFERSON"/>
+<w tok="DAVIS"/>
+<w tok="."/>
+</s>
+</doc>

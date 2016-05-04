@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-182" title="64" domain="wotr">
+<s id="s1">
+<toponym term="HASTING">
+<candidates>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864-9"/>
+<w tok="a.m."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="POPE"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="orders"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="simply"/>
+<w tok="directed"/>
+<w tok="the"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirtieth"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="ordered"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="that"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="regiment"/>
+<w tok="under"/>
+<w tok="Sully"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="circumstance"/>
+<w tok="you"/>
+<w tok="state"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="impossibility"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="proceeding"/>
+<w tok="by"/>
+<w tok="the"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3930268925" long="-92.4404240775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="arrangement"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="them"/>
+<w tok="overland"/>
+<w tok=","/>
+<w tok="preceded"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="400"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="cover"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="and"/>
+<w tok="be"/>
+<w tok="satisfactory"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="."/>
+<w tok="N."/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="DANA"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

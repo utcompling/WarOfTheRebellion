@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-102" title="105" domain="wotr">
+<s id="s1">
+<toponym term="FORT GASTON">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="BARTH"/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Humboldt"/>
+<w tok="Mil"/>
+<w tok="."/>
+<w tok="Dist"/>
+<w tok="."/>
+<toponym term="Fort Humboldt">
+<candidates>
+</candidates>
+</toponym>
+<w tok="LIEUTENANT"/>
+<w tok=":"/>
+<w tok="Through"/>
+<w tok="inadvertence"/>
+<w tok="the"/>
+<w tok="foregoing"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="entry"/>
+<w tok="in"/>
+<w tok="our"/>
+<w tok="post"/>
+<w tok="records"/>
+<w tok="was"/>
+<w tok="omitted"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="inclosed"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="communication"/>
+<w tok="of"/>
+<w tok="5th"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="N."/>
+<w tok="OLNEY"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

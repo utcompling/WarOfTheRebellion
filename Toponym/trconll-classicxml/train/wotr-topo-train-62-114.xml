@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-114" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="CAVALRY"/>
+<w tok="MISSOURI"/>
+<w tok="STATE"/>
+<w tok="MILITIA"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Central"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="Meredith"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="have"/>
+<w tok="recaptured"/>
+<w tok="a"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="property"/>
+<w tok="taken"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Kanss"/>
+<w tok="men"/>
+<w tok="in"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="viz"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="wagon"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="returned"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="owner"/>
+<w tok=","/>
+<w tok="widow"/>
+<w tok="lady"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="name"/>
+<w tok="of"/>
+<w tok="Robinson"/>
+<w tok="."/>
+<w tok="JAMES"/>
+<w tok="McFERRAN"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Third"/>
+<w tok="Sub-Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Central"/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok="."/>
+</s>
+</doc>

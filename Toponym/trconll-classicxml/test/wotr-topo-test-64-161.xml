@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-161" title="64" domain="wotr">
+<s id="s1">
+<w tok="QUARTERMASTER"/>
+<w tok="&apos;S"/>
+<w tok="DEPT."/>
+<w tok=","/>
+<w tok="OFFICE"/>
+<w tok="OF"/>
+<w tok="TRANSPORTATION"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="ASSISTANT"/>
+<w tok="ADJUTANT-GENERAL"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MO."/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Seventh"/>
+<w tok="Illinois"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok="leave"/>
+<w tok="at"/>
+<w tok="6.15"/>
+<w tok="p.m."/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="desire"/>
+<w tok="to"/>
+<w tok="express"/>
+<w tok="my"/>
+<w tok="sincerest"/>
+<w tok="thanks"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Rosecrans"/>
+<w tok="for"/>
+<w tok="his"/>
+<w tok="kindness"/>
+<w tok=","/>
+<w tok="toward"/>
+<w tok="us"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="feel"/>
+<w tok="confident"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="authority"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok="to"/>
+<w tok="mount"/>
+<w tok="and"/>
+<w tok="arm"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="have"/>
+<w tok="dean"/>
+<w tok="done"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="a"/>
+<w tok="favor"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="Sergeant"/>
+<w tok="Weking"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="M"/>
+<w tok=","/>
+<w tok="Robert"/>
+<w tok="Sheetz"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="William"/>
+<w tok="Martin"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="perhaps"/>
+<w tok="one"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="others"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="steamer"/>
+<w tok="Olive"/>
+<w tok="Branch"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="confinement"/>
+<w tok="in"/>
+<w tok="military"/>
+<w tok="prison"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="EDWARD"/>
+<w tok="PRINCE"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Seventh"/>
+<w tok="Illinois"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+</s>
+</doc>

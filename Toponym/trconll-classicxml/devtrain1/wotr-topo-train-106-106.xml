@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-106" title="106" domain="wotr">
+<s id="s1">
+<toponym term="TUCSON">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Hiram"/>
+<w tok="Stevens"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="a"/>
+<w tok="resident"/>
+<w tok="of"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ariz. Ter.">
+<candidates>
+<cand lat="34.3270757305" long="-111.71484785" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="being"/>
+<w tok="duly"/>
+<w tok="sworn"/>
+<w tok=","/>
+<w tok="deposes"/>
+<w tok="and"/>
+<w tok="says"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="accompanied"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="troops"/>
+<w tok="from"/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Tucson">
+<candidates>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="troops"/>
+<w tok="left"/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="January"/>
+<w tok="and"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="detachment"/>
+<w tok="was"/>
+<w tok="composed"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Hunter"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="and"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Reily"/>
+<w tok="&apos;s"/>
+<w tok="escort"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="detachment"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="employes"/>
+<w tok=","/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="exceed"/>
+<w tok="105"/>
+<w tok="men"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="means"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok="consisted"/>
+<w tok="of"/>
+<w tok="three"/>
+<w tok="wagons"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="had"/>
+<w tok="no"/>
+<w tok="artillery"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="were"/>
+<w tok="all"/>
+<w tok="mounted"/>
+<w tok="and"/>
+<w tok="well"/>
+<w tok="armed"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="detachment"/>
+<w tok="was"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="Confederate"/>
+<w tok="forces"/>
+<w tok="that"/>
+<w tok="occupied"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="any"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Territory"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+</candidates>
+</toponym>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Pinos Altos Mines">
+<candidates>
+<cand lat="32.863333" long="-108.221389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="escort"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Reily"/>
+<w tok="consisted"/>
+<w tok="of"/>
+<w tok="thirty"/>
+<w tok="men"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="colonel"/>
+<w tok="returned"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="escort"/>
+<w tok="in"/>
+<w tok="March"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="Hunter"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="after"/>
+<w tok="that"/>
+<w tok="time"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="re-enforced"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="its"/>
+<w tok="numbers"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="exceed"/>
+<w tok="seventy-five"/>
+<w tok="men"/>
+<w tok="from"/>
+<w tok="that"/>
+<w tok="time"/>
+<w tok="until"/>
+<w tok="it"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="of"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="May"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="that"/>
+<w tok="his"/>
+<w tok="company"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="drilled"/>
+<w tok="nor"/>
+<w tok="disciplined"/>
+<w tok="during"/>
+<w tok="its"/>
+<w tok="stay"/>
+<w tok="in"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="so"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="("/>
+<w tok="Stevens"/>
+<w tok=")"/>
+<w tok="knows"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="he"/>
+<w tok="had"/>
+<w tok="every"/>
+<w tok="means"/>
+<w tok="of"/>
+<w tok="knowing"/>
+<w tok=","/>
+<w tok="being"/>
+<w tok="a"/>
+<w tok="resident"/>
+<w tok="of"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="company"/>
+<w tok="occupioed"/>
+<w tok="it"/>
+<w tok=";"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="company"/>
+<w tok="were"/>
+<w tok="kept"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="corral"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Overland Mail Company">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="Hunter"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="slept"/>
+<w tok="each"/>
+<w tok="wherehe"/>
+<w tok="liked"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="any"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="town"/>
+<w tok="he"/>
+<w tok="chose"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="general"/>
+<w tok="thing"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="the"/>
+<w tok="said"/>
+<w tok="company"/>
+<w tok="occupied"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="H."/>
+<w tok="S."/>
+<w tok="STEVENS"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-1" title="60" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<toponym term="RICHMOND">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="forwarded"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="request"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Barton"/>
+<w tok="."/>
+<w tok="ARNOLD"/>
+<w tok="ELZEY"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

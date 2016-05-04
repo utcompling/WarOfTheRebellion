@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-114" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="O"/>
+<w tok="."/>
+<w tok="WOOD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="34.778056" long="-91.871667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="order"/>
+<w tok="your"/>
+<w tok="scouting"/>
+<w tok="parties"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="twice"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="oftener"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="informed"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="movement"/>
+<w tok="twice"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="oftener"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="informed"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="movements"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="timely"/>
+<w tok="support"/>
+<w tok="to"/>
+<w tok="our"/>
+<w tok="forces"/>
+<w tok="and"/>
+<w tok="co-operate"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

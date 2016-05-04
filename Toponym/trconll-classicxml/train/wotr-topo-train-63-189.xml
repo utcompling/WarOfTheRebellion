@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-189" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="POST ARANSAS">
+<candidates>
+<cand lat="27.833333" long="-97.066667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TEX.">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="all"/>
+<w tok="whom"/>
+<w tok="it"/>
+<w tok="may"/>
+<w tok="concern"/>
+<w tok=":"/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="certify"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="Crowell"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Exact"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="landed"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="as"/>
+<w tok="per"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="76"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="Major-General"/>
+<w tok="McClernand"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="Lieutenant"/>
+<w tok="Paddock"/>
+<w tok=","/>
+<w tok="acting"/>
+<w tok="assistant"/>
+<w tok="quartermaster"/>
+<w tok="of"/>
+<w tok="transportation"/>
+<w tok=","/>
+<w tok="being"/>
+<w tok="such"/>
+<w tok="that"/>
+<w tok=","/>
+<w tok="unaccompanied"/>
+<w tok="with"/>
+<w tok="other"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="understand"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Pierce"/>
+<w tok="being"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="return"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="ordered"/>
+<w tok="the"/>
+<w tok="captain"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="THOMPSON"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

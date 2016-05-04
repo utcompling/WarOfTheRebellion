@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-97" title="63" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JAMES"/>
+<w tok="H."/>
+<w tok="CARLETON"/>
+<w tok=","/>
+<toponym term="Santa Fe">
+<candidates>
+<cand lat="35.6885332074" long="-105.942201412" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4267667569" long="-106.111418366" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="March"/>
+<w tok="20"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="and"/>
+<w tok="so"/>
+<w tok="much"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok="as"/>
+<w tok="refers"/>
+<w tok="to"/>
+<w tok="quartermaster"/>
+<w tok="and"/>
+<w tok="commissary"/>
+<w tok="business"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="chiefs"/>
+<w tok="of"/>
+<w tok="those"/>
+<w tok="bureaus"/>
+<w tok="for"/>
+<w tok="their"/>
+<w tok="action"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="duly"/>
+<w tok="communicated"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="supposed"/>
+<w tok="that"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="means"/>
+<w tok="at"/>
+<w tok="your"/>
+<w tok="disposal"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="far"/>
+<w tok="into"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="hoped"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="demonstration"/>
+<w tok="might"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="upper"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="would"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="embarrass"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="quarter"/>
+<w tok="."/>
+<w tok="Any"/>
+<w tok="troops"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="object"/>
+<w tok="should"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="advanced"/>
+<w tok="so"/>
+<w tok="far"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="seriously"/>
+<w tok="exposed"/>
+<w tok="."/>
+<w tok="Since"/>
+<w tok="my"/>
+<w tok="last"/>
+<w tok="letter"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="subject"/>
+<w tok="General"/>
+<w tok="Banks"/>
+<w tok="seems"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="changed"/>
+<w tok="his"/>
+<w tok="base"/>
+<w tok="of"/>
+<w tok="operations"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Gulf">
+<candidates>
+<cand lat="28.4181589874" long="-93.8307571713" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="west"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="This"/>
+<w tok="will"/>
+<w tok="probably"/>
+<w tok="render"/>
+<w tok="any"/>
+<w tok="demonstration"/>
+<w tok="on"/>
+<w tok="your"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="less"/>
+<w tok="assistance"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="than"/>
+<w tok="when"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="operating"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="former"/>
+<w tok="base"/>
+<w tok="."/>
+<w tok="Indeed"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="of"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="after"/>
+<w tok="his"/>
+<w tok="long"/>
+<w tok="delays"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="accomplish"/>
+<w tok="much"/>
+<w tok="in"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="spring"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="of"/>
+<w tok="February"/>
+<w tok="last"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="West"/>
+<w tok="was"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Steele"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="appears"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="recent"/>
+<w tok="dispatches"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="had"/>
+<w tok="not"/>
+<w tok="received"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="this"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sufficient"/>
+<w tok="authority"/>
+<w tok="for"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="anything"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="do"/>
+<w tok="on"/>
+<w tok="Mexican"/>
+<w tok="territory"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="exceedingly"/>
+<w tok="careful"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="no"/>
+<w tok="offense"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="French"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="important"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="time"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="maintain"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="amicable"/>
+<w tok="relations"/>
+<w tok="with"/>
+<w tok="that"/>
+<w tok="power"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-5" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LOUISVILLE">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="--"/>
+<w tok="9"/>
+<w tok="."/>
+<w tok="45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DICKSON"/>
+<w tok=":"/>
+<w tok="We"/>
+<w tok="understand"/>
+<w tok="that"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="besieged"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="cannonading"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="heard"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="day"/>
+<w tok="at"/>
+<toponym term="Bagdad">
+<candidates>
+<cand lat="38.262222" long="-85.057778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Where"/>
+<w tok="is"/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="?"/>
+<w tok="Keep"/>
+<w tok="me"/>
+<w tok="posted"/>
+<w tok="."/>
+<w tok="Ample"/>
+<w tok="force"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="provided"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="dispatches"/>
+<w tok="through"/>
+<w tok="other"/>
+<w tok="quarters"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="necessary"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="communication"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok=";"/>
+<w tok="if"/>
+<w tok="we"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="we"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="care"/>
+<w tok="of"/>
+<w tok="ourselves"/>
+<w tok="."/>
+<w tok="Acknowledge"/>
+<w tok="receipt"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="important"/>
+<w tok="."/>
+<w tok="HENRY"/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

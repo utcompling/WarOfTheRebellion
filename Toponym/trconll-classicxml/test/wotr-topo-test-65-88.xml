@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-88" title="65" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Fifth"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="QUARTERMASTER"/>
+<w tok="&apos;S"/>
+<w tok="OFFICE"/>
+<w tok=","/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7711440889" long="-79.9330732852" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok=","/>
+<w tok="through"/>
+<w tok="chief"/>
+<w tok="quartermaster"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="remark"/>
+<w tok="that"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="8th"/>
+<w tok="of"/>
+<w tok="December"/>
+<w tok="four"/>
+<w tok="oil"/>
+<w tok="landers"/>
+<w tok="were"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<w tok="Messrs"/>
+<w tok="Adams"/>
+<w tok="and"/>
+<w tok="Damon"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="taken"/>
+<w tok="down"/>
+<w tok="to"/>
+<toponym term="Fort Sumter">
+<candidates>
+<cand lat="32.713889" long="-79.985278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="Lieutenant"/>
+<w tok="Swinton"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Elliott"/>
+<w tok="acknowledges"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="these"/>
+<w tok="lanterns"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="record"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="other"/>
+<w tok="requisitions"/>
+<w tok="for"/>
+<w tok="landers"/>
+<w tok="being"/>
+<w tok="made"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="shipped"/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="four"/>
+<w tok="additional"/>
+<w tok="quartermaster"/>
+<w tok="of"/>
+<w tok="Fifth"/>
+<w tok="Military"/>
+<w tok="District"/>
+<w tok=","/>
+<w tok="upon"/>
+<w tok="whom"/>
+<w tok="all"/>
+<w tok="requisitions"/>
+<w tok="from"/>
+<toponym term="Fort Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="submit"/>
+<w tok=","/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="."/>
+<w tok="MOTTE"/>
+<w tok="A."/>
+<w tok="PRINGLE"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Quartermaster"/>
+<w tok="."/>
+</s>
+</doc>

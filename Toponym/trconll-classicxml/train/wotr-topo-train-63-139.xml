@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-139" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CAPE GIRARDEAU">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="reliable"/>
+<w tok="that"/>
+<w tok="Kitchen"/>
+<w tok="and"/>
+<w tok="Clark"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="concentrating"/>
+<w tok="quite"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="at"/>
+<toponym term="Gainesville">
+<candidates>
+<cand lat="29.651997" long="-82.324992" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="the"/>
+<w tok="citizens"/>
+<w tok="are"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="remove"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="satisfied"/>
+<w tok="we"/>
+<w tok="may"/>
+<w tok="expect"/>
+<w tok="a"/>
+<w tok="raid"/>
+<w tok="soon"/>
+<w tok="on"/>
+<w tok="our"/>
+<w tok="outposts"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="scouts"/>
+<w tok="out"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="endeavor"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="you"/>
+<w tok="advised"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="they"/>
+<w tok="mean"/>
+<w tok="mischief"/>
+<w tok="either"/>
+<w tok="at"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Bloomfield">
+<candidates>
+<cand lat="36.887778" long="-89.93" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

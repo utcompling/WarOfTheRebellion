@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-36" title="78" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="SIXTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1291049331" long="-90.0093025714" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8519948364" long="-86.2856808699" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="GILBERT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="hold"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="moment"/>
+<w tok="&apos;s"/>
+<w tok="notice"/>
+<w tok=","/>
+<w tok="provided"/>
+<w tok="with"/>
+<w tok="forty"/>
+<w tok="rounds"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok="in"/>
+<w tok="cartridge-boxes"/>
+<w tok=","/>
+<w tok="sixty"/>
+<w tok="rounds"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="ordnance"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="three"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="kept"/>
+<w tok="in"/>
+<w tok="camp"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="cause"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="removed"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="David"/>
+<w tok="Moore"/>
+<w tok=":"/>
+<w tok="JAMES"/>
+<w tok="B."/>
+<w tok="COMSTOCK"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-68" title="61" domain="wotr">
+<s id="s1">
+<w tok="IN"/>
+<w tok="THE"/>
+<w tok="FIELD"/>
+<w tok=","/>
+<w tok="NEAR"/>
+<toponym term="HARRISONBURG">
+<candidates>
+<cand lat="31.772222" long="-91.8275" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="30.9680039217" long="-91.9022343374" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="leave"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="Lieutenant"/>
+<w tok="O."/>
+<w tok="Gaudet"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="howitzer"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="battery"/>
+<w tok=","/>
+<w tok="recently"/>
+<w tok="detached"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Trinity">
+<candidates>
+<cand lat="31.632" long="-91.811" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="march"/>
+<w tok="from"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="ordered"/>
+<w tok="by"/>
+<w tok="Colonel"/>
+<w tok="Speight"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="["/>
+<w tok="Fifteenth"/>
+<w tok="]"/>
+<w tok="Regiment"/>
+<w tok="Texas"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="commanded"/>
+<w tok="the"/>
+<w tok="rear"/>
+<w tok="guard"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="abandon"/>
+<w tok="his"/>
+<w tok="two"/>
+<w tok="caissons"/>
+<w tok="in"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="save"/>
+<w tok="his"/>
+<w tok="pieces"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="caissons"/>
+<w tok="being"/>
+<w tok="left"/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="below"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="to"/>
+<toponym term="Trinity">
+<candidates>
+<cand lat="31.632" long="-91.811" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="a"/>
+<w tok="guard"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="this"/>
+<w tok="valuable"/>
+<w tok="property"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="when"/>
+<w tok="he"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="ferry"/>
+<w tok="on"/>
+<toponym term="Bushly Bayou">
+<candidates>
+<cand lat="31.67" long="-91.85" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="just"/>
+<w tok="below"/>
+<toponym term="Harrisonburg">
+<candidates>
+<cand lat="31.772222" long="-91.8275" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="not"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok="his"/>
+<w tok="pieces"/>
+<w tok=","/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="men"/>
+<w tok="until"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok="and"/>
+<w tok="their"/>
+<w tok="wagons"/>
+<w tok=","/>
+<w tok="including"/>
+<w tok="the"/>
+<w tok="rear"/>
+<w tok="guard"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="ferried"/>
+<w tok="over"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="leave"/>
+<w tok="most"/>
+<w tok="respectfully"/>
+<w tok="to"/>
+<w tok="protest"/>
+<w tok="against"/>
+<w tok=","/>
+<w tok="this"/>
+<w tok="very"/>
+<w tok="unusual"/>
+<w tok="and"/>
+<w tok="irregular"/>
+<w tok="proceeding"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="believe"/>
+<w tok="was"/>
+<w tok="done"/>
+<w tok="without"/>
+<w tok="your"/>
+<w tok="knowledge"/>
+<w tok="or"/>
+<w tok="consent"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="a"/>
+<w tok="rule"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="such"/>
+<w tok="circumstance"/>
+<w tok="artillery"/>
+<w tok="is"/>
+<w tok="crossed"/>
+<w tok="early"/>
+<w tok="and"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="opposite"/>
+<w tok="bank"/>
+<w tok="to"/>
+<w tok="cover"/>
+<w tok="the"/>
+<w tok="crossing"/>
+<w tok="of"/>
+<w tok="troops"/>
+<w tok="and"/>
+<w tok="trains"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="written"/>
+<w tok="in"/>
+<w tok="no"/>
+<w tok="spirit"/>
+<w tok="of"/>
+<w tok="fault-finding"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="only"/>
+<w tok="to"/>
+<w tok="call"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="unusual"/>
+<w tok="and"/>
+<w tok="unmilitary"/>
+<w tok="occurrence"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="T."/>
+<w tok="A."/>
+<w tok="FARIES"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Battery"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="J."/>
+<w tok="POLIGNAC"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok="Infantry"/>
+<w tok="."/>
+</s>
+</doc>

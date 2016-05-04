@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-7" title="60" domain="wotr">
+<s id="s1">
+<w tok="General"/>
+<w tok="R."/>
+<w tok="E."/>
+<w tok="LEE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="Northern"/>
+<w tok="Virginia"/>
+<w tok="."/>
+<w tok="JANUARY"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="Affair"/>
+<w tok="near"/>
+<toponym term="Gloucester Court-House">
+<candidates>
+<cand lat="37.412778" long="-76.524167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va">
+<candidates>
+<cand lat="37.3964661387" long="-78.8299613381" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Isaac"/>
+<w tok="J."/>
+<w tok="Wistar"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<toponym term="FORT MONROE">
+<candidates>
+<cand lat="37.003611" long="-76.3075" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.4971211974" long="-78.6385920208" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="18649"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="forward"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Wistar"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="information"/>
+<w tok=":"/>
+<w tok="Captured"/>
+<w tok="some"/>
+<w tok="3"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="some"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="arms"/>
+<w tok=","/>
+<w tok="near"/>
+<toponym term="Gloucester Court-House">
+<candidates>
+<cand lat="37.412778" long="-76.524167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="Hampton"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="division"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="8,000"/>
+<w tok="strong"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="one"/>
+<w tok="battery"/>
+<w tok=","/>
+<w tok="occupy"/>
+<toponym term="Fredericksburg">
+<candidates>
+<cand lat="38.301829" long="-77.470778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Falmouth">
+<candidates>
+<cand lat="38.331667" long="-77.461389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="scouting"/>
+<w tok="down"/>
+<w tok="to"/>
+<toponym term="Gloucester">
+<candidates>
+<cand lat="37.412778" long="-76.524167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="BUTLER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

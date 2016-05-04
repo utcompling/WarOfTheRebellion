@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-237" title="63" domain="wotr">
+<s id="s1">
+<toponym term="DARDANELLE">
+<candidates>
+<cand lat="35.2225" long="-93.160278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="KIMBALL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok="here"/>
+<w tok="with"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="from"/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="A."/>
+<w tok="H."/>
+<w tok="RYAN"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Third"/>
+<w tok="Arkansas"/>
+<w tok="."/>
+</s>
+</doc>

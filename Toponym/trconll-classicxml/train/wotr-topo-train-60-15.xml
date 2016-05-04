@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-15" title="60" domain="wotr">
+<s id="s1">
+<w tok="Brigadier-General"/>
+<w tok="KELLEY"/>
+<w tok=":"/>
+<w tok="Brigadier-General"/>
+<w tok="Scammon"/>
+<w tok="left"/>
+<toponym term="Point Pleasant">
+<candidates>
+<cand lat="38.8575" long="-82.128611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="on"/>
+<w tok="steamer"/>
+<w tok="Levi"/>
+<w tok="for"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7763787403" long="-79.9220476567" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="boat"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="at"/>
+<toponym term="Red House">
+<candidates>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="burned"/>
+<w tok="her"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="taken"/>
+<w tok="General"/>
+<w tok="Scammon"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="lieutenant"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="staff"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="Pinckard"/>
+<w tok="off"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="boat"/>
+<w tok="&apos;s"/>
+<w tok="crew"/>
+<w tok="and"/>
+<w tok="passengers"/>
+<w tok="are"/>
+<w tok="released"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="J."/>
+<w tok="STEALEY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Quartermaster"/>
+<w tok="."/>
+</s>
+</doc>

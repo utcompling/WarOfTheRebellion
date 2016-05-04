@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-19" title="78" domain="wotr">
+<s id="s1">
+<w tok="firming"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="."/>
+<w tok="Five"/>
+<w tok="hundred"/>
+<w tok="veteran"/>
+<w tok="cavalry"/>
+<w tok="have"/>
+<w tok="gone"/>
+<w tok="to"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="Forty-THIRD"/>
+<w tok="Indiana"/>
+<w tok="Veterans"/>
+<w tok="is"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="General"/>
+<w tok="Ewing"/>
+<w tok="consents"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="go"/>
+<w tok="to-morrow"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="militia"/>
+<w tok="ordered"/>
+<w tok="out"/>
+<w tok="by"/>
+<w tok="Governor"/>
+<w tok="Bramlette"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="force"/>
+<w tok="their"/>
+<w tok="way"/>
+<w tok="to"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="has"/>
+<w tok="become"/>
+<w tok="the"/>
+<w tok="key"/>
+<w tok="position"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="large"/>
+<w tok="supply"/>
+<w tok="of"/>
+<w tok="arms"/>
+<w tok="there"/>
+<w tok="invites"/>
+<w tok="attack"/>
+<w tok="."/>
+<w tok="Try"/>
+<w tok="and"/>
+<w tok="get"/>
+<w tok="scouts"/>
+<w tok="into"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="HENRY"/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

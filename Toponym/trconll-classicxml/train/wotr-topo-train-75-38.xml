@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-38" title="75" domain="wotr">
+<s id="s1">
+<w tok="MAY"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="leave"/>
+<w tok="the"/>
+<w tok="Seventeenth"/>
+<w tok="Wisconsin"/>
+<w tok="at"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="directed"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="notified"/>
+<w tok="General"/>
+<w tok="McMahon"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="hereafter"/>
+<w tok="receive"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Campbell"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="Q."/>
+<w tok="GRESHAM"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

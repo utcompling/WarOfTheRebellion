@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-25" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.197249868" long="-93.3100198871" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="You"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="say"/>
+<w tok="where"/>
+<w tok="these"/>
+<w tok="rebels"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Arkansas">
+<candidates>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="events"/>
+<w tok="get"/>
+<w tok="troops"/>
+<w tok="on"/>
+<w tok="hand"/>
+<w tok="to"/>
+<w tok="whip"/>
+<w tok="them"/>
+<w tok="when"/>
+<w tok="they"/>
+<w tok="come"/>
+<w tok="in"/>
+<w tok="reach"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="keep"/>
+<w tok="me"/>
+<w tok="fully"/>
+<w tok="advised"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="reported"/>
+<w tok="movements"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="the"/>
+<w tok="scarcity"/>
+<w tok="of"/>
+<w tok="forage"/>
+<w tok=","/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="hardly"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="come"/>
+<w tok="up"/>
+<w tok="into"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="well"/>
+<w tok="quit"/>
+<w tok="your"/>
+<w tok="posts"/>
+<w tok="to"/>
+<w tok="re-enforce"/>
+<w tok="those"/>
+<w tok="in"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8727279336" long="-92.4674963559" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="look"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="an"/>
+<w tok="opportunity"/>
+<w tok="to"/>
+<w tok="strike"/>
+<w tok="effectively"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="do"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="no"/>
+<w tok="matter"/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="State"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="have"/>
+<w tok="plenty"/>
+<w tok="of"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-127" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<toponym term="ARIZONA">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Numbers"/>
+<w tok="58"/>
+<w tok="."/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Fort Fillmore">
+<candidates>
+<cand lat="32.257778" long="-106.743333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="ordered"/>
+<w tok="withdrawn"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="repair"/>
+<w tok="to"/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="join"/>
+<w tok="the"/>
+<w tok="garrison"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="sick"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="hospital"/>
+<w tok="department"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="removed"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Surgeon"/>
+<w tok="Kittridge"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Surgeon"/>
+<w tok="Prentiss"/>
+<w tok="on"/>
+<w tok="reaching"/>
+<toponym term="Mesilla">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="West"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="RYNERSON"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Infty"/>
+<w tok="."/>
+<w tok="California"/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

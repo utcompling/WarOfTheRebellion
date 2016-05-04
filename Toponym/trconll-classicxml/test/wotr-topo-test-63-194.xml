@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-194" title="63" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DETACHMENT"/>
+<w tok="SEVENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="C."/>
+<w tok="C."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="detail"/>
+<w tok="75"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="proper"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="all"/>
+<w tok="mounted"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="three"/>
+<w tok="or"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="on"/>
+<w tok="an"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="start"/>
+<w tok="to-night"/>
+<w tok="or"/>
+<w tok="early"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="ready"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="officer"/>
+<w tok="detailed"/>
+<w tok="to"/>
+<w tok="command"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok="for"/>
+<w tok="particular"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="MASON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

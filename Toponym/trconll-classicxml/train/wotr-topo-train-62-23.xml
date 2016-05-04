@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-23" title="62" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Second"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="thousand"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok="furnished"/>
+<w tok="daily"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="garrison"/>
+<w tok="to"/>
+<w tok="work"/>
+<w tok="on"/>
+<w tok="fortifications"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="reports"/>
+<w tok="within"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="chief"/>
+<w tok="engineer"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="only"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="very"/>
+<w tok="incorrect"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="express"/>
+<w tok="my"/>
+<w tok="surprise"/>
+<w tok="that"/>
+<w tok="such"/>
+<w tok="reports"/>
+<w tok=","/>
+<w tok="coming"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="question"/>
+<w tok=","/>
+<w tok="should"/>
+<w tok="have"/>
+<w tok="produced"/>
+<w tok="the"/>
+<w tok="impression"/>
+<w tok="which"/>
+<w tok="they"/>
+<w tok="appear"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="done"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="chief"/>
+<w tok="engineer"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="ANDREWSS"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-39" title="75" domain="wotr">
+<s id="s1">
+<toponym term="HUNTSVILLE">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="McPHERSON"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="D."/>
+<w tok="Stevenson"/>
+<w tok=","/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="One"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="patrols"/>
+<w tok="to"/>
+<toponym term="Shoal Creek">
+<candidates>
+<cand lat="33.430833" long="-86.610833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="just"/>
+<w tok="in"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="rebels"/>
+<w tok="are"/>
+<w tok="there"/>
+<w tok="with"/>
+<w tok="an"/>
+<w tok="outpost"/>
+<w tok="of"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Reliable"/>
+<w tok="information"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="effect"/>
+<w tok="that"/>
+<w tok="Roddey"/>
+<w tok="has"/>
+<w tok="taken"/>
+<toponym term="Clifton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="or"/>
+<w tok="without"/>
+<w tok="the"/>
+<w tok="garrison"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="known-and"/>
+<w tok="that"/>
+<w tok="Forrest"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="is"/>
+<w tok="marching"/>
+<w tok="on"/>
+<w tok="to"/>
+<toponym term="Pulaski">
+<candidates>
+</candidates>
+</toponym>
+<w tok="The"/>
+<toponym term="Huntsville">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="is"/>
+<w tok="clear"/>
+<w tok="from"/>
+<toponym term="Shoal Creek">
+<candidates>
+<cand lat="33.430833" long="-86.610833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="bridge"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="and"/>
+<toponym term="Florence Ford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="J."/>
+<w tok="S."/>
+<w tok="RING"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Seventh"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

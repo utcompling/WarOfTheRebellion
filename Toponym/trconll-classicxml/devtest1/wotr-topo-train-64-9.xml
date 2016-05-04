@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-9" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FIST"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="COLORED"/>
+<w tok="TROOPS"/>
+<w tok=","/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="W."/>
+<w tok="WEBBER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Forces"/>
+<w tok=","/>
+<toponym term="Goodrich&apos;s Landing">
+<candidates>
+<cand lat="32.7432" long="-91.1791" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="By"/>
+<w tok="direction"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="43"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="date"/>
+<w tok=","/>
+<w tok="directing"/>
+<w tok="Colonel"/>
+<w tok="Wood"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Milliken&apos;s Bend">
+<candidates>
+<cand lat="32.44" long="-91.1" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="of"/>
+<toponym term="Lake Providence">
+<candidates>
+<cand lat="32.805278" long="-91.179444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="evacuated"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="Fifty-first"/>
+<w tok="and"/>
+<w tok="Sixty-sixth"/>
+<w tok="Regiments"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Infantry"/>
+<w tok="concentrated"/>
+<w tok="at"/>
+<toponym term="Goodrich&apos;s Landing">
+<candidates>
+<cand lat="32.7432" long="-91.1791" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="That"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Fifty-first"/>
+<w tok="Regiment"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Infantry"/>
+<w tok="at"/>
+<toponym term="Milliken&apos;s Bend">
+<candidates>
+<cand lat="32.44" long="-91.1" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<toponym term="Goodrich&apos;s Landing">
+<candidates>
+<cand lat="32.7432" long="-91.1791" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="Colonel"/>
+<w tok="Wood"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="no"/>
+<w tok="longer"/>
+<w tok="requires"/>
+<w tok="their"/>
+<w tok="services"/>
+<w tok="for"/>
+<w tok="perfecting"/>
+<w tok="the"/>
+<w tok="works"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="detail"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<w tok="Battery"/>
+<w tok="D"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Regiment"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Artillery"/>
+<w tok="("/>
+<w tok="light"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Wood"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="takes"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="the"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="entire"/>
+<w tok="control"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="and"/>
+<w tok="defenses"/>
+<w tok="at"/>
+<toponym term="Goodrich&apos;s Landing">
+<candidates>
+<cand lat="32.7432" long="-91.1791" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="all"/>
+<w tok="military"/>
+<w tok="operations"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="district"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<w tok="sending"/>
+<w tok="only"/>
+<w tok="monthly"/>
+<w tok="and"/>
+<w tok="tri-monthly"/>
+<w tok="returns"/>
+<w tok="and"/>
+<w tok="regimental"/>
+<w tok="official"/>
+<w tok="papers"/>
+<w tok="through"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="SAML"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="FERGUSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

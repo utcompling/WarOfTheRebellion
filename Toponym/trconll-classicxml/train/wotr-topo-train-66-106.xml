@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-106" title="66" domain="wotr">
+<s id="s1">
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="another"/>
+<w tok="engineer"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="addition"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="McKenna"/>
+<w tok="&apos;s"/>
+<w tok="detachment"/>
+<w tok=","/>
+<w tok="be"/>
+<w tok="assigned"/>
+<w tok="for"/>
+<w tok="temporary"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="has"/>
+<w tok="become"/>
+<w tok="indispensable"/>
+<w tok="in"/>
+<w tok="view"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="injury"/>
+<w tok="done"/>
+<w tok="to"/>
+<w tok="our"/>
+<w tok="works"/>
+<w tok="on"/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.715833" long="-79.890278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="bombardment"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="new"/>
+<w tok="works"/>
+<w tok="ordered"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="officer"/>
+<w tok="on"/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.715833" long="-79.890278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="properly"/>
+<w tok="qualified"/>
+<w tok="to"/>
+<w tok="carry"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="work"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="SCHIMMELFENNIG"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

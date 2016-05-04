@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-120" title="62" domain="wotr">
+<s id="s1">
+<toponym term="FORT LEAVENWORTH">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KANS.">
+<candidates>
+<cand lat="38.504658757" long="-98.3776932912" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Please"/>
+<w tok="inform"/>
+<w tok="me"/>
+<w tok="where"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="Kansas"/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="when"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="R."/>
+<w tok="JENNISON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

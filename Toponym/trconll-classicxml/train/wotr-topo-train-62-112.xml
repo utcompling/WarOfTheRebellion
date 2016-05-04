@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-112" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PATTERSON">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="FISK"/>
+<w tok=":"/>
+<w tok="My"/>
+<w tok="scouts"/>
+<w tok="returned"/>
+<w tok="from"/>
+<toponym term="Ash Hill">
+<candidates>
+<cand lat="36.671111" long="-90.251389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="found"/>
+<w tok="no"/>
+<w tok="force"/>
+<w tok=";"/>
+<w tok="killed"/>
+<w tok="2"/>
+<w tok="guerrillas"/>
+<w tok="as"/>
+<w tok="they"/>
+<w tok="returned"/>
+<w tok=","/>
+<w tok="near"/>
+<toponym term="Greenville">
+<candidates>
+<cand lat="33.398611" long="-91.048333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Johns"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="out"/>
+<w tok="six"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="somewhat"/>
+<w tok="uneasy"/>
+<w tok="about"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="be"/>
+<w tok="now"/>
+<w tok="about"/>
+<w tok="250"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="5"/>
+<w tok="captains"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="above"/>
+<toponym term="Pocahontas">
+<candidates>
+<cand lat="36.263611" long="-90.973333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="hard"/>
+<w tok="to"/>
+<w tok="reach"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="have"/>
+<w tok="built"/>
+<w tok="huts"/>
+<w tok="and"/>
+<w tok="encamped"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="winter"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="learn"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="ferry-boat"/>
+<w tok="is"/>
+<w tok="destroyed"/>
+<w tok="at"/>
+<toponym term="Pocahontas">
+<candidates>
+<cand lat="36.263611" long="-90.973333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="heard"/>
+<w tok="nothing"/>
+<w tok="more"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Livingston"/>
+<w tok="."/>
+<w tok="Reves"/>
+<w tok="is"/>
+<w tok="said"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="hiding"/>
+<w tok="about"/>
+<w tok="the"/>
+<w tok="border"/>
+<w tok="with"/>
+<w tok="11"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="much"/>
+<w tok="depressed"/>
+<w tok="in"/>
+<w tok="spirits"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="LEEPER"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="."/>
+</s>
+</doc>

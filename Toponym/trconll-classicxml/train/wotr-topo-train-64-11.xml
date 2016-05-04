@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-11" title="64" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="140"/>
+<w tok="."/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="4"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Fourth"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="until"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="at"/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4611952914" long="-91.1411905309" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="5"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="headquarters"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="at"/>
+<toponym term="Carrollton">
+<candidates>
+<cand lat="39.358889" long="-93.495556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok=":"/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DRAKE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

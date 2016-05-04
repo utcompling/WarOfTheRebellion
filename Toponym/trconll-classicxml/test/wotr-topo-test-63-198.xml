@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-198" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CLARKSVILLE">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="KIMBALL"/>
+<w tok=":"/>
+<w tok="Three"/>
+<w tok="hundred"/>
+<w tok="of"/>
+<w tok="these"/>
+<w tok="guerrillas"/>
+<w tok="are"/>
+<w tok="men"/>
+<w tok="collected"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="from"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="35.520833" long="-93.875833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Carroll">
+<candidates>
+<cand lat="36.368056" long="-93.496389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Newton Counties">
+<candidates>
+<cand lat="36.91" long="-94.33" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="100"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="small"/>
+<w tok="bands"/>
+<w tok="scattered"/>
+<w tok="over"/>
+<w tok="this"/>
+<w tok="country"/>
+<w tok="and"/>
+<w tok="Pope"/>
+<w tok="."/>
+<w tok="Every"/>
+<w tok="available"/>
+<w tok="horse"/>
+<w tok=","/>
+<w tok="mule"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="ox"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="pressed"/>
+<w tok=","/>
+<w tok="by"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Judson"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="haul"/>
+<w tok="cotton"/>
+<w tok="from"/>
+<toponym term="Roseville">
+<candidates>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="doing"/>
+<w tok="all"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="Lieutenant"/>
+<w tok="Roseman"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="was"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="me"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="before"/>
+<w tok="this"/>
+<w tok="time"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="fear"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="captured"/>
+<w tok="or"/>
+<w tok="driven"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="way"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="M."/>
+<w tok="WAUGH"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

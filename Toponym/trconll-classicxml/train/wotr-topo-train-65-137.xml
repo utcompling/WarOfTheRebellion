@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-137" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="no"/>
+<w tok="change"/>
+<w tok="of"/>
+<w tok="importance"/>
+<w tok="has"/>
+<w tok="taken"/>
+<w tok="place"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="McKinney"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Twenty-second"/>
+<w tok="South"/>
+<w tok="Carolina"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="relieved"/>
+<w tok="Lieutenant"/>
+<w tok="Able"/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="H."/>
+<w tok="WILDS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

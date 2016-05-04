@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-126" title="60" domain="wotr">
+<s id="s1">
+<toponym term="YORKTOWN">
+<candidates>
+<cand lat="37.234444" long="-76.509722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+<cand lat="37.5353833809" long="-78.6396228604" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="left"/>
+<w tok="my"/>
+<w tok="camp"/>
+<w tok="at"/>
+<w tok="Stevensburg"/>
+<w tok="with"/>
+<w tok="3,585"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="guns"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="caissons"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="wagons"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="6"/>
+<w tok="ambulances"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="now"/>
+<w tok="3,317"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="3,595"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="guns"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="caissons"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="wagons"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="4"/>
+<w tok="ambulances"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Dahlgren"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="about"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="to-day"/>
+<w tok=";"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="then"/>
+<w tok="near"/>
+<toponym term="King and Queen Court-House">
+<candidates>
+<cand lat="37.67" long="-76.8775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="send"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="assist"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Butler"/>
+<w tok="informs"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="ample"/>
+<w tok="transportation"/>
+<w tok="for"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="Troops"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="crossed"/>
+<w tok="at"/>
+<toponym term="Urbanna">
+<candidates>
+</candidates>
+</toponym>
+<w tok="only"/>
+<w tok="at"/>
+<w tok="high"/>
+<w tok="tide"/>
+<w tok="."/>
+<w tok="Dock"/>
+<w tok="destroyed"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="easily"/>
+<w tok="cross"/>
+<w tok="at"/>
+<toponym term="Rappahannock">
+<candidates>
+<cand lat="37.5875" long="-76.289167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Gun-boats"/>
+<w tok="can"/>
+<w tok="cover"/>
+<w tok="my"/>
+<w tok="crossing"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="KILPATRICK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="PLEASONTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Potomac"/>
+<w tok="."/>
+</s>
+</doc>

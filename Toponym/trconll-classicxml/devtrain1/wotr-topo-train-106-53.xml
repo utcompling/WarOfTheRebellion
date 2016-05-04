@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-53" title="106" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="163"/>
+<w tok="."/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Salem"/>
+<w tok="S."/>
+<w tok="Marsh"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="relieved"/>
+<w tok="from"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="department"/>
+<w tok="adn"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="his"/>
+<w tok="company"/>
+<w tok="("/>
+<w tok="C"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Wright"/>
+<w tok=":"/>
+<w tok="RICHD"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

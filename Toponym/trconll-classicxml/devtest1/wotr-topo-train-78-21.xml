@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-21" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864-3"/>
+<w tok="."/>
+<w tok="50"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="My"/>
+<w tok="last"/>
+<w tok="advices"/>
+<w tok=","/>
+<w tok="direct"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="effect"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="would"/>
+<w tok="attack"/>
+<w tok="Morgan"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="daybreak"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="The"/>
+<toponym term="Cincinnati">
+<candidates>
+<cand lat="39.0876358933" long="-84.5600838214" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="operator"/>
+<w tok="says"/>
+<w tok="courier"/>
+<w tok="just"/>
+<w tok="brought"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Boyd"/>
+<w tok="&apos;s"/>
+<w tok="Station"/>
+<w tok="that"/>
+<w tok="Hobson"/>
+<w tok="surrendered"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="superior"/>
+<w tok="numbers"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="came"/>
+<w tok="up"/>
+<w tok="with"/>
+<w tok="Morgan"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="near"/>
+<toponym term="Cynthiana">
+<candidates>
+<cand lat="38.388333" long="-84.296944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok=","/>
+<w tok="after"/>
+<w tok="an"/>
+<w tok="hour"/>
+<w tok="&apos;s"/>
+<w tok="fight"/>
+<w tok=","/>
+<w tok="completely"/>
+<w tok="broke"/>
+<w tok="him"/>
+<w tok="up"/>
+<w tok="."/>
+<w tok="Am"/>
+<w tok="expecting"/>
+<w tok="courier"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Burbridge"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="arrival"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

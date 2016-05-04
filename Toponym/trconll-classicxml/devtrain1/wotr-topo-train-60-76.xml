@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-76" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="Record"/>
+<w tok="of"/>
+<w tok="Events"/>
+<w tok="on"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="Cavalry"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="West"/>
+<w tok="Virginia"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="20"/>
+<w tok="."/>
+<w tok="-Three"/>
+<w tok="parties"/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="200"/>
+<w tok="men"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<toponym term="Loudoun">
+<candidates>
+<cand lat="39.09" long="-77.64" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="Cole"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="met"/>
+<w tok="Mosby"/>
+<w tok="&apos;s"/>
+<w tok="troops"/>
+<w tok="at"/>
+<w tok="or"/>
+<w tok="near"/>
+<toponym term="Upperville">
+<candidates>
+<cand lat="38.993889" long="-77.884722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="after"/>
+<w tok="a"/>
+<w tok="severe"/>
+<w tok="skirmish"/>
+<w tok="lost"/>
+<w tok="1"/>
+<w tok="captain"/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="private"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="several"/>
+<w tok="missing"/>
+<w tok=";"/>
+<w tok="captured"/>
+<w tok="18"/>
+<w tok="rebels"/>
+<w tok="."/>
+<w tok="Another"/>
+<w tok="party"/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Taylor"/>
+<w tok="went"/>
+<w tok="to"/>
+<toponym term="Front Royal">
+<candidates>
+<cand lat="38.933333" long="-78.2" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="drove"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="took"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="mountains"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="captured"/>
+<w tok="8"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="third"/>
+<w tok="party"/>
+<w tok="went"/>
+<w tok="to"/>
+<w tok="Strasburg"/>
+<w tok="without"/>
+<w tok="meeting"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="Morgan"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="A"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Veteran"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok="in"/>
+<w tok="action"/>
+<w tok="near"/>
+<toponym term="Upperville">
+<candidates>
+<cand lat="38.993889" long="-77.884722" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

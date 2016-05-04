@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-25" title="66" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="NORTHERN"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="L."/>
+<w tok="VON"/>
+<w tok="GILSA"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="duly"/>
+<w tok="officered"/>
+<w tok=","/>
+<w tok="onto"/>
+<toponym term="Kiawah Island">
+<candidates>
+<cand lat="32.608611" long="-80.081667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="out"/>
+<w tok="two"/>
+<w tok="nights"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="days"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="thoroughly"/>
+<w tok="to"/>
+<w tok="scour"/>
+<w tok="the"/>
+<w tok="island"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="start"/>
+<w tok="either"/>
+<w tok="to-night"/>
+<w tok="or"/>
+<w tok="to-morrow"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="crossing"/>
+<w tok="to"/>
+<toponym term="Kiawah Island">
+<candidates>
+<cand lat="32.608611" long="-80.081667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="after"/>
+<w tok="dark"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="proceeding"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="Vanderhost"/>
+<w tok="&apos;s"/>
+<w tok="farm"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="next"/>
+<w tok="day"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="lie"/>
+<w tok="quietly"/>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="farm"/>
+<w tok="without"/>
+<w tok="showing"/>
+<w tok="themselves"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Kiawah River bank">
+<candidates>
+<cand lat="32.6190037115" long="-80.0797207221" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="second"/>
+<w tok="night"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="advance"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="broken-down"/>
+<w tok="bridge"/>
+<w tok="leading"/>
+<w tok="to"/>
+<toponym term="Seabrook Island">
+<candidates>
+<cand lat="32.582222" long="-80.163333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="of"/>
+<toponym term="Kiawah">
+<candidates>
+<cand lat="32.608611" long="-80.081667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Seabrook">
+<candidates>
+<cand lat="32.582222" long="-80.163333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="beach"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="these"/>
+<w tok="points"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="until"/>
+<w tok="a"/>
+<w tok="couple"/>
+<w tok="of"/>
+<w tok="hours"/>
+<w tok="after"/>
+<w tok="daylight"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="carefully"/>
+<w tok="observe"/>
+<w tok="any"/>
+<w tok="signs"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="on"/>
+<toponym term="Seabrook">
+<candidates>
+<cand lat="32.582222" long="-80.163333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="party"/>
+<w tok="will"/>
+<w tok="then"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Folly Island">
+<candidates>
+<cand lat="32.665242353" long="-79.921132828" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="While"/>
+<w tok="this"/>
+<w tok="party"/>
+<w tok="is"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="negro"/>
+<w tok=","/>
+<w tok="Frank"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="bring"/>
+<w tok="in"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="stuff"/>
+<w tok="or"/>
+<w tok="cattle"/>
+<w tok="still"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="Vanderhost"/>
+<w tok="plantation"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok="Captain"/>
+<w tok="Cushing"/>
+<w tok="will"/>
+<w tok="furnish"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="wagons"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="calling"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="notify"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="start"/>
+<w tok="and"/>
+<w tok="who"/>
+<w tok="goes"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="accompanied"/>
+<w tok="by"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="&apos;s"/>
+<w tok="staff"/>
+<w tok="officers"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="W."/>
+<w tok="SCHAUFFLER"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

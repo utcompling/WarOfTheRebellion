@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-69" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="FRANKLIN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="19th"/>
+<w tok="and"/>
+<w tok="Detachment"/>
+<w tok="13th"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Stone"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="Captain"/>
+<w tok="Oltman"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="convenient"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="examined"/>
+<w tok="the"/>
+<w tok="ground"/>
+<w tok="about"/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="SARGENT"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

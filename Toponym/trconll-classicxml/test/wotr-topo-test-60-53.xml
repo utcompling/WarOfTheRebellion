@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-53" title="60" domain="wotr">
+<s id="s1">
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="PARSONS"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="24"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Robert"/>
+<w tok="E."/>
+<w tok="Lee"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="Northern"/>
+<w tok="Virginia"/>
+<w tok="."/>
+<toponym term="ORANGE COURT-HOUSE">
+<candidates>
+<cand lat="38.2452246725" long="-78.1111849844" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="8"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="forces"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="which"/>
+<w tok="crossed"/>
+<w tok="at"/>
+<toponym term="Morton&apos;s Ford">
+<candidates>
+<cand lat="38.3746" long="-77.904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="Saturday"/>
+<w tok="were"/>
+<w tok="driven"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="under"/>
+<w tok="cover"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="guns"/>
+<w tok="that"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="During"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="they"/>
+<w tok="recrossed"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="north"/>
+<w tok="bank"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="remained"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="morning"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="disappeared"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="left"/>
+<w tok="17"/>
+<w tok="dead"/>
+<w tok="and"/>
+<w tok="46"/>
+<w tok="prisoners"/>
+<w tok="in"/>
+<w tok="our"/>
+<w tok="hands"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="loss"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="20"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="The"/>
+<w tok="guard"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="ford"/>
+<w tok="("/>
+<w tok="a"/>
+<w tok="lieutenant"/>
+<w tok="and"/>
+<w tok="25"/>
+<w tok="men"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="bravely"/>
+<w tok="resisting"/>
+<w tok="the"/>
+<w tok="passage"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="captured"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="which"/>
+<w tok="appeared"/>
+<w tok="at"/>
+<w tok="Barnett"/>
+<w tok="&apos;s"/>
+<w tok="Saturday"/>
+<w tok="retired"/>
+<w tok="across"/>
+<toponym term="Robertson River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Sunday"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="E."/>
+<w tok="LEE"/>
+<w tok=","/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

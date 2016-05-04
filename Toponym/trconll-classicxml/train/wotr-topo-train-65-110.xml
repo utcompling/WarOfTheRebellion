@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-110" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Captain"/>
+<w tok="H."/>
+<w tok="K."/>
+<w tok="Kennon"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="Colquitt"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="relieved"/>
+<w tok="Captain"/>
+<w tok="Culpepper"/>
+<w tok="&apos;s"/>
+<w tok="detachment"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="fleet"/>
+<w tok="consists"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="iron-clads"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok=","/>
+<w tok="5"/>
+<w tok="tugs"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="15"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="5"/>
+<w tok="blockaders"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="schooners"/>
+<w tok="outside"/>
+<w tok=";"/>
+<w tok="4"/>
+<w tok="steamers"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="schooners"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="3"/>
+<w tok="steam"/>
+<w tok="derricks"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

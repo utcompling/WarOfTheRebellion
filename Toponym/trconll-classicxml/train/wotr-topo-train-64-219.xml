@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-219" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="F."/>
+<w tok="B."/>
+<w tok="GRAFF"/>
+<w tok=","/>
+<w tok="Esq."/>
+<w tok=","/>
+<toponym term="Rochester">
+<candidates>
+<cand lat="39.925833" long="-94.715278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="communication"/>
+<w tok="to"/>
+<w tok="Messrs."/>
+<w tok="Beach"/>
+<w tok="&amp;"/>
+<w tok="Pennick"/>
+<w tok=","/>
+<w tok="concerning"/>
+<w tok="suspicious"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="neighborhood"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="office"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="assure"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="every"/>
+<w tok="effort"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="to"/>
+<w tok="preserve"/>
+<w tok="good"/>
+<w tok="order"/>
+<w tok="and"/>
+<w tok="tranquillity"/>
+<w tok="in"/>
+<toponym term="Andrew County">
+<candidates>
+<cand lat="39.99" long="-94.8" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="time"/>
+<w tok="he"/>
+<w tok="expects"/>
+<w tok="the"/>
+<w tok="loyal"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="alert"/>
+<w tok=","/>
+<w tok="watchful"/>
+<w tok="and"/>
+<w tok="ready"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="answer"/>
+<w tok="a"/>
+<w tok="call"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="it"/>
+<w tok="should"/>
+<w tok="prove"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="call"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok="into"/>
+<w tok="active"/>
+<w tok="service"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="organization"/>
+<w tok="of"/>
+<w tok="Enrolled"/>
+<w tok="Missouri"/>
+<w tok="Militia"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="county"/>
+<w tok="has"/>
+<w tok="the"/>
+<w tok="reputation"/>
+<w tok="of"/>
+<w tok="being"/>
+<w tok="thoroughly"/>
+<w tok="radical"/>
+<w tok="and"/>
+<w tok="reliable"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="yet"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="learned"/>
+<w tok="of"/>
+<w tok="no"/>
+<w tok="trouble"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="A."/>
+<w tok="HOLLOWAY"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-114" title="66" domain="wotr">
+<s id="s1">
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="JUNGBLUT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Rocket"/>
+<w tok="Battery"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="stands"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Rocket Battery">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok="early"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="accompany"/>
+<w tok="an"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Legareville">
+<candidates>
+<cand lat="32.6552000722" long="-80.0554514185" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="men"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="provided"/>
+<w tok="with"/>
+<w tok="two"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Schimmelfennig"/>
+<w tok=":"/>
+<w tok="W."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="DEAN"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="127th"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Vols"/>
+<w tok=","/>
+<w tok="Actg"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+</s>
+</doc>

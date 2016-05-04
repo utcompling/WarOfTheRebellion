@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-37" title="63" domain="wotr">
+<s id="s1">
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="L."/>
+<w tok="LEE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="sufficient"/>
+<w tok="force"/>
+<w tok="out"/>
+<w tok="the"/>
+<toponym term="Red River road">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok="to"/>
+<w tok="thoroughly"/>
+<w tok="picket"/>
+<w tok="and"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="entrance"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="desires"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="infantry"/>
+<w tok="pickets"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Corps"/>
+<w tok="d&apos;Afrique"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="posted"/>
+<w tok="upon"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="leading"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="town"/>
+<w tok="upon"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="post"/>
+<w tok="vedettes"/>
+<w tok="in"/>
+<w tok="front"/>
+<w tok="of"/>
+<w tok="these"/>
+<w tok="pickets"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="squadron"/>
+<w tok="up"/>
+<w tok="the"/>
+<toponym term="Red River road">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="communicate"/>
+<w tok="and"/>
+<w tok="come"/>
+<w tok="in"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="squadron"/>
+<w tok="sent"/>
+<w tok="from"/>
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DRAKE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

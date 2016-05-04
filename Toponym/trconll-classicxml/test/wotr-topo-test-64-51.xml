@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-51" title="64" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MIL"/>
+<w tok="."/>
+<w tok="DIV"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="MISSISSIPPI"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="28"/>
+<w tok="."/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="facilitate"/>
+<w tok="the"/>
+<w tok="movement"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="and"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="barges"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="fitted"/>
+<w tok="up"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="transportation"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="horse"/>
+<w tok="batteries"/>
+<w tok="and"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="regiments"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="towed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="transports"/>
+<w tok="carrying"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="those"/>
+<w tok="arms"/>
+<w tok="."/>
+<w tok="Whenever"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="practicable"/>
+<w tok="to"/>
+<w tok="avoid"/>
+<w tok="it"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="separated"/>
+<w tok="from"/>
+<w tok="their"/>
+<w tok="guns"/>
+<w tok="and"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="arrangements"/>
+<w tok="for"/>
+<w tok="embarking"/>
+<w tok="and"/>
+<w tok="disembarking"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="as"/>
+<w tok="perfect"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="arrangement"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok=":"/>
+<w tok="At"/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.14359938" long="-90.0221671164" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8452966676" long="-86.2985205553" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="800"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="battery"/>
+<w tok=";"/>
+<w tok="at"/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.372602561" long="-90.8674915005" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7097917055" long="-89.6501110153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="1,200"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="batteries"/>
+<w tok=";"/>
+<w tok="at"/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="2,000"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="three"/>
+<w tok="batteries"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="5"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="additional"/>
+<w tok="forces"/>
+<w tok="designated"/>
+<w tok="for"/>
+<w tok="service"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="given"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="the"/>
+<w tok="returns"/>
+<w tok="required"/>
+<w tok="by"/>
+<w tok="regulations"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="while"/>
+<w tok="this"/>
+<w tok="force"/>
+<w tok="is"/>
+<w tok="operating"/>
+<w tok="within"/>
+<w tok="its"/>
+<w tok="limits"/>
+<w tok="."/>
+<w tok="6"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="T."/>
+<w tok="W."/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="detailed"/>
+<w tok="for"/>
+<w tok="special"/>
+<w tok="service"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="by"/>
+<w tok="letter"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="division"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="Canby"/>
+<w tok=":"/>
+<w tok="C."/>
+<w tok="T."/>
+<w tok="CHRISTENSEN"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok="and"/>
+<w tok="Assistant-Adjutant"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

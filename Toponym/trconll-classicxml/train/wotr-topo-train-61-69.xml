@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-69" title="61" domain="wotr">
+<s id="s1">
+<w tok="MARCH"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="-"/>
+<w tok="Skirmishes"/>
+<w tok="at"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="near"/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4598127557" long="-91.1219948624" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9680039217" long="-91.9022343374" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="Record"/>
+<w tok="of"/>
+<w tok="Events"/>
+<w tok="on"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="month"/>
+<w tok="of"/>
+<w tok="March"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="3rd"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="small"/>
+<w tok="force"/>
+<w tok="went"/>
+<w tok="to"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="skirmish"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok=";"/>
+<w tok="killed"/>
+<w tok="1"/>
+<w tok="rebel"/>
+<w tok="and"/>
+<w tok="took"/>
+<w tok="1"/>
+<w tok="prisoner"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="afternoon"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="party"/>
+<w tok="encountered"/>
+<w tok="a"/>
+<w tok="superior"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="charging"/>
+<w tok="them"/>
+<w tok="lost"/>
+<w tok="3"/>
+<w tok="men"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="day"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Logan"/>
+<w tok="went"/>
+<w tok="to"/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4692823448" long="-91.1329811906" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="skirmish"/>
+<w tok=";"/>
+<w tok="killed"/>
+<w tok="1"/>
+<w tok="rebel"/>
+<w tok="and"/>
+<w tok="lost"/>
+<w tok="3"/>
+<w tok="men"/>
+<w tok="prisoners"/>
+<w tok="."/>
+</s>
+</doc>

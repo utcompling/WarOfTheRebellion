@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-164" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="reply"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="relative"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="issuing"/>
+<w tok="of"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="making"/>
+<w tok="all"/>
+<w tok="property"/>
+<w tok="captured"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="citizen"/>
+<w tok="guards"/>
+<w tok="prizes"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="captors"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="no"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="issue"/>
+<w tok="such"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="therefore"/>
+<w tok=","/>
+<w tok="sanction"/>
+<w tok="anything"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="kind"/>
+<w tok="."/>
+<w tok="Yet"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="citizen"/>
+<w tok="guards"/>
+<w tok="really"/>
+<w tok="capture"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="any"/>
+<w tok="property"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="thinks"/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="circumstances"/>
+<w tok="no"/>
+<w tok="very"/>
+<w tok="strict"/>
+<w tok="accountability"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="called"/>
+<w tok="for"/>
+<w tok=","/>
+<w tok="unless"/>
+<w tok="in"/>
+<w tok="matters"/>
+<w tok="of"/>
+<w tok="grave"/>
+<w tok="and"/>
+<w tok="vital"/>
+<w tok="importance"/>
+<w tok="."/>
+<w tok="JAS"/>
+<w tok="."/>
+<w tok="TOTTEN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

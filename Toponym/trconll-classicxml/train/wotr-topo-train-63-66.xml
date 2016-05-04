@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-66" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="Field"/>
+<w tok=","/>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="GENERAL"/>
+<w tok="FORCES"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="ARMY"/>
+<w tok=","/>
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="When"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="evacuated"/>
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="there"/>
+<w tok="were"/>
+<w tok="left"/>
+<w tok="behind"/>
+<w tok="for"/>
+<w tok="want"/>
+<w tok="of"/>
+<w tok="ambulances"/>
+<w tok="quite"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="wounded"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="the"/>
+<w tok="moment"/>
+<w tok="it"/>
+<w tok="was"/>
+<w tok="impracticable"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="the"/>
+<w tok="proper"/>
+<w tok="supplies"/>
+<w tok="for"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="their"/>
+<w tok="condition"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="request"/>
+<w tok="of"/>
+<w tok="you"/>
+<w tok="now"/>
+<w tok="the"/>
+<w tok="privilege"/>
+<w tok="of"/>
+<w tok="forwarding"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="necessary"/>
+<w tok="supplies"/>
+<w tok="of"/>
+<w tok="food"/>
+<w tok=","/>
+<w tok="medicines"/>
+<w tok=","/>
+<w tok="clothing"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="BANKS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

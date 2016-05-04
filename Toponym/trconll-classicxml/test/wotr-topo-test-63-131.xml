@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-131" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="NORTHWEST"/>
+<w tok=","/>
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wis.">
+<candidates>
+<cand lat="44.6874169615" long="-89.6200113892" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Minnesota"/>
+<w tok=","/>
+<toponym term="Saint Poul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.3915284595" long="-94.1155242782" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="9th"/>
+<w tok="instant"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="advise"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="Sixth"/>
+<w tok="Minnesota"/>
+<w tok="Regiment"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="under"/>
+<w tok="your"/>
+<w tok="orders"/>
+<w tok="until"/>
+<w tok="its"/>
+<w tok="place"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="supplied"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="Regiment"/>
+<w tok="on"/>
+<w tok="its"/>
+<w tok="return"/>
+<w tok="from"/>
+<w tok="expedition"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="telegraphic"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="effect"/>
+<w tok="is"/>
+<w tok="sent"/>
+<w tok="you"/>
+<w tok="to-day"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="most"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="MELINE"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

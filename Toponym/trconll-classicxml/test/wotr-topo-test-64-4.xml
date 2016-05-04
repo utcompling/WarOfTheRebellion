@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-4" title="64" domain="wotr">
+<s id="s1">
+<w tok="CAMP"/>
+<w tok="FILLMORE"/>
+<w tok=","/>
+<w tok="COLO"/>
+<w tok="."/>
+<w tok="TER."/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Lieutenant"/>
+<w tok="J."/>
+<w tok="S."/>
+<w tok="MAYNARD"/>
+<w tok=","/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="G."/>
+<w tok=","/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<toponym term="Denver City">
+<candidates>
+<cand lat="39.7639612915" long="-104.999293858" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.9987669623" long="-105.590585817" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Major"/>
+<w tok="Wynkoop"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="company"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Fort Lyon">
+<candidates>
+<cand lat="38.074167" long="-103.1325" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="major"/>
+<w tok="says"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="Lieutenant"/>
+<w tok="Eayre"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="have"/>
+<w tok="nearly"/>
+<w tok="all"/>
+<w tok="been"/>
+<w tok="killed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Cheyenne"/>
+<w tok="Indians"/>
+<w tok="at"/>
+<w tok="some"/>
+<w tok="place"/>
+<w tok="over"/>
+<w tok="on"/>
+<toponym term="Smoky Hill Fork.">
+<candidates>
+<cand lat="38.761778" long="-99.532194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="already"/>
+<w tok="used"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="means"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="power"/>
+<w tok="to"/>
+<w tok="ascertain"/>
+<w tok="the"/>
+<w tok="correctness"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="and"/>
+<w tok="know"/>
+<w tok="not"/>
+<w tok="what"/>
+<w tok="moment"/>
+<w tok="I"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="obliged"/>
+<w tok="to"/>
+<w tok="start"/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="assistance"/>
+<w tok="."/>
+<w tok="For"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="reasons"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="comply"/>
+<w tok="as"/>
+<w tok="promptly"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="could"/>
+<w tok="wish"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="foregoing"/>
+<w tok="order"/>
+<w tok=","/>
+<w tok="viz"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="a"/>
+<w tok="single"/>
+<w tok="team"/>
+<w tok="or"/>
+<w tok="wagon"/>
+<w tok="with"/>
+<w tok="which"/>
+<w tok="to"/>
+<w tok="transport"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="and"/>
+<w tok="its"/>
+<w tok="stores"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="am"/>
+<w tok="advised"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Backus"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="teams"/>
+<w tok="would"/>
+<w tok="leave"/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7609239432" long="-104.9652184" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="march"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="transportation"/>
+<w tok="arrives"/>
+<w tok="unless"/>
+<w tok="orders"/>
+<w tok="are"/>
+<w tok="received"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="contrary"/>
+<w tok="."/>
+<w tok="Two"/>
+<w tok="sections"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="battery"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="camp"/>
+<w tok="on"/>
+<w tok="Wednesday"/>
+<w tok=","/>
+<w tok="25th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="for"/>
+<toponym term="Lyon">
+<candidates>
+<cand lat="38.074167" long="-103.1325" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="SHOUP"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<toponym term="Colorado">
+<candidates>
+</candidates>
+</toponym>
+</s>
+</doc>

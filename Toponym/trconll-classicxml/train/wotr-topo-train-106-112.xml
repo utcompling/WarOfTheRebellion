@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-112" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="October"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="FRANCIS"/>
+<w tok="J."/>
+<w tok="LIPPITT"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Humboldt"/>
+<w tok=","/>
+<toponym term="Fort Humboldt">
+<candidates>
+<cand lat="40.776944" long="-124.188889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="department"/>
+<w tok="commander"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="reduce"/>
+<w tok="the"/>
+<w tok="garrison"/>
+<w tok="of"/>
+<toponym term="Fort Gaston">
+<candidates>
+<cand lat="41.050278" long="-123.674167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="believing"/>
+<w tok="the"/>
+<w tok="remaining"/>
+<w tok="force"/>
+<w tok="("/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok=")"/>
+<w tok="sufficient"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="While"/>
+<w tok="affording"/>
+<w tok="the"/>
+<w tok="greatest"/>
+<w tok="possible"/>
+<w tok="protection"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="various"/>
+<w tok="settlements"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="least"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="posts"/>
+<w tok="practicable"/>
+<w tok="for"/>
+<w tok="permanent"/>
+<w tok="locations"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="small"/>
+<w tok="detachments"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="withdrawn"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="concentrated"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="points"/>
+<w tok="suitable"/>
+<w tok="to"/>
+<w tok="commence"/>
+<w tok="a"/>
+<w tok="vigorous"/>
+<w tok="winter"/>
+<w tok="campaign"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

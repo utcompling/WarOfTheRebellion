@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-79" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTH"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="instructed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="siege"/>
+<w tok="train"/>
+<w tok="of"/>
+<w tok="five"/>
+<w tok="20-pounder"/>
+<w tok="Parrott"/>
+<w tok="guns"/>
+<w tok=","/>
+<w tok="four"/>
+<w tok="10-inch"/>
+<w tok="siege"/>
+<w tok="mortars"/>
+<w tok=","/>
+<w tok="two"/>
+<w tok="8-inch"/>
+<w tok="siege"/>
+<w tok="howitzers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="24-pounder"/>
+<w tok="rifled"/>
+<w tok="gun"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="position"/>
+<w tok="wherever"/>
+<w tok="they"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="placed"/>
+<w tok="either"/>
+<w tok="on"/>
+<w tok="Black"/>
+<w tok="on"/>
+<toponym term="James Island">
+<candidates>
+<cand lat="32.727778" long="-79.955556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="battery"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="thoroughly"/>
+<w tok="secure"/>
+<w tok="against"/>
+<w tok="attack"/>
+<w tok="by"/>
+<w tok="surprise"/>
+<w tok=","/>
+<w tok="made"/>
+<w tok="so"/>
+<w tok="by"/>
+<w tok="surrounding"/>
+<w tok="them"/>
+<w tok="with"/>
+<w tok="good"/>
+<w tok=","/>
+<w tok="substantial"/>
+<w tok="picketing"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="further"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="bombardment"/>
+<w tok="of"/>
+<toponym term="Fort Sumter">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="commenced"/>
+<w tok=","/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="continued"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="up"/>
+<w tok="on"/>
+<w tok="Tuesday"/>
+<w tok="or"/>
+<w tok="Wednesday"/>
+<w tok="next"/>
+<w tok="to"/>
+<w tok="examine"/>
+<w tok="it"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

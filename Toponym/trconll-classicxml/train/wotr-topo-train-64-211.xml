@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-211" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Second"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<w tok="OFFICE"/>
+<w tok="PROVOST-MARSHAL-GENERAL"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Fisk"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="earnest"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="furnish"/>
+<w tok="me"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="name"/>
+<w tok="of"/>
+<w tok="an"/>
+<w tok="active"/>
+<w tok="and"/>
+<w tok="competent"/>
+<w tok="captain"/>
+<w tok="or"/>
+<w tok="lieutenant"/>
+<w tok="in"/>
+<w tok="service"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="duty"/>
+<w tok="and"/>
+<w tok="relieve"/>
+<w tok="Mr."/>
+<w tok="Hiatt"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="indicate"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="eligible"/>
+<w tok="and"/>
+<w tok="convenient"/>
+<w tok="place"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="sub-district"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="P."/>
+<w tok="SANDERSON"/>
+<w tok=","/>
+<w tok="Provost-Marshal-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-49" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="22"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="Wesley"/>
+<w tok="Merritt"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Cavalry"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="FIRST"/>
+<w tok="CAVALRY"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<toponym term="Barnett&apos;s Ford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Arrived"/>
+<w tok="here"/>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok="late"/>
+<w tok="."/>
+<w tok="Chapman"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="found"/>
+<w tok="but"/>
+<w tok="little"/>
+<w tok="opposition"/>
+<w tok="on"/>
+<w tok="approaching"/>
+<w tok="ford"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="starting"/>
+<w tok="now"/>
+<w tok="to"/>
+<w tok="feel"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Lomax"/>
+<w tok="is"/>
+<w tok="here"/>
+<w tok="below"/>
+<w tok="near"/>
+<toponym term="Peyton&apos;s Ford">
+<candidates>
+</candidates>
+</toponym>
+<w tok="But"/>
+<w tok="little"/>
+<w tok="loss"/>
+<w tok="yet"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="danger"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="return"/>
+<w tok="being"/>
+<w tok="interfered"/>
+<w tok="with"/>
+<w tok="by"/>
+<w tok="infantry"/>
+<w tok="unless"/>
+<w tok="ours"/>
+<w tok="keeps"/>
+<w tok="up"/>
+<w tok="demonstration"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="roads"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="very"/>
+<w tok="horrible"/>
+<w tok="condition"/>
+<w tok=","/>
+<w tok="much"/>
+<w tok="worse"/>
+<w tok="than"/>
+<w tok="I"/>
+<w tok="expected"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="telegraphed"/>
+<w tok="from"/>
+<toponym term="Culpeper">
+<candidates>
+<cand lat="38.471944" long="-77.999167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Please"/>
+<w tok="communicate"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="MERRITT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-30" title="64" domain="wotr">
+<s id="s1">
+<toponym term="CAPE GIRARDEAU">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=":"/>
+<w tok="A"/>
+<w tok="squad"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="men"/>
+<w tok="killed"/>
+<w tok="the"/>
+<w tok="notorious"/>
+<w tok="guerrilla"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Watson"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="swamp"/>
+<w tok="thieves"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Gum Slough">
+<candidates>
+</candidates>
+</toponym>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="were"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="from"/>
+<toponym term="Bloomfield">
+<candidates>
+<cand lat="36.887778" long="-89.93" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="was"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="worst"/>
+<w tok="of"/>
+<w tok="outlaws-as"/>
+<w tok="bad"/>
+<w tok="as"/>
+<w tok="Bolin"/>
+<w tok="."/>
+<w tok="Nat"/>
+<w tok="."/>
+<w tok="Bolin"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="20"/>
+<w tok="guerrillas"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="yesterday"/>
+<w tok="on"/>
+<toponym term="Horse Island">
+<candidates>
+<cand lat="37.71" long="-89.83" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Forty"/>
+<w tok="men"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="to"/>
+<w tok="kill"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

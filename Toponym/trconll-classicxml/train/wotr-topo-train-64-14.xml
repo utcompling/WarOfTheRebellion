@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-14" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="EMORY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<toponym term="Morganza">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="afternoon"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="will"/>
+<w tok="leave"/>
+<toponym term="Morganza">
+<candidates>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="arrives"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Ullmann"/>
+<w tok="also"/>
+<w tok="reports"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="across"/>
+<w tok="the"/>
+<toponym term="Atchafalaya">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="instructions"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Canby"/>
+<w tok="require"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Atchafalaya">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="because"/>
+<w tok="they"/>
+<w tok="charge"/>
+<w tok="you"/>
+<w tok="with"/>
+<w tok="keeping"/>
+<w tok="the"/>
+<toponym term="Mississippi">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="open"/>
+<w tok="below"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<w tok="Red"/>
+<w tok="River"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="DWIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="S."/>
+<w tok="-"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="endeavored"/>
+<w tok="to"/>
+<w tok="notify"/>
+<w tok="General"/>
+<w tok="Arnold"/>
+<w tok=","/>
+<w tok="through"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Donaldsonville">
+<candidates>
+<cand lat="30.1" long="-90.994167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="co-operate"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="."/>
+</s>
+</doc>

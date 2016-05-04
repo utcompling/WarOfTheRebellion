@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-155" title="63" domain="wotr">
+<s id="s1">
+<toponym term="MILLWAUKEE">
+<candidates>
+<cand lat="43.0638185595" long="-87.8866617788" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6874169615" long="-89.6200113892" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SULLY"/>
+<w tok=","/>
+<toponym term="Davenport">
+<candidates>
+<cand lat="41.543056" long="-90.590833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Iowa">
+<candidates>
+<cand lat="42.0996689229" long="-93.4686902039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="three"/>
+<w tok="companies"/>
+<w tok="infantry"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="here"/>
+<w tok="Tuesday"/>
+<w tok="afternoon"/>
+<w tok=";"/>
+<w tok="arrive"/>
+<w tok="in"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Wednesday"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="will"/>
+<w tok="you"/>
+<w tok="be"/>
+<w tok="in"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="MELINE"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

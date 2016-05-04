@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-75" title="78" domain="wotr">
+<s id="s1">
+<toponym term="WHITE&apos;S STATION">
+<candidates>
+<cand lat="37.72" long="-84.28" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="WASHBURN"/>
+<w tok=","/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1338844532" long="-90.0296916889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Have"/>
+<w tok="ordered"/>
+<w tok="infantry"/>
+<w tok="guard"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="train"/>
+<w tok="."/>
+<w tok="Sent"/>
+<w tok="small"/>
+<w tok="patrol"/>
+<w tok="beyond"/>
+<toponym term="Germantown">
+<candidates>
+<cand lat="38.654722" long="-83.963333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="returned"/>
+<w tok=","/>
+<w tok="assisting"/>
+<w tok="about"/>
+<w tok="100"/>
+<w tok="stragglers"/>
+<w tok="in"/>
+<w tok="getting"/>
+<w tok="in"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="sent"/>
+<w tok="100"/>
+<w tok="cavalry"/>
+<w tok="to"/>
+<toponym term="La Fayette">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="am"/>
+<w tok="sending"/>
+<w tok="50"/>
+<w tok="more"/>
+<w tok="to"/>
+<toponym term="Germantown">
+<candidates>
+<cand lat="38.654722" long="-83.963333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="100"/>
+<w tok="return"/>
+<w tok="from"/>
+<toponym term="La Fayette">
+<candidates>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="rations"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Wolfe"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="be"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="here"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="H."/>
+<w tok="GRIERSON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

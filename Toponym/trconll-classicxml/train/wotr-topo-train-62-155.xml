@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-155" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FIRST"/>
+<w tok="CAVALRY"/>
+<w tok=","/>
+<w tok="MISSOURI"/>
+<w tok="STATE"/>
+<w tok="MILITIA"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Central"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="state"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="further"/>
+<w tok="raids"/>
+<w tok="by"/>
+<w tok="Kansas"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="some"/>
+<w tok="stealing"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="county"/>
+<w tok=","/>
+<w tok="believed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="by"/>
+<w tok="local"/>
+<w tok="thieves"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="are"/>
+<w tok="using"/>
+<w tok="every"/>
+<w tok="diligence"/>
+<w tok="to"/>
+<w tok="ferret"/>
+<w tok="them"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="successful"/>
+<w tok="in"/>
+<w tok="arresting"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="other"/>
+<w tok="news"/>
+<w tok="of"/>
+<w tok="interest"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JAMES"/>
+<w tok="McFERRAN"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Third"/>
+<w tok="Sub"/>
+<w tok="."/>
+<w tok="Sist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Central"/>
+<w tok="Dist"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok="."/>
+</s>
+</doc>

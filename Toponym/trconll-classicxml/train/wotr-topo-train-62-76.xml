@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-76" title="62" domain="wotr">
+<s id="s1">
+<w tok="CAMP"/>
+<w tok="NEAR"/>
+<toponym term="BATESVILLE">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="R."/>
+<w tok="LIVINGSTON"/>
+<w tok="."/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Northeastern"/>
+<w tok="Arkansas"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="statement"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="scout"/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="started"/>
+<w tok="from"/>
+<w tok="camp"/>
+<w tok="at"/>
+<w tok="2"/>
+<w tok="a.m."/>
+<w tok=","/>
+<w tok="January"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="43"/>
+<w tok="enlisted"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Lieutenant"/>
+<w tok="Heath"/>
+<w tok="and"/>
+<w tok="31"/>
+<w tok="enlisted"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="marched"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="leading"/>
+<w tok="to"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="detained"/>
+<w tok="eight"/>
+<w tok="hours"/>
+<w tok="on"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="high"/>
+<w tok="water"/>
+<w tok=";"/>
+<w tok="from"/>
+<w tok="thence"/>
+<w tok="to"/>
+<toponym term="Grand Glaize">
+<candidates>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="found"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok="below"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="20th"/>
+<w tok=","/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="30"/>
+<w tok="enlisted"/>
+<w tok="men"/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="Heath"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="captured"/>
+<w tok="James"/>
+<w tok="Rutherford"/>
+<w tok=","/>
+<w tok="captain"/>
+<w tok=","/>
+<w tok="acting"/>
+<w tok="quartermaster"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="found"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="person"/>
+<w tok="of"/>
+<w tok="said"/>
+<w tok="captain"/>
+<w tok="one"/>
+<w tok="Colt"/>
+<w tok="navy"/>
+<w tok="revolver"/>
+<w tok="and"/>
+<w tok="about"/>
+<w tok="$"/>
+<w tok="20,000"/>
+<w tok="worth"/>
+<w tok="of"/>
+<w tok="receipts"/>
+<w tok="for"/>
+<w tok="corn"/>
+<w tok="."/>
+<w tok="Then"/>
+<w tok="left"/>
+<toponym term="Fort Glaize">
+<candidates>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="21st"/>
+<w tok="marched"/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="guard"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="encamped"/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="below"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="interest"/>
+<w tok="transpiring"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="day"/>
+<w tok="."/>
+<w tok="22nd"/>
+<w tok=","/>
+<w tok="marched"/>
+<w tok="to"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="we"/>
+<w tok="saw"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="hail"/>
+<w tok="it"/>
+<w tok="nor"/>
+<w tok="get"/>
+<w tok="to"/>
+<w tok="it"/>
+<w tok="on"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="ice"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="encamped"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="13"/>
+<w tok="miles"/>
+<w tok="west"/>
+<w tok="of"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="."/>
+<w tok="23rd"/>
+<w tok=","/>
+<w tok="left"/>
+<w tok="the"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="in"/>
+<w tok="order"/>
+<w tok="to"/>
+<w tok="head"/>
+<toponym term="Salado Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="After"/>
+<w tok="marching"/>
+<w tok="about"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="met"/>
+<w tok="with"/>
+<w tok="about"/>
+<w tok="20"/>
+<w tok="Confederate"/>
+<w tok="soldiers"/>
+<w tok=";"/>
+<w tok="skirmished"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="about"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="capturing"/>
+<w tok="1"/>
+<w tok="lieutenant"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="privates"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="horses"/>
+<w tok="and"/>
+<w tok="equipments"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="shot-guns"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="revolver"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="were"/>
+<w tok="brought"/>
+<w tok="to"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="10"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="turned"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="provost-marshal"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WILLIAM"/>
+<w tok="CASTLE"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="Eleventh"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="Vols"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-1" title="63" domain="wotr">
+<s id="s1">
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="32.4094613289" long="-93.6340866671" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="B."/>
+<w tok="FRANKLIN"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="silently"/>
+<w tok="withdrawn"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="from"/>
+<w tok="its"/>
+<w tok="present"/>
+<w tok="position"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="drawn"/>
+<w tok="back"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="point"/>
+<w tok="which"/>
+<w tok="shall"/>
+<w tok="give"/>
+<w tok="the"/>
+<w tok="advantages"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="strong"/>
+<w tok="position"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="supply"/>
+<w tok="of"/>
+<w tok="water"/>
+<w tok=","/>
+<w tok="both"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="are"/>
+<w tok="wanting"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="size"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="happy"/>
+<w tok="to"/>
+<w tok="confer"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="subject"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

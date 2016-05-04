@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-192" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DIST"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="MINN."/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="NORTHWEST"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SULLY"/>
+<w tok=","/>
+<toponym term="Sioux City">
+<candidates>
+<cand lat="42.498056" long="-96.395556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Iowa">
+<candidates>
+<cand lat="42.0761575128" long="-93.480924066" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="30th"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Thomas"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="direct"/>
+<w tok="his"/>
+<w tok="march"/>
+<w tok="to"/>
+<toponym term="Swan Lake">
+<candidates>
+<cand lat="45.726667" long="-95.821389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="after"/>
+<w tok="crossing"/>
+<toponym term="James River">
+<candidates>
+<cand lat="36.941667" long="-76.443611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Be"/>
+<w tok="sure"/>
+<w tok="to"/>
+<w tok="communicate"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="and"/>
+<w tok="send"/>
+<w tok="guides"/>
+<w tok="to"/>
+<w tok="assist"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="march"/>
+<w tok="from"/>
+<w tok="Ridgely"/>
+<w tok="on"/>
+<w tok="morning"/>
+<w tok="of"/>
+<w tok="6th"/>
+<w tok="."/>
+<w tok="Scouts"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="down"/>
+<w tok="Nicollet"/>
+<w tok="&apos;s"/>
+<w tok="trail"/>
+<w tok="to"/>
+<w tok="meet"/>
+<w tok="yours"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

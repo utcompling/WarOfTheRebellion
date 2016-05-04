@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-42" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864-8.49"/>
+<w tok="p.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="9"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="Nothing"/>
+<w tok="of"/>
+<w tok="importance"/>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="Last"/>
+<w tok="night"/>
+<w tok="a"/>
+<w tok="rebel"/>
+<w tok="officer"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="L."/>
+<w tok="Bradford"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="F"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Mississippi"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="at"/>
+<w tok="Mrs."/>
+<w tok="Fluker"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="near"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="Charles"/>
+<w tok="M."/>
+<w tok="Philbrick"/>
+<w tok=","/>
+<w tok="private"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Massachusetts"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="was"/>
+<w tok="out"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-48" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSISIPPI"/>
+<w tok=","/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="THOMAS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="By"/>
+<w tok="direction"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="order"/>
+<w tok="Major-General"/>
+<w tok="Hooker"/>
+<w tok="to"/>
+<w tok="support"/>
+<w tok="General"/>
+<w tok="McPherson"/>
+<w tok="at"/>
+<toponym term="Snake Creek Gap">
+<candidates>
+<cand lat="34.6512213946" long="-85.059357236" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="directing"/>
+<w tok="your"/>
+<w tok="nest"/>
+<w tok="division"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Geary"/>
+<w tok="to"/>
+<w tok="watch"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="Geary"/>
+<w tok="is"/>
+<w tok="occupying"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="also"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="his"/>
+<w tok="judgment"/>
+<w tok="is"/>
+<w tok="that"/>
+<w tok="both"/>
+<w tok="Howard"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="Palmer"/>
+<w tok="&apos;s"/>
+<w tok="troops"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok="and"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="game"/>
+<w tok="sure"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Garrard"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="left"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="34.709722" long="-85.283889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="for"/>
+<toponym term="Villanow">
+<candidates>
+<cand lat="34.673611" long="-85.114722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="General"/>
+<w tok="Stoneman"/>
+<w tok="is"/>
+<w tok="also"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="up"/>
+<w tok="at"/>
+<toponym term="Vernell&apos;s">
+<candidates>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="one"/>
+<w tok="brigade"/>
+<w tok="to-night"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="balance"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="DAYTON"/>
+<w tok=","/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="S.-Your"/>
+<w tok="second"/>
+<w tok="note"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="will"/>
+<w tok="discuss"/>
+<w tok="the"/>
+<w tok="matter"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="to-night"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-63" title="78" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Big Shanty">
+<candidates>
+<cand lat="34.023333" long="-84.615278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6383656936" long="-83.4209946186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="BURBRIDGE"/>
+<w tok=","/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="and"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="satisfactory"/>
+<w tok="."/>
+<w tok="Go"/>
+<w tok="on"/>
+<w tok=","/>
+<w tok="raise"/>
+<w tok="the"/>
+<w tok="hue"/>
+<w tok="and"/>
+<w tok="cry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="do"/>
+<w tok="n&apos;t"/>
+<w tok="mind"/>
+<w tok="the"/>
+<w tok="cost"/>
+<w tok="of"/>
+<w tok="money"/>
+<w tok="or"/>
+<w tok="horseflesh"/>
+<w tok="to"/>
+<w tok="hunt"/>
+<w tok="down"/>
+<w tok="every"/>
+<w tok="robber"/>
+<w tok="and"/>
+<w tok="guerrilla"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="State"/>
+<w tok="."/>
+<w tok="Make"/>
+<w tok="a"/>
+<w tok="clean"/>
+<w tok="job"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Morgan"/>
+<w tok="and"/>
+<w tok="all"/>
+<w tok="other"/>
+<w tok="such"/>
+<w tok="men"/>
+<w tok="will"/>
+<w tok="let"/>
+<toponym term="Kentucky">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="alone"/>
+<w tok="in"/>
+<w tok="all"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="come"/>
+<w tok="."/>
+<w tok="Seize"/>
+<w tok="fresh"/>
+<w tok="horses"/>
+<w tok="wherever"/>
+<w tok="they"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="had"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="leave"/>
+<w tok="the"/>
+<w tok="tired"/>
+<w tok="ones"/>
+<w tok=","/>
+<w tok="giving"/>
+<w tok="a"/>
+<w tok="certificate"/>
+<w tok="for"/>
+<w tok="after"/>
+<w tok="settlement"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

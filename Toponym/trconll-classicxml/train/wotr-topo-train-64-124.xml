@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-124" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<w tok="Franklin"/>
+<w tok=":"/>
+<w tok="Send"/>
+<w tok="messenger"/>
+<w tok="on"/>
+<w tok="next"/>
+<w tok="train"/>
+<w tok="to"/>
+<toponym term="Sullivan Station">
+<candidates>
+<cand lat="38.209444" long="-91.164722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="telegram"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Moorhouse"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="there"/>
+<w tok=":"/>
+<w tok="Captain"/>
+<w tok="Moorhouse"/>
+<w tok="will"/>
+<w tok="return"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="to"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="train"/>
+<w tok="without"/>
+<w tok="fail"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="department"/>
+<w tok="will"/>
+<w tok="furnish"/>
+<w tok="transportation"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Ewing"/>
+<w tok=":"/>
+<w tok="H."/>
+<w tok="HANNAHS"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

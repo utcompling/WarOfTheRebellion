@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-237" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="SECOND"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="SEVENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Little"/>
+<w tok="Rock"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="telegram"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Geiger"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="rain"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="rise"/>
+<w tok="reported"/>
+<w tok="in"/>
+<toponym term="Red River">
+<candidates>
+<cand lat="31.019444" long="-91.747778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="effectually"/>
+<w tok="stop"/>
+<w tok="Shelby"/>
+<w tok="from"/>
+<w tok="crossing"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="Shall"/>
+<w tok="Colonel"/>
+<w tok="Geiger"/>
+<w tok="return"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="shall"/>
+<w tok="he"/>
+<w tok="communicate"/>
+<w tok="his"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Devall&apos;s Bluff">
+<candidates>
+<cand lat="34.784722" long="-91.460278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="go"/>
+<w tok="out"/>
+<w tok="and"/>
+<w tok="relieve"/>
+<w tok="him"/>
+<w tok="?"/>
+<w tok="The"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="Tenth"/>
+<w tok="Illinois"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="here"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Has"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="any"/>
+<w tok="new"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="captain"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

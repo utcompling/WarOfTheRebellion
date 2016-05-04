@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-72" title="60" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-Affair"/>
+<w tok="near"/>
+<toponym term="Brentsville">
+<candidates>
+<cand lat="38.688056" long="-77.496111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.4971211974" long="-78.6385920208" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="Record"/>
+<w tok="of"/>
+<w tok="Events"/>
+<w tok="on"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Cavalry"/>
+<w tok="Corps"/>
+<w tok=","/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Potomac"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="February"/>
+<w tok="14"/>
+<w tok="."/>
+<w tok="-An"/>
+<w tok="escort"/>
+<w tok="from"/>
+<w tok="["/>
+<w tok="Thirteenth"/>
+<w tok="Pennsylvania"/>
+<w tok="]"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="Patrick"/>
+<w tok="S."/>
+<w tok="Early"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="attacked"/>
+<w tok="by"/>
+<w tok="guerrillas"/>
+<w tok="concealed"/>
+<w tok="in"/>
+<w tok="woods"/>
+<w tok="near"/>
+<toponym term="Brentsville">
+<candidates>
+<cand lat="38.688056" long="-77.496111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va">
+<candidates>
+<cand lat="37.4971211974" long="-78.6385920208" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="We"/>
+<w tok="had"/>
+<w tok="2"/>
+<w tok="men"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="4"/>
+<w tok="wounded"/>
+<w tok="."/>
+</s>
+</doc>

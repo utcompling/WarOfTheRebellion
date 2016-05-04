@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-94" title="64" domain="wotr">
+<s id="s1">
+<toponym term="PALMYRA">
+<candidates>
+<cand lat="39.7975" long="-91.524722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier-General"/>
+<w tok="FISK"/>
+<w tok=":"/>
+<w tok="Acting"/>
+<w tok="on"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="28th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="a"/>
+<w tok="lieutenant"/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="into"/>
+<toponym term="Pike County">
+<candidates>
+<cand lat="39.34" long="-91.17" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="started"/>
+<w tok="yesterday"/>
+<w tok="morning"/>
+<w tok="at"/>
+<w tok="daylight"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Ledergerber"/>
+<w tok="furnished"/>
+<w tok="guides"/>
+<w tok="Saturday"/>
+<w tok="afternoon"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="gave"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="out"/>
+<w tok="five"/>
+<w tok="days"/>
+<w tok="should"/>
+<w tok="he"/>
+<w tok="find"/>
+<w tok="work"/>
+<w tok="to"/>
+<w tok="occupy"/>
+<w tok="that"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="Shall"/>
+<w tok="I"/>
+<w tok="not"/>
+<w tok="wait"/>
+<w tok="till"/>
+<w tok="those"/>
+<w tok="men"/>
+<w tok="return"/>
+<w tok="?"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="GREGORY"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detachment"/>
+<w tok="."/>
+</s>
+</doc>

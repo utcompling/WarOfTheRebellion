@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-59" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="CENTRAL"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Jefferson City">
+<candidates>
+<cand lat="38.576667" long="-92.173611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="body"/>
+<w tok="of"/>
+<w tok="about"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="have"/>
+<w tok="made"/>
+<w tok="their"/>
+<w tok="appearance"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<toponym term="Jackson County">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="northwest"/>
+<w tok="of"/>
+<toponym term="Chapel Hill">
+<candidates>
+<cand lat="35.933333" long="-79.033333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="belong"/>
+<w tok="to"/>
+<w tok="Blunt"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="Todd"/>
+<w tok="&apos;s"/>
+<w tok="guerrilla"/>
+<w tok="bands"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="16th"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="pursued"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="First"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="and"/>
+<w tok="dispersed"/>
+<w tok="."/>
+<w tok="Search"/>
+<w tok="was"/>
+<w tok="made"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="17th"/>
+<w tok="and"/>
+<w tok="18th"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="no"/>
+<w tok="trace"/>
+<w tok="could"/>
+<w tok="be"/>
+<w tok="found"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="reason"/>
+<w tok="to"/>
+<w tok="believe"/>
+<w tok="that"/>
+<w tok="these"/>
+<w tok="parties"/>
+<w tok="are"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Kansas">
+<candidates>
+<cand lat="38.5015386573" long="-98.3905398745" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="border"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="have"/>
+<w tok="personated"/>
+<w tok="Blunt"/>
+<w tok="&apos;s"/>
+<w tok="and"/>
+<w tok="Todd"/>
+<w tok="&apos;s"/>
+<w tok="bands"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

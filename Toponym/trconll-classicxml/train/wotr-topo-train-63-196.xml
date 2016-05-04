@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-196" title="63" domain="wotr">
+<s id="s1">
+<toponym term="CLARKSVILLE">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="KIMBALL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="private"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="300"/>
+<w tok="rebels"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="lines"/>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="25"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="dark"/>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="25"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="Roseman"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="examine"/>
+<w tok="their"/>
+<w tok="position"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Union"/>
+<w tok="families"/>
+<w tok="have"/>
+<w tok="all"/>
+<w tok="been"/>
+<w tok="driven"/>
+<w tok="in"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok=","/>
+<w tok="so"/>
+<w tok="that"/>
+<w tok="rebels"/>
+<w tok="and"/>
+<w tok="their"/>
+<w tok="sympathizers"/>
+<w tok="have"/>
+<w tok="complete"/>
+<w tok="possession"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="nailed"/>
+<w tok="23"/>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="two"/>
+<w tok="weeks"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="lost"/>
+<w tok="2"/>
+<w tok="taken"/>
+<w tok="prisoners"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="badly"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="about"/>
+<w tok="400"/>
+<w tok="rebels"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="section"/>
+<w tok=","/>
+<w tok="well"/>
+<w tok="mounted"/>
+<w tok="but"/>
+<w tok="indifferently"/>
+<w tok="armed"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="M."/>
+<w tok="WAUGH"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

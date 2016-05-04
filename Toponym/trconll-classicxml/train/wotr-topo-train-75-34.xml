@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-34" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="FIFTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Huntsville">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JOHN"/>
+<w tok="D."/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<w tok="Decatur"/>
+<w tok=":"/>
+<w tok="Direct"/>
+<w tok="General"/>
+<w tok="Gresham"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="brigade"/>
+<w tok="to"/>
+<toponym term="Athens">
+<candidates>
+<cand lat="33.95" long="-83.383333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="."/>
+<w tok="Dispatches"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok="&apos;s"/>
+<w tok="headquarters"/>
+<w tok="that"/>
+<w tok="Grant"/>
+<w tok="had"/>
+<w tok="attacked"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="on"/>
+<w tok="Friday"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="drove"/>
+<w tok="them"/>
+<w tok="with"/>
+<w tok="great"/>
+<w tok="slaughter"/>
+<w tok="."/>
+<w tok="Lee"/>
+<w tok="retired"/>
+<w tok="with"/>
+<w tok="our"/>
+<w tok="forces"/>
+<w tok="in"/>
+<w tok="full"/>
+<w tok="pursuit"/>
+<w tok="."/>
+<w tok="Lee"/>
+<w tok="wounded"/>
+<w tok=","/>
+<w tok="Jenkins"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="Longstreet"/>
+<w tok="and"/>
+<w tok="Pegram"/>
+<w tok="severely"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="Butler"/>
+<w tok="within"/>
+<w tok="ten"/>
+<w tok="miles"/>
+<w tok="of"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5186129221" long="-77.4103477528" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="occupies"/>
+<toponym term="Petersburg">
+<candidates>
+<cand lat="37.21295" long="-77.400417" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="severing"/>
+<w tok="all"/>
+<w tok="railroad"/>
+<w tok="communication"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5534602485" long="-77.4103477528" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

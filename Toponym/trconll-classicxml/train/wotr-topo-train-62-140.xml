@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-140" title="62" domain="wotr">
+<s id="s1">
+<toponym term="FRANKLIN">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864-6.50"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="7.20"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Brigadier-General"/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="learn"/>
+<w tok="from"/>
+<w tok="a"/>
+<w tok="source"/>
+<w tok="upon"/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="rely"/>
+<w tok="that"/>
+<w tok="Major"/>
+<w tok="Levy"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Taylor"/>
+<w tok="&apos;s"/>
+<w tok="staff"/>
+<w tok=","/>
+<w tok="came"/>
+<w tok="to"/>
+<toponym term="New Iberia">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="three"/>
+<w tok="days"/>
+<w tok="ago"/>
+<w tok="and"/>
+<w tok="went"/>
+<w tok="back"/>
+<w tok="yesterday"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="staid"/>
+<w tok="at"/>
+<w tok="my"/>
+<w tok="informant"/>
+<w tok="&apos;s"/>
+<w tok="house"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="object"/>
+<w tok="was"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="flag"/>
+<w tok="of"/>
+<w tok="truce"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Taylor"/>
+<w tok="is"/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="been"/>
+<w tok="to"/>
+<toponym term="New Iberia">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="10,000"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="increased"/>
+<w tok="to"/>
+<w tok="16,000"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="says"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="raft"/>
+<w tok="3"/>
+<w tok="miles"/>
+<w tok="long"/>
+<w tok="now"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="10"/>
+<w tok="miles"/>
+<w tok="long"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="rises"/>
+<w tok=","/>
+<w tok="commanded"/>
+<w tok="by"/>
+<toponym term="Fort De Russy">
+<candidates>
+<cand lat="31.1838" long="-92.05436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="about"/>
+<w tok="250"/>
+<w tok="cavalry"/>
+<w tok="in"/>
+<toponym term="New Iberia">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="present"/>
+<w tok="danger"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="more"/>
+<w tok="fully"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="arrived"/>
+<w tok="here"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="B."/>
+<w tok="FRANKLIN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

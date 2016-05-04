@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-35" title="75" domain="wotr">
+<s id="s1">
+<toponym term="Huntsville">
+<candidates>
+<cand lat="34.73" long="-86.585" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="JOHN"/>
+<w tok="D."/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Communicate"/>
+<w tok="with"/>
+<w tok="Brigadier-General"/>
+<w tok="Gresham"/>
+<w tok="and"/>
+<w tok="direct"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="forward"/>
+<w tok="as"/>
+<w tok="speedily"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="compliance"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="orders"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="already"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Keep"/>
+<w tok="me"/>
+<w tok="posted"/>
+<w tok="fully"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="SMITH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

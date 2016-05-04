@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-38" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="2.55"/>
+<w tok="p.m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major"/>
+<w tok="Kelly"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="got"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="gone"/>
+<w tok="into"/>
+<w tok="camp"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-211" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="D."/>
+<w tok="]"/>
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="CAIRO"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="21"/>
+<w tok="."/>
+<toponym term="Cairo">
+<candidates>
+<cand lat="37.013056" long="-89.180278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ill.">
+<candidates>
+<cand lat="40.0227442284" long="-89.1467970612" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I."/>
+<w tok="Paragraph"/>
+<w tok="2"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="issued"/>
+<w tok="from"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="amended"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok=":"/>
+<w tok="Landings"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="at"/>
+<toponym term="New Madrid">
+<candidates>
+<cand lat="36.587778" long="-89.535833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="while"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="military"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="II"/>
+<w tok="."/>
+<w tok="Boats"/>
+<w tok="must"/>
+<w tok="take"/>
+<w tok="on"/>
+<w tok="fuel"/>
+<w tok="at"/>
+<w tok="places"/>
+<w tok="designated"/>
+<w tok="for"/>
+<w tok="landing"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="may"/>
+<w tok="do"/>
+<w tok="so"/>
+<w tok="at"/>
+<w tok="other"/>
+<w tok="points"/>
+<w tok="under"/>
+<w tok="military"/>
+<w tok="or"/>
+<w tok="naval"/>
+<w tok="protection"/>
+<w tok="."/>
+<w tok="III"/>
+<w tok="."/>
+<w tok="Military"/>
+<w tok="supplies"/>
+<w tok=","/>
+<w tok="also"/>
+<w tok="supplies"/>
+<w tok="permitted"/>
+<w tok="by"/>
+<w tok="post"/>
+<w tok="commanders"/>
+<w tok="for"/>
+<w tok="daily"/>
+<w tok="consumption"/>
+<w tok="for"/>
+<w tok="officers"/>
+<w tok="and"/>
+<w tok="persons"/>
+<w tok="connected"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="Government"/>
+<w tok="service"/>
+<w tok=","/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="designated"/>
+<w tok="landing"/>
+<w tok="places"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="M."/>
+<w tok="Brayman"/>
+<w tok=":"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="ODLIN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

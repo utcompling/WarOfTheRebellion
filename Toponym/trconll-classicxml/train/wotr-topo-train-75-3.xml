@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-3" title="75" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="OHIO"/>
+<w tok=","/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="Field"/>
+<w tok=","/>
+<toponym term="Rocky Point,">
+<candidates>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-5.30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="McCOOK"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="advise"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="his"/>
+<w tok="intention"/>
+<w tok="to"/>
+<w tok="push"/>
+<w tok="forward"/>
+<w tok="his"/>
+<w tok="left"/>
+<w tok="to-day"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="he"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="demonstration"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="direct"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="road"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="from"/>
+<toponym term="Varnell&apos;s Station">
+<candidates>
+<cand lat="34.899444" long="-84.964444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="feel"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="on"/>
+<w tok="all"/>
+<w tok="these"/>
+<w tok="roads"/>
+<w tok="."/>
+<w tok="Keep"/>
+<w tok="yourself"/>
+<w tok="informed"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="position"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok="left"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="communicate"/>
+<w tok="frequently"/>
+<w tok="with"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="intends"/>
+<w tok="to"/>
+<w tok="advance"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok="left"/>
+<w tok="so"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="cover"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok="from"/>
+<toponym term="Varnell&apos;s Station">
+<candidates>
+<cand lat="34.899444" long="-84.964444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok=","/>
+<w tok="some"/>
+<w tok="time"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="CAMPBELL"/>
+<w tok=","/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

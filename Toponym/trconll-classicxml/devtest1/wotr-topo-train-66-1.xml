@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-1" title="66" domain="wotr">
+<s id="s1">
+<toponym term="NEW YORK">
+<candidates>
+<cand lat="40.7245245956" long="-73.9827214202" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="permission"/>
+<w tok="for"/>
+<w tok="Mrs."/>
+<w tok="Foster"/>
+<w tok=","/>
+<w tok="child"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="servant"/>
+<w tok="to"/>
+<w tok="accompany"/>
+<w tok="me"/>
+<w tok="to"/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="do"/>
+<w tok="me"/>
+<w tok="the"/>
+<w tok="favor"/>
+<w tok="to"/>
+<w tok="answer"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="sails"/>
+<w tok="at"/>
+<w tok="12"/>
+<w tok="m."/>
+<w tok="?"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-26" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="9.30"/>
+<w tok=","/>
+<w tok="27th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="Finegan"/>
+<w tok="reports"/>
+<w tok="yesterday"/>
+<w tok="that"/>
+<w tok="his"/>
+<w tok="advance"/>
+<w tok="forces"/>
+<w tok="had"/>
+<w tok="occupied"/>
+<w tok="Baldwin"/>
+<w tok=","/>
+<w tok="enemy"/>
+<w tok="having"/>
+<w tok="retreated"/>
+<w tok="to"/>
+<w tok="Jacksonville"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="dislodged"/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

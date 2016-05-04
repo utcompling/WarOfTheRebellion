@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-124" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="picket-boat"/>
+<w tok=","/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="Boatswain"/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="captured"/>
+<w tok="Yankee"/>
+<w tok="picket-boat"/>
+<w tok="containing"/>
+<w tok="1"/>
+<w tok="officer"/>
+<w tok="and"/>
+<w tok="5"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="RHETT"/>
+<w tok="."/>
+</s>
+</doc>

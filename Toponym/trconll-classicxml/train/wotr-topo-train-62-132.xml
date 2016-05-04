@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-132" title="62" domain="wotr">
+<s id="s1">
+<w tok="EXECUTIVE"/>
+<w tok="MANSION"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="HALLECK"/>
+<w tok=":"/>
+<w tok="Some"/>
+<w tok="citizens"/>
+<w tok="of"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3122751768" long="-92.4463968439" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="apprehensive"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="special"/>
+<w tok="danger"/>
+<w tok="of"/>
+<w tok="renewed"/>
+<w tok="troubles"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="neighborhood"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="thence"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="toward"/>
+<toponym term="New Mexico">
+<candidates>
+<cand lat="34.4154582345" long="-106.12918257" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="not"/>
+<w tok="impressed"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="danger"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="great"/>
+<w tok="or"/>
+<w tok="imminent"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="thank"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="Generals"/>
+<w tok="Rosecrans"/>
+<w tok="and"/>
+<w tok="Curtis"/>
+<w tok=","/>
+<w tok="respectively"/>
+<w tok=","/>
+<w tok="such"/>
+<w tok="orders"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="turn"/>
+<w tok="their"/>
+<w tok="attention"/>
+<w tok="thereto"/>
+<w tok="and"/>
+<w tok="prevent"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="the"/>
+<w tok="apprehended"/>
+<w tok="disturbance"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="LINCOLN"/>
+<w tok="."/>
+</s>
+</doc>

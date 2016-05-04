@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-63" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="QUARTERMASTER"/>
+<w tok=","/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="quartermaster"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="water"/>
+<w tok="transportation"/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="commissary"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="all"/>
+<w tok="sugar"/>
+<w tok="and"/>
+<w tok="molasses"/>
+<w tok="that"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="brought"/>
+<w tok="in"/>
+<w tok="for"/>
+<w tok="transportation"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="sugar"/>
+<w tok="or"/>
+<w tok="molasses"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="shipped"/>
+<w tok="by"/>
+<w tok="private"/>
+<w tok="parties"/>
+<w tok="on"/>
+<w tok="any"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="transports"/>
+<w tok="from"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="any"/>
+<w tok="river"/>
+<w tok="or"/>
+<w tok="bayou"/>
+<w tok="connecting"/>
+<w tok="therewith"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="the"/>
+<w tok="sugar"/>
+<w tok="and"/>
+<w tok="molasses"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="section"/>
+<w tok="is"/>
+<w tok="required"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="use"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="army"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="commissary"/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="directed"/>
+<w tok="to"/>
+<w tok="seize"/>
+<w tok="all"/>
+<w tok="that"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="reached"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok=":"/>
+<w tok="H."/>
+<w tok="D."/>
+<w tok="WOODRUFF"/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="and"/>
+<w tok="Commissary"/>
+<w tok="of"/>
+<w tok="Subsistence"/>
+<w tok="."/>
+</s>
+</doc>

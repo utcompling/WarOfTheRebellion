@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-83" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="THOMAS"/>
+<w tok="."/>
+<w tok="Adjutant"/>
+<w tok="General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8957635013" long="-77.0394317627" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.900709303" long="-77.0340121364" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="communication"/>
+<w tok="addressed"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="headquarters"/>
+<w tok="by"/>
+<w tok="Colonel"/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="Connor"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Utah"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="at"/>
+<toponym term="Camp Douglas">
+<candidates>
+<cand lat="40.765278" long="-111.833056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="McGarry"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="report"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="latter"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="execution"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="Colonel"/>
+<w tok="Connor"/>
+<w tok="&apos;s"/>
+<w tok="communication"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="observed"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="taking"/>
+<w tok="every"/>
+<w tok="precaution"/>
+<w tok="to"/>
+<w tok="guard"/>
+<w tok="effectively"/>
+<w tok="the"/>
+<w tok="Overland"/>
+<w tok="Mail"/>
+<w tok="Route"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="also"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="stations"/>
+<w tok=";"/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="his"/>
+<w tok="energy"/>
+<w tok="and"/>
+<w tok="sound"/>
+<w tok="judgment"/>
+<w tok="may"/>
+<w tok="safely"/>
+<w tok="be"/>
+<w tok="confided"/>
+<w tok="that"/>
+<w tok="important"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="most"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-158" title="62" domain="wotr">
+<s id="s1">
+<toponym term="HICKMAN MILLS">
+<candidates>
+<cand lat="38.919444" long="-94.518611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="ASSISTANT"/>
+<w tok="ADJUTANT-GENERAL"/>
+<w tok=","/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="BORDER"/>
+<w tok=","/>
+<toponym term="Kansas City">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="obedience"/>
+<w tok="in"/>
+<w tok="instructions"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="25th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="sent"/>
+<w tok="scouts"/>
+<w tok="out"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Little">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Big Blue">
+<candidates>
+<cand lat="39.188056" long="-96.527778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="look"/>
+<w tok="for"/>
+<w tok="persons"/>
+<w tok="and"/>
+<w tok="cattle"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="destruction"/>
+<w tok="of"/>
+<w tok="abandoned"/>
+<w tok="forage"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="been"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="hear"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="date"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="LEWIS"/>
+<w tok="D."/>
+<w tok="JOY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Station"/>
+<w tok="."/>
+</s>
+</doc>

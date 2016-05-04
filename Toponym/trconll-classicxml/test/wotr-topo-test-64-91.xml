@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-91" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Gregory"/>
+<w tok="had"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="of"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="five"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="pilgrimage"/>
+<w tok="among"/>
+<w tok="the"/>
+<w tok="bushwhackers"/>
+<w tok="before"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="directing"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="his"/>
+<w tok="regiment"/>
+<w tok="reached"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="call"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="favorable"/>
+<w tok="moment"/>
+<w tok="and"/>
+<w tok="send"/>
+<w tok="him"/>
+<w tok="to"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="on"/>
+<toponym term="Platte">
+<candidates>
+<cand lat="41.053889" long="-95.881389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

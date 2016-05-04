@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-177" title="63" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6874169615" long="-89.6200113892" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<toponym term="Saint Poul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.3915284595" long="-94.1155242782" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Please"/>
+<w tok="assign"/>
+<w tok="horses"/>
+<w tok="as"/>
+<w tok="they"/>
+<w tok="arrive"/>
+<w tok="from"/>
+<toponym term="La Crosse">
+<candidates>
+<cand lat="43.813333" long="-91.233056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="first"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="to"/>
+<w tok="Sully"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="short"/>
+<w tok="delay"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="lost"/>
+<w tok="of"/>
+<w tok="horses"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="district"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="Sully"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="mounted"/>
+<w tok="first"/>
+<w tok="and"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="season"/>
+<w tok="will"/>
+<w tok="permit"/>
+<w tok="."/>
+<w tok="Acknowledge"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="telegram"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

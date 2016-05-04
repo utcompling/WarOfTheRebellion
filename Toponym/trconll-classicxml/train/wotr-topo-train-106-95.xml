@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-95" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="UTAH"/>
+<w tok=","/>
+<toponym term="Fort Ruby">
+<candidates>
+<cand lat="40.067778" long="-115.529444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="EDWARD"/>
+<w tok="McGARRY"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<toponym term="Fort Ruby">
+<candidates>
+<cand lat="40.067778" long="-115.529444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="hence"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="with"/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="confluence"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term=" South Fork">
+<candidates>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="main"/>
+<toponym term="Humboldt River,">
+<candidates>
+<cand lat="39.988056" long="-118.601111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="there"/>
+<w tok="await"/>
+<w tok="until"/>
+<w tok="joined"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="("/>
+<w tok="K"/>
+<w tok=")"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="regiment"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="thence"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="examine"/>
+<w tok="every"/>
+<w tok="valley"/>
+<w tok="or"/>
+<w tok="place"/>
+<w tok="where"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="reason"/>
+<w tok="to"/>
+<w tok="believe"/>
+<w tok="guerrillas"/>
+<w tok="or"/>
+<w tok="hostile"/>
+<w tok="Indians"/>
+<w tok="are"/>
+<w tok="congregated"/>
+<w tok=","/>
+<w tok="whom"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="capture"/>
+<w tok=";"/>
+<w tok="but"/>
+<w tok="if"/>
+<w tok="they"/>
+<w tok="resist"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="destroy"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="no"/>
+<w tok="instance"/>
+<w tok="will"/>
+<w tok="you"/>
+<w tok="molest"/>
+<w tok="women"/>
+<w tok="or"/>
+<w tok="children"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="routhe"/>
+<w tok="to"/>
+<toponym term="Humboldt">
+<candidates>
+<cand lat="40.8" long="-123.8" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="friendly"/>
+<w tok="Indians"/>
+<w tok="deliver"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="concerned"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="murder"/>
+<w tok="of"/>
+<w tok="emigrants"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="("/>
+<w tok="being"/>
+<w tok="satisfied"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="guilt"/>
+<w tok=")"/>
+<w tok="immediately"/>
+<w tok="hang"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="leave"/>
+<w tok="their"/>
+<w tok="bodies"/>
+<w tok="thus"/>
+<w tok="exposed"/>
+<w tok="as"/>
+<w tok="an"/>
+<w tok="example"/>
+<w tok="of"/>
+<w tok="what"/>
+<w tok="evil-doers"/>
+<w tok="may"/>
+<w tok="expect"/>
+<w tok="while"/>
+<w tok="I"/>
+<w tok="command"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="joined"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="company"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="northern"/>
+<w tok="overland"/>
+<w tok="route"/>
+<w tok="via"/>
+<toponym term="City of Rocks">
+<candidates>
+<cand lat="32.59" long="-107.975833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="point"/>
+<w tok="about"/>
+<w tok="ten"/>
+<w tok="miles"/>
+<w tok="north"/>
+<w tok="of"/>
+<toponym term="Salt Lake City">
+<candidates>
+<cand lat="40.75" long="-111.883333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="if"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="await"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="designated"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="route"/>
+<w tok="from"/>
+<toponym term="South Fork of Humboldt">
+<candidates>
+<cand lat="40.771667" long="-115.888333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Bear River">
+<candidates>
+<cand lat="40.591111" long="-124.39" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="spare"/>
+<w tok="no"/>
+<w tok="pains"/>
+<w tok="to"/>
+<w tok="discover"/>
+<w tok="the"/>
+<w tok="whereabouts"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="traitors"/>
+<w tok="or"/>
+<w tok="guerrillas"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="encamped"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Humboldt">
+<candidates>
+<cand lat="40.8" long="-123.8" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="believed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="instigators"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="not"/>
+<w tok="the"/>
+<w tok="participants"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="Indian"/>
+<w tok="murdes"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="should"/>
+<w tok="discover"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="band"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="them"/>
+<w tok="prisoners"/>
+<w tok="and"/>
+<w tok="convery"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="headquarters"/>
+<w tok="near"/>
+<toponym term="Salt Lake">
+<candidates>
+<cand lat="40.75" long="-111.883333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="if"/>
+<w tok="they"/>
+<w tok="should"/>
+<w tok="resist"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="destroy"/>
+<w tok="them"/>
+<w tok="without"/>
+<w tok="mercy"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="also"/>
+<w tok="destroy"/>
+<w tok="every"/>
+<w tok="male"/>
+<w tok="Indian"/>
+<w tok="whom"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="encounter"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="massacres"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="course"/>
+<w tok="may"/>
+<w tok="seem"/>
+<w tok="harsh"/>
+<w tok="and"/>
+<w tok="severe"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="desire"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="rigidly"/>
+<w tok="enforced"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="satisfied"/>
+<w tok="that"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="end"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="prove"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="merciful"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="P."/>
+<w tok="EDW"/>
+<w tok="."/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

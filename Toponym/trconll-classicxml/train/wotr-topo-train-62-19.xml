@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-19" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DIST"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="MINNESOTA"/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="NORTHWEST"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.402433938" long="-94.09709911" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="CROOKS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Second"/>
+<w tok="Sub-District"/>
+<w tok=","/>
+<toponym term="Saint Peter">
+<candidates>
+<cand lat="44.333333" long="-93.966666" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="view"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="possibility"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="unmounted"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Regiment"/>
+<w tok="Minnesota"/>
+<w tok="Volunteers"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="stationed"/>
+<w tok="at"/>
+<w tok="points"/>
+<w tok="within"/>
+<w tok="your"/>
+<w tok="sub-district"/>
+<w tok=","/>
+<w tok="General"/>
+<w tok="Sibley"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="cause"/>
+<w tok="the"/>
+<w tok="requisite"/>
+<w tok="inquiries"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="and"/>
+<w tok="information"/>
+<w tok="conveyed"/>
+<w tok="to"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<w tok="first"/>
+<w tok=","/>
+<w tok="whether"/>
+<w tok="quarters"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="furnished"/>
+<w tok="ready"/>
+<w tok="prepared"/>
+<w tok="for"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="each"/>
+<w tok="at"/>
+<toponym term="Traverse des Sioux">
+<candidates>
+<cand lat="44.351111" long="-93.945833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kasota">
+<candidates>
+<cand lat="44.2925" long="-93.965" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mankato">
+<candidates>
+<cand lat="44.166667" long="-94.0" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="New Ulm">
+<candidates>
+<cand lat="44.3125" long="-94.460556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="second"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="actual"/>
+<w tok="expense"/>
+<w tok="per"/>
+<w tok="month"/>
+<w tok="for"/>
+<w tok="such"/>
+<w tok="quarters"/>
+<w tok="at"/>
+<w tok="each"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="Although"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="absolutely"/>
+<w tok="determined"/>
+<w tok="to"/>
+<w tok="station"/>
+<w tok="troops"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="points"/>
+<w tok="specified"/>
+<w tok=","/>
+<w tok="much"/>
+<w tok="will"/>
+<w tok="depend"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="facilities"/>
+<w tok="afforded"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="economy"/>
+<w tok="attendant"/>
+<w tok="upon"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="movement"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="or"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="OLIN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

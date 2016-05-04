@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-152" title="62" domain="wotr">
+<s id="s1">
+<toponym term="CINCINNATI">
+<candidates>
+<cand lat="39.0816646279" long="-84.5145998557" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="OHIO">
+<candidates>
+<cand lat="40.3794966717" long="-82.7253728379" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6007650612" long="-90.1610474695" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="leave"/>
+<w tok="to-day"/>
+<w tok="at"/>
+<w tok="4"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="for"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

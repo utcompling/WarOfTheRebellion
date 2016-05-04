@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-98" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JAMES"/>
+<w tok="SHAW"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Seventh"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Colored"/>
+<w tok="Troops"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="in"/>
+<w tok="consequence"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="lack"/>
+<w tok="of"/>
+<w tok="sufficient"/>
+<w tok="transportation"/>
+<w tok="your"/>
+<w tok="marching"/>
+<w tok="orders"/>
+<w tok="are"/>
+<w tok="changed"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="prepared"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="with"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="moment"/>
+<w tok="&apos;s"/>
+<w tok="notice"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="time"/>
+<w tok="after"/>
+<w tok="3"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="M."/>
+<w tok="BAILEY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

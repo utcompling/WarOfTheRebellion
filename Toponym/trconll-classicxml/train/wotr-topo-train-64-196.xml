@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-196" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="ULLMANN"/>
+<w tok=","/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="clean"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="out"/>
+<w tok="at"/>
+<toponym term="Waterloo">
+<candidates>
+<cand lat="30.694722" long="-91.357222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="O."/>
+<w tok="MATTHEWS"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

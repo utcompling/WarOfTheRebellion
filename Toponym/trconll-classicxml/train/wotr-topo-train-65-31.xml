@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-31" title="65" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="FORCES"/>
+<w tok="IN"/>
+<w tok="FIELD"/>
+<w tok=","/>
+<toponym term="McGirt&apos;s Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="10.40"/>
+<w tok=","/>
+<w tok="6th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="here"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="reported"/>
+<w tok="receiving"/>
+<w tok="re-enforcement"/>
+<w tok="at"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="pickets"/>
+<w tok="are"/>
+<w tok="7"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="Anderson"/>
+<w tok="has"/>
+<w tok="reported"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant"/>
+<w tok="and"/>
+<w tok="Inspector"/>
+<w tok="General"/>
+<w tok="."/>
+</s>
+</doc>

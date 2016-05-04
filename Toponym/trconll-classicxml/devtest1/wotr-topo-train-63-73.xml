@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-73" title="63" domain="wotr">
+<s id="s1">
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="RICHARD"/>
+<w tok="B."/>
+<w tok="IRWIN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="On"/>
+<w tok="Wednesday"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="6th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="Franklin"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="moved"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="direction"/>
+<w tok="of"/>
+<toponym term="Mansfield">
+<candidates>
+<cand lat="32.032778" long="-93.7025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="Lee"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="force"/>
+<w tok="forming"/>
+<w tok="the"/>
+<w tok="advance"/>
+<w tok="guard"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="force"/>
+<w tok="bringing"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="rear"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="7th"/>
+<w tok=","/>
+<w tok="General"/>
+<w tok="Lee"/>
+<w tok="passed"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="point"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="miles"/>
+<w tok="beyond"/>
+<toponym term="Pleasant Mill">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="after"/>
+<w tok="having"/>
+<w tok="skirmished"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="rear"/>
+<w tok="during"/>
+<w tok="nearly"/>
+<w tok="the"/>
+<w tok="entire"/>
+<w tok="day"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="one"/>
+<w tok="time"/>
+<w tok="Colonel"/>
+<w tok="Robinson"/>
+<w tok="&apos;s"/>
+<w tok="brigade"/>
+<w tok="lost"/>
+<w tok="about"/>
+<w tok="70"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="advance"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="column"/>
+<w tok="reached"/>
+<w tok="a"/>
+<w tok="point"/>
+<w tok="about"/>
+<w tok="4"/>
+<w tok="miles"/>
+<w tok="from"/>
+<toponym term="Mansfield">
+<candidates>
+<cand lat="32.032778" long="-93.7025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="a"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok=","/>
+<w tok="called"/>
+<toponym term="Sabine Cross-Roads">
+<candidates>
+<cand lat="32.0121" long="-93.6652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="8th"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="it"/>
+<w tok="met"/>
+<w tok="a"/>
+<w tok="determined"/>
+<w tok="opposition"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="in"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Webb"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Seventy-seventh"/>
+<w tok="Illinois"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok="a"/>
+<w tok="short"/>
+<w tok="time"/>
+<w tok="before"/>
+<w tok="reaching"/>
+<w tok="this"/>
+<w tok="point"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="exception"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Smith"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="engaged"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="until"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="full"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="action"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="forward"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="report"/>
+<w tok="are"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="various"/>
+<w tok="commanders"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="action"/>
+<w tok="Brigadier-General"/>
+<w tok="Ransom"/>
+<w tok="was"/>
+<w tok="severely"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="night"/>
+<w tok="our"/>
+<w tok="line"/>
+<w tok="fell"/>
+<w tok="back"/>
+<w tok="for"/>
+<w tok="water"/>
+<w tok="to"/>
+<toponym term="Pleasant Hill">
+<candidates>
+<cand lat="38.790556" long="-94.266111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="which"/>
+<w tok="place"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="attacked"/>
+<w tok="at"/>
+<w tok="about"/>
+<w tok="4"/>
+<w tok="p.m."/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="was"/>
+<w tok="repulsed"/>
+<w tok="with"/>
+<w tok="serious"/>
+<w tok="loss"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="report"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="forwarded"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="one"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="above"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="Sunday"/>
+<w tok="and"/>
+<w tok="Monday"/>
+<w tok="the"/>
+<w tok="entire"/>
+<w tok="line"/>
+<w tok="fell"/>
+<w tok="back"/>
+<w tok="to"/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="supplies"/>
+<w tok="and"/>
+<w tok="water"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="this"/>
+<w tok="action"/>
+<w tok="Colonel"/>
+<w tok="Benedict"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="brigade"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="DRAKE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

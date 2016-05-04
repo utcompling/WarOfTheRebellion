@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-14" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTHEASTERN"/>
+<w tok="ARKANSAS"/>
+<w tok=","/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Captain"/>
+<w tok="CASTLE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detachment"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="South Bank of White Bear">
+<candidates>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok="immediately"/>
+<w tok="with"/>
+<w tok="75"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="properly"/>
+<w tok="officered"/>
+<w tok=","/>
+<w tok="armed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="equipped"/>
+<w tok="with"/>
+<w tok="three"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Grand Glaize">
+<candidates>
+<cand lat="38.133687" long="-92.643714" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="about"/>
+<w tok="18"/>
+<w tok="miles"/>
+<w tok="below"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="kill"/>
+<w tok="every"/>
+<w tok="armed"/>
+<w tok="rebel"/>
+<w tok="you"/>
+<w tok="meet"/>
+<w tok="with"/>
+<w tok="who"/>
+<w tok="is"/>
+<w tok="clothed"/>
+<w tok="in"/>
+<w tok="Federal"/>
+<w tok="uniform"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="shoot"/>
+<w tok="all"/>
+<w tok="bushwhackers"/>
+<w tok="."/>
+<w tok="Take"/>
+<w tok="only"/>
+<w tok="those"/>
+<w tok="men"/>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="really"/>
+<w tok="Confederate"/>
+<w tok="soldiers"/>
+<w tok="as"/>
+<w tok="prisoners"/>
+<w tok="."/>
+<w tok="Scout"/>
+<w tok="around"/>
+<w tok="the"/>
+<toponym term="Glaize">
+<candidates>
+<cand lat="38.133687" long="-92.643714" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="District"/>
+<w tok="Quartermaster"/>
+<w tok="Thompson"/>
+<w tok="has"/>
+<w tok="passed"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="safely"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="return"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="without"/>
+<w tok="delay"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="paramount"/>
+<w tok="to"/>
+<w tok="everything"/>
+<w tok="else"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="relies"/>
+<w tok="upon"/>
+<w tok="your"/>
+<w tok="good"/>
+<w tok="sense"/>
+<w tok="and"/>
+<w tok="judgment"/>
+<w tok="to"/>
+<w tok="bring"/>
+<w tok="this"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="favorable"/>
+<w tok="termination"/>
+<w tok="."/>
+<w tok="Be"/>
+<w tok="sure"/>
+<w tok="to"/>
+<w tok="guard"/>
+<w tok="against"/>
+<w tok="surprise"/>
+<w tok="."/>
+<w tok="Should"/>
+<w tok="your"/>
+<w tok="rations"/>
+<w tok="give"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="live"/>
+<w tok="off"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok=","/>
+<w tok="giving"/>
+<w tok="receipts"/>
+<w tok="for"/>
+<w tok="all"/>
+<w tok="you"/>
+<w tok="take"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="ordering"/>
+<w tok="the"/>
+<w tok="parties"/>
+<w tok="to"/>
+<w tok="whom"/>
+<w tok="receipts"/>
+<w tok="are"/>
+<w tok="given"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="for"/>
+<w tok="payment"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="press"/>
+<w tok="a"/>
+<w tok="guide"/>
+<w tok="at"/>
+<w tok="any"/>
+<w tok="house"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="come"/>
+<w tok="to"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="he"/>
+<w tok="plays"/>
+<w tok="you"/>
+<w tok="false"/>
+<w tok=","/>
+<w tok="shoot"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="Take"/>
+<w tok="a"/>
+<w tok="guidon"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="make"/>
+<w tok="yourself"/>
+<w tok="known"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="passes"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="R."/>
+<w tok="Livingston"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="district"/>
+<w tok=":"/>
+<w tok="H."/>
+<w tok="C."/>
+<w tok="FILLEBROWN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

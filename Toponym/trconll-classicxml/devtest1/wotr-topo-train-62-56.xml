@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-56" title="62" domain="wotr">
+<s id="s1">
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="WAR"/>
+<w tok="DEPT."/>
+<w tok=","/>
+<w tok="ADJT"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="&apos;S"/>
+<w tok="OFFICE"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="28"/>
+<w tok="."/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="By"/>
+<w tok="direction"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3669625561" long="-98.6559092144" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="Rosecrans"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="appointed"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="Schofied"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="being"/>
+<w tok="relieved"/>
+<w tok="from"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="by"/>
+<w tok="Major-General"/>
+<w tok="Rosecrans"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Grant"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Chattanooga">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="TOWNSEND"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

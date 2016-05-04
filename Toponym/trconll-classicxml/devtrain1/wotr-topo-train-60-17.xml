@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-17" title="60" domain="wotr">
+<s id="s1">
+<w tok="General"/>
+<w tok="KELLEY"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="Levi"/>
+<w tok="was"/>
+<w tok="captured"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="at"/>
+<w tok="5"/>
+<w tok="o&apos;clock"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Red House Landing">
+<candidates>
+</candidates>
+</toponym>
+<w tok="when"/>
+<w tok="all"/>
+<w tok="were"/>
+<w tok="sleeping"/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="."/>
+<w tok="To-night"/>
+<w tok="I"/>
+<w tok="send"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Colonel"/>
+<w tok="Hayes"/>
+<w tok=","/>
+<w tok="100"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="mountain"/>
+<w tok="howitzers"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="steamer"/>
+<w tok="Victress"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="think"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="yet"/>
+<w tok="recrossed"/>
+<w tok="the"/>
+<toponym term="Guayndotte River">
+<candidates>
+<cand lat="38.431667" long="-82.391667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="they"/>
+<w tok="have"/>
+<w tok="not"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="certainly"/>
+<w tok="recapture"/>
+<w tok="General"/>
+<w tok="Scammon"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="succeed"/>
+<w tok="by"/>
+<w tok="this"/>
+<w tok="way"/>
+<w tok="my"/>
+<w tok="cavalry"/>
+<w tok="will"/>
+<w tok="recapture"/>
+<w tok="him"/>
+<w tok="if"/>
+<w tok="my"/>
+<w tok="orders"/>
+<w tok="are"/>
+<w tok="fully"/>
+<w tok="carried"/>
+<w tok="out"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Hurricane bridge">
+<candidates>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="has"/>
+<w tok="allowed"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok="the"/>
+<toponym term="Hurricane Creek">
+<candidates>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="arrest"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="again"/>
+<w tok="call"/>
+<w tok="your"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="gun-boat"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="here"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="N."/>
+<w tok="DUFFIE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

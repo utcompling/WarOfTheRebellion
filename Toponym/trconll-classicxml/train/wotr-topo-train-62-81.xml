@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-81" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PORT HUDSON">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Colonel"/>
+<w tok="Fonda"/>
+<w tok=","/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="reconnaissance"/>
+<w tok="yesterday"/>
+<w tok="beyond"/>
+<toponym term="Thompson&apos;s Creek">
+<candidates>
+<cand lat="30.8700962899" long="-91.2254631852" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="within"/>
+<w tok="5"/>
+<w tok="or"/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="of"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="No"/>
+<w tok="enemy"/>
+<w tok="in"/>
+<w tok="sight"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="however"/>
+<w tok=","/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="at"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="30.870833" long="-91.214444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Fonda"/>
+<w tok="thinks"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="learn"/>
+<w tok="definitely"/>
+<w tok="about"/>
+<w tok="this"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="day"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

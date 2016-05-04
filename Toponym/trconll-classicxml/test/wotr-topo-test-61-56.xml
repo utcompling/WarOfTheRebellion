@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-56" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864.-Affair"/>
+<w tok="near"/>
+<toponym term="Indianola">
+<candidates>
+<cand lat="28.511944" long="-96.4875" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4087705905" long="-99.2659347454" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="Napoleon"/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="Dana"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="HEADQUARTERS"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok="IN"/>
+<toponym term="TEXAS">
+<candidates>
+<cand lat="31.4087705905" long="-99.2659347454" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Matagorda Bay">
+<candidates>
+<cand lat="28.565556" long="-96.21" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Brigadier-General"/>
+<w tok="Warren"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="at"/>
+<toponym term="Indianola">
+<candidates>
+<cand lat="28.511944" long="-96.4875" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="25"/>
+<w tok="mounted"/>
+<w tok="infantrymen"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="were"/>
+<w tok="scouting"/>
+<w tok="and"/>
+<w tok="driving"/>
+<w tok="cattle"/>
+<w tok="8"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="his"/>
+<w tok="post"/>
+<w tok="yesterday"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="surrounded"/>
+<w tok="and"/>
+<w tok="charged"/>
+<w tok="upon"/>
+<w tok="by"/>
+<w tok="well-armed"/>
+<w tok="and"/>
+<w tok="well-mounted"/>
+<w tok="cavalry"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="55"/>
+<w tok="strong"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="horses"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="men"/>
+<w tok="were"/>
+<w tok="poor"/>
+<w tok="scrubs"/>
+<w tok="and"/>
+<w tok="not"/>
+<w tok="trained"/>
+<w tok="to"/>
+<w tok="fire"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="men"/>
+<w tok="fired"/>
+<w tok="a"/>
+<w tok="volley"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="distance"/>
+<w tok="of"/>
+<w tok="50"/>
+<w tok="yards"/>
+<w tok=","/>
+<w tok="14"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="were"/>
+<w tok="unhorsed"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="enemy"/>
+<w tok="immediately"/>
+<w tok="closed"/>
+<w tok="on"/>
+<w tok="them"/>
+<w tok="with"/>
+<w tok="revolvers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="14"/>
+<w tok="were"/>
+<w tok="captured"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="11"/>
+<w tok="escaping"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Warren"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="affair"/>
+<w tok="reflects"/>
+<w tok="no"/>
+<w tok="credit"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="notified"/>
+<w tok="him"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="expect"/>
+<w tok="an"/>
+<w tok="investigation"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="J."/>
+<w tok="T."/>
+<w tok="DANA"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="SHARPE"/>
+<w tok=","/>
+<w tok="Act"/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="13th"/>
+<w tok="Corps"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9445405756" long="-90.0808368969" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

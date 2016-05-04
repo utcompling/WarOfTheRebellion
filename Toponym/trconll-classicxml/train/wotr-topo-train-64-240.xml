@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-240" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="SECOND"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="SEVENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7428467591" long="-92.2837199271" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="JAMES"/>
+<w tok="STUART"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Tenth"/>
+<w tok="Illinois"/>
+<w tok="Cavalry"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="With"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="instructed"/>
+<w tok="by"/>
+<w tok="Colonel"/>
+<w tok="Mizner"/>
+<w tok=","/>
+<w tok="commanding"/>
+<toponym term="Huntersville">
+<candidates>
+<cand lat="34.742222" long="-92.285833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="in"/>
+<w tok="readiness"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="march"/>
+<w tok="to-morrow"/>
+<w tok="morning"/>
+<w tok="to"/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="thence"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="headwaters"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Little Red">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Clinton">
+<candidates>
+<cand lat="35.586389" long="-92.457778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="keep"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="scouting"/>
+<w tok="in"/>
+<w tok="such"/>
+<w tok="strength"/>
+<w tok="of"/>
+<w tok="detachments"/>
+<w tok="as"/>
+<w tok="prudence"/>
+<w tok="may"/>
+<w tok="dictate"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="main"/>
+<w tok="object"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="expedition"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="watch"/>
+<w tok="Shelby"/>
+<w tok=","/>
+<w tok="last"/>
+<w tok="heard"/>
+<w tok="from"/>
+<w tok="at"/>
+<toponym term="Batesville">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="timely"/>
+<w tok="notice"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="movement"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="part"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Ninth"/>
+<w tok="Iowa"/>
+<w tok="Cavalry"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="moving"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Searcy">
+<candidates>
+<cand lat="35.925556" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="lower"/>
+<w tok="down"/>
+<w tok="the"/>
+<toponym term="Little Red">
+<candidates>
+<cand lat="34.608158" long="-94.794672" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="communicate"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="and"/>
+<w tok="act"/>
+<w tok="together"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="the"/>
+<w tok="Sixty-second"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="must"/>
+<w tok="forage"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="and"/>
+<w tok="subsist"/>
+<w tok="off"/>
+<w tok="it"/>
+<w tok="to"/>
+<w tok="all"/>
+<w tok="possible"/>
+<w tok="extent"/>
+<w tok=","/>
+<w tok="giving"/>
+<w tok="receipts"/>
+<w tok="for"/>
+<w tok="property"/>
+<w tok="taken"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="paid"/>
+<w tok="for"/>
+<w tok="upon"/>
+<w tok="proof"/>
+<w tok="of"/>
+<w tok="loyalty"/>
+<w tok="by"/>
+<w tok="owners"/>
+<w tok="."/>
+<w tok="After"/>
+<w tok="leaving"/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="daily"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="telegraphed"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Carr"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Little"/>
+<w tok="Rock"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

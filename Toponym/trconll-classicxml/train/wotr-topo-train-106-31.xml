@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-31" title="106" domain="wotr">
+<s id="s1">
+<toponym term="SAN FRANCISCO">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="9"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="p."/>
+<w tok="m"/>
+<w tok="."/>
+<w tok="12th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Honorable"/>
+<w tok="SECRETARY"/>
+<w tok="OF"/>
+<w tok="WAR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="undersigned"/>
+<w tok="respectfully"/>
+<w tok="recommend"/>
+<w tok="that"/>
+<w tok="another"/>
+<w tok="regiment"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="be"/>
+<w tok="raised"/>
+<w tok="in"/>
+<toponym term="California">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="LELAND"/>
+<w tok="STANFORD"/>
+<w tok=","/>
+<w tok="Governor"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

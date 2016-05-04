@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-111" title="62" domain="wotr">
+<s id="s1">
+<toponym term="FORT SMITH">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="To"/>
+<w tok="whom"/>
+<w tok="shall"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Waldron">
+<candidates>
+<cand lat="34.899167" long="-94.091389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Van Buren">
+<candidates>
+<cand lat="35.444444" long="-94.346667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Roseville">
+<candidates>
+<cand lat="35.224722" long="-93.740556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="report"/>
+<w tok="?"/>
+<w tok="Are"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="stationed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="considered"/>
+<w tok="as"/>
+<w tok="forming"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="its"/>
+<w tok="garrison"/>
+<w tok="?"/>
+<w tok="Are"/>
+<w tok="the"/>
+<w tok="headquarters"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Frontier"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok="or"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok="?"/>
+<w tok="Having"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="return"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="ask"/>
+<w tok="for"/>
+<w tok="information"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="colonel"/>
+<w tok="commanding"/>
+<w tok="if"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="serving"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Frontier"/>
+<w tok="are"/>
+<w tok="transferred"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="agree"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="G."/>
+<w tok="LAURANT"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

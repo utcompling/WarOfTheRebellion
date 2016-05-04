@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-33" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864-12"/>
+<w tok="m."/>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="&apos;s"/>
+<w tok="forces"/>
+<w tok="reported"/>
+<w tok="gradually"/>
+<w tok="leaving"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Appear"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="our"/>
+<w tok="front"/>
+<w tok=";"/>
+<w tok="probably"/>
+<w tok="returning"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="former"/>
+<w tok="positions"/>
+<w tok=","/>
+<w tok="preparatory"/>
+<w tok="to"/>
+<w tok="future"/>
+<w tok="operations"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

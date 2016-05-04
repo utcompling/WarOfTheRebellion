@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-166" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="4.45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="30th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9037450084" long="-77.0425434778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Alton">
+<candidates>
+<cand lat="38.900556" long="-90.159722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="positive"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Heintzelman"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="wants"/>
+<w tok="to"/>
+<w tok="know"/>
+<w tok="which"/>
+<w tok="department"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="his"/>
+<w tok="territorial"/>
+<w tok="position"/>
+<w tok="puts"/>
+<w tok="him"/>
+<w tok="with"/>
+<w tok="Geneal"/>
+<w tok="Heitzelman"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="by"/>
+<w tok="custom"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="under"/>
+<w tok="General"/>
+<w tok="Schofield"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="orders"/>
+<w tok="are"/>
+<w tok="desired"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="desired"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="premises"/>
+<w tok="."/>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="11"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="to-day"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

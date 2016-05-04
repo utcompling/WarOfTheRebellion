@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-117" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="ARKANSAS"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="C."/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="N."/>
+<w tok="KIMBALL"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detachment"/>
+<w tok="Seventh"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="steamer"/>
+<w tok="Adams"/>
+<w tok=","/>
+<w tok="loaded"/>
+<w tok="with"/>
+<w tok="Government"/>
+<w tok="stores"/>
+<w tok="for"/>
+<toponym term="Pine Bluff">
+<candidates>
+<cand lat="34.216667" long="-92.016667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="train"/>
+<w tok=","/>
+<w tok="ran"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Chippewa"/>
+<w tok="about"/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="below"/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="sunk"/>
+<w tok=","/>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="occasioned"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="carelessness"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="pilot"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="ammunition"/>
+<w tok="and"/>
+<w tok="quartermaster"/>
+<w tok="&apos;s"/>
+<w tok="stores"/>
+<w tok="were"/>
+<w tok="saved"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="duplicate"/>
+<w tok="invoices"/>
+<w tok="of"/>
+<w tok="what"/>
+<w tok="is"/>
+<w tok="lost"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="possible"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="steamer"/>
+<w tok="Chippewa"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="GREEN"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

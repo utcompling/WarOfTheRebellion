@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-58" title="64" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7485241187" long="-92.2904414898" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="H."/>
+<w tok="RAYN"/>
+<w tok=","/>
+<w tok="Cadron"/>
+<w tok="Ferry"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="district"/>
+<w tok="commander"/>
+<w tok="wishes"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="occupy"/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="whenever"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="not"/>
+<toponym term="Dardanelle">
+<candidates>
+<cand lat="35.2225" long="-93.160278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Hereafter"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="direct"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Carr"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="state"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="subsistence"/>
+<w tok="supplies"/>
+<w tok="should"/>
+<w tok="command"/>
+<w tok="your"/>
+<w tok="attention"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

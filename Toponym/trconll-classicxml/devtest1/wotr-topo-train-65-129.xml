@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-129" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="2,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="omitted"/>
+<w tok="in"/>
+<w tok="yesterday"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok=";"/>
+<w tok="Three"/>
+<w tok="tugs"/>
+<w tok="came"/>
+<w tok="up"/>
+<w tok="to"/>
+<toponym term="Chumming&apos;s Point buoy">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="were"/>
+<w tok="made"/>
+<w tok="quickly"/>
+<w tok="to"/>
+<w tok="retire"/>
+<w tok="by"/>
+<w tok="3"/>
+<w tok="shots"/>
+<w tok="form"/>
+<toponym term="Sullivan&apos;s Island">
+<candidates>
+<cand lat="32.763333" long="-79.837778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

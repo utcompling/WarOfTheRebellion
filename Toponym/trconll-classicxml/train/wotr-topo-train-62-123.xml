@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-123" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="THIRTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Gulf"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="herewith"/>
+<w tok="inclose"/>
+<w tok="report"/>
+<w tok="received"/>
+<w tok="last"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Dana"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="seen"/>
+<w tok="by"/>
+<w tok="it"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="commander"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="forces"/>
+<w tok="at"/>
+<toponym term="Matagorda Bay">
+<candidates>
+<cand lat="28.565556" long="-96.21" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="responsible"/>
+<w tok="for"/>
+<w tok="delays"/>
+<w tok="of"/>
+<w tok="transports"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="further"/>
+<w tok="seen"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="facilities"/>
+<w tok="for"/>
+<w tok="making"/>
+<w tok="any"/>
+<w tok="move"/>
+<w tok="of"/>
+<w tok="troops"/>
+<w tok="from"/>
+<toponym term="Matagorda Bay">
+<candidates>
+<cand lat="28.565556" long="-96.21" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="about"/>
+<w tok="it"/>
+<w tok=","/>
+<w tok="are"/>
+<w tok="inadequate"/>
+<w tok="to"/>
+<w tok="insure"/>
+<w tok="rapidity"/>
+<w tok="or"/>
+<w tok="safety"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="O."/>
+<w tok="C."/>
+<w tok="ORD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

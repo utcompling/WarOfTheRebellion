@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-232" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9640425024" long="-90.0819690396" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0163371004" long="-91.9639827805" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="S."/>
+<w tok="GRAY"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="31st"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="inclosing"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="T."/>
+<w tok="W."/>
+<w tok="Sherman"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="requesting"/>
+<w tok="that"/>
+<w tok="any"/>
+<w tok="facilities"/>
+<w tok="or"/>
+<w tok="orders"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="enable"/>
+<w tok="General"/>
+<w tok="Sherman"/>
+<w tok="to"/>
+<w tok="comply"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="instructions"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="given"/>
+<w tok="by"/>
+<w tok="this"/>
+<w tok="department"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="every"/>
+<w tok="possible"/>
+<w tok="assistance"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="given"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="aid"/>
+<w tok="him"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="performance"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="much"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="BANKS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

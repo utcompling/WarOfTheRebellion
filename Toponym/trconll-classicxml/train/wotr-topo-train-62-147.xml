@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-147" title="62" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7417527491" long="-92.2904089964" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Yours"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="7th"/>
+<w tok="instant"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="ask"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="General"/>
+<w tok="Davidson"/>
+<w tok="from"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="discordant"/>
+<w tok="element"/>
+<w tok="in"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="intrigue"/>
+<w tok="against"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="FRED&apos;K"/>
+<w tok="STEELE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

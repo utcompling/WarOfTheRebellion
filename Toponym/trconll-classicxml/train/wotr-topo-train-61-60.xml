@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-60" title="61" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="Affair"/>
+<w tok="near"/>
+<toponym term="Poplar Bluff">
+<candidates>
+<cand lat="36.756944" long="-90.392778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Abijah"/>
+<w tok="Johns"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+<toponym term="PATTERSON">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="My"/>
+<w tok="scout"/>
+<w tok="in"/>
+<w tok="from"/>
+<w tok="below"/>
+<toponym term="Poplar Bluff">
+<candidates>
+<cand lat="36.756944" long="-90.392778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captured"/>
+<w tok="and"/>
+<w tok="burned"/>
+<w tok="rebel"/>
+<w tok="train"/>
+<w tok=","/>
+<w tok="destroying"/>
+<w tok="a"/>
+<w tok="great"/>
+<w tok="many"/>
+<w tok="shotguns"/>
+<w tok="and"/>
+<w tok="rifles"/>
+<w tok="and"/>
+<w tok="corn"/>
+<w tok="."/>
+<w tok="Killed"/>
+<w tok="2"/>
+<w tok="jayhawkers"/>
+<w tok=";"/>
+<w tok="had"/>
+<w tok="1"/>
+<w tok="man"/>
+<w tok="slightly"/>
+<w tok="wounded"/>
+<w tok="in"/>
+<w tok="finger"/>
+<w tok="."/>
+<w tok="JOHNS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="RICHARD"/>
+<w tok="G."/>
+<w tok="WOODSON"/>
+<w tok=","/>
+<toponym term="Pilott Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

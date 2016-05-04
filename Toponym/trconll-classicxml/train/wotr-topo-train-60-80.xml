@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-80" title="60" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-Affair"/>
+<w tok="near"/>
+<toponym term="hurricane Bridge">
+<candidates>
+<cand lat="38.4325" long="-82.019722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="W. Va.">
+<candidates>
+<cand lat="38.6181240043" long="-80.7432235798" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="Record"/>
+<w tok="of"/>
+<w tok="Events"/>
+<w tok="on"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="Third"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="West"/>
+<w tok="Virginia"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="February"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="scouting"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="West"/>
+<w tok="Virginia"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Lieutenant"/>
+<w tok="Henry"/>
+<w tok="A."/>
+<w tok="Wolf"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="K"/>
+<w tok=","/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="from"/>
+<toponym term="Hurricane Bridge">
+<candidates>
+<cand lat="38.4325" long="-82.019722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="W. Va.">
+<candidates>
+<cand lat="38.6181240043" long="-80.7432235798" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="had"/>
+<w tok="a"/>
+<w tok="skirmish"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="["/>
+<w tok="February"/>
+<w tok="20"/>
+<w tok="]"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="Lieutenant"/>
+<w tok="Wolf"/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok="."/>
+</s>
+</doc>

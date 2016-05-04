@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-130" title="63" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKER">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6874169615" long="-89.6200113892" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="4.45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Major-General"/>
+<w tok="HALLECK"/>
+<w tok=":"/>
+<w tok="Following"/>
+<w tok="dispatch"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="vitally"/>
+<w tok="important"/>
+<w tok="that"/>
+<w tok="these"/>
+<w tok="horses"/>
+<w tok="be"/>
+<w tok="immediately"/>
+<w tok="furnished"/>
+<w tok=","/>
+<w tok="otherwise"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="military"/>
+<w tok="operations"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Indian"/>
+<w tok="country"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="brought"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="stop"/>
+<w tok=":"/>
+<toponym term="DAVENPORT">
+<candidates>
+<cand lat="41.543056" long="-90.590833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Northwest"/>
+<w tok=":"/>
+<w tok="Of"/>
+<w tok="the"/>
+<w tok="500"/>
+<w tok="horses"/>
+<w tok="required"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="not"/>
+<w tok="230"/>
+<w tok="are"/>
+<w tok="yet"/>
+<w tok="procured"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="fear"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="procured"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="time"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="contract"/>
+<w tok="has"/>
+<w tok="passed"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="I"/>
+<w tok="get"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="purchase"/>
+<w tok="at"/>
+<w tok="$"/>
+<w tok="140"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="below"/>
+<w tok="that"/>
+<w tok="?"/>
+<w tok="SULLY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

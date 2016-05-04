@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-41" title="75" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="FIELD"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MIL"/>
+<w tok="."/>
+<w tok="DIV"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISS."/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="Field"/>
+<w tok=","/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok="the"/>
+<w tok="following"/>
+<w tok="telegram"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="announces"/>
+<w tok="it"/>
+<w tok="with"/>
+<w tok="pleasure"/>
+<w tok=","/>
+<w tok="viz"/>
+<w tok=":"/>
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.9403757662" long="-77.0304123906" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9006126912" long="-77.0437884326" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-11.15"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="SHERMAN"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="Army"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Potomac"/>
+<w tok="had"/>
+<w tok="hard"/>
+<w tok="fighting"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="and"/>
+<w tok="6th"/>
+<w tok=","/>
+<w tok="driving"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="from"/>
+<w tok="every"/>
+<w tok="position"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="7th"/>
+<w tok="they"/>
+<w tok="had"/>
+<w tok="retreated"/>
+<w tok="some"/>
+<w tok="ten"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Grant"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="left"/>
+<w tok="their"/>
+<w tok="dead"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="in"/>
+<w tok="our"/>
+<w tok="hands"/>
+<w tok="."/>
+<w tok="Loss"/>
+<w tok="on"/>
+<w tok="both"/>
+<w tok="sides"/>
+<w tok="heavy"/>
+<w tok="."/>
+<w tok="Battle-field"/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Old Wilderness Tavern">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Announce"/>
+<w tok="the"/>
+<w tok="victory"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="army"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+<w tok="Let"/>
+<w tok="us"/>
+<w tok="do"/>
+<w tok="likewise"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="Sherman"/>
+<w tok=":"/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="DAYTON"/>
+<w tok=","/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+<w tok="Mounted"/>
+<w tok="Infantry"/>
+<w tok="."/>
+</s>
+</doc>

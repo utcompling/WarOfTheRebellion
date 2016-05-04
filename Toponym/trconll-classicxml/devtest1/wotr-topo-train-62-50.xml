@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-50" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="H."/>
+<w tok="L."/>
+<w tok="WHEAT"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="order"/>
+<w tok="all"/>
+<w tok="escorts"/>
+<w tok="going"/>
+<w tok="to"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="not"/>
+<w tok="to"/>
+<w tok="any"/>
+<w tok="point"/>
+<w tok="beyond"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok=")"/>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="orders"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="until"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="not"/>
+<w tok="to"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Sprinfield">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="ordered"/>
+<w tok="from"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="measure"/>
+<w tok="is"/>
+<w tok="taken"/>
+<w tok="to"/>
+<w tok="aid"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="performing"/>
+<w tok="the"/>
+<w tok="duties"/>
+<w tok=","/>
+<w tok="escorts"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="Arkansas"/>
+<w tok="Cavalry"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="HUBBARD"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-128" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="STEPHENSON"/>
+<w tok=","/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="in"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Steele"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.736111" long="-92.331111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

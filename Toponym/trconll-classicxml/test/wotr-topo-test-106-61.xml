@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-61" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="THIRD"/>
+<w tok="REGIMENT"/>
+<w tok=","/>
+<toponym term="Ruby Valley">
+<candidates>
+<cand lat="40.4" long="-115.3" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="-"/>
+<w tok="11"/>
+<w tok="."/>
+<w tok="30"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=":"/>
+<w tok="Will"/>
+<w tok="my"/>
+<w tok="other"/>
+<w tok="companies"/>
+<w tok="join"/>
+<w tok="me"/>
+<w tok="this"/>
+<w tok="winter"/>
+<w tok="?"/>
+<w tok="If"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="only"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="("/>
+<w tok="infantry"/>
+<w tok=")"/>
+<w tok="be"/>
+<w tok="left"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="No"/>
+<w tok="supplies"/>
+<w tok="yet"/>
+<w tok="."/>
+<w tok="Answer"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Third"/>
+<w tok="Regiment"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

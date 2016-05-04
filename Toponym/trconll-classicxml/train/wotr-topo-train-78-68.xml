@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-68" title="78" domain="wotr">
+<s id="s1">
+<toponym term="STANFORD">
+<candidates>
+<cand lat="37.532222" long="-84.660278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Have"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="following"/>
+<w tok="rebels"/>
+<w tok="toward"/>
+<toponym term="Somerset">
+<candidates>
+<cand lat="37.083056" long="-84.609444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="picking"/>
+<w tok="up"/>
+<w tok="some"/>
+<w tok="."/>
+<w tok="Killed"/>
+<w tok="two"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="Sending"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="to"/>
+<toponym term="Crag Orchard">
+<candidates>
+<cand lat="37.462222" long="-84.508056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Have"/>
+<w tok="ordered"/>
+<w tok="some"/>
+<w tok="from"/>
+<toponym term="Lebanon">
+<candidates>
+<cand lat="37.570556" long="-85.256389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Green River">
+<candidates>
+<cand lat="37.9025" long="-87.499722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="bridge"/>
+<w tok="toward"/>
+<toponym term="Cumberland River">
+<candidates>
+<cand lat="37.143333" long="-88.4075" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Greensburg">
+<candidates>
+<cand lat="37.259722" long="-85.497778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="keep"/>
+<w tok="moving"/>
+<w tok="forward"/>
+<w tok="as"/>
+<w tok="long"/>
+<w tok="as"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="say"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="found"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="W."/>
+<w tok="WEATHERFORD"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Thirteenth"/>
+<w tok="Kentucky"/>
+<w tok="Cavalry"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-20" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Wise"/>
+<w tok="gallantry"/>
+<w tok="repulsed"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="last"/>
+<w tok="evening"/>
+<w tok="on"/>
+<toponym term="John&apos;s Island">
+<candidates>
+<cand lat="32.7025" long="-80.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="is"/>
+<w tok="to-day"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="."/>
+<w tok="Loss"/>
+<w tok="very"/>
+<w tok="trifling"/>
+<w tok="."/>
+<w tok="Force"/>
+<w tok="of"/>
+<w tok="enemy"/>
+<w tok="about"/>
+<w tok="2,000"/>
+<w tok="."/>
+<w tok="Ours"/>
+<w tok="about"/>
+<w tok="one-half"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

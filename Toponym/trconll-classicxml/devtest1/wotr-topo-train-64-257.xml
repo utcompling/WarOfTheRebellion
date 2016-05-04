@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-257" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864-9.07"/>
+<w tok="a.m"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Philips"/>
+<w tok="and"/>
+<w tok="staff"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="battalion"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="regiment"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="117"/>
+<w tok=","/>
+<w tok="via"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2059273347" long="-93.3096011728" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Sanborn"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Crittenden"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="at"/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="portion"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="at"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="and"/>
+<w tok="await"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

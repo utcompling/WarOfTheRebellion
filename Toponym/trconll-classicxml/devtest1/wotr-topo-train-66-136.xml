@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-136" title="66" domain="wotr">
+<s id="s1">
+<toponym term="HILTON HEAD">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="28,1"/>
+<w tok="864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="FOSTER"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="Wabash"/>
+<w tok="goes"/>
+<w tok="to"/>
+<w tok="sea"/>
+<w tok="to-day"/>
+<w tok=","/>
+<w tok="leaving"/>
+<w tok="the"/>
+<w tok="brig"/>
+<w tok="containing"/>
+<w tok="rebel"/>
+<w tok="prisoners"/>
+<w tok="without"/>
+<w tok="protection"/>
+<w tok="."/>
+<w tok="Would"/>
+<w tok="advise"/>
+<w tok="she"/>
+<w tok="be"/>
+<w tok="moved"/>
+<w tok="under"/>
+<w tok="cover"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="New"/>
+<w tok="Hampshire"/>
+<w tok="."/>
+<w tok="DAHLGREN"/>
+<w tok=","/>
+<w tok="Admiral"/>
+<w tok="."/>
+</s>
+</doc>

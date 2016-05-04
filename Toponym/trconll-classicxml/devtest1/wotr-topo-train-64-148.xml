@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-148" title="64" domain="wotr">
+<s id="s1">
+<toponym term="MILWAUKEE">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WIS.">
+<candidates>
+<cand lat="44.6675266596" long="-89.7321175904" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="DANA"/>
+<w tok=","/>
+<w tok="("/>
+<w tok="Care"/>
+<w tok="General"/>
+<w tok="Sibley"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="Department"/>
+<w tok="sending"/>
+<w tok="Sixth"/>
+<w tok="Minnesota"/>
+<w tok="South"/>
+<w tok="made"/>
+<w tok="it"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="retain"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="State"/>
+<w tok="400"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3930268925" long="-92.4404240775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Low"/>
+<w tok="water"/>
+<w tok="in"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3930268925" long="-92.4404240775" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="makes"/>
+<w tok="it"/>
+<w tok="next"/>
+<w tok="to"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="Sully"/>
+<w tok="now"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="accordingly"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="view"/>
+<w tok="of"/>
+<w tok="order"/>
+<w tok="by"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="directed"/>
+<w tok="Sibley"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="to"/>
+<w tok="Sully"/>
+<w tok="the"/>
+<w tok="400"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok="he"/>
+<w tok="was"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="withhold"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="replace"/>
+<w tok="them"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="four"/>
+<w tok="companies"/>
+<w tok="Thirtieth"/>
+<w tok="Wisconsin"/>
+<w tok="."/>
+<w tok="These"/>
+<w tok="companies"/>
+<w tok="will"/>
+<w tok="march"/>
+<w tok="overland"/>
+<w tok="from"/>
+<toponym term="Minnesota">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="their"/>
+<w tok="regiment"/>
+<w tok="during"/>
+<w tok="summer"/>
+<w tok="."/>
+<w tok="Please"/>
+<w tok="answer"/>
+<w tok="if"/>
+<w tok="this"/>
+<w tok="covers"/>
+<w tok="the"/>
+<w tok="case"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="POPE"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

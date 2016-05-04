@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-148" title="62" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="TOWNSEND"/>
+<w tok=":"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="W."/>
+<w tok="Davidson"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="relieved"/>
+<w tok="from"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Arkansas"/>
+<w tok=","/>
+<w tok="proceed"/>
+<w tok="to"/>
+<toponym term="Cairo">
+<candidates>
+<cand lat="37.013056" long="-89.180278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ill.">
+<candidates>
+<cand lat="40.1038532564" long="-89.1498716912" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="from"/>
+<w tok="that"/>
+<w tok="place"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="to"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Cavalry"/>
+<w tok="Bureau"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

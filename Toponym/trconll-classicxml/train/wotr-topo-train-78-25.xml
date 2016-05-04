@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-25" title="78" domain="wotr">
+<s id="s1">
+<toponym term="MEMPHIS">
+<candidates>
+<cand lat="35.1291049331" long="-90.0093025714" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="SHERMAN"/>
+<w tok=":"/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="10th"/>
+<w tok="instant"/>
+<w tok="General"/>
+<w tok="Sturgis"/>
+<w tok="was"/>
+<w tok="defeated"/>
+<w tok="near"/>
+<toponym term="Guntown">
+<candidates>
+<cand lat="34.445" long="-88.663056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7070369517" long="-89.6813583371" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="He"/>
+<w tok="was"/>
+<w tok="badly"/>
+<w tok="cut"/>
+<w tok="up"/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="loss"/>
+<w tok="will"/>
+<w tok="reach"/>
+<w tok="3,000"/>
+<w tok="or"/>
+<w tok="4,000"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="very"/>
+<w tok="bad"/>
+<w tok="affair"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="few"/>
+<w tok="details"/>
+<w tok="as"/>
+<w tok="yet"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="last"/>
+<w tok="accounts"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="was"/>
+<w tok="moving"/>
+<w tok="this"/>
+<w tok="way"/>
+<w tok=","/>
+<w tok="his"/>
+<w tok="advance"/>
+<w tok="cavalry"/>
+<w tok="at"/>
+<toponym term="Collierville">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="infantry"/>
+<w tok="force"/>
+<w tok="was"/>
+<w tok="at"/>
+<toponym term="Ripley">
+<candidates>
+</candidates>
+</toponym>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="moving"/>
+<w tok="this"/>
+<w tok="way"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="J."/>
+<w tok="Smith"/>
+<w tok="is"/>
+<w tok="here"/>
+<w tok="with"/>
+<w tok="about"/>
+<w tok="6,000"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="very"/>
+<w tok="little"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Canby"/>
+<w tok="writes"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="indications"/>
+<w tok="are"/>
+<w tok="that"/>
+<w tok="Kirby"/>
+<w tok="Smith"/>
+<w tok="is"/>
+<w tok="concentrating"/>
+<w tok="his"/>
+<w tok="force"/>
+<w tok="to"/>
+<w tok="operate"/>
+<w tok="against"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="asks"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="troops"/>
+<w tok="in"/>
+<w tok="hand"/>
+<w tok="to"/>
+<w tok="aid"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="."/>
+<w tok="Under"/>
+<w tok="existing"/>
+<w tok="circumstances"/>
+<w tok="shall"/>
+<w tok="General"/>
+<w tok="Smith"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="contemplated"/>
+<w tok="demonstration"/>
+<w tok="on"/>
+<toponym term="Mobile">
+<candidates>
+<cand lat="30.6853853766" long="-88.0317635089" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="
+">
+<candidates>
+</candidates>
+</toponym>
+<w tok="C."/>
+<w tok="WASHBURN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

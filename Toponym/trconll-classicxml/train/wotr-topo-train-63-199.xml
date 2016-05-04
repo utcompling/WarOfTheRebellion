@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-199" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7523491219" long="-92.2892840879" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="]"/>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="H."/>
+<w tok="RYAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Lewisburg">
+<candidates>
+<cand lat="35.141944" long="-92.735278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="direct"/>
+<w tok="Colonel"/>
+<w tok="Fuller"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Dardanelle">
+<candidates>
+<cand lat="35.2225" long="-93.160278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="officer"/>
+<w tok="and"/>
+<w tok="50"/>
+<w tok="men"/>
+<w tok="to"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="see"/>
+<w tok="why"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="line"/>
+<w tok="above"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="kept"/>
+<w tok="in"/>
+<w tok="repair"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="instruct"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="see"/>
+<w tok="to"/>
+<w tok="it"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="placed"/>
+<w tok="in"/>
+<w tok="good"/>
+<w tok="condition"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="the"/>
+<w tok="detail"/>
+<w tok="will"/>
+<w tok="return"/>
+<w tok="to"/>
+<toponym term="Dardanelle">
+<candidates>
+<cand lat="35.2225" long="-93.160278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="shoot"/>
+<w tok="or"/>
+<w tok="hang"/>
+<w tok="every"/>
+<w tok="guerrilla"/>
+<w tok="who"/>
+<w tok="has"/>
+<w tok="or"/>
+<w tok="may"/>
+<w tok="interfere"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="."/>
+<w tok="NATHAN"/>
+<w tok="KIMBALL"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

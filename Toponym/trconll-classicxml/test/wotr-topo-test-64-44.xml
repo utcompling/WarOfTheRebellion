@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-44" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7609239432" long="-104.9652184" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0131108782" long="-105.624788078" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="W."/>
+<w tok="WYNKOOP"/>
+<w tok=","/>
+<toponym term="Fort Lyon">
+<candidates>
+<cand lat="38.074167" long="-103.1325" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo.">
+<candidates>
+<cand lat="39.0131108782" long="-105.624788078" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter"/>
+<w tok="."/>
+<w tok=":"/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="had"/>
+<w tok="better"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="company"/>
+<w tok="or"/>
+<w tok="two"/>
+<w tok="to"/>
+<w tok="Wilson"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="whenever"/>
+<w tok="re-enforcements"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="reach"/>
+<w tok="of"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="instruct"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="not"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="surprised"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="instruct"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="break"/>
+<w tok="up"/>
+<w tok="whisky"/>
+<w tok="selling"/>
+<w tok="to"/>
+<w tok="Indians"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="this"/>
+<w tok="last"/>
+<w tok="if"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="to"/>
+<w tok="break"/>
+<w tok="the"/>
+<w tok="neck"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="offender"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="train"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="ordnance"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="left"/>
+<w tok="yesterday"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="much"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

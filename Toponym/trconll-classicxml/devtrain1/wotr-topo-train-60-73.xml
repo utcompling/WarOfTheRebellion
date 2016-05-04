@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-73" title="60" domain="wotr">
+<s id="s1">
+<w tok="FEBRUARY"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-Affair"/>
+<w tok="at"/>
+<toponym term="Fairfield">
+<candidates>
+<cand lat="35.541389" long="-76.224444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. C.">
+<candidates>
+<cand lat="35.5595688791" long="-79.2588884121" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="John"/>
+<w tok="J."/>
+<w tok="Peck"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="ARMY"/>
+<w tok="AND"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="CAROLINA"/>
+<w tok=","/>
+<toponym term="New Berne">
+<candidates>
+<cand lat="35.109167" long="-77.069167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. C.">
+<candidates>
+<cand lat="35.5595688791" long="-79.2588884121" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="23"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Wessells"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Sub-district"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Albermarle"/>
+<w tok=","/>
+<w tok="dispatched"/>
+<w tok="the"/>
+<w tok="army"/>
+<w tok="gunboat"/>
+<w tok="Foster"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="16th"/>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Alligator River">
+<candidates>
+</candidates>
+</toponym>
+<w tok="upon"/>
+<w tok="a"/>
+<w tok="reconnaissance"/>
+<w tok="."/>
+<w tok="Her"/>
+<w tok="crew"/>
+<w tok="was"/>
+<w tok="re-enforced"/>
+<w tok="by"/>
+<w tok="Lieutenant"/>
+<w tok="Helm"/>
+<w tok="and"/>
+<w tok="30"/>
+<w tok="men"/>
+<w tok="fo"/>
+<w tok="the"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="first"/>
+<w tok="Pennsylvania"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+<w tok="Hearing"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="Spencer"/>
+<w tok="Rangers"/>
+<w tok="were"/>
+<w tok="quartered"/>
+<w tok="at"/>
+<toponym term="Fairfield">
+<candidates>
+<cand lat="35.541389" long="-76.224444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="McLaughlin"/>
+<w tok="proceeded"/>
+<w tok="in"/>
+<w tok="two"/>
+<w tok="launches"/>
+<w tok=","/>
+<w tok="surprised"/>
+<w tok="the"/>
+<w tok="outpost"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="captured"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok="company"/>
+<w tok=","/>
+<w tok="consisting"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="Spencer"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="lieutenant"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="26"/>
+<w tok="privates"/>
+<w tok="."/>
+<w tok="Much"/>
+<w tok="property"/>
+<w tok="was"/>
+<w tok="taken"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="enterprise"/>
+<w tok="was"/>
+<w tok="conducted"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="heavy"/>
+<w tok="snow-storm"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="entitles"/>
+<w tok="all"/>
+<w tok="concerned"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="highest"/>
+<w tok="praise"/>
+<w tok="."/>
+<w tok="Another"/>
+<w tok="proof"/>
+<w tok="is"/>
+<w tok="added"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="value"/>
+<w tok="of"/>
+<w tok="our"/>
+<w tok="army"/>
+<w tok="gun-boats"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="J."/>
+<w tok="PECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

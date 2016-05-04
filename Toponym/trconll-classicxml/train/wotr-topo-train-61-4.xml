@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-4" title="61" domain="wotr">
+<s id="s1">
+<w tok="JANUARY"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864.-Affair"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="San Andres Mountains">
+<candidates>
+<cand lat="33.298611" long="-106.531389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4461413273" long="-106.150439694" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="Record"/>
+<w tok="of"/>
+<w tok="Events"/>
+<w tok="on"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<toponym term="New Mexico">
+<candidates>
+<cand lat="34.4461413273" long="-106.150439694" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="January"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="January"/>
+<w tok="26.-Lieutenant"/>
+<w tok="Thomas"/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="Young"/>
+<w tok=","/>
+<w tok="Fifth"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="12"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="left"/>
+<toponym term="Fort Craig">
+<candidates>
+<cand lat="33.635556" long="-107.014167" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4461413273" long="-106.150439694" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="party"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="has"/>
+<w tok="run"/>
+<w tok="off"/>
+<w tok="some"/>
+<w tok="stock"/>
+<w tok="belonging"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="post"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="overtook"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="San Andres Mountains">
+<candidates>
+<cand lat="33.298611" long="-106.531389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="attacked"/>
+<w tok="by"/>
+<w tok="them"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="morning"/>
+<w tok="the"/>
+<w tok="lieutenant"/>
+<w tok="was"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="retreat"/>
+<w tok=","/>
+<w tok="owing"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="great"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="against"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="result"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="scout"/>
+<w tok=":"/>
+<w tok="Four"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="wounded"/>
+<w tok=";"/>
+<w tok="Indiana"/>
+<w tok="loss"/>
+<w tok=","/>
+<w tok="7"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="several"/>
+<w tok="wounded"/>
+<w tok="."/>
+</s>
+</doc>

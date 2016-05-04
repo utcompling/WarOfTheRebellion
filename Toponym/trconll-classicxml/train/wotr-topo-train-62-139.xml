@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-139" title="62" domain="wotr">
+<s id="s1">
+<toponym term="THIBODEAUX">
+<candidates>
+<cand lat="29.792222" long="-90.82" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="6.20"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="report"/>
+<w tok="is"/>
+<w tok="here"/>
+<w tok="from"/>
+<toponym term="Donaldsonville">
+<candidates>
+<cand lat="30.1" long="-90.994167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Sheldon"/>
+<w tok="has"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="good"/>
+<w tok="authority"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="Bragg"/>
+<w tok="is"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="and"/>
+<w tok="has"/>
+<w tok="taken"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Walker"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Marksville">
+<candidates>
+<cand lat="31.126667" long="-92.066111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Taylor"/>
+<w tok="at"/>
+<toponym term="Alexandria">
+<candidates>
+<cand lat="31.292778" long="-92.459167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="most"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="army"/>
+<w tok="at"/>
+<toponym term="Shreveport">
+<candidates>
+<cand lat="32.514722" long="-93.747222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Shaurman"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Bayou Boeuf">
+<candidates>
+<cand lat="29.8690997343" long="-90.5951646776" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="organized"/>
+<w tok="a"/>
+<w tok="mounted"/>
+<w tok="patrol"/>
+<w tok="of"/>
+<w tok="citizens"/>
+<w tok="for"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="L."/>
+<w tok="MILINEUX"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

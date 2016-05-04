@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-154" title="62" domain="wotr">
+<s id="s1">
+<toponym term="PILOT KNOB">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="FISK"/>
+<w tok=":"/>
+<w tok="Company"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="at"/>
+<toponym term="Centreville">
+<candidates>
+<cand lat="37.436111" long="-90.961111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="caught"/>
+<w tok="napping"/>
+<w tok="again"/>
+<w tok="."/>
+<w tok="Companies"/>
+<w tok="A"/>
+<w tok="and"/>
+<w tok="L"/>
+<w tok="at"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Company"/>
+<w tok="I"/>
+<w tok="at"/>
+<toponym term="Fredericktown">
+<candidates>
+<cand lat="37.559444" long="-90.294444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Company"/>
+<w tok="H"/>
+<w tok="at"/>
+<toponym term="Famington">
+<candidates>
+<cand lat="37.781944" long="-90.422222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="believe"/>
+<w tok="Leeper"/>
+<w tok="will"/>
+<w tok="keep"/>
+<w tok="me"/>
+<w tok="informed"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="front"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="information"/>
+<w tok="about"/>
+<w tok="a"/>
+<w tok="week"/>
+<w tok="ago"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="guerrillas"/>
+<w tok="wee"/>
+<w tok="collecting"/>
+<w tok="in"/>
+<w tok="force"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="border"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="felt"/>
+<w tok="strong"/>
+<w tok="enough"/>
+<w tok="to"/>
+<w tok="manage"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="annoy"/>
+<w tok="you"/>
+<w tok="with"/>
+<w tok="small"/>
+<w tok="affairs"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="confirmed"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="Johns"/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="returned"/>
+<w tok="safely"/>
+<w tok="from"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="small"/>
+<w tok="scout"/>
+<w tok="."/>
+<w tok="R."/>
+<w tok="G."/>
+<w tok="WOODSON"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-135" title="60" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="6"/>
+<w tok="."/>
+<w tok="Reports"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="Benjamin"/>
+<w tok="F."/>
+<w tok="Butler"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Virginia"/>
+<w tok="and"/>
+<w tok="North"/>
+<w tok="Carolina"/>
+<w tok="."/>
+<toponym term="FORT MONROE">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="VA.">
+<candidates>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864-8"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="8"/>
+<w tok="."/>
+<w tok="40"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="4th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="dispatch"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="my"/>
+<w tok="aide"/>
+<w tok="at"/>
+<toponym term="Fort Magruder">
+<candidates>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="went"/>
+<w tok="out"/>
+<w tok="with"/>
+<w tok="my"/>
+<w tok="forces"/>
+<w tok="to"/>
+<toponym term="New Kent Court-House">
+<candidates>
+</candidates>
+</toponym>
+<w tok="Arrived"/>
+<w tok="all"/>
+<w tok="safe"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="is"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="lost"/>
+<w tok="less"/>
+<w tok="than"/>
+<w tok="150"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="among"/>
+<w tok="whom"/>
+<w tok="were"/>
+<w tok="Colonels"/>
+<w tok="Dahlgren"/>
+<w tok=","/>
+<w tok="["/>
+<w tok="Major"/>
+<w tok="]"/>
+<w tok="Cooke"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Litchfield"/>
+<w tok="."/>
+<w tok="Colonels"/>
+<w tok="Dahlgren"/>
+<w tok="and"/>
+<w tok="["/>
+<w tok="Major"/>
+<w tok="]"/>
+<w tok="Cooke"/>
+<w tok="are"/>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="prisoners"/>
+<w tok=";"/>
+<w tok="Litchfield"/>
+<w tok="either"/>
+<w tok="wounded"/>
+<w tok="or"/>
+<w tok="killed"/>
+<w tok="."/>
+<w tok="Went"/>
+<w tok="within"/>
+<w tok="outer"/>
+<w tok="line"/>
+<w tok="of"/>
+<w tok="fortifications"/>
+<w tok=";"/>
+<w tok="was"/>
+<w tok="engaged"/>
+<w tok="until"/>
+<w tok="dark"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Spear"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="BUTLER"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="EDWIN"/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+</s>
+</doc>

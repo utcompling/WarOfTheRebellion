@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-81" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="."/>
+<toponym term="Fort Churchill">
+<candidates>
+<cand lat="39.2925" long="-119.270556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Nev. Ter.">
+<candidates>
+<cand lat="39.3173681652" long="-116.733288975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=";"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="transmit"/>
+<w tok="herewith"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="T."/>
+<w tok="E."/>
+<w tok="Ketcham"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="detachment"/>
+<w tok="sent"/>
+<w tok="from"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="November"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="chastise"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="comitted"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="depredations"/>
+<w tok="between"/>
+<toponym term="Honey Lake">
+<candidates>
+<cand lat="40.25" long="-120.35" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Humboldt">
+<candidates>
+<cand lat="39.988056" long="-118.601111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Nev. Ter.">
+<candidates>
+<cand lat="39.3173681652" long="-116.733288975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="obedience"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="instructions"/>
+<w tok="one"/>
+<w tok="wagon"/>
+<w tok="load"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="this"/>
+<w tok="day"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="stationed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Susanville">
+<candidates>
+<cand lat="40.416389" long="-120.653056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Honey Lake">
+<candidates>
+<cand lat="40.25" long="-120.35" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="balance"/>
+<w tok="of"/>
+<w tok="supplies"/>
+<w tok="necessary"/>
+<w tok="to"/>
+<w tok="subsist"/>
+<w tok="said"/>
+<w tok="command"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="winter"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="forwarded"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="McDERMIT"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

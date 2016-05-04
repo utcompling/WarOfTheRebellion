@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-40" title="106" domain="wotr">
+<s id="s1">
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok="AT"/>
+<toponym term="FORT WALLA WALLA">
+<candidates>
+<cand lat="46.04741" long="-118.35694" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="WASH. TER.">
+<candidates>
+<cand lat="47.4229773167" long="-120.612458867" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="8th"/>
+<w tok="instant"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="stating"/>
+<w tok="that"/>
+<w tok="application"/>
+<w tok="for"/>
+<w tok="relief"/>
+<w tok="is"/>
+<w tok="frequently"/>
+<w tok="made"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="by"/>
+<w tok="emigrants"/>
+<w tok="arriving"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Rocky Mountains">
+<candidates>
+<cand lat="43.7740687425" long="-110.979422129" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="who"/>
+<w tok="are"/>
+<w tok="destitute"/>
+<w tok="of"/>
+<w tok="provisions"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="you"/>
+<w tok="request"/>
+<w tok="instructions"/>
+<w tok="for"/>
+<w tok="your"/>
+<w tok="guidance"/>
+<w tok="in"/>
+<w tok="such"/>
+<w tok="cases"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="find"/>
+<w tok="anything"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Regulations"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="subject"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="in"/>
+<w tok="cases"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="suffering"/>
+<w tok="and"/>
+<w tok="destitution"/>
+<w tok="among"/>
+<w tok="those"/>
+<w tok="arriving"/>
+<w tok="this"/>
+<w tok="autumn"/>
+<w tok="with"/>
+<w tok="that"/>
+<w tok="emigration"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="the"/>
+<w tok="issue"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="articles"/>
+<w tok="of"/>
+<w tok="subsistence"/>
+<w tok="to"/>
+<w tok="them"/>
+<w tok="for"/>
+<w tok="a"/>
+<w tok="limited"/>
+<w tok="period"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="desire"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="use"/>
+<w tok="your"/>
+<w tok="discretion"/>
+<w tok="in"/>
+<w tok="each"/>
+<w tok="case"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="instituted"/>
+<w tok="such"/>
+<w tok="investigation"/>
+<w tok="of"/>
+<w tok="each"/>
+<w tok="case"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="satisfy"/>
+<w tok="you"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="existence"/>
+<w tok="of"/>
+<w tok="real"/>
+<w tok="destitution"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="BENJ"/>
+<w tok="."/>
+<w tok="ALVORD"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-58" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.197249868" long="-93.3100198871" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<toponym term="Mount Vernon">
+<candidates>
+<cand lat="37.1" long="-93.818056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="small"/>
+<w tok="bands"/>
+<w tok="of"/>
+<w tok="rebels"/>
+<w tok="and"/>
+<w tok="guerrillas"/>
+<w tok="have"/>
+<w tok="recently"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Arkansas River">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="moving"/>
+<w tok="north"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="keep"/>
+<w tok="out"/>
+<w tok="small"/>
+<w tok="scouts"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="and"/>
+<w tok="southwest"/>
+<w tok="."/>
+<w tok="Hold"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="well"/>
+<w tok="in"/>
+<w tok="hand"/>
+<w tok="and"/>
+<w tok="keep"/>
+<w tok="a"/>
+<w tok="good"/>
+<w tok="supply"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok="on"/>
+<w tok="hand"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="be"/>
+<w tok="ready"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="available"/>
+<w tok="force"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="shortest"/>
+<w tok="notice"/>
+<w tok="."/>
+<w tok="Support"/>
+<w tok="any"/>
+<w tok="position"/>
+<w tok="threatened"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="attack"/>
+<w tok="him"/>
+<w tok="whenever"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="do"/>
+<w tok="so"/>
+<w tok="successfully"/>
+<w tok="."/>
+<w tok="Call"/>
+<w tok="Enrolled"/>
+<w tok="Militia"/>
+<w tok="not"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="service"/>
+<w tok="and"/>
+<w tok="citizens"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="aid"/>
+<w tok="if"/>
+<w tok="threatened"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="superior"/>
+<w tok="force"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

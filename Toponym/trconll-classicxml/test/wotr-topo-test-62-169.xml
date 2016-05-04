@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-169" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="When"/>
+<w tok="will"/>
+<w tok="the"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="be"/>
+<w tok="back"/>
+<w tok="at"/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2056806081" long="-93.3082710493" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

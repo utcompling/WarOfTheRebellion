@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-104" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3270973001" long="-81.6542260897" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="A."/>
+<w tok="L."/>
+<w tok="HARRIS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Seventy-fifth"/>
+<w tok="Ohio"/>
+<w tok="Volunteers"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="Everything"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="expedition"/>
+<w tok="depends"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="promptness"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="embarkation"/>
+<w tok="at"/>
+<toponym term="Mandarin">
+<candidates>
+<cand lat="30.1603" long="-81.6594" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="debarkation"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="must"/>
+<w tok="have"/>
+<w tok="your"/>
+<w tok="horses"/>
+<w tok="ready"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Mandarin wharf">
+<candidates>
+<cand lat="30.1603" long="-81.6594" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="your"/>
+<w tok="forage"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="load"/>
+<w tok="the"/>
+<w tok="boats"/>
+<w tok="quickly"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="send"/>
+<w tok="them"/>
+<w tok="off"/>
+<w tok="as"/>
+<w tok="fast"/>
+<w tok="as"/>
+<w tok="loaded"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="fail"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok=","/>
+<w tok="from"/>
+<w tok="not"/>
+<w tok="being"/>
+<w tok="ready"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="from"/>
+<w tok="allowing"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="slow"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="cause"/>
+<w tok="my"/>
+<w tok="whole"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="fail"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="I"/>
+<w tok="must"/>
+<w tok="land"/>
+<w tok="you"/>
+<w tok="at"/>
+<w tok="night"/>
+<w tok="and"/>
+<w tok="get"/>
+<w tok="the"/>
+<w tok="boats"/>
+<w tok="out"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="creek"/>
+<w tok="before"/>
+<w tok="daylight"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="there"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="no"/>
+<w tok="surprise"/>
+<w tok="."/>
+<w tok="Be"/>
+<w tok="ready"/>
+<w tok=","/>
+<w tok="then"/>
+<w tok=","/>
+<w tok="when"/>
+<w tok="the"/>
+<w tok="boats"/>
+<w tok="get"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="dock"/>
+<w tok="."/>
+<w tok="Get"/>
+<w tok="your"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="horses"/>
+<w tok="on"/>
+<w tok="board"/>
+<w tok="within"/>
+<w tok="twenty"/>
+<w tok="minutes"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

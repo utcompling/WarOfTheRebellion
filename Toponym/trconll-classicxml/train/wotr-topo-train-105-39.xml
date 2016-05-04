@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-39" title="105" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="FOURTH"/>
+<w tok="INFANTRY"/>
+<w tok="CALIFORNIA"/>
+<w tok="VOLUNTEERS"/>
+<w tok=","/>
+<toponym term="Camp Latham">
+<candidates>
+<cand lat="34.007778" long="-118.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="Drum"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="MAJOR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Evans"/>
+<w tok="in"/>
+<w tok="relation"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Owen"/>
+<w tok="&apos;s"/>
+<w tok="River"/>
+<w tok="Expedition"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O&apos;Neill"/>
+<w tok="has"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="McLaughlin"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok="from"/>
+<toponym term="Fort Yuma">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="O&apos;Neill"/>
+<w tok=","/>
+<w tok="consisting"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="fit"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="in"/>
+<w tok="camp"/>
+<w tok="and"/>
+<w tok="those"/>
+<w tok="brought"/>
+<w tok="up"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="McLaughlin"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="number"/>
+<w tok="twenty-five"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="dispatched"/>
+<w tok="to"/>
+<toponym term="Owen&apos;s River">
+<candidates>
+<cand lat="36.541944" long="-117.979167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="so"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="from"/>
+<toponym term="Fort Yuma">
+<candidates>
+<cand lat="32.732" long="-114.616" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="fit"/>
+<w tok="to"/>
+<w tok="travel"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="but"/>
+<w tok="a"/>
+<w tok="few"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="F."/>
+<w tok="FORMAN"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Fourth"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

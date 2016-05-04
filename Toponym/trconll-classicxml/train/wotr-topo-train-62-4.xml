@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-4" title="62" domain="wotr">
+<s id="s1">
+<toponym term="BATON ROUGE">
+<candidates>
+<cand lat="30.4546674531" long="-91.1364040375" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="LA.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1864-9"/>
+<w tok="a.m."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="Brigadier-General"/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="learn"/>
+<w tok="that"/>
+<w tok="some"/>
+<w tok="bodies"/>
+<w tok="of"/>
+<w tok="rebel"/>
+<w tok="troops"/>
+<w tok="have"/>
+<w tok="moved"/>
+<w tok="from"/>
+<w tok="points"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="to"/>
+<w tok="quarters"/>
+<w tok="near"/>
+<toponym term="Newtown">
+<candidates>
+<cand lat="30.003611" long="-91.818333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Believed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="about"/>
+<w tok="20"/>
+<w tok="miles"/>
+<w tok="north"/>
+<w tok="of"/>
+<toponym term="Clinton">
+<candidates>
+<cand lat="30.863056" long="-91.015833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

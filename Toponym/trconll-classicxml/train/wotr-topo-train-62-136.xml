@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-136" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4546674531" long="-91.1364040375" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864-6"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok="that"/>
+<w tok="two"/>
+<w tok="regiments"/>
+<w tok="of"/>
+<w tok="rebels"/>
+<w tok="were"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="to"/>
+<w tok="cross"/>
+<toponym term="Atchafalaya">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="eastward"/>
+<w tok="below"/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4535843209" long="-91.1394874925" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="General"/>
+<w tok="Bragg"/>
+<w tok="is"/>
+<toponym term="west of the Mississippi">
+<candidates>
+<cand lat="30.4488208169" long="-91.3071326292" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

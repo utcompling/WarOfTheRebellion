@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-85" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="11.30"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="BROWN"/>
+<w tok=","/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Special"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="113"/>
+<w tok=","/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Shall"/>
+<w tok="the"/>
+<w tok="companies"/>
+<w tok="at"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="by"/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Major"/>
+<w tok="Kelly"/>
+<w tok="send"/>
+<w tok="relief"/>
+<w tok="to"/>
+<toponym term="Warsaw">
+<candidates>
+<cand lat="38.245278" long="-93.377222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Much"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="is"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="ask"/>
+<w tok="for"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="get"/>
+<w tok="them"/>
+<w tok="all"/>
+<w tok="in"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="before"/>
+<w tok="I"/>
+<w tok="move"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

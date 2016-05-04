@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-63" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Lieutenant"/>
+<w tok="H."/>
+<w tok="GRATHEER"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="remain"/>
+<w tok="at"/>
+<w tok="Ozark"/>
+<w tok="until"/>
+<w tok="you"/>
+<w tok="receive"/>
+<w tok="fifteen"/>
+<w tok="days"/>
+<w tok="&apos;"/>
+<w tok="rations"/>
+<w tok="which"/>
+<w tok="start"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="Upon"/>
+<w tok="receiving"/>
+<w tok="the"/>
+<w tok="rations"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="proceed"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="your"/>
+<w tok="available"/>
+<w tok="force"/>
+<w tok="and"/>
+<w tok="as"/>
+<w tok="little"/>
+<w tok="camp"/>
+<w tok="and"/>
+<w tok="garrison"/>
+<w tok="equipage"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="field"/>
+<w tok="campaign"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="winter"/>
+<w tok="service"/>
+<w tok="will"/>
+<w tok="justify"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="Captain"/>
+<w tok="Human"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="First"/>
+<w tok="Battalion"/>
+<w tok=","/>
+<w tok="Eighth"/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="field"/>
+<w tok=","/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="a"/>
+<w tok="guide"/>
+<w tok="from"/>
+<toponym term="Ozark">
+<candidates>
+<cand lat="37.027222" long="-93.209444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="procure"/>
+<w tok="one"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="road"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="guide"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Human"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="D."/>
+<w tok="HUBBARD"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Lieutenant"/>
+<w tok="and"/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-173" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="BOGARD"/>
+<w tok="COMPANY"/>
+<w tok="CITIZEN"/>
+<w tok="GUARDS"/>
+<w tok=","/>
+<toponym term="Henry County">
+<candidates>
+<cand lat="38.39" long="-93.79" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="McFERRAN"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="past"/>
+<w tok="month"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="considerable"/>
+<w tok="excitement"/>
+<w tok="and"/>
+<w tok="confusion"/>
+<w tok="among"/>
+<w tok="us"/>
+<w tok="on"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="coming"/>
+<w tok="in"/>
+<w tok="of"/>
+<w tok="several"/>
+<w tok="bands"/>
+<w tok="of"/>
+<w tok="bushwhackers"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="we"/>
+<w tok="have"/>
+<w tok="sustained"/>
+<w tok="no"/>
+<w tok="loss"/>
+<w tok="beyond"/>
+<w tok="the"/>
+<w tok="loss"/>
+<w tok="of"/>
+<w tok="time"/>
+<w tok="from"/>
+<w tok="our"/>
+<w tok="farming"/>
+<w tok="operations"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="captured"/>
+<w tok="about"/>
+<w tok="three"/>
+<w tok="weeks"/>
+<w tok="since"/>
+<w tok="a"/>
+<w tok="bushwhackers"/>
+<w tok=","/>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="Teague"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="turned"/>
+<w tok="him"/>
+<w tok="over"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="Boyd"/>
+<w tok=","/>
+<w tok="then"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="at"/>
+<toponym term="Harrisonville">
+<candidates>
+<cand lat="38.653611" long="-94.346944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="waters"/>
+<w tok="being"/>
+<w tok="up"/>
+<w tok="so"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="could"/>
+<w tok="not"/>
+<w tok="get"/>
+<w tok="to"/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Monthly"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="Captain"/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="Wells"/>
+<w tok="&apos;"/>
+<w tok="company"/>
+<w tok="citizen"/>
+<w tok="guards"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="June"/>
+<w tok=","/>
+<w tok="1864.-Present"/>
+<w tok=":"/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok=";"/>
+<w tok="first"/>
+<w tok="lieutenant"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok=";"/>
+<w tok="second"/>
+<w tok="lieutenant"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok=";"/>
+<w tok="sergeants"/>
+<w tok=","/>
+<w tok="5"/>
+<w tok=";"/>
+<w tok="corporals"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok=";"/>
+<w tok="privates"/>
+<w tok=","/>
+<w tok="39"/>
+<w tok=";"/>
+<w tok="total"/>
+<w tok=","/>
+<w tok="55"/>
+<w tok="."/>
+<w tok="Absent"/>
+<w tok=":"/>
+<w tok="With"/>
+<w tok="leave"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok=";"/>
+<w tok="without"/>
+<w tok="leave"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok=";"/>
+<w tok="total"/>
+<w tok=","/>
+<w tok="3"/>
+<w tok="."/>
+<w tok="Total"/>
+<w tok="present"/>
+<w tok="and"/>
+<w tok="absent"/>
+<w tok=","/>
+<w tok="58"/>
+<w tok="."/>
+<w tok="Total"/>
+<w tok="last"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="52"/>
+<w tok="."/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="."/>
+<w tok="WELLS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Company"/>
+<w tok="."/>
+</s>
+</doc>

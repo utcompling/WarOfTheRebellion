@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-147" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="DRAPER"/>
+<w tok=","/>
+<toponym term="Macon City">
+<candidates>
+<cand lat="39.740556" long="-92.470556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Send"/>
+<w tok="a"/>
+<w tok="discreet"/>
+<w tok="officer"/>
+<w tok="with"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok="to"/>
+<toponym term="Keytesville">
+<candidates>
+<cand lat="39.434167" long="-92.936944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Chariton County">
+<candidates>
+<cand lat="39.52" long="-92.96" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="remain"/>
+<w tok="there"/>
+<w tok="during"/>
+<w tok="the"/>
+<w tok="session"/>
+<w tok="of"/>
+<w tok="court"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="commences"/>
+<w tok="on"/>
+<w tok="Monday"/>
+<w tok="next"/>
+<w tok="."/>
+<w tok="Let"/>
+<w tok="them"/>
+<w tok="arrive"/>
+<w tok="at"/>
+<toponym term="Keytesville">
+<candidates>
+<cand lat="39.434167" long="-92.936944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="before"/>
+<w tok="Monday"/>
+<w tok="as"/>
+<w tok="if"/>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="n&apos;t"/>
+<w tok="want"/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="to"/>
+<w tok="understand"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="are"/>
+<w tok="sent"/>
+<w tok="expressly"/>
+<w tok="for"/>
+<w tok="this"/>
+<w tok="purpose"/>
+<w tok="."/>
+<w tok="Instruct"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="obtain"/>
+<w tok="all"/>
+<w tok="information"/>
+<w tok="possible"/>
+<w tok="touching"/>
+<w tok="the"/>
+<w tok="condition"/>
+<w tok="of"/>
+<w tok="affairs"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="county"/>
+<w tok="."/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="mean"/>
+<w tok="time"/>
+<w tok="he"/>
+<w tok="might"/>
+<w tok="clean"/>
+<w tok="out"/>
+<w tok="any"/>
+<w tok="gangs"/>
+<w tok="of"/>
+<w tok="villains"/>
+<w tok="that"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="."/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

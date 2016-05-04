@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-19" title="66" domain="wotr">
+<s id="s1">
+<w tok="NAVY"/>
+<w tok="DEPARTMENT"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="submit"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="dispatch"/>
+<w tok="from"/>
+<w tok="Rear-Admiral"/>
+<w tok="D."/>
+<w tok="G."/>
+<w tok="Farragut"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="the"/>
+<w tok="9th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="states"/>
+<w tok="as"/>
+<w tok="his"/>
+<w tok="opinion"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="two"/>
+<w tok="15-inch"/>
+<w tok="guns"/>
+<w tok="are"/>
+<w tok="placed"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Old Spanish Battery at Barrancas">
+<candidates>
+<cand lat="30.347839" long="-87.297561" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="in"/>
+<w tok="an"/>
+<w tok="earth-work"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="beach"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="western"/>
+<w tok="front"/>
+<w tok="of"/>
+<toponym term="Fort Pickens">
+<candidates>
+<cand lat="30.327" long="-87.2907" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="port"/>
+<w tok="of"/>
+<toponym term="Pensacola">
+<candidates>
+<cand lat="30.433333" long="-87.2" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="rendered"/>
+<w tok="safe"/>
+<w tok="against"/>
+<w tok="the"/>
+<w tok="attacks"/>
+<w tok="of"/>
+<w tok="almost"/>
+<w tok="any"/>
+<w tok="enemy"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="prompt"/>
+<w tok="measures"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="War"/>
+<w tok="Department"/>
+<w tok="to"/>
+<w tok="carry"/>
+<w tok="out"/>
+<w tok="the"/>
+<w tok="suggestion"/>
+<w tok="of"/>
+<w tok="Rear-Admiral"/>
+<w tok="Farragut"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="GIDEON"/>
+<w tok="WELLES"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Navy"/>
+<w tok="."/>
+</s>
+</doc>

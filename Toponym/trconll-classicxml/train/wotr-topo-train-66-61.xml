@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-61" title="66" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7462763092" long="-79.930102135" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="journals"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="inform"/>
+<w tok="us"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="time"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="5"/>
+<w tok="general"/>
+<w tok="officers"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Confederate"/>
+<w tok="service"/>
+<w tok="have"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="a"/>
+<w tok="view"/>
+<w tok="to"/>
+<w tok="their"/>
+<w tok="being"/>
+<w tok="subjected"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="treatment"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="are"/>
+<w tok="received"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="just"/>
+<w tok="to"/>
+<w tok="ask"/>
+<w tok="these"/>
+<w tok="officers"/>
+<w tok="every"/>
+<w tok="kindness"/>
+<w tok="and"/>
+<w tok="courtesy"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="extend"/>
+<w tok="to"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="acknowledgment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="fact"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="time"/>
+<w tok=","/>
+<w tok="are"/>
+<w tok="as"/>
+<w tok="pleasantly"/>
+<w tok="and"/>
+<w tok="comfortably"/>
+<w tok="situated"/>
+<w tok="as"/>
+<w tok="is"/>
+<w tok="possible"/>
+<w tok="for"/>
+<w tok="prisoners"/>
+<w tok="of"/>
+<w tok="war"/>
+<w tok=","/>
+<w tok="receiving"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Confederate"/>
+<w tok="authorities"/>
+<w tok="every"/>
+<w tok="privilege"/>
+<w tok="that"/>
+<w tok="we"/>
+<w tok="could"/>
+<w tok="desire"/>
+<w tok="or"/>
+<w tok="except"/>
+<w tok=","/>
+<w tok="nor"/>
+<w tok="are"/>
+<w tok="we"/>
+<w tok="unnecessarily"/>
+<w tok="exposed"/>
+<w tok="to"/>
+<w tok="fire"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="W"/>
+<w tok="."/>
+<w tok="WESSELLS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="T."/>
+<w tok="SEYMOUR"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="P."/>
+<w tok="SCAMMON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="A."/>
+<w tok="HECKMAN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="ALEXANDER"/>
+<w tok="SHALER"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Prisoners"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-45" title="61" domain="wotr">
+<s id="s1">
+<w tok="February"/>
+<w tok="16.-Left"/>
+<w tok="camp"/>
+<w tok="at"/>
+<w tok="7"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="traveled"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="northeasterly"/>
+<w tok="direction"/>
+<w tok="for"/>
+<w tok="one-half"/>
+<w tok="a"/>
+<w tok="mile"/>
+<w tok=";"/>
+<w tok="crossed"/>
+<toponym term="Strawberry">
+<candidates>
+<cand lat="36.279722" long="-92.715833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="continued"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="course"/>
+<w tok="until"/>
+<w tok="we"/>
+<w tok="arrived"/>
+<w tok="at"/>
+<toponym term="Salem and Batesville raod">
+<candidates>
+<cand lat="36.370556" long="-91.823889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Moved"/>
+<w tok="down"/>
+<toponym term="Batesville and Salem raod">
+<candidates>
+<cand lat="36.370556" long="-91.823889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="1"/>
+<w tok="mile"/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="struck"/>
+<w tok="off"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="westward"/>
+<w tok=";"/>
+<w tok="proceeded"/>
+<w tok="1"/>
+<w tok="miles"/>
+<w tok="on"/>
+<w tok="this"/>
+<w tok="course"/>
+<w tok="and"/>
+<w tok="halted"/>
+<w tok="and"/>
+<w tok="fed"/>
+<w tok="at"/>
+<w tok="McIlmurrary"/>
+<w tok="&apos;s"/>
+<w tok=";"/>
+<w tok="remained"/>
+<w tok="there"/>
+<w tok="two"/>
+<w tok="hours"/>
+<w tok="and"/>
+<w tok="divided"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="sending"/>
+<w tok="the"/>
+<w tok="prisoners"/>
+<w tok="and"/>
+<w tok="led"/>
+<w tok="horses"/>
+<w tok="to"/>
+<toponym term="Batesville">
+<candidates>
+<cand lat="35.773611" long="-91.641389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="under"/>
+<w tok="escort"/>
+<w tok="of"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="Squadrons"/>
+<w tok="A"/>
+<w tok="and"/>
+<w tok="C"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Nebraska"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="Lieutenants"/>
+<w tok="Griffin"/>
+<w tok="and"/>
+<w tok="Whitelock"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="command"/>
+<w tok="["/>
+<w tok="marched"/>
+<w tok="]"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="southeast"/>
+<w tok="direction"/>
+<w tok="10"/>
+<w tok="miles"/>
+<w tok=";"/>
+<w tok="passed"/>
+<w tok="through"/>
+<toponym term="Wild Haws">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="halted"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="at"/>
+<w tok="5"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="farm"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="Mr."/>
+<w tok="Phelps"/>
+<w tok=";"/>
+<w tok="found"/>
+<w tok="plenty"/>
+<w tok="of"/>
+<w tok="corn"/>
+<w tok="and"/>
+<w tok="fodder"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="horses"/>
+<w tok="."/>
+</s>
+</doc>

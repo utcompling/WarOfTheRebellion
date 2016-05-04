@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-97" title="62" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="POST"/>
+<w tok=","/>
+<toponym term="Lexington">
+<candidates>
+<cand lat="39.183056" long="-93.875" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="JAMES"/>
+<w tok="McFERRAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Third"/>
+<w tok="Sub-District"/>
+<w tok=","/>
+<w tok="Central"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="20th"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="Companies"/>
+<w tok="G"/>
+<w tok="and"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="Missouri"/>
+<w tok="State"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="proceeded"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<toponym term="Wellington">
+<candidates>
+<cand lat="39.133333" long="-93.985" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="up"/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="the"/>
+<toponym term="Jackson County">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="line"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="found"/>
+<w tok="the"/>
+<w tok="citizens"/>
+<w tok="greatly"/>
+<w tok="alarmed"/>
+<w tok="."/>
+<w tok="Some"/>
+<w tok="had"/>
+<w tok="left"/>
+<w tok="their"/>
+<w tok="homes"/>
+<w tok="for"/>
+<w tok="fear"/>
+<w tok="of"/>
+<w tok="being"/>
+<w tok="killed"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="what"/>
+<w tok="I"/>
+<w tok="learned"/>
+<w tok="it"/>
+<w tok="appears"/>
+<w tok="that"/>
+<w tok="Lieutenant"/>
+<w tok="Ridgway"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="from"/>
+<w tok="40"/>
+<w tok="to"/>
+<w tok="60"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="raid"/>
+<w tok="through"/>
+<w tok="this"/>
+<w tok="county"/>
+<w tok="for"/>
+<w tok="no"/>
+<w tok="other"/>
+<w tok="purpose"/>
+<w tok="than"/>
+<w tok="to"/>
+<w tok="rob"/>
+<w tok="and"/>
+<w tok="plunder"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="commenced"/>
+<w tok="their"/>
+<w tok="hellish"/>
+<w tok="work"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<toponym term="Greenton">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="robbed"/>
+<w tok="quite"/>
+<w tok="a"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="money"/>
+<w tok=","/>
+<w tok="clothing"/>
+<w tok=","/>
+<w tok="watches"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="then"/>
+<w tok="proceeded"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="of"/>
+<w tok="Renick"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="near"/>
+<w tok="the"/>
+<toponym term="Jackson County">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="line"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="took"/>
+<w tok="from"/>
+<w tok="Renick"/>
+<w tok="&apos;s"/>
+<w tok="three"/>
+<w tok="yoke"/>
+<w tok="of"/>
+<w tok="cattle"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="valuable"/>
+<w tok="gold"/>
+<w tok="watch"/>
+<w tok=","/>
+<w tok="some"/>
+<w tok="$"/>
+<w tok="40"/>
+<w tok="in"/>
+<w tok="money"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="quite"/>
+<w tok="a"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="negroes"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="tied"/>
+<w tok="one"/>
+<w tok="Mr."/>
+<w tok="Musselman"/>
+<w tok="&apos;s"/>
+<w tok="hands"/>
+<w tok="behind"/>
+<w tok="him"/>
+<w tok="and"/>
+<w tok="took"/>
+<w tok="from"/>
+<w tok="him"/>
+<w tok="$"/>
+<w tok="299"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="divided"/>
+<w tok="the"/>
+<w tok="money"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="presence"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="committed"/>
+<w tok="a"/>
+<w tok="great"/>
+<w tok="many"/>
+<w tok="other"/>
+<w tok="outrages"/>
+<w tok=","/>
+<w tok="too"/>
+<w tok="numerous"/>
+<w tok="to"/>
+<w tok="mention"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="came"/>
+<w tok="into"/>
+<toponym term="Greenton">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="day"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="after"/>
+<w tok="my"/>
+<w tok="scout"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Groomer"/>
+<w tok="and"/>
+<w tok="Sergeant"/>
+<w tok="Atterbury"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="neighborhood"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="had"/>
+<w tok="done"/>
+<w tok="the"/>
+<w tok="devilment"/>
+<w tok="and"/>
+<w tok="left"/>
+<w tok="before"/>
+<w tok="I"/>
+<w tok="was"/>
+<w tok="apprised"/>
+<w tok="of"/>
+<w tok="their"/>
+<w tok="going"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="county"/>
+<w tok="."/>
+<w tok="Renick"/>
+<w tok="and"/>
+<w tok="Musselman"/>
+<w tok="came"/>
+<w tok="into"/>
+<w tok="town"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="place"/>
+<w tok="of"/>
+<w tok="reporting"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Brown"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="."/>
+<w tok="When"/>
+<w tok="I"/>
+<w tok="found"/>
+<w tok="the"/>
+<w tok="Kansas"/>
+<w tok="troops"/>
+<w tok="had"/>
+<w tok="all"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="county"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="left"/>
+<w tok="a"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="of"/>
+<toponym term="Jackson County">
+<candidates>
+<cand lat="39.01" long="-94.34" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="patrol"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="arrest"/>
+<w tok="any"/>
+<w tok="parties"/>
+<w tok="that"/>
+<w tok="might"/>
+<w tok="come"/>
+<w tok="into"/>
+<toponym term="La Fayette County">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="returned"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<toponym term="Greenton">
+<candidates>
+<cand lat="39.06" long="-93.78" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="WILLIAM"/>
+<w tok="MEREDITH"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

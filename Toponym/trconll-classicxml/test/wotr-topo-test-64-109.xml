@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-109" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="NINETEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier-General"/>
+<w tok="LAWLER"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Forces"/>
+<w tok="at"/>
+<w tok="Junction"/>
+<w tok="of"/>
+<toponym term="Fordoche">
+<candidates>
+<cand lat="30.591389" long="-91.608611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Atchafalaya Roads">
+<candidates>
+<cand lat="30.284722" long="-91.671944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="omitted"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="afternoon"/>
+<w tok="that"/>
+<w tok="when"/>
+<w tok="you"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="toward"/>
+<toponym term="Rosedale">
+<candidates>
+<cand lat="30.44" long="-91.461667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="raid"/>
+<w tok="by"/>
+<w tok="way"/>
+<w tok="of"/>
+<toponym term="Waterloo">
+<candidates>
+<cand lat="30.694722" long="-91.357222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="no"/>
+<w tok="artillery"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="from"/>
+<w tok="your"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="which"/>
+<w tok="come"/>
+<w tok="across"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Bayou Grossetete">
+<candidates>
+<cand lat="30.2590848" long="-91.3212204" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="the"/>
+<toponym term="Mississippi">
+<candidates>
+</candidates>
+</toponym>
+<w tok="artillery"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="pass"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="H."/>
+<w tok="EMORY"/>
+<w tok="."/>
+</s>
+</doc>

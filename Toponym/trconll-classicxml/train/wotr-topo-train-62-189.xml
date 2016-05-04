@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-189" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="MORLEY"/>
+<w tok=","/>
+<w tok="Quartermaster"/>
+<w tok=","/>
+<toponym term="Casville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="How"/>
+<w tok="many"/>
+<w tok="extra"/>
+<w tok="horses"/>
+<w tok="are"/>
+<w tok="there"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="What"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="nearest"/>
+<w tok="point"/>
+<w tok="to"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="horses"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="fed"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="order"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="back"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="if"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="enemy"/>
+<w tok="near"/>
+<toponym term="Berryville">
+<candidates>
+<cand lat="36.368333" long="-93.568333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-112" title="60" domain="wotr">
+<s id="s1">
+<w tok="Major-General"/>
+<w tok="HUMPHREYS"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Kilpatrick"/>
+<w tok="duly"/>
+<w tok="received"/>
+<w tok="and"/>
+<w tok="acknowledge"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="in"/>
+<w tok="reference"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="expedition"/>
+<w tok="against"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="PLEASONTON"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

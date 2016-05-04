@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-66" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="THOMAS"/>
+<w tok=","/>
+<w tok="Adjutant-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="37.9827044152" long="-113.188036751" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9012624165" long="-77.0279847667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="communication"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="P."/>
+<w tok="E."/>
+<w tok="Connor"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Utah">
+<candidates>
+</candidates>
+</toponym>
+<w tok="dated"/>
+<w tok="at"/>
+<toponym term="Fort Ruby">
+<candidates>
+<cand lat="40.067778" long="-115.529444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ruby Valley">
+<candidates>
+<cand lat="40.4" long="-115.3" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Colonel"/>
+<w tok="Connor"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="march"/>
+<w tok="to"/>
+<toponym term="Salt Lake">
+<candidates>
+<cand lat="40.75" long="-111.883333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="instructed"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="up"/>
+<w tok="his"/>
+<w tok="position"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="place"/>
+<w tok="he"/>
+<w tok="suggests"/>
+<w tok=","/>
+<w tok="three"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="city"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="that"/>
+<w tok="appears"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="location"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="accomplishment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="object"/>
+<w tok="in"/>
+<w tok="view"/>
+<w tok=","/>
+<w tok="viz"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Overland Mail Route">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="due"/>
+<w tok="execution"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="laws"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="energy"/>
+<w tok="of"/>
+<w tok="Colonel"/>
+<w tok="Connor"/>
+<w tok=","/>
+<w tok="coupled"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="soud"/>
+<w tok="judgment"/>
+<w tok="and"/>
+<w tok="decision"/>
+<w tok="of"/>
+<w tok="character"/>
+<w tok=","/>
+<w tok="point"/>
+<w tok="him"/>
+<w tok="out"/>
+<w tok="as"/>
+<w tok="eminetly"/>
+<w tok="fitted"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="with"/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="intrusted"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

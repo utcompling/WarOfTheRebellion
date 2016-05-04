@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-134" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864-8.45"/>
+<w tok="a.m"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="GEORGE"/>
+<w tok="H."/>
+<w tok="HALL"/>
+<w tok=","/>
+<toponym term="Sedalia">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major-General"/>
+<w tok="Rosecrans"/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="Jackman"/>
+<w tok="&apos;s"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="small"/>
+<w tok="bodies"/>
+<w tok="are"/>
+<w tok="reported"/>
+<w tok="returning"/>
+<w tok="through"/>
+<toponym term="Cooper">
+<candidates>
+<cand lat="38.85" long="-92.81" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Moniteau">
+<candidates>
+<cand lat="38.63" long="-92.58" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Counties"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="watched"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="old"/>
+<w tok="routes"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

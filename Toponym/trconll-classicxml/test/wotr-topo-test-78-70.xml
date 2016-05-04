@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-70" title="78" domain="wotr">
+<s id="s1">
+<toponym term="LEXINGTON">
+<candidates>
+<cand lat="38.0400494057" long="-84.5244868062" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="KY.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="H."/>
+<w tok="B."/>
+<w tok="CARRINGTON"/>
+<w tok=","/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.25" long="-85.766667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ky.">
+<candidates>
+<cand lat="37.5219715497" long="-85.3261727344" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Adjutant-General"/>
+<w tok="Boyle"/>
+<w tok=","/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reports"/>
+<w tok="rebels"/>
+<w tok="at"/>
+<toponym term="Pleasureville">
+<candidates>
+<cand lat="38.349167" long="-85.114167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=";"/>
+<w tok="probably"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="raised"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Jessee"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="know"/>
+<w tok="nothing"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="mentioned"/>
+<w tok="crossing"/>
+<w tok="at"/>
+<toponym term="Paintsville">
+<candidates>
+<cand lat="37.811389" long="-82.806667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Please"/>
+<w tok="remain"/>
+<w tok="at"/>
+<toponym term="Louisville">
+<candidates>
+<cand lat="38.2297527248" long="-85.7246346027" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="Where"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Frankfort">
+<candidates>
+<cand lat="38.197" long="-84.863" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="yesterday"/>
+<w tok="?"/>
+<w tok="J."/>
+<w tok="BATES"/>
+<w tok="DICKSON"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

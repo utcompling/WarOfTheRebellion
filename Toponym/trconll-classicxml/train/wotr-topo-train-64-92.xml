@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-92" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="General"/>
+<w tok="FISK"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatches"/>
+<w tok="received"/>
+<w tok="."/>
+<w tok="Pursue"/>
+<w tok="your"/>
+<w tok="even"/>
+<w tok="way"/>
+<w tok="with"/>
+<w tok="vigorous"/>
+<w tok="circumspection"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="look"/>
+<w tok="for"/>
+<w tok="any"/>
+<w tok="troops"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="therefore"/>
+<w tok="must"/>
+<w tok="prepare"/>
+<w tok="provisional"/>
+<w tok="militia"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Reed"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="been"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="provost"/>
+<w tok="duty"/>
+<w tok=","/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="replaced"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="Colonel"/>
+<w tok="Sanderson"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="you"/>
+<w tok="men"/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="answer"/>
+<w tok="your"/>
+<w tok="purpose"/>
+<w tok="fully"/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

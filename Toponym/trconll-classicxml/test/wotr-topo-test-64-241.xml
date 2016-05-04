@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-241" title="64" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="L."/>
+<w tok="THOMAS"/>
+<w tok=","/>
+<w tok="Adjutant-General"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.9093759967" long="-77.0351091688" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9085893506" long="-77.0182508676" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="In"/>
+<w tok="my"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Halleck"/>
+<w tok="I"/>
+<w tok="represented"/>
+<w tok="the"/>
+<w tok="necessity"/>
+<w tok="of"/>
+<w tok="having"/>
+<w tok="other"/>
+<w tok="troops"/>
+<w tok="here"/>
+<w tok="than"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="prison"/>
+<w tok="guards"/>
+<w tok="."/>
+<w tok="From"/>
+<w tok="their"/>
+<w tok="composition"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="impossible"/>
+<w tok="to"/>
+<w tok="guard"/>
+<w tok="the"/>
+<w tok="prisons"/>
+<w tok="with"/>
+<w tok="safety"/>
+<w tok="."/>
+<w tok="Can"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="Veteran"/>
+<w tok="Reserves"/>
+<w tok="asked"/>
+<w tok="for"/>
+<w tok="?"/>
+<w tok="Must"/>
+<w tok="have"/>
+<w tok="something"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="S."/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

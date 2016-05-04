@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-24" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="Numbers"/>
+<w tok="167"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="FLAG-SHIP"/>
+<w tok="HARTFORD"/>
+<w tok=","/>
+<w tok="WEST"/>
+<w tok="GULF"/>
+<w tok="BLOCKADING"/>
+<w tok="SQUADRON"/>
+<w tok=","/>
+<w tok="Off"/>
+<toponym term="Pensacola">
+<candidates>
+<cand lat="30.433333" long="-87.2" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="GIDEON"/>
+<w tok="WELLES"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Navy"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="most"/>
+<w tok="respectfully"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="an"/>
+<w tok="application"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="War"/>
+<w tok="Department"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="two"/>
+<w tok="15-inch"/>
+<w tok="guns"/>
+<w tok="placed"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Old Spanish Battery at Barrancas">
+<candidates>
+<cand lat="30.347839" long="-87.297561" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="in"/>
+<w tok="an"/>
+<w tok="earth-work"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="beach"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="western"/>
+<w tok="front"/>
+<w tok="of"/>
+<toponym term="Fort Pickens">
+<candidates>
+<cand lat="30.327" long="-87.2907" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="they"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="sufficient"/>
+<w tok="to"/>
+<w tok="render"/>
+<w tok="this"/>
+<w tok="port"/>
+<w tok="safe"/>
+<w tok="against"/>
+<w tok="the"/>
+<w tok="entrance"/>
+<w tok="of"/>
+<w tok="almost"/>
+<w tok="any"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="D."/>
+<w tok="G."/>
+<w tok="FARRAGUT"/>
+<w tok=","/>
+<w tok="Rear-Admiral"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="West"/>
+<w tok="Gulf"/>
+<w tok="Blockading"/>
+<w tok="Squadron"/>
+<w tok="."/>
+</s>
+</doc>

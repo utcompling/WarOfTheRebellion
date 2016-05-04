@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-230" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="WEST"/>
+<w tok="TENNESSEE"/>
+<w tok=","/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.14359938" long="-90.0221671164" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8452966676" long="-86.2985205553" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="R."/>
+<w tok="S."/>
+<w tok="CANBY"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Division"/>
+<w tok="of"/>
+<w tok="West"/>
+<w tok="Mississippi"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="As"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="already"/>
+<w tok="written"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="1st"/>
+<w tok="instant"/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok="an"/>
+<w tok="expedition"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="Forrest"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Sturgis"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="stripped"/>
+<w tok="me"/>
+<w tok="of"/>
+<w tok="nearly"/>
+<w tok="all"/>
+<w tok="my"/>
+<w tok="mounted"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="Kansas"/>
+<w tok="Cavalry"/>
+<w tok="has"/>
+<w tok="arrived"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="to-morrow"/>
+<w tok="a"/>
+<w tok="reconnoitering"/>
+<w tok="party"/>
+<w tok="into"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="34.9053950959" long="-92.4183698572" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="consisting"/>
+<w tok="of"/>
+<w tok="about"/>
+<w tok="400"/>
+<w tok="cavalry"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="this"/>
+<w tok="because"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="has"/>
+<w tok="expressed"/>
+<w tok="the"/>
+<w tok="fear"/>
+<w tok="that"/>
+<w tok="Shelby"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="1,500"/>
+<w tok="mounted"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="had"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Arkansas">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="White Rivers">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="pushing"/>
+<w tok="for"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3716548071" long="-92.4243944016" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Steele"/>
+<w tok="thinks"/>
+<w tok="they"/>
+<w tok="would"/>
+<w tok="go"/>
+<w tok="up"/>
+<toponym term="Crowley&apos;s Ridge">
+<candidates>
+<cand lat="36.142" long="-90.575" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="send"/>
+<w tok="a"/>
+<w tok="boat"/>
+<w tok="to-night"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="300"/>
+<w tok="infantry"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="up"/>
+<w tok="the"/>
+<toponym term="Saint Francis River">
+<candidates>
+<cand lat="34.624444" long="-90.591944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="boat"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="used"/>
+<w tok="to"/>
+<w tok="ferry"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="across"/>
+<w tok="the"/>
+<toponym term="Saint Francis">
+<candidates>
+<cand lat="34.624444" long="-90.591944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="remain"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok="until"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="shall"/>
+<w tok="return"/>
+<w tok="."/>
+<w tok="Should"/>
+<w tok="I"/>
+<w tok="get"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Steele"/>
+<w tok="&apos;s"/>
+<w tok="suspicions"/>
+<w tok="are"/>
+<w tok="well"/>
+<w tok="founded"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="organize"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="and"/>
+<w tok="send"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="Shelby"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="reason"/>
+<w tok="to"/>
+<w tok="hope"/>
+<w tok="that"/>
+<w tok="in"/>
+<w tok="one"/>
+<w tok="week"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="receive"/>
+<w tok="1,000"/>
+<w tok="more"/>
+<w tok="horses"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="will"/>
+<w tok="enable"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="1,500"/>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Mississippi">
+<candidates>
+<cand lat="29.151111" long="-89.253333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="cavalry"/>
+<w tok="sent"/>
+<w tok="with"/>
+<w tok="Sturgis"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="absent"/>
+<w tok="twenty"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="C."/>
+<w tok="WASHBURN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

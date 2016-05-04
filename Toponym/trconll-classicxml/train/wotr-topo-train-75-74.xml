@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-74" title="75" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="OHIO"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="["/>
+<w tok="General"/>
+<w tok="SHERMAN"/>
+<w tok=":"/>
+<w tok="]"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="My"/>
+<w tok="opinion"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="favor"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="first"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="plans"/>
+<w tok="you"/>
+<w tok="propose"/>
+<w tok=","/>
+<w tok="ie."/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="your"/>
+<w tok="whole"/>
+<w tok="army"/>
+<w tok="to"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="To"/>
+<w tok="leave"/>
+<w tok="my"/>
+<w tok="small"/>
+<w tok="command"/>
+<w tok="here"/>
+<w tok="("/>
+<w tok="at"/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok=")"/>
+<w tok="would"/>
+<w tok="simply"/>
+<w tok="result"/>
+<w tok="in"/>
+<w tok="my"/>
+<w tok="being"/>
+<w tok="idle"/>
+<w tok="or"/>
+<w tok="being"/>
+<w tok="whipped"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="moment"/>
+<w tok="Johnston"/>
+<w tok="discovered"/>
+<w tok="the"/>
+<w tok="move"/>
+<w tok="he"/>
+<w tok="would"/>
+<w tok="turn"/>
+<w tok="upon"/>
+<w tok="me"/>
+<w tok=","/>
+<w tok="drive"/>
+<w tok="me"/>
+<w tok="back"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="capture"/>
+<w tok="your"/>
+<w tok="supplies"/>
+<w tok="at"/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="then"/>
+<w tok="turn"/>
+<w tok="upon"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="carry"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="large"/>
+<w tok="supplies"/>
+<w tok="to"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="than"/>
+<w tok="Johnston"/>
+<w tok="has"/>
+<w tok="north"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="believe"/>
+<w tok="your"/>
+<w tok="success"/>
+<w tok="would"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="doubtful"/>
+<w tok=","/>
+<w tok="even"/>
+<w tok="if"/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="were"/>
+<w tok="fortified"/>
+<w tok="toward"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="understand"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="."/>
+<toponym term="Dalton">
+<candidates>
+<cand lat="34.771111" long="-84.971667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="being"/>
+<w tok="not"/>
+<w tok="fortified"/>
+<w tok="toward"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="carry"/>
+<w tok="supplies"/>
+<w tok="enough"/>
+<w tok="to"/>
+<w tok="last"/>
+<w tok="while"/>
+<w tok="you"/>
+<w tok="defeat"/>
+<w tok="Johnston"/>
+<w tok="in"/>
+<w tok="open"/>
+<w tok="field"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="reopen"/>
+<w tok="your"/>
+<w tok="communication"/>
+<w tok="with"/>
+<toponym term="Chattanooga">
+<candidates>
+<cand lat="35.045556" long="-85.267222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="your"/>
+<w tok="success"/>
+<w tok="seems"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="probable"/>
+<w tok="."/>
+<w tok="Would"/>
+<w tok="not"/>
+<w tok="12,000"/>
+<w tok="men"/>
+<w tok="be"/>
+<w tok="more"/>
+<w tok="certain"/>
+<w tok="to"/>
+<w tok="aid"/>
+<w tok="you"/>
+<w tok="by"/>
+<w tok="being"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="in"/>
+<w tok="Johnston"/>
+<w tok="&apos;s"/>
+<w tok="rear"/>
+<w tok=","/>
+<w tok="than"/>
+<w tok="by"/>
+<w tok="trying"/>
+<w tok="to"/>
+<w tok="hold"/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="Johnston"/>
+<w tok="between"/>
+<w tok="it"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="main"/>
+<w tok="army"/>
+<w tok="?"/>
+<w tok="If"/>
+<w tok="there"/>
+<w tok="was"/>
+<w tok="any"/>
+<w tok="certainty"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="force"/>
+<w tok="being"/>
+<w tok="able"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="what"/>
+<w tok="is"/>
+<w tok="desired"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="second"/>
+<w tok="plan"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="regard"/>
+<w tok="the"/>
+<w tok="latter"/>
+<w tok="as"/>
+<w tok="less"/>
+<w tok="objectionable"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="I"/>
+<w tok="understand"/>
+<w tok="that"/>
+<w tok="Thomas"/>
+<w tok="and"/>
+<w tok="McPherson"/>
+<w tok="are"/>
+<w tok="stronger"/>
+<w tok="than"/>
+<w tok="Johnston"/>
+<w tok="."/>
+<w tok="With"/>
+<w tok="my"/>
+<w tok="present"/>
+<w tok="impression"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="little"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="throwing"/>
+<w tok="away"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="so"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="operations"/>
+<w tok="are"/>
+<w tok="concerned"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="it"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="perhaps"/>
+<w tok="expressed"/>
+<w tok="my"/>
+<w tok="opinion"/>
+<w tok="more"/>
+<w tok="decidedly"/>
+<w tok="than"/>
+<w tok="is"/>
+<w tok="justified"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="short"/>
+<w tok="time"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="had"/>
+<w tok="to"/>
+<w tok="consider"/>
+<w tok="the"/>
+<w tok="question"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="my"/>
+<w tok="limited"/>
+<w tok="knowledge"/>
+<w tok="of"/>
+<w tok="some"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="less"/>
+<w tok="important"/>
+<w tok="date"/>
+<w tok="upon"/>
+<w tok="which"/>
+<w tok="such"/>
+<w tok="as"/>
+<w tok="opinion"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="founded"/>
+<w tok="."/>
+<w tok="Longer"/>
+<w tok="consideration"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="accurate"/>
+<w tok="knowledge"/>
+<w tok="might"/>
+<w tok="cause"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="change"/>
+<w tok="my"/>
+<w tok="views"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="all"/>
+<w tok="events"/>
+<w tok=","/>
+<w tok="whatever"/>
+<w tok="the"/>
+<w tok="plan"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="cheerfully"/>
+<w tok="do"/>
+<w tok="my"/>
+<w tok="utmost"/>
+<w tok="to"/>
+<w tok="execute"/>
+<w tok="my"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="take"/>
+<w tok="it"/>
+<w tok="for"/>
+<w tok="granted"/>
+<w tok="you"/>
+<w tok="regard"/>
+<toponym term="Chattanooga">
+<candidates>
+<cand lat="35.045556" long="-85.267222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="impregnable"/>
+<w tok="against"/>
+<w tok="assault"/>
+<w tok="."/>
+<w tok="My"/>
+<w tok="infantry"/>
+<w tok="is"/>
+<w tok="all"/>
+<w tok="here"/>
+<w tok="except"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok="at"/>
+<toponym term="Red Clay">
+<candidates>
+<cand lat="34.976655" long="-84.938153" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Stoneman"/>
+<w tok="&apos;s"/>
+<w tok="First"/>
+<w tok="Brigade"/>
+<w tok="was"/>
+<w tok="at"/>
+<toponym term="Cleveland">
+<candidates>
+<cand lat="41.482222" long="-81.669722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="noon"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="other"/>
+<w tok="is"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="there"/>
+<w tok="to-morrow"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="definite"/>
+<w tok="report"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="about"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="cavalry"/>
+<w tok="is"/>
+<w tok="coming"/>
+<w tok="forward"/>
+<w tok="as"/>
+<w tok="rapidly"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-215" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="L."/>
+<w tok="SIPPLES"/>
+<w tok=","/>
+<w tok="Company"/>
+<w tok="G"/>
+<w tok=","/>
+<w tok="Sixty-second"/>
+<w tok="Regiment"/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="M."/>
+<w tok=","/>
+<toponym term="Bucklin">
+<candidates>
+<cand lat="39.783611" long="-92.888056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="We"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="receipt"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="favor"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="31st"/>
+<w tok="of"/>
+<w tok="May"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="in"/>
+<w tok="reply"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="desires"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="assure"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="every"/>
+<w tok="possible"/>
+<w tok="effort"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="to"/>
+<w tok="catch"/>
+<w tok="and"/>
+<w tok="kill"/>
+<w tok="the"/>
+<w tok="outlaws"/>
+<w tok="who"/>
+<w tok="infest"/>
+<w tok="your"/>
+<w tok="county"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Crandall"/>
+<w tok=","/>
+<w tok="at"/>
+<toponym term="Brookfield">
+<candidates>
+<cand lat="39.783056" long="-93.073889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="use"/>
+<w tok="any"/>
+<w tok="or"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok="of"/>
+<toponym term="Linn County">
+<candidates>
+<cand lat="39.87" long="-93.11" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="if"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="pursue"/>
+<w tok="the"/>
+<w tok="rascals"/>
+<w tok="vigorously"/>
+<w tok="."/>
+<w tok="Any"/>
+<w tok="information"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="furnish"/>
+<w tok="him"/>
+<w tok="from"/>
+<w tok="time"/>
+<w tok="to"/>
+<w tok="time"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="of"/>
+<w tok="advantage"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="interests"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="service"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok=","/>
+<w tok="captain"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="G."/>
+<w tok="A."/>
+<w tok="HOLLOWAY"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

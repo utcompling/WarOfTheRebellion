@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-73" title="65" domain="wotr">
+<s id="s1">
+<toponym term="SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="Ironsides"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="monitors"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="wooden"/>
+<w tok="gun-boats"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="mortar-boats"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="15"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="5"/>
+<w tok="steamers"/>
+<w tok=","/>
+<w tok="7"/>
+<w tok="schooners"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="1"/>
+<w tok="steam"/>
+<w tok="derrick"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="latter"/>
+<w tok="has"/>
+<w tok="always"/>
+<w tok="been"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="has"/>
+<w tok="not"/>
+<w tok="heretofore"/>
+<w tok="been"/>
+<w tok="specially"/>
+<w tok="reported"/>
+<w tok="."/>
+<w tok="Ships"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="offing"/>
+<w tok="not"/>
+<w tok="visible"/>
+<w tok=";"/>
+<w tok="fog"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="very"/>
+<w tok="thick"/>
+<w tok="."/>
+<w tok="Multiplied"/>
+<w tok="the"/>
+<w tok="sentinels"/>
+<w tok="by"/>
+<w tok="10"/>
+<w tok=";"/>
+<w tok="work"/>
+<w tok="going"/>
+<w tok="on"/>
+<toponym term="Morris Island">
+<candidates>
+<cand lat="32.7124145847" long="-79.8938915759" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="apparently"/>
+<w tok="not"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="way"/>
+<w tok="of"/>
+<w tok="any"/>
+<w tok="change"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="crew"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guard-boat"/>
+<w tok="shot"/>
+<w tok="himself"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="hand"/>
+<w tok="while"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="wharf"/>
+<w tok=";"/>
+<w tok="injured"/>
+<w tok="part"/>
+<w tok="successfully"/>
+<w tok="removed"/>
+<w tok="by"/>
+<w tok="Major"/>
+<w tok="Rhett"/>
+<w tok=","/>
+<w tok="surgeon"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok="."/>
+</s>
+</doc>

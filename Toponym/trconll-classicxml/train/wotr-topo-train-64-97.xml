@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-97" title="64" domain="wotr">
+<s id="s1">
+<toponym term="FORT LEAVENWORTH">
+<candidates>
+<cand lat="39.34" long="-939.355" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Honorable"/>
+<w tok="EDWIN"/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="Please"/>
+<w tok="respond"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="request"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="9th"/>
+<w tok="asking"/>
+<w tok="permission"/>
+<w tok="to"/>
+<w tok="issue"/>
+<w tok="ammunition"/>
+<w tok="to"/>
+<w tok="militia"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="give"/>
+<w tok="me"/>
+<w tok="leave"/>
+<w tok="to"/>
+<w tok="extend"/>
+<w tok="telegraph"/>
+<w tok="from"/>
+<toponym term="Lawrence">
+<candidates>
+<cand lat="37.11" long="-93.83" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<toponym term="Fort Riley">
+<candidates>
+<cand lat="39.1" long="-96.816667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Am"/>
+<w tok="trying"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="rebels"/>
+<w tok="and"/>
+<w tok="Indians"/>
+<w tok="down"/>
+<w tok="."/>
+<w tok="Matters"/>
+<w tok="favorable"/>
+<w tok="but"/>
+<w tok="difficult"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="R."/>
+<w tok="CURTIS"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

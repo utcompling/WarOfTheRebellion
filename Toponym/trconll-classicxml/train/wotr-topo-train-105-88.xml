@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-88" title="105" domain="wotr">
+<s id="s1">
+<w tok="MARCH"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="recommendation"/>
+<w tok="that"/>
+<w tok="Colonel"/>
+<w tok="Connor"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="brigadier-general"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="heroic"/>
+<w tok="conduct"/>
+<w tok="of"/>
+<w tok="himself"/>
+<w tok="and"/>
+<w tok="men"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="battle"/>
+<w tok="of"/>
+<toponym term="Bear River">
+<candidates>
+<cand lat="40.591111" long="-124.39" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-185" title="64" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DIST"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="MINN."/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="NORTHWEST"/>
+<w tok=","/>
+<toponym term="Saint Paul">
+<candidates>
+<cand lat="44.944167" long="-93.093611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Minn.">
+<candidates>
+<cand lat="46.4380279445" long="-94.2038574474" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="JOHN"/>
+<w tok="POPE"/>
+<w tok=","/>
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Your"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="31st"/>
+<w tok="just"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="special"/>
+<w tok="messenger"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="to-day"/>
+<w tok="with"/>
+<w tok="orders"/>
+<w tok="to"/>
+<w tok="Thomas"/>
+<w tok="accordingly"/>
+<w tok="."/>
+<w tok="Two"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="of"/>
+<w tok="original"/>
+<w tok="force"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="dispatched"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="Sixth"/>
+<w tok="Regiment"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="["/>
+<w tok="send"/>
+<w tok="]"/>
+<w tok="Eighth"/>
+<w tok="Regiment"/>
+<w tok="and"/>
+<w tok="six"/>
+<w tok="companies"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="artillery"/>
+<w tok="and"/>
+<w tok="scouts"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="form"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="1,500"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Dana"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="arrived"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok="telegraphs"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="Thomas"/>
+<w tok="to"/>
+<w tok="join"/>
+<w tok="him"/>
+<w tok="at"/>
+<toponym term="Swan Lake">
+<candidates>
+<cand lat="45.726667" long="-95.821389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="desire"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="for"/>
+<toponym term="Ridgely">
+<candidates>
+<cand lat="44.450833" long="-94.731667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="3rd"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

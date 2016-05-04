@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-132" title="64" domain="wotr">
+<s id="s1">
+<toponym term="SEDALIA">
+<candidates>
+<cand lat="38.703056" long="-93.231111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1861"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="9.55"/>
+<w tok="a.m."/>
+<w tok=")"/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="STEGER"/>
+<w tok=","/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Captain"/>
+<w tok="Turley"/>
+<w tok="got"/>
+<w tok="in"/>
+<w tok="from"/>
+<w tok="scout"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="scouted"/>
+<w tok="easterly"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Houts"/>
+<w tok="leaves"/>
+<w tok="here"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="with"/>
+<w tok="five"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Seventh"/>
+<w tok="for"/>
+<toponym term="Warrensburg">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="look"/>
+<w tok="for"/>
+<w tok="Colonel"/>
+<w tok="Hall"/>
+<w tok="up"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="F."/>
+<w tok="PHILIPS"/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

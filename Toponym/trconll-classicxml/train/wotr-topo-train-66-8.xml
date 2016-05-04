@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-8" title="66" domain="wotr">
+<s id="s1">
+<w tok="FLAG-SHIP"/>
+<w tok="PHILADELPHIA"/>
+<w tok=","/>
+<toponym term="Port Royal Harbor">
+<candidates>
+<cand lat="32.383333" long="-80.695556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8980239349" long="-80.8323781037" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="P."/>
+<w tok="HATCH"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=","/>
+<w tok="Hdqrs"/>
+<w tok="."/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="note"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="order"/>
+<w tok="vessels"/>
+<w tok="up"/>
+<toponym term="Broad River">
+<candidates>
+<cand lat="32.531111" long="-80.848056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="desire"/>
+<w tok="."/>
+<w tok="Please"/>
+<w tok="let"/>
+<w tok="me"/>
+<w tok="know"/>
+<w tok="by"/>
+<w tok="signal"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Cosmopolitan"/>
+<w tok="being"/>
+<w tok="about"/>
+<w tok="to"/>
+<w tok="start"/>
+<w tok=","/>
+<w tok="say"/>
+<w tok="half"/>
+<w tok="an"/>
+<w tok="hour"/>
+<w tok="previously"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="will"/>
+<w tok="move"/>
+<w tok="up"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="time"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="send"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Saint Helena">
+<candidates>
+<cand lat="32.376272" long="-80.572228" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="resume"/>
+<w tok="the"/>
+<w tok="patrol"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="mention"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="A."/>
+<w tok="DAHLGREN"/>
+<w tok=","/>
+<w tok="Rear-Admiral"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="South"/>
+<w tok="Atlantic"/>
+<w tok="Blockading"/>
+<w tok="Squadron"/>
+<w tok="."/>
+</s>
+</doc>

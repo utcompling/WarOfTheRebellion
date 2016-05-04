@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-140" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SAINT"/>
+<w tok="LOUIS"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Cape Girardeau">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="If"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="satisfied"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="gathering"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="march"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="practicable"/>
+<w tok="and"/>
+<w tok="rout"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Do"/>
+<w tok="not"/>
+<w tok="move"/>
+<w tok="until"/>
+<w tok="you"/>
+<w tok="are"/>
+<w tok="satisfied"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="half"/>
+<w tok="the"/>
+<w tok="reports"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="character"/>
+<w tok="are"/>
+<w tok="ill"/>
+<w tok="founded"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="commission"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="postponed"/>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="necessarily"/>
+<w tok="absent"/>
+<w tok="."/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

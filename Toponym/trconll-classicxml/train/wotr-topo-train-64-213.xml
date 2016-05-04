@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-213" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="NORTH"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Joseph">
+<candidates>
+<cand lat="39.758056" long="-94.836667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAMS"/>
+<w tok=","/>
+<toponym term="Macon">
+<candidates>
+<cand lat="39.83" long="-92.56" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="What"/>
+<w tok="troops"/>
+<w tok="are"/>
+<w tok="in"/>
+<toponym term="Chariton">
+<candidates>
+<cand lat="39.52" long="-92.96" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Randolph">
+<candidates>
+<cand lat="39.43" long="-92.5" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="hear"/>
+<w tok="of"/>
+<w tok="great"/>
+<w tok="outrages"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="region"/>
+<w tok="."/>
+<w tok="Hurry"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="militia"/>
+<w tok="and"/>
+<w tok="give"/>
+<w tok="Leonard"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="H."/>
+<w tok="T."/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="longer"/>
+<w tok="bushwhacking"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="section"/>
+<w tok="."/>
+<w tok="Where"/>
+<w tok="is"/>
+<w tok="Leonard"/>
+<w tok="?"/>
+<w tok="CLINTON"/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

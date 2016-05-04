@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-236" title="63" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="THIRD"/>
+<w tok="DIVISION"/>
+<w tok=","/>
+<w tok="SEVENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8727279336" long="-92.4674963559" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="WILLIAM"/>
+<w tok="E."/>
+<w tok="McLEAN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Second"/>
+<w tok="Brigade"/>
+<w tok=":"/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="immediately"/>
+<w tok="detail"/>
+<w tok="one"/>
+<w tok="regiment"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="brigade"/>
+<w tok="to"/>
+<w tok="march"/>
+<w tok="to"/>
+<w tok="Britton"/>
+<w tok="&apos;s"/>
+<w tok="mill"/>
+<w tok=","/>
+<w tok="6"/>
+<w tok="miles"/>
+<w tok="from"/>
+<w tok="town"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="occupy"/>
+<w tok="and"/>
+<w tok="run"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="regiment"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="Salomon"/>
+<w tok=":"/>
+<w tok="A."/>
+<w tok="BLOCKI"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

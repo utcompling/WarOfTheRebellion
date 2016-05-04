@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-28" title="75" domain="wotr">
+<s id="s1">
+<w tok="PROSPECT"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier-General"/>
+<w tok="STEVENSON"/>
+<w tok=","/>
+<toponym term="Decatur">
+<candidates>
+<cand lat="34.580992" long="-86.983392" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ala.">
+<candidates>
+<cand lat="32.7625239442" long="-86.8318185965" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Have"/>
+<w tok="just"/>
+<w tok="arrived"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="5.40"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Scouts"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Forrest"/>
+<w tok="and"/>
+<w tok="Wheeler"/>
+<w tok="concentrating"/>
+<w tok="at"/>
+<toponym term="Rogersville">
+<candidates>
+<cand lat="34.823444" long="-87.285693" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="it"/>
+<w tok="so"/>
+<w tok="?"/>
+<w tok="Will"/>
+<w tok="remain"/>
+<w tok="to-night"/>
+<w tok="."/>
+<w tok="Have"/>
+<w tok="marched"/>
+<w tok="from"/>
+<toponym term="Clifton">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok=";"/>
+<w tok="men"/>
+<w tok="tired"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="Q."/>
+<w tok="GRESHAM"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

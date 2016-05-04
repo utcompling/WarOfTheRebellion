@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-163" title="63" domain="wotr">
+<s id="s1">
+<toponym term="LITTLE ROCK">
+<candidates>
+<cand lat="34.7433220025" long="-92.2728045957" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="D."/>
+<w tok="MASON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="line"/>
+<w tok="is"/>
+<w tok="still"/>
+<w tok="down"/>
+<w tok="above"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Reports"/>
+<w tok="from"/>
+<w tok="there"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="to-day"/>
+<w tok="say"/>
+<w tok="that"/>
+<w tok="my"/>
+<w tok="repairer"/>
+<w tok="was"/>
+<w tok="killed"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="teams"/>
+<w tok="captured"/>
+<w tok="25"/>
+<w tok="miles"/>
+<w tok="above"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="50"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="180"/>
+<w tok="infantry"/>
+<w tok="at"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="Colonel"/>
+<w tok="Waugh"/>
+<w tok="says"/>
+<w tok="the"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="inadequate"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="up"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="asks"/>
+<w tok="for"/>
+<w tok="more"/>
+<w tok="cavalry"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="number"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="right"/>
+<w tok="sort"/>
+<w tok="of"/>
+<w tok="men"/>
+<w tok="could"/>
+<w tok="keep"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="up"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="clear"/>
+<w tok="of"/>
+<w tok="guerrillas"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="line"/>
+<w tok="this"/>
+<w tok="side"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="interfered"/>
+<w tok="with"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="little"/>
+<w tok="energy"/>
+<w tok="at"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="would"/>
+<w tok="place"/>
+<w tok="matters"/>
+<w tok="right"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="generals"/>
+<w tok=","/>
+<w tok="quartermasters"/>
+<w tok=","/>
+<w tok="commissaries"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="army"/>
+<w tok="depend"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="asa"/>
+<w tok="means"/>
+<w tok="of"/>
+<w tok="communication"/>
+<w tok="with"/>
+<w tok="their"/>
+<w tok="base"/>
+<w tok="supplies"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="General"/>
+<w tok="Kimball"/>
+<w tok="will"/>
+<w tok="re-enforce"/>
+<toponym term="Clarksville">
+<candidates>
+<cand lat="35.463889" long="-93.477222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="take"/>
+<w tok="some"/>
+<w tok="other"/>
+<w tok="steps"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="telegraph"/>
+<w tok="kept"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="has"/>
+<w tok="so"/>
+<w tok="frequently"/>
+<w tok="done"/>
+<w tok="before"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="CLOWRY"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok="and"/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Q."/>
+<w tok="M."/>
+<w tok=","/>
+<w tok="Supt"/>
+<w tok="."/>
+<w tok="Military"/>
+<w tok="Telegraph"/>
+<w tok="."/>
+</s>
+</doc>

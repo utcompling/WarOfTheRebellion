@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-235" title="63" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="FIELD"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="3rd"/>
+<w tok="DIV."/>
+<w tok=","/>
+<w tok="7TH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="14"/>
+<w tok="."/>
+<toponym term="Camden">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="batteries"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="division"/>
+<w tok="are"/>
+<w tok="hereby"/>
+<w tok="detached"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="brigades"/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="Captain"/>
+<w tok="G."/>
+<w tok="Stange"/>
+<w tok=","/>
+<w tok="chief"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="F."/>
+<w tok="Salomon"/>
+<w tok=":"/>
+<w tok="A."/>
+<w tok="BLOCKI"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

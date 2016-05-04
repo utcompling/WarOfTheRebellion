@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-49" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="POST"/>
+<w tok=","/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="forwarded"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Ewing"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok=","/>
+<w tok="Mo"/>
+<w tok="."/>
+<w tok="Within"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="answer"/>
+<w tok="to"/>
+<w tok="telegram"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="8th"/>
+<w tok="instant"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="Wilson"/>
+<w tok="is"/>
+<w tok="fully"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok=";"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="down"/>
+<w tok="there"/>
+<w tok="many"/>
+<w tok="times"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="fully"/>
+<w tok="relied"/>
+<w tok="upon"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="entirely"/>
+<w tok="agree"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="placing"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Doniphan">
+<candidates>
+<cand lat="36.622222" long="-90.822222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="His"/>
+<w tok="whole"/>
+<w tok="statement"/>
+<w tok="consist"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="own"/>
+<w tok="opinion"/>
+<w tok="."/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="N."/>
+<w tok="HERDER"/>
+<w tok=","/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Infantry"/>
+<w tok=","/>
+<w tok="M."/>
+<w tok="S."/>
+<w tok="M."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Post"/>
+<w tok="."/>
+</s>
+</doc>

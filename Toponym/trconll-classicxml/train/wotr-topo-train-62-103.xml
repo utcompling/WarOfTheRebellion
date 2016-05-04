@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-103" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="E."/>
+<w tok="O."/>
+<w tok="C."/>
+<w tok="ORD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9576788532" long="-90.0900128174" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="immediately"/>
+<w tok="visit"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="corps"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="coasts"/>
+<w tok="of"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4250643149" long="-99.292791041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="satisfy"/>
+<w tok="yourself"/>
+<w tok="by"/>
+<w tok="personal"/>
+<w tok="examination"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="safety"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="positions"/>
+<w tok="occupied"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="his"/>
+<w tok="desire"/>
+<w tok="to"/>
+<w tok="retain"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="advantages"/>
+<w tok="thus"/>
+<w tok="far"/>
+<w tok="secured"/>
+<w tok="by"/>
+<w tok="operations"/>
+<w tok="in"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4250643149" long="-99.292791041" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="these"/>
+<w tok="advantages"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="least"/>
+<w tok="practicable"/>
+<w tok="expenditure"/>
+<w tok="of"/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok=","/>
+<w tok="therefore"/>
+<w tok=","/>
+<w tok="give"/>
+<w tok="such"/>
+<w tok="orders"/>
+<w tok="at"/>
+<w tok="each"/>
+<w tok="principal"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="securely"/>
+<w tok="held"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="smaller"/>
+<w tok="force"/>
+<w tok="than"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="promptly"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="fact"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="re-enforcement"/>
+<w tok="of"/>
+<w tok="troops"/>
+<w tok="or"/>
+<w tok="vessels"/>
+<w tok="of"/>
+<w tok="war"/>
+<w tok="should"/>
+<w tok="seem"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="required"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="amount"/>
+<w tok="and"/>
+<w tok="nature"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="re-enforcement"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="commanding"/>
+<w tok="general"/>
+<w tok="desires"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="visit"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="immediate"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="may"/>
+<w tok="soon"/>
+<w tok="receive"/>
+<w tok="the"/>
+<w tok="reports"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="them"/>
+<w tok="base"/>
+<w tok="early"/>
+<w tok="action"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="most"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

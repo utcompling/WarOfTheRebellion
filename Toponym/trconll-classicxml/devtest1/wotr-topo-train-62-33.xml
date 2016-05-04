@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-33" title="62" domain="wotr">
+<s id="s1">
+<w tok="SPECIAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="19TH"/>
+<w tok="A."/>
+<w tok="C."/>
+<w tok="AND"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="FORCES"/>
+<w tok=","/>
+<w tok="Numbers"/>
+<w tok="19"/>
+<w tok="."/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="29.791667" long="-91.508333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Charles"/>
+<w tok="C."/>
+<w tok="Dwight"/>
+<w tok=","/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="sixtieth"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="reported"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="assigned"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Third"/>
+<w tok="Brigade"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Division"/>
+<w tok=","/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Brigadier-General"/>
+<w tok="Emory"/>
+<w tok=";"/>
+<w tok="FREDERICK"/>
+<w tok="SPEED"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

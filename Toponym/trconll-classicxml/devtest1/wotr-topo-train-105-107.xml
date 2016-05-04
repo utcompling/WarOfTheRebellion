@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-107" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="UTAH"/>
+<w tok=","/>
+<toponym term="Camp Douglas">
+<candidates>
+<cand lat="40.765278" long="-111.833056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Utah">
+<candidates>
+<cand lat="39.3601786049" long="-111.651046439" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ter."/>
+<w tok=","/>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="inform"/>
+<w tok="you"/>
+<w tok="that"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="all"/>
+<w tok="is"/>
+<w tok="quiet"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="comitted"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="depredations"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Overland Mail Route">
+<candidates>
+</candidates>
+</toponym>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="reason"/>
+<w tok="to"/>
+<w tok="believe"/>
+<w tok=","/>
+<w tok="were"/>
+<w tok="Goshutes"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="lived"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="Mormon"/>
+<w tok=","/>
+<w tok="settlmeents"/>
+<w tok="of"/>
+<toponym term="Tooele Valley">
+<candidates>
+<cand lat="40.536389" long="-112.297778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="winter"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="were"/>
+<w tok="encouraged"/>
+<w tok="and"/>
+<w tok="instigated"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="raid"/>
+<w tok="by"/>
+<w tok="Mormons"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Indians"/>
+<w tok=","/>
+<w tok="finding"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="well"/>
+<w tok="protected"/>
+<w tok="and"/>
+<w tok="cavalry"/>
+<w tok="scouring"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="in"/>
+<w tok="every"/>
+<w tok="direction"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="made"/>
+<w tok="their"/>
+<w tok="way"/>
+<w tok="back"/>
+<w tok="to"/>
+<toponym term="Cedar Valley">
+<candidates>
+<cand lat="40.326389" long="-112.105556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="near"/>
+<toponym term="Fort Crittenden">
+<candidates>
+<cand lat="31.6575" long="-110.706944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="their"/>
+<w tok="way"/>
+<w tok="south"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="that"/>
+<w tok="point"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="encountered"/>
+<w tok="by"/>
+<w tok="Lieutenant"/>
+<w tok="Ethier"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="California"/>
+<w tok="Volunteer"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="twenty-three"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="herewith"/>
+<w tok="inclose"/>
+<w tok="Lieutenant"/>
+<w tok="Ethier"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="by"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="perceive"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="Mormons"/>
+<w tok="instead"/>
+<w tok="of"/>
+<w tok="assisting"/>
+<w tok="to"/>
+<w tok="punish"/>
+<w tok="Indians"/>
+<w tok="for"/>
+<w tok="bad"/>
+<w tok="conduct"/>
+<w tok="actually"/>
+<w tok="encouraged"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="also"/>
+<w tok="inclose"/>
+<w tok="a"/>
+<w tok="telegram"/>
+<w tok="from"/>
+<w tok="William"/>
+<w tok="S."/>
+<w tok="Wallace"/>
+<w tok=","/>
+<w tok="agent"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Overland"/>
+<w tok="Mail"/>
+<w tok="Company"/>
+<w tok="at"/>
+<toponym term="Fort Crittenden">
+<candidates>
+<cand lat="31.6575" long="-110.706944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="verifying"/>
+<w tok="the"/>
+<w tok="statements"/>
+<w tok="made"/>
+<w tok="by"/>
+<w tok="Lieutenant"/>
+<w tok="Ethier"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="conduct"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Mormons"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok="From"/>
+<w tok="the"/>
+<w tok="evidence"/>
+<w tok="before"/>
+<w tok="me"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="well"/>
+<w tok="satisfied"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="Mormons"/>
+<w tok="are"/>
+<w tok="the"/>
+<w tok="real"/>
+<w tok="instigators"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="raid"/>
+<w tok="."/>
+<w tok="Brigham"/>
+<w tok="Young"/>
+<w tok="has"/>
+<w tok="sent"/>
+<w tok="commissioners"/>
+<w tok="to"/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.8930043665" long="-77.0429797402" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="purpose"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+</s>
+</doc>

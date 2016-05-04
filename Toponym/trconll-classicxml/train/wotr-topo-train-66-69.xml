@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-69" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Second"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="ARMIES"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="UNITED"/>
+<w tok="STATES"/>
+<w tok=","/>
+<toponym term="City Point">
+<candidates>
+<cand lat="37.315" long="-77.276944" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5314696432" long="-78.7182098579" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok="."/>
+<w tok="As"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="requested"/>
+<w tok="that"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="spared"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Foster"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="be"/>
+<w tok="brought"/>
+<w tok="forward"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Foster"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="act"/>
+<w tok="purely"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="defensive"/>
+<w tok="at"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7462763092" long="-79.930102135" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="no"/>
+<w tok="necessity"/>
+<w tok="for"/>
+<w tok="sending"/>
+<w tok="these"/>
+<w tok="vessels"/>
+<w tok="."/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="GRANT"/>
+<w tok=","/>
+<w tok="Lieutenant-General"/>
+<w tok="."/>
+</s>
+</doc>

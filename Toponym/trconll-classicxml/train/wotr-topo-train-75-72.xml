@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-72" title="75" domain="wotr">
+<s id="s1">
+<w tok="TUNNEL"/>
+<w tok="HILL"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Rocky"/>
+<w tok="Face"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Keep"/>
+<w tok="your"/>
+<w tok="entire"/>
+<w tok="command"/>
+<w tok="ready"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="McPherson"/>
+<w tok="did"/>
+<w tok="not"/>
+<w tok="break"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="although"/>
+<w tok="he"/>
+<w tok="reached"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="which"/>
+<w tok="he"/>
+<w tok="found"/>
+<w tok="fortified"/>
+<w tok="and"/>
+<w tok="manned"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="may"/>
+<w tok="make"/>
+<w tok="one"/>
+<w tok="of"/>
+<w tok="two"/>
+<w tok="moves"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="either"/>
+<w tok="or"/>
+<w tok="both"/>
+<w tok="very"/>
+<w tok="sudden"/>
+<w tok=";"/>
+<w tok="take"/>
+<w tok="up"/>
+<w tok="my"/>
+<w tok="whole"/>
+<w tok="army"/>
+<w tok="and"/>
+<w tok="move"/>
+<w tok="to"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="leave"/>
+<w tok="you"/>
+<w tok="here"/>
+<w tok="with"/>
+<w tok="Stoneman"/>
+<w tok="&apos;s"/>
+<w tok="cavalry"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="now"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="cover"/>
+<w tok="this"/>
+<w tok="narrow"/>
+<w tok="outlet"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="Thomas"/>
+<w tok="to"/>
+<w tok="issue"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="of"/>
+<toponym term="Rocky Face">
+<candidates>
+</candidates>
+</toponym>
+<w tok="at"/>
+<toponym term="Sugar Valley">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="interpose"/>
+<w tok="between"/>
+<w tok="Johnston"/>
+<w tok="and"/>
+<w tok="his"/>
+<w tok="base"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="latter"/>
+<w tok="I"/>
+<w tok="prefer"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="possible"/>
+<w tok=","/>
+<w tok="hurry"/>
+<w tok="Stoneman"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="write"/>
+<w tok="me"/>
+<w tok="your"/>
+<w tok="opinion"/>
+<w tok="."/>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

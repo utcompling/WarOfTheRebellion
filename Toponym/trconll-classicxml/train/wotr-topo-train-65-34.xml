@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-34" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="2"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="Anderson"/>
+<w tok="reports"/>
+<w tok="yesterday"/>
+<w tok="a"/>
+<w tok="large"/>
+<w tok="double-stack"/>
+<w tok="side-wheel"/>
+<w tok="steamer"/>
+<w tok="is"/>
+<w tok="sunk"/>
+<w tok="in"/>
+<toponym term="Saint John&apos;s River">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="opposite"/>
+<w tok="mouth"/>
+<toponym term="Doctor&apos;s Lake">
+<candidates>
+<cand lat="30.152778" long="-81.706389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="15"/>
+<w tok="miles"/>
+<w tok="above"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fla.">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="supposed"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="Maple"/>
+<w tok="Leaf"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="exploded"/>
+<w tok="a"/>
+<w tok="torpedo"/>
+<w tok="at"/>
+<w tok="4"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Torpedoes"/>
+<w tok="were"/>
+<w tok="laid"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="P."/>
+<w tok="Bryan"/>
+<w tok=","/>
+<w tok="sent"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok="from"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-44" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok="."/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="Colonel"/>
+<w tok="Babbitt"/>
+<w tok="and"/>
+<w tok="Captain"/>
+<w tok="Kellogg"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="will"/>
+<w tok="see"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="troops"/>
+<w tok="at"/>
+<toponym term="Owen&apos;s River">
+<candidates>
+<cand lat="36.541944" long="-117.979167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="Visalia"/>
+<w tok="are"/>
+<w tok="properly"/>
+<w tok="supplied"/>
+<w tok="forthwith"/>
+<w tok="."/>
+<w tok="Such"/>
+<w tok="articles"/>
+<w tok="used"/>
+<w tok="for"/>
+<w tok="winter"/>
+<w tok="campaign"/>
+<w tok="("/>
+<w tok="as"/>
+<w tok="gloves"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=")"/>
+<w tok="company"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="extent"/>
+<w tok="of"/>
+<w tok="supplying"/>
+<w tok="that"/>
+<w tok="company"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Wright"/>
+<w tok=":"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

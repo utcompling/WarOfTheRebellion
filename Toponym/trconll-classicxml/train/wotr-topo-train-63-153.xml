@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-153" title="63" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9161122855" long="-77.0453944253" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864-3.45"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="POPE"/>
+<w tok=","/>
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wis.">
+<candidates>
+<cand lat="44.6874169615" long="-89.6200113892" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="authorizes"/>
+<w tok="the"/>
+<w tok="purchase"/>
+<w tok="of"/>
+<w tok="horses"/>
+<w tok="to"/>
+<w tok="complete"/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="proposed"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="telegram"/>
+<w tok="of"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

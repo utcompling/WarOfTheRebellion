@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-220" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Camp Sanborn">
+<candidates>
+<cand lat="39.22" long="-104.536667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="JOHN"/>
+<w tok="M."/>
+<w tok="CHIVINGTON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="an"/>
+<w tok="express"/>
+<w tok="from"/>
+<w tok="Lieutenant"/>
+<w tok="Dunn"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="detachment"/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="band"/>
+<w tok="of"/>
+<w tok="Indians"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="had"/>
+<w tok="arrived"/>
+<w tok="with"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="at"/>
+<toponym term="Bijou Station">
+<candidates>
+</candidates>
+</toponym>
+<w tok="at"/>
+<w tok="daylight"/>
+<w tok="yesterday"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Indians"/>
+<w tok="were"/>
+<w tok="then"/>
+<w tok="twelve"/>
+<w tok="hours"/>
+<w tok="ahead"/>
+<w tok=";"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="was"/>
+<w tok="they"/>
+<w tok="were"/>
+<w tok="near"/>
+<w tok="100"/>
+<w tok="strong"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="was"/>
+<w tok="exaggerated"/>
+<w tok="."/>
+<w tok="Privat"/>
+<w tok="Baird"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="Company"/>
+<w tok="C"/>
+<w tok=","/>
+<w tok="died"/>
+<w tok="yesterday"/>
+<w tok="about"/>
+<w tok="3"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="McBride"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="wounded"/>
+<w tok="man"/>
+<w tok="of"/>
+<w tok="same"/>
+<w tok="company"/>
+<w tok="are"/>
+<w tok="doing"/>
+<w tok="very"/>
+<w tok="well"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="soon"/>
+<w tok="be"/>
+<w tok="around"/>
+<w tok="again"/>
+<w tok="unless"/>
+<w tok="their"/>
+<w tok="wounds"/>
+<w tok="prove"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="worse"/>
+<w tok="than"/>
+<w tok="they"/>
+<w tok="appear"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="colonel"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="much"/>
+<w tok="respect"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="L."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Cavalry"/>
+<w tok="of"/>
+<w tok="Colorado"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<toponym term="Camp Sanborn">
+<candidates>
+<cand lat="39.22" long="-104.536667" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

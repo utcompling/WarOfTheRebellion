@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-93" title="64" domain="wotr">
+<s id="s1">
+<w tok="INDEPENDENCE"/>
+<w tok=","/>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="C."/>
+<w tok="B."/>
+<w tok="FISK"/>
+<w tok=","/>
+<w tok="Saint"/>
+<w tok="Joseph"/>
+<w tok=":"/>
+<w tok="Eighty-three"/>
+<w tok="bushwhackers"/>
+<w tok="crossed"/>
+<toponym term="Grand River">
+<candidates>
+<cand lat="39.384" long="-93.108" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="going"/>
+<w tok="north"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="27th"/>
+<w tok="of"/>
+<w tok="April"/>
+<w tok=";"/>
+<w tok="have"/>
+<w tok="several"/>
+<w tok="brushes"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="broke"/>
+<w tok="up"/>
+<w tok="in"/>
+<w tok="small"/>
+<w tok="bands"/>
+<w tok="and"/>
+<w tok="are"/>
+<w tok="scattered"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="."/>
+<w tok="We"/>
+<w tok="are"/>
+<w tok="scouting"/>
+<w tok="in"/>
+<w tok="every"/>
+<w tok="direction"/>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="do"/>
+<w tok="not"/>
+<w tok="think"/>
+<w tok="any"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="heave"/>
+<w tok="crossed"/>
+<w tok="the"/>
+<toponym term="Missouri River">
+<candidates>
+<cand lat="38.813611" long="-90.119722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="yet"/>
+<w tok="."/>
+<w tok="Other"/>
+<w tok="bands"/>
+<w tok="reported"/>
+<w tok="crossing"/>
+<w tok="."/>
+<w tok="JAMES"/>
+<w tok="H."/>
+<w tok="FORD"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-77" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="UTAH"/>
+<w tok=","/>
+<toponym term="Camp Douglas">
+<candidates>
+<cand lat="40.765278" long="-111.833056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Utah">
+<candidates>
+<cand lat="39.3601786049" long="-111.651046439" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="November"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="."/>
+<w tok="Asst"/>
+<w tok="."/>
+<w tok="Adjt"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.2283471544" long="-119.664686436" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="transmit"/>
+<w tok="herewith"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="report"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="McGarry"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="detailing"/>
+<w tok="the"/>
+<w tok="result"/>
+<w tok="of"/>
+<w tok="his"/>
+<w tok="expedition"/>
+<w tok="to"/>
+<w tok="capture"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="punish"/>
+<w tok="Indians"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="massacres"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Humbold River">
+<candidates>
+<cand lat="39.988056" long="-118.601111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="satisfied"/>
+<w tok="from"/>
+<w tok="verbal"/>
+<w tok="information"/>
+<w tok="received"/>
+<w tok="fromoffices"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="who"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="punished"/>
+<w tok="were"/>
+<w tok="a"/>
+<w tok="aprt"/>
+<w tok="of"/>
+<w tok="those"/>
+<w tok="who"/>
+<w tok="had"/>
+<w tok="committed"/>
+<w tok="the"/>
+<w tok="late"/>
+<w tok="murders"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="punishment"/>
+<w tok="was"/>
+<w tok="well"/>
+<w tok="merited"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="hope"/>
+<w tok="and"/>
+<w tok="believe"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="lesson"/>
+<w tok="taught"/>
+<w tok="them"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="salutary"/>
+<w tok="effect"/>
+<w tok="in"/>
+<w tok="checking"/>
+<w tok="future"/>
+<w tok="massacres"/>
+<w tok="on"/>
+<w tok="that"/>
+<w tok="route"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="P."/>
+<w tok="EDWARD"/>
+<w tok="CONNOR"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

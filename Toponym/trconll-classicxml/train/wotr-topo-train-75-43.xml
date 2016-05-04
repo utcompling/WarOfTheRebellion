@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-43" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<w tok="In"/>
+<w tok="the"/>
+<w tok="Field"/>
+<w tok=","/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864-7"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<toponym term="Washington">
+<candidates>
+<cand lat="38.9403757662" long="-77.0304123906" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.:">
+<candidates>
+<cand lat="38.9006126912" long="-77.0437884326" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="starting"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="extreme"/>
+<w tok="front"/>
+<w tok="in"/>
+<toponym term="Buzzard Roost Gap">
+<candidates>
+<cand lat="34.803232" long="-85.011871" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="write"/>
+<w tok="this"/>
+<w tok="dispatch"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="may"/>
+<w tok="understand"/>
+<w tok="."/>
+<w tok="Johnston"/>
+<w tok="acts"/>
+<w tok="purely"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="defensive"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="attacking"/>
+<w tok="him"/>
+<w tok="on"/>
+<w tok="his"/>
+<w tok="strongest"/>
+<w tok="fronts"/>
+<w tok=","/>
+<w tok="viz"/>
+<w tok=","/>
+<w tok="west"/>
+<w tok="and"/>
+<w tok="north"/>
+<w tok=","/>
+<w tok="till"/>
+<w tok="McPherson"/>
+<w tok="breaks"/>
+<w tok="his"/>
+<w tok="line"/>
+<w tok="at"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="when"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="swing"/>
+<w tok="round"/>
+<w tok="through"/>
+<toponym term="Snake Creek Gap">
+<candidates>
+<cand lat="34.6512213946" long="-85.059357236" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="interpose"/>
+<w tok="between"/>
+<w tok="him"/>
+<w tok="and"/>
+<toponym term="Georgia">
+<candidates>
+<cand lat="32.6147807487" long="-83.4349783058" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="not"/>
+<w tok="driving"/>
+<w tok="things"/>
+<w tok="too"/>
+<w tok="fast"/>
+<w tok=","/>
+<w tok="because"/>
+<w tok="I"/>
+<w tok="want"/>
+<w tok="two"/>
+<w tok="columns"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="that"/>
+<w tok="are"/>
+<w tok="rapidly"/>
+<w tok="coming"/>
+<w tok="up"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="rear"/>
+<w tok=","/>
+<w tok="Stoneman"/>
+<w tok="on"/>
+<w tok="my"/>
+<w tok="left"/>
+<w tok="and"/>
+<w tok="Garrard"/>
+<w tok="on"/>
+<w tok="my"/>
+<w tok="right"/>
+<w tok=","/>
+<w tok="both"/>
+<w tok="due"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="Yesterday"/>
+<w tok="I"/>
+<w tok="pressed"/>
+<w tok="hard"/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="Johnston"/>
+<w tok="detaching"/>
+<w tok="against"/>
+<w tok="McPherson"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="to-day"/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="more"/>
+<w tok="easy"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="believe"/>
+<w tok="McPherson"/>
+<w tok="has"/>
+<w tok="destroyed"/>
+<toponym term="Resaca">
+<candidates>
+<cand lat="34.579167" long="-84.943889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="when"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="fall"/>
+<w tok="back"/>
+<w tok="to"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<toponym term="Snake Creek Gap">
+<candidates>
+<cand lat="34.6512213946" long="-85.059357236" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="act"/>
+<w tok="against"/>
+<w tok="Johnston"/>
+<w tok="&apos;s"/>
+<w tok="flank"/>
+<w tok="when"/>
+<w tok="he"/>
+<w tok="does"/>
+<w tok="start"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="are"/>
+<w tok="in"/>
+<w tok="good"/>
+<w tok="condition"/>
+<w tok="."/>
+<w tok="W."/>
+<w tok="T."/>
+<w tok="SHERMAN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

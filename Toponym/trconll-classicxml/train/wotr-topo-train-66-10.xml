@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-10" title="66" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8727406431" long="-77.0230052501" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="G."/>
+<w tok="FOSTER"/>
+<w tok=","/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="South"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="order"/>
+<w tok="General"/>
+<w tok="Gordon"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="in"/>
+<w tok="person"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Adjutant-General"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Army"/>
+<w tok="in"/>
+<toponym term="Washington">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="place"/>
+<w tok="General"/>
+<w tok="Birney"/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="military"/>
+<w tok="district"/>
+<w tok="on"/>
+<toponym term="Florida">
+<candidates>
+<cand lat="28.5674668383" long="-82.4661622949" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+</s>
+</doc>

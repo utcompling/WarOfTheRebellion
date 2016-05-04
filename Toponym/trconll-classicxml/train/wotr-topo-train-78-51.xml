@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-51" title="78" domain="wotr">
+<s id="s1">
+<toponym term="NICHOLASVILLE">
+<candidates>
+<cand lat="37.882778" long="-84.576667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864-7"/>
+<w tok="."/>
+<w tok="20"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="S."/>
+<w tok="FRY"/>
+<w tok=":"/>
+<w tok="Mr."/>
+<w tok="M."/>
+<w tok="C."/>
+<w tok="Smith"/>
+<w tok=","/>
+<w tok="a"/>
+<w tok="man"/>
+<w tok="here"/>
+<w tok="who"/>
+<w tok="lives"/>
+<w tok="three"/>
+<w tok="miles"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="half"/>
+<w tok="from"/>
+<w tok="town"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Spear&apos;s road">
+<candidates>
+<cand lat="36.751389" long="-86.192778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="reports"/>
+<w tok="seeing"/>
+<w tok="at"/>
+<w tok="3"/>
+<w tok="o&apos;clock"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="about"/>
+<w tok="300"/>
+<w tok="rebels"/>
+<w tok="pass"/>
+<w tok="near"/>
+<w tok="his"/>
+<w tok="house"/>
+<w tok=";"/>
+<w tok="says"/>
+<w tok="they"/>
+<w tok="turned"/>
+<w tok="off"/>
+<w tok="rom"/>
+<w tok="the"/>
+<toponym term="Spears; road">
+<candidates>
+<cand lat="36.751389" long="-86.192778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="short"/>
+<w tok="distance"/>
+<w tok="from"/>
+<w tok="his"/>
+<w tok="house"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="dirt"/>
+<w tok="road"/>
+<w tok="that"/>
+<w tok="would"/>
+<w tok="lead"/>
+<w tok="them"/>
+<w tok="to"/>
+<w tok="Butler"/>
+<w tok="&apos;s"/>
+<w tok=","/>
+<w tok="on"/>
+<toponym term="Camp Nelson pike">
+<candidates>
+<cand lat="37.787778" long="-84.598056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Citizens"/>
+<w tok="in"/>
+<w tok="from"/>
+<toponym term="Sulphur Well">
+<candidates>
+<cand lat="37.099167" long="-85.633611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="report"/>
+<w tok="there"/>
+<w tok="being"/>
+<w tok="150"/>
+<w tok="rebels"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="well"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="S."/>
+<w tok="LYLE"/>
+<w tok=","/>
+<w tok="Operator"/>
+<w tok="."/>
+</s>
+</doc>

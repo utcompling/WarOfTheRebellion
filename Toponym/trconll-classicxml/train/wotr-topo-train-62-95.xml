@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-95" title="62" domain="wotr">
+<s id="s1">
+<toponym term="KANSAS CITY">
+<candidates>
+<cand lat="39.099722" long="-94.578333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="25"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="two"/>
+<w tok="companies"/>
+<w tok="of"/>
+<w tok="Fifth"/>
+<w tok="Kansas"/>
+<w tok="lately"/>
+<w tok="reported"/>
+<w tok="at"/>
+<toponym term="Urbana">
+<candidates>
+</candidates>
+</toponym>
+<w tok="have"/>
+<w tok="wandered"/>
+<w tok="to"/>
+<toponym term="Lone Jack">
+<candidates>
+<cand lat="38.870556" long="-94.188056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="say"/>
+<w tok="after"/>
+<w tok="forage"/>
+<w tok="."/>
+<w tok="What"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="done"/>
+<w tok="with"/>
+<w tok="them"/>
+<w tok="?"/>
+<w tok="THOS"/>
+<w tok="."/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+</s>
+</doc>

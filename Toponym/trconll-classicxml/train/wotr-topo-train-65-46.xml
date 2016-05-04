@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-46" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="17th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="Anderson"/>
+<w tok="telegraphs"/>
+<w tok="me"/>
+<w tok="that"/>
+<w tok="another"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="steamers"/>
+<w tok="was"/>
+<w tok="blown"/>
+<w tok="into"/>
+<w tok="fragments"/>
+<w tok="yesterday"/>
+<w tok="by"/>
+<w tok="a"/>
+<w tok="torpedo"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Saint John&apos;s">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="a"/>
+<w tok="short"/>
+<w tok="distance"/>
+<w tok="below"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.2710995287" long="-81.6589051667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="She"/>
+<w tok="had"/>
+<w tok="two"/>
+<w tok="guns"/>
+<w tok="aboard"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="towing"/>
+<w tok="a"/>
+<w tok="schooner"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="latter"/>
+<w tok="escaped"/>
+<w tok="."/>
+<w tok="Not"/>
+<w tok="known"/>
+<w tok="how"/>
+<w tok="many"/>
+<w tok="lives"/>
+<w tok="lost"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="third"/>
+<w tok="steamer"/>
+<w tok="that"/>
+<w tok="has"/>
+<w tok="met"/>
+<w tok="this"/>
+<w tok="fate"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Saint John&apos;s">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="within"/>
+<w tok="the"/>
+<w tok="last"/>
+<w tok="forty"/>
+<w tok="days"/>
+<w tok="."/>
+<w tok="SAM"/>
+<w tok="."/>
+<w tok="JONES"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-95" title="105" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok="."/>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="Respectfully"/>
+<w tok="referred"/>
+<w tok="to"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="Babbitt"/>
+<w tok="for"/>
+<w tok="his"/>
+<w tok="opinion"/>
+<w tok="in"/>
+<w tok="reference"/>
+<w tok="to"/>
+<w tok="supplying"/>
+<toponym term="Camp Wright">
+<candidates>
+<cand lat="33.389728" long="-116.794097" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<toponym term="Round Valley">
+<candidates>
+<cand lat="37.419444" long="-118.5875" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok=":"/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

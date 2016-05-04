@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-35" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4673307011" long="-91.1450191082" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="JOHN"/>
+<w tok="LEVERING"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9689216714" long="-90.0690324629" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="stopped"/>
+<w tok="here"/>
+<w tok="parts"/>
+<w tok="of"/>
+<w tok="three"/>
+<w tok="companies"/>
+<w tok="First"/>
+<w tok="Indiana"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="had"/>
+<w tok="orders"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Keith"/>
+<w tok="to"/>
+<w tok="proceed"/>
+<w tok="to"/>
+<w tok="regimental"/>
+<w tok="headquarters"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9689216714" long="-90.0690324629" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="But"/>
+<w tok="this"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="the"/>
+<w tok="regimental"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Keith"/>
+<w tok="is"/>
+<w tok="expected"/>
+<w tok="very"/>
+<w tok="soon"/>
+<w tok="with"/>
+<w tok="300"/>
+<w tok="men"/>
+<w tok="or"/>
+<w tok="more"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="shall"/>
+<w tok="stop"/>
+<w tok="them"/>
+<w tok="unless"/>
+<w tok="otherwise"/>
+<w tok="ordered"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="soon"/>
+<w tok="called"/>
+<w tok="upon"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="service"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-41" title="65" domain="wotr">
+<s id="s1">
+<toponym term="CHARLESTON">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="S. C.">
+<candidates>
+<cand lat="33.8609659126" long="-80.756273088" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1864-8"/>
+<w tok="a."/>
+<w tok="m."/>
+<w tok="Is"/>
+<w tok="it"/>
+<w tok="not"/>
+<w tok="likely"/>
+<w tok="enemy"/>
+<w tok="will"/>
+<w tok="operate"/>
+<w tok="from"/>
+<toponym term="New Berne">
+<candidates>
+<cand lat="35.109167" long="-77.069167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<toponym term="Goldsborough">
+<candidates>
+<cand lat="35.381944" long="-77.978056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Raleigh">
+<candidates>
+<cand lat="35.7711899549" long="-78.6405831758" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="if"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="it"/>
+<w tok="not"/>
+<w tok="advisable"/>
+<w tok="to"/>
+<w tok="concentrate"/>
+<w tok="about"/>
+<toponym term="Goldsborough">
+<candidates>
+<cand lat="35.381944" long="-77.978056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Will"/>
+<w tok="my"/>
+<w tok="base"/>
+<w tok="be"/>
+<w tok="on"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Wilmington">
+<candidates>
+<cand lat="34.223333" long="-77.912222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="General"/>
+<w tok="B."/>
+<w tok="BRAGG"/>
+<w tok=","/>
+<w tok="Commander-in-Chief"/>
+<w tok=","/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

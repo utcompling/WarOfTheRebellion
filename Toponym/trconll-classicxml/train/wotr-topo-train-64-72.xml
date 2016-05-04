@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-72" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SUB-DISTRICT"/>
+<w tok=","/>
+<toponym term="Cape Girardeau">
+<candidates>
+<cand lat="37.309167" long="-89.546389" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Saint"/>
+<w tok="Louis"/>
+<w tok="District"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="represent"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="earth-works"/>
+<w tok="or"/>
+<w tok="forts"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="need"/>
+<w tok="repairing"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="additional"/>
+<w tok="works"/>
+<w tok="to"/>
+<w tok="render"/>
+<w tok="them"/>
+<w tok="defensible"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="were"/>
+<w tok="rudely"/>
+<w tok="and"/>
+<w tok="hastily"/>
+<w tok="constructed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="with"/>
+<w tok="little"/>
+<w tok="additional"/>
+<w tok="labor"/>
+<w tok="and"/>
+<w tok="expense"/>
+<w tok="could"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="tolerably"/>
+<w tok="strong"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="would"/>
+<w tok="respectfully"/>
+<w tok="suggest"/>
+<w tok="that"/>
+<w tok="an"/>
+<w tok="officer"/>
+<w tok="of"/>
+<w tok="engineers"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="down"/>
+<w tok="to"/>
+<w tok="examine"/>
+<w tok="them"/>
+<w tok="and"/>
+<w tok="report"/>
+<w tok="on"/>
+<w tok="such"/>
+<w tok="improvements"/>
+<w tok="as"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="necessary"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="four"/>
+<w tok="forts"/>
+<w tok="or"/>
+<w tok="earth-works"/>
+<w tok=","/>
+<w tok="mounting"/>
+<w tok="ten"/>
+<w tok="24-pounder"/>
+<w tok="guns"/>
+<w tok=","/>
+<w tok="around"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="artillerists"/>
+<w tok="to"/>
+<w tok="man"/>
+<w tok="the"/>
+<w tok="guns"/>
+<w tok="or"/>
+<w tok="who"/>
+<w tok="understand"/>
+<w tok="the"/>
+<w tok="care"/>
+<w tok="of"/>
+<w tok="them"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="works"/>
+<w tok=";"/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="represent"/>
+<w tok="that"/>
+<w tok="at"/>
+<w tok="least"/>
+<w tok="one"/>
+<w tok="company"/>
+<w tok="of"/>
+<w tok="heavy"/>
+<w tok="artillery"/>
+<w tok="are"/>
+<w tok="necessary"/>
+<w tok="at"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="duty"/>
+<w tok=","/>
+<w tok="while"/>
+<w tok="two"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="few"/>
+<w tok="enough"/>
+<w tok="to"/>
+<w tok="man"/>
+<w tok="them"/>
+<w tok="in"/>
+<w tok="case"/>
+<w tok="of"/>
+<w tok="an"/>
+<w tok="attack"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="post"/>
+<w tok="is"/>
+<w tok="so"/>
+<w tok="situated"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="most"/>
+<w tok="important"/>
+<w tok="point"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="north"/>
+<w tok="of"/>
+<toponym term="Helena">
+<candidates>
+<cand lat="34.526111" long="-90.601389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="it"/>
+<w tok="being"/>
+<w tok="the"/>
+<w tok="only"/>
+<w tok="point"/>
+<w tok="from"/>
+<w tok="which"/>
+<w tok="either"/>
+<w tok="troops"/>
+<w tok="or"/>
+<w tok="supplies"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="into"/>
+<toponym term="Southeastern Missouri">
+<candidates>
+<cand lat="37.0975852192" long="-90.703352909" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Northern and Central Arkansas">
+<candidates>
+<cand lat="35.600692518" long="-92.3266008488" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="impassable"/>
+<w tok="swamps"/>
+<w tok="and"/>
+<w tok="rivers"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="lie"/>
+<w tok="between"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="region"/>
+<w tok="mentioned"/>
+<w tok=","/>
+<w tok="extending"/>
+<w tok="all"/>
+<w tok="along"/>
+<w tok="down"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="mouth"/>
+<w tok="of"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="J"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="ROGERS"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

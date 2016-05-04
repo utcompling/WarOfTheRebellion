@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-37" title="66" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="HILTON"/>
+<w tok="HEAD"/>
+<w tok=","/>
+<toponym term="Hilton Head">
+<candidates>
+<cand lat="32.178889" long="-80.743056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="BURGER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="CAPTAIN"/>
+<w tok=":"/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="please"/>
+<w tok="call"/>
+<w tok="the"/>
+<w tok="attention"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="necessity"/>
+<w tok="of"/>
+<w tok="an"/>
+<w tok="increased"/>
+<w tok="naval"/>
+<w tok="force"/>
+<w tok="in"/>
+<toponym term="Calibogue Sound">
+<candidates>
+<cand lat="32.1011244145" long="-80.839820043" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="since"/>
+<w tok="the"/>
+<w tok="capture"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Water"/>
+<w tok="Witch"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="the"/>
+<w tok="admiral"/>
+<w tok="should"/>
+<w tok="put"/>
+<w tok="a"/>
+<w tok="vessel"/>
+<w tok="of"/>
+<w tok="similar"/>
+<w tok="draught"/>
+<w tok="and"/>
+<w tok="heavier"/>
+<w tok="metal"/>
+<w tok="there"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="prevent"/>
+<w tok="her"/>
+<w tok="making"/>
+<w tok="raids"/>
+<w tok="up"/>
+<w tok="the"/>
+<w tok="waters"/>
+<w tok="now"/>
+<w tok="protected"/>
+<w tok="by"/>
+<w tok="our"/>
+<w tok="light-armed"/>
+<w tok="transports"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="JNO"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="HATCH"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

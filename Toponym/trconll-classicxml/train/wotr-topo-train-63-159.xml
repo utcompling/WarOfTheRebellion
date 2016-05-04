@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-159" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok=","/>
+<toponym term="Baton Rouge">
+<candidates>
+<cand lat="30.4673307011" long="-91.1450191082" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="J."/>
+<w tok="J."/>
+<w tok="REYNOLDS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9689216714" long="-90.0690324629" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Nothing"/>
+<w tok="certain"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="boat"/>
+<w tok="down"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="reported"/>
+<w tok="nothing"/>
+<w tok="."/>
+<w tok="Some"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="firing"/>
+<w tok="heard"/>
+<w tok="about"/>
+<w tok="6"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="ST."/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="COOKE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

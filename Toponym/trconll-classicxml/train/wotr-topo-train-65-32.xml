@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-32" title="65" domain="wotr">
+<s id="s1">
+<w tok="CAMP"/>
+<w tok="MILTON"/>
+<w tok=","/>
+<w tok="NEAR"/>
+<toponym term="McGIRT&apos;S CREEK">
+<candidates>
+<cand lat="30.3185297686" long="-81.6343575898" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="FLA.">
+<candidates>
+<cand lat="28.5852310908" long="-82.4950027996" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="All"/>
+<w tok="quiet"/>
+<w tok="here"/>
+<w tok="at"/>
+<w tok="present"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Gillmore"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="having"/>
+<w tok="left"/>
+<toponym term="Jacksonville">
+<candidates>
+<cand lat="30.3185297686" long="-81.6614800874" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<toponym term="Hilton Head">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="learning"/>
+<w tok="my"/>
+<w tok="arrival"/>
+<w tok="here"/>
+<w tok=","/>
+<w tok="probably"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="a"/>
+<w tok="demonstration"/>
+<w tok="against"/>
+<toponym term="Charleston">
+<candidates>
+<cand lat="32.7695229494" long="-79.9252153535" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<toponym term="Savannah">
+<candidates>
+<cand lat="32.0617959136" long="-81.0968858186" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="telegraphed"/>
+<w tok="Generals"/>
+<w tok="Jordan"/>
+<w tok="and"/>
+<w tok="Mercer"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="prepared"/>
+<w tok="accordingly"/>
+<w tok="."/>
+<w tok="Enemy"/>
+<w tok="&apos;s"/>
+<w tok="wounded"/>
+<w tok="taken"/>
+<w tok="at"/>
+<toponym term="Ocean Pond">
+<candidates>
+<cand lat="30.214233" long="-82.388589" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="represent"/>
+<w tok="twenty-eight"/>
+<w tok="regiments"/>
+<w tok="and"/>
+<w tok="battalions"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="BEAUREGARD"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="S."/>
+<w tok="COOPER"/>
+<w tok=","/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5294889706" long="-77.4427300874" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Va.">
+<candidates>
+<cand lat="37.5235085897" long="-78.646687433" selected="yes"/>
+</candidates>
+</toponym>
+</s>
+</doc>

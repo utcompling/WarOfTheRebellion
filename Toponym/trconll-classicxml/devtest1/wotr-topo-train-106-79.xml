@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-79" title="106" domain="wotr">
+<s id="s1">
+<toponym term="SAN FRANCISCO">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="6"/>
+<w tok="."/>
+<w tok="40"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok=")"/>
+<w tok="General"/>
+<w tok="THOMAS"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="20,000"/>
+<w tok="rifle"/>
+<w tok="muskets"/>
+<w tok="and"/>
+<w tok="equipments"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="here"/>
+<w tok="by"/>
+<w tok="first"/>
+<w tok="steamer"/>
+<w tok="."/>
+<w tok="G."/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

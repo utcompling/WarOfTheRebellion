@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-82" title="105" domain="wotr">
+<s id="s1">
+<toponym term="FORT CHURCHILL">
+<candidates>
+<cand lat="39.2925" long="-119.270556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="NEV. TER.">
+<candidates>
+<cand lat="39.3173681652" long="-116.733288975" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="November"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="in"/>
+<w tok="pursuance"/>
+<w tok="of"/>
+<w tok="Orders"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="88"/>
+<w tok=","/>
+<w tok="November"/>
+<w tok="21"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=","/>
+<w tok="twenty-five"/>
+<w tok="enlisted"/>
+<w tok="men"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Second"/>
+<w tok="cavalry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="placed"/>
+<w tok="under"/>
+<w tok="my"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="left"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="22nd"/>
+<w tok="intsant"/>
+<w tok="for"/>
+<toponym term="Honey Lake Valley">
+<candidates>
+<cand lat="40.25" long="-120.35" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="a"/>
+<w tok="scout"/>
+<w tok="against"/>
+<w tok="hostile"/>
+<w tok="Indians"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="section"/>
+<w tok="."/>
+<w tok="Upon"/>
+<w tok="the"/>
+<w tok="arrival"/>
+<w tok="of"/>
+<w tok="command"/>
+<w tok="at"/>
+<w tok="the"/>
+<toponym term="Truckee Crossing">
+<candidates>
+<cand lat="39.342222" long="-120.203611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="received"/>
+<w tok="positive"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="twenty-five"/>
+<w tok="soldiers"/>
+<w tok="from"/>
+<toponym term="Fort Crook">
+<candidates>
+<cand lat="41.005833" long="-121.440833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="were"/>
+<w tok="already"/>
+<w tok="at"/>
+<toponym term="Honey Lake">
+<candidates>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="had"/>
+<w tok="attacked"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="therefore"/>
+<w tok="returned"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="post"/>
+<w tok="in"/>
+<w tok="obedience"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="instructions"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="THOS"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="KETCHAM"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Detach"/>
+<w tok="."/>
+<w tok="Second"/>
+<w tok="Lieutenant"/>
+<w tok="WILLIAM"/>
+<w tok="L."/>
+<w tok="USTICK"/>
+<w tok="."/>
+<w tok="Third"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Post"/>
+<w tok="Adjutant"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-151" title="62" domain="wotr">
+<s id="s1">
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<toponym term="Cincinnati">
+<candidates>
+<cand lat="39.0816646279" long="-84.5145998557" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ohio">
+<candidates>
+<cand lat="40.3794966717" long="-82.7253728379" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Please"/>
+<w tok="inform"/>
+<w tok="me"/>
+<w tok="when"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="arrive"/>
+<w tok="in"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="so"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="may"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="pleasure"/>
+<w tok="of"/>
+<w tok="receiving"/>
+<w tok="you"/>
+<w tok="with"/>
+<w tok="due"/>
+<w tok="military"/>
+<w tok="honor"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="M."/>
+<w tok="SCHOFIELD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

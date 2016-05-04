@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-32" title="63" domain="wotr">
+<s id="s1">
+<toponym term="FORT SMITH">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="CURTIS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="the"/>
+<w tok="progress"/>
+<w tok="of"/>
+<w tok="fortifications"/>
+<w tok="at"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="33.570833" long="-92.835" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fort No. 2">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Texas road">
+<candidates>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="nearly"/>
+<w tok="completed"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="12-pounder"/>
+<w tok="brass"/>
+<w tok="guns"/>
+<w tok="are"/>
+<w tok="mounted"/>
+<w tok="."/>
+<w tok="Mechanics"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="employed"/>
+<w tok="in"/>
+<w tok="building"/>
+<w tok="the"/>
+<w tok="drop"/>
+<w tok="bridge"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="completed"/>
+<w tok="in"/>
+<w tok="a"/>
+<w tok="short"/>
+<w tok="time"/>
+<w tok="."/>
+<toponym term="Fort No. 3">
+<candidates>
+</candidates>
+</toponym>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="Catholic"/>
+<w tok="convent"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="progressing"/>
+<w tok="finely"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="completed"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="exception"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="rifle-pits"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="ten"/>
+<w tok="to"/>
+<w tok="fifteen"/>
+<w tok="days"/>
+<w tok="."/>
+<toponym term="Fort No. 4">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Van Buren road">
+<candidates>
+</candidates>
+</toponym>
+<w tok="is"/>
+<w tok="progressing"/>
+<w tok="fast"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="largest"/>
+<w tok="work"/>
+<w tok="of"/>
+<w tok="all"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="calculated"/>
+<w tok="to"/>
+<w tok="contain"/>
+<w tok="quarters"/>
+<w tok="for"/>
+<w tok="500"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="yet"/>
+<w tok="require"/>
+<w tok="thirty"/>
+<w tok="to"/>
+<w tok="fifty"/>
+<w tok="days"/>
+<w tok="till"/>
+<w tok="completed"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="block-house"/>
+<w tok="is"/>
+<w tok="built"/>
+<w tok=","/>
+<w tok="lacking"/>
+<w tok="the"/>
+<w tok="top"/>
+<w tok="covering"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="stockades"/>
+<w tok="are"/>
+<w tok="now"/>
+<w tok="in"/>
+<w tok="progress"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="balance"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="batteries"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="yet"/>
+<w tok="begun"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="they"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="little"/>
+<w tok="work"/>
+<w tok="to"/>
+<w tok="make"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="did"/>
+<w tok="intend"/>
+<w tok="to"/>
+<w tok="inclose"/>
+<w tok="herewith"/>
+<w tok="the"/>
+<w tok="plans"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="works"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="in"/>
+<w tok="progress"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="on"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="insecurity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="mail"/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="had"/>
+<w tok="better"/>
+<w tok="withhold"/>
+<w tok="them"/>
+<w tok="than"/>
+<w tok="to"/>
+<w tok="risk"/>
+<w tok="them"/>
+<w tok="falling"/>
+<w tok="into"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="&apos;s"/>
+<w tok="hands"/>
+<w tok="."/>
+<w tok="Hoping"/>
+<w tok="to"/>
+<w tok="receive"/>
+<w tok="your"/>
+<w tok="notice"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="convenience"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="ANTON"/>
+<w tok="GERSTER"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Engineer"/>
+<w tok=","/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Frontier"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-190" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="CAMERON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="All"/>
+<w tok="the"/>
+<w tok="mounted"/>
+<w tok="force"/>
+<w tok="now"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="except"/>
+<w tok="sufficient"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="the"/>
+<w tok="escort"/>
+<w tok="duty"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="trains"/>
+<w tok="and"/>
+<w tok="guard"/>
+<w tok="the"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="moved"/>
+<w tok="forward"/>
+<w tok="toward"/>
+<toponym term="Berryville">
+<candidates>
+<cand lat="36.368333" long="-93.568333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="until"/>
+<w tok="it"/>
+<w tok="can"/>
+<w tok="obtain"/>
+<w tok="forage"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="animals"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Holland"/>
+<w tok=";"/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="forces"/>
+<w tok="under"/>
+<w tok="him"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="needed"/>
+<w tok="the"/>
+<w tok="detachment"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eleventh"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ordered"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="Of"/>
+<w tok="the"/>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="of"/>
+<w tok="Enrolled"/>
+<w tok="Missouri"/>
+<w tok="Militia"/>
+<w tok=","/>
+<w tok="one"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Keatsville">
+<candidates>
+<cand lat="39.434167" long="-92.936944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-135" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="6"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Owing"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="haziness"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="atmosphere"/>
+<w tok="no"/>
+<w tok="observation"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="Brooke"/>
+<w tok="gun"/>
+<w tok="and"/>
+<w tok="a"/>
+<w tok="10-inch"/>
+<w tok="are"/>
+<w tok="lying"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="berm"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="sea"/>
+<w tok="face"/>
+<w tok="."/>
+<w tok="Seven"/>
+<w tok="shots"/>
+<w tok="were"/>
+<w tok="yesterday"/>
+<w tok="fired"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok=","/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="struck"/>
+<w tok=";"/>
+<w tok="1"/>
+<w tok="shell"/>
+<w tok="wounded"/>
+<w tok="2"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="H."/>
+<w tok="WILDS"/>
+<w tok=","/>
+<w tok="Captain"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

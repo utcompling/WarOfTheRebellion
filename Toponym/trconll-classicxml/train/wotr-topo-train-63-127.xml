@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-127" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="COLORADO"/>
+<w tok=","/>
+<toponym term="Denver">
+<candidates>
+<cand lat="39.7228318107" long="-105.05081884" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="GEORGE"/>
+<w tok="L."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="1st"/>
+<w tok="Cav"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Colo"/>
+<w tok="."/>
+<w tok="Commanding"/>
+<w tok="Officer"/>
+<w tok=","/>
+<toponym term="Camp Sanborn">
+<candidates>
+<cand lat="39.22" long="-104.536667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Colo. Ter.">
+<candidates>
+<cand lat="38.976892711" long="-105.549513192" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="Yours"/>
+<w tok="is"/>
+<w tok="received"/>
+<w tok="giving"/>
+<w tok="account"/>
+<w tok="of"/>
+<w tok="Indian"/>
+<w tok="fight"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="Surgeon"/>
+<w tok="leaves"/>
+<w tok="in"/>
+<w tok="few"/>
+<w tok="minutes"/>
+<w tok="."/>
+<w tok="Am"/>
+<w tok="sorry"/>
+<w tok="Lieutenant"/>
+<w tok="Dunn"/>
+<w tok="left"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="."/>
+<w tok="Put"/>
+<w tok="your"/>
+<w tok="force"/>
+<w tok="in"/>
+<w tok="best"/>
+<w tok="trim"/>
+<w tok="and"/>
+<w tok="avenge"/>
+<w tok="the"/>
+<w tok="injury"/>
+<w tok="done"/>
+<w tok="to"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="send"/>
+<w tok="to"/>
+<w tok="Camp"/>
+<w tok="Collins"/>
+<w tok="for"/>
+<w tok="Hawkins"/>
+<w tok="to"/>
+<w tok="cut"/>
+<w tok="them"/>
+<w tok="off"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="to"/>
+<toponym term="Fort Laramie">
+<candidates>
+<cand lat="42.209167" long="-104.535861" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="I"/>
+<w tok="now"/>
+<w tok="have"/>
+<w tok="Lieutenant"/>
+<w tok="Eayre"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="headwaters"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Smoky Hill">
+<candidates>
+<cand lat="38.761778" long="-99.532194" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="after"/>
+<w tok="them"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="stole"/>
+<w tok="175"/>
+<w tok="head"/>
+<w tok="of"/>
+<w tok="cattle"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="very"/>
+<w tok="vigilant"/>
+<w tok="."/>
+<w tok="Carbine"/>
+<w tok="cartridges"/>
+<w tok="come"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="by"/>
+<w tok="to-morrow"/>
+<w tok="&apos;s"/>
+<w tok="coach"/>
+<w tok=";"/>
+<w tok="look"/>
+<w tok="out"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="that"/>
+<w tok="they"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="carried"/>
+<w tok="past"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="GEO"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="STILWELL"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-106" title="63" domain="wotr">
+<s id="s1">
+<w tok="GENERAL"/>
+<w tok="ORDERS"/>
+<w tok=","/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="13TH"/>
+<w tok="A."/>
+<w tok="C."/>
+<w tok=","/>
+<w tok="DEPT"/>
+<w tok="."/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="22"/>
+<w tok="."/>
+<toponym term="Pass Cavallo">
+<candidates>
+<cand lat="28.383333" long="-96.4" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4716505542" long="-99.2956666001" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="regiments"/>
+<w tok="and"/>
+<w tok="batteries"/>
+<w tok="are"/>
+<w tok="authorized"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="inscribed"/>
+<w tok="on"/>
+<w tok="their"/>
+<w tok="colors"/>
+<w tok="the"/>
+<w tok="names"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="several"/>
+<w tok="battles"/>
+<w tok="set"/>
+<w tok="opposite"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="accordance"/>
+<w tok="with"/>
+<w tok="paragraph"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="Appendix"/>
+<w tok="B"/>
+<w tok=","/>
+<w tok="Revised"/>
+<w tok="Army"/>
+<w tok="Regulations"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=":"/>
+<w tok="Nineteenth"/>
+<w tok="Regiment"/>
+<w tok="Kentucky"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Twenty-third"/>
+<w tok="Regiment"/>
+<w tok="Wisconsin"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Carrion Crow">
+<candidates>
+<cand lat="30.314167" long="-92.043611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Thirty-fourth"/>
+<w tok="Regiment"/>
+<w tok="Iowa"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Yazzo City">
+<candidates>
+<cand lat="32.856389" long="-90.4075" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fort Esperanza">
+<candidates>
+<cand lat="28.227222" long="-96.640278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Forty-eighth"/>
+<w tok="Regiment"/>
+<w tok="Ohio"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Shiloh">
+<candidates>
+<cand lat="35.15068" long="-88.32183" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Siege of Corinth">
+<candidates>
+<cand lat="34.934" long="-88.522" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Sixty-seventh"/>
+<w tok="Regiment"/>
+<w tok="Indiana"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Grand Coteau">
+<candidates>
+<cand lat="30.418889" long="-92.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Seventy-seventh"/>
+<w tok="Regiment"/>
+<w tok="Illinois"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Eighty-third"/>
+<w tok="Regiment"/>
+<w tok="Ohio"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Grand Coteau">
+<candidates>
+<cand lat="30.418889" long="-92.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Ninety-sixth"/>
+<w tok="Regiment"/>
+<w tok="Ohio"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Grand Coteau">
+<candidates>
+<cand lat="30.418889" long="-92.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="eighteenth"/>
+<w tok="Regiment"/>
+<w tok="Illinois"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="thirtieth"/>
+<w tok="Regiment"/>
+<w tok="Illinois"/>
+<w tok="Volunteer"/>
+<w tok="Infantry"/>
+<w tok=":"/>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Regiment"/>
+<w tok="Missouri"/>
+<w tok="Volunteer"/>
+<w tok="Light"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="F"/>
+<w tok=":"/>
+<toponym term="Camp Jackson">
+<candidates>
+<cand lat="38.636551" long="-90.236721" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Boonville">
+<candidates>
+<cand lat="38.965" long="-92.741667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Dug Spring">
+<candidates>
+<cand lat="36.903889" long="-93.571111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Wilson&apos;s Creek">
+<candidates>
+<cand lat="37.2223441003" long="-93.3392071582" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Blackwater">
+<candidates>
+<cand lat="38.979444" long="-92.990833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Newtonia">
+<candidates>
+<cand lat="36.878611" long="-94.182778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Prairie Grove">
+<candidates>
+<cand lat="35.976944" long="-94.316111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Fort Esperanza">
+<candidates>
+<cand lat="28.227222" long="-96.640278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Wisconsin"/>
+<w tok="Battery"/>
+<w tok=":"/>
+<toponym term="Cumberland Gap">
+<candidates>
+<cand lat="36.603972" long="-83.67297" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tazewell">
+<candidates>
+<cand lat="36.454444" long="-83.571111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Seventeenth"/>
+<w tok="Ohio"/>
+<w tok="Battery"/>
+<w tok=":"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="First"/>
+<w tok="Regiment"/>
+<w tok="Mounted"/>
+<w tok="Veteran"/>
+<w tok="Artillery"/>
+<w tok=","/>
+<w tok="Battery"/>
+<w tok="F"/>
+<w tok=":"/>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Jackson">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Grand Coteau">
+<candidates>
+<cand lat="30.418889" long="-92.048056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="II"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="following"/>
+<w tok="are"/>
+<w tok="the"/>
+<w tok="dates"/>
+<w tok="at"/>
+<w tok="which"/>
+<w tok="the"/>
+<w tok="above-named"/>
+<w tok="actions"/>
+<w tok="took"/>
+<w tok="place"/>
+<w tok=":"/>
+<toponym term="Camp Jackson">
+<candidates>
+<cand lat="38.636551" long="-90.236721" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1861"/>
+<w tok=";"/>
+<toponym term="Boonville">
+<candidates>
+<cand lat="38.965" long="-92.741667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1861"/>
+<w tok=";"/>
+<toponym term="Dug Spring">
+<candidates>
+<cand lat="36.903889" long="-93.571111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="August"/>
+<w tok="5"/>
+<w tok=","/>
+<w tok="1861"/>
+<w tok=";"/>
+<toponym term="Wilson&apos;s Creek">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1861"/>
+<w tok=";"/>
+<toponym term="Blackwater">
+<candidates>
+<cand lat="38.979444" long="-92.990833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1861"/>
+<w tok=";"/>
+<toponym term="Shiloh">
+<candidates>
+<cand lat="35.15068" long="-88.32183" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="6,7"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Siege of Corinth">
+<candidates>
+<cand lat="34.934" long="-88.522" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="1"/>
+<w tok="until"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Cumberland Gap">
+<candidates>
+<cand lat="36.603972" long="-83.67297" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Tazewell">
+<candidates>
+<cand lat="36.454444" long="-83.571111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tenn.">
+<candidates>
+<cand lat="35.8409780395" long="-86.327612122" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Newtonia">
+<candidates>
+<cand lat="34.934" long="-836.878611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="August"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="September"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Prairie Grove">
+<candidates>
+<cand lat="35.976944" long="-94.316111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Chickasaw Bluffs">
+<candidates>
+<cand lat="35.612" long="-89.882" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7487844048" long="-89.6558559025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="December"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok=";"/>
+<toponym term="Arkansas Post">
+<candidates>
+<cand lat="34.024444" long="-91.343611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.9143848945" long="-92.4444121024" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Port Gibson">
+<candidates>
+<cand lat="31.956111" long="-90.983056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss">
+<candidates>
+<cand lat="32.7487844048" long="-89.6558559025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=","/>
+<w tok="May"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Champion&apos;s Hill">
+<candidates>
+<cand lat="32.3296" long="-90.5303" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="16"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Black River Bridge">
+<candidates>
+<cand lat="32.3471" long="-90.7043" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7487844048" long="-89.6558559025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Vicksburg">
+<candidates>
+<cand lat="32.336111" long="-90.875278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7487844048" long="-89.6558559025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="invested"/>
+<w tok="May"/>
+<w tok="18"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<w tok="assaulted"/>
+<w tok="May"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<w tok="surrendered"/>
+<w tok="July"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Jackson">
+<candidates>
+<cand lat="32.298889" long="-90.184722" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7487844048" long="-89.6558559025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="invested"/>
+<w tok="July"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<w tok="surrendered"/>
+<w tok="July"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Yazoo City">
+<candidates>
+<cand lat="32.856389" long="-90.4075" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Miss.">
+<candidates>
+<cand lat="32.7487844048" long="-89.6558559025" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="July"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Carrion Crow">
+<candidates>
+<cand lat="30.314167" long="-92.043611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="November"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Grand Coteau">
+<candidates>
+<cand lat="30.418889" long="-92.048056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="30.9135292197" long="-91.8891801824" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="November"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok=";"/>
+<toponym term="Fort Esperanza">
+<candidates>
+<cand lat="28.227222" long="-96.640278" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex">
+<candidates>
+<cand lat="31.4344479827" long="-99.3157146935" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=","/>
+<w tok="November"/>
+<w tok="27"/>
+<w tok=","/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="John"/>
+<w tok="A."/>
+<w tok="McClernand"/>
+<w tok=":"/>
+<w tok="SAMUEL"/>
+<w tok="CALDWELL"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

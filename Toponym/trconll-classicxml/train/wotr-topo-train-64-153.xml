@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-153" title="64" domain="wotr">
+<s id="s1">
+<w tok="Abstract"/>
+<w tok="from"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="New"/>
+<w tok="Mexico"/>
+<w tok=","/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="James"/>
+<w tok="H."/>
+<w tok="Carleton"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="."/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="month"/>
+<w tok="of"/>
+<w tok="May"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Present"/>
+<w tok="for"/>
+<w tok="duty"/>
+<w tok="Command"/>
+<w tok="."/>
+<w tok="Officers"/>
+<w tok="Men"/>
+<w tok="Aggregate"/>
+<w tok="Aggrega-"/>
+<w tok="present"/>
+<w tok="te"/>
+<w tok="present"/>
+<w tok="and"/>
+<w tok="absent"/>
+<w tok="Headquarters"/>
+<w tok="22"/>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="22"/>
+<w tok="25"/>
+<toponym term="Allbuquerque">
+<candidates>
+<cand lat="35.0828906781" long="-106.656797005" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="3"/>
+<w tok="88"/>
+<w tok="103"/>
+<w tok="145"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="D."/>
+<w tok="H."/>
+<w tok="Brotherton"/>
+<w tok=")"/>
+<toponym term="Fort Bascom">
+<candidates>
+<cand lat="35.317778" long="-103.703333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="4"/>
+<w tok="131"/>
+<w tok="144"/>
+<w tok="166"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="H."/>
+<w tok="Bergmann"/>
+<w tok=")"/>
+<toponym term="Fort Canby">
+<candidates>
+<cand lat="35.741944" long="-109.066667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="5"/>
+<w tok="233"/>
+<w tok="298"/>
+<w tok="538"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="P."/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="Plympton"/>
+<w tok=")"/>
+<toponym term="Fort Craig">
+<candidates>
+<cand lat="33.635556" long="-107.014167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="9"/>
+<w tok="165"/>
+<w tok="231"/>
+<w tok="309"/>
+<w tok="C."/>
+<w tok="E."/>
+<w tok="Bennett"/>
+<w tok=")"/>
+<toponym term="Fort Marcy">
+<candidates>
+<cand lat="35.689431" long="-105.93219" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="2"/>
+<w tok="100"/>
+<w tok="117"/>
+<w tok="131"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="R."/>
+<w tok="M."/>
+<w tok="Grandal"/>
+<w tok=")"/>
+<toponym term="Fort McRae">
+<candidates>
+<cand lat="33.1911111" long="-107.1438889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="1"/>
+<w tok="24"/>
+<w tok="31"/>
+<w tok="70"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="H."/>
+<w tok="A."/>
+<w tok="Greene"/>
+<w tok=")"/>
+<toponym term="Fort Stanton">
+<candidates>
+<cand lat="33.496083" long="-105.5239" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="3"/>
+<w tok="74"/>
+<w tok="88"/>
+<w tok="114"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="William"/>
+<w tok="Brady"/>
+<w tok=")"/>
+<toponym term="Fort Summer">
+<candidates>
+<cand lat="34.473056" long="-104.242222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="8"/>
+<w tok="219"/>
+<w tok="263"/>
+<w tok="328"/>
+<w tok="H."/>
+<w tok="D."/>
+<w tok="Wallen"/>
+<w tok=")"/>
+<toponym term="Fort Union">
+<candidates>
+<cand lat="35.907262" long="-105.012226" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="13"/>
+<w tok="392"/>
+<w tok="457"/>
+<w tok="485"/>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="McMullen"/>
+<w tok=")"/>
+<toponym term="Fort Wingate">
+<candidates>
+<cand lat="35.467778" long="-108.540556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="1"/>
+<w tok="103"/>
+<w tok="113"/>
+<w tok="184"/>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="W."/>
+<w tok="Eaton"/>
+<w tok=")"/>
+<toponym term="Fort Whipple">
+<candidates>
+<cand lat="34.554722" long="-112.452778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="4"/>
+<w tok="169"/>
+<w tok="190"/>
+<w tok="222"/>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="Willis"/>
+<w tok=")"/>
+<toponym term="Las Valles">
+<candidates>
+</candidates>
+</toponym>
+<w tok="1"/>
+<w tok="34"/>
+<w tok="38"/>
+<w tok="47"/>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="L."/>
+<w tok="Barr"/>
+<w tok=")"/>
+<toponym term="Los Pinos">
+<candidates>
+<cand lat="34.853333" long="-106.699167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="3"/>
+<w tok="89"/>
+<w tok="103"/>
+<w tok="123"/>
+<w tok="T."/>
+<w tok="L."/>
+<w tok="Roberts"/>
+<w tok=")"/>
+<toponym term="Reventon">
+<candidates>
+<cand lat="33.7953644207" long="-105.640003754" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="3"/>
+<w tok="105"/>
+<w tok="117"/>
+<w tok="191"/>
+<w tok="W."/>
+<w tok="B."/>
+<w tok="Kennedy"/>
+<w tok=")"/>
+<w tok="Apache"/>
+<w tok="expedition"/>
+<w tok="9"/>
+<w tok="330"/>
+<w tok="370"/>
+<w tok="434"/>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Rigg"/>
+<w tok=")"/>
+<w tok="Troops"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok="10"/>
+<w tok="307"/>
+<w tok="317"/>
+<w tok="317"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="Arizona"/>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="G."/>
+<w tok="W."/>
+<w tok="Bowie"/>
+<w tok=")"/>
+<w tok="Camp"/>
+<w tok="Mimbres"/>
+<w tok="4"/>
+<w tok="102"/>
+<w tok="144"/>
+<w tok="242"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="Whitlock"/>
+<w tok=")"/>
+<w tok="."/>
+<toponym term="Fort Bowie">
+<candidates>
+<cand lat="32.146111" long="-109.435556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="1"/>
+<w tok="18"/>
+<w tok="19"/>
+<w tok="56"/>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="Bayley"/>
+<w tok=")"/>
+<w tok="."/>
+<toponym term="Fort Cummings">
+<candidates>
+<cand lat="32.465556" long="-107.645833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="1"/>
+<w tok="38"/>
+<w tok="56"/>
+<w tok="59"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="V."/>
+<w tok="Dresher"/>
+<w tok=")"/>
+<toponym term="Franklin">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="10"/>
+<w tok="252"/>
+<w tok="279"/>
+<w tok="294"/>
+<w tok="G."/>
+<w tok="W."/>
+<w tok="Bowie"/>
+<w tok=")"/>
+<toponym term="Las Cruces">
+<candidates>
+<cand lat="32.314444" long="-106.778889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="2"/>
+<w tok="65"/>
+<w tok="86"/>
+<w tok="100"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="Witham"/>
+<w tok=")"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="3"/>
+<w tok="69"/>
+<w tok="107"/>
+<w tok="148"/>
+<w tok="Colonel"/>
+<w tok="T."/>
+<w tok="A."/>
+<w tok="Coult"/>
+<w tok=")"/>
+<w tok="Grand"/>
+<w tok="total"/>
+<w tok="122"/>
+<w tok="3,097"/>
+<w tok="3,693"/>
+<w tok="4,728"/>
+<w tok="Pieces"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="Command"/>
+<w tok="."/>
+<w tok="Heavy"/>
+<w tok="Field"/>
+<w tok="Headquar"/>
+<w tok="ters"/>
+<w tok="Headquarters"/>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="Santa"/>
+<w tok="Fe"/>
+<toponym term="Allbuquerque">
+<candidates>
+<cand lat="35.0361696456" long="-106.536076141" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="4"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="D."/>
+<w tok="H."/>
+<w tok="Brotherton"/>
+<w tok=")"/>
+<toponym term="Fort Bascom">
+<candidates>
+<cand lat="35.317778" long="-103.703333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="E."/>
+<w tok="H."/>
+<w tok="Bergmann"/>
+<w tok=")"/>
+<toponym term="Fort Canby">
+<candidates>
+<cand lat="35.741944" long="-109.066667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="P."/>
+<w tok="W."/>
+<w tok="L."/>
+<w tok="Plympton"/>
+<w tok=")"/>
+<w tok="Fort"/>
+<w tok="Craig"/>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="4"/>
+<w tok="13"/>
+<w tok="C."/>
+<w tok="E."/>
+<w tok="Bennett"/>
+<w tok=")"/>
+<toponym term="Fort Marcy">
+<candidates>
+<cand lat="35.689431" long="-105.93219" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="R."/>
+<w tok="M."/>
+<w tok="Grandal"/>
+<w tok=")"/>
+<toponym term="Fort McRae">
+<candidates>
+<cand lat="33.1911111" long="-107.1438889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="H."/>
+<w tok="A."/>
+<w tok="Greene"/>
+<w tok=")"/>
+<toponym term="Fort Stanton">
+<candidates>
+<cand lat="33.496083" long="-105.5239" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="William"/>
+<w tok="Brady"/>
+<w tok=")"/>
+<toponym term="Fort Summer">
+<candidates>
+<cand lat="34.473056" long="-104.242222" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="D."/>
+<w tok="Wallen"/>
+<w tok=")"/>
+<toponym term="Fort Union">
+<candidates>
+<cand lat="35.907262" long="-105.012226" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="4"/>
+<w tok="4"/>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="William"/>
+<w tok="McMullen"/>
+<w tok=")"/>
+<toponym term="Fort Wingate">
+<candidates>
+<cand lat="35.467778" long="-108.540556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="W."/>
+<w tok="Eaton"/>
+<w tok=")"/>
+<toponym term="Fort Whipple">
+<candidates>
+<cand lat="34.554722" long="-112.452778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Major"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="Willis"/>
+<w tok=")"/>
+<toponym term="Las Valles">
+<candidates>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="L."/>
+<w tok="Barr"/>
+<w tok=")"/>
+<toponym term="Los Pinos">
+<candidates>
+<cand lat="34.853333" long="-106.699167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="T."/>
+<w tok="L."/>
+<w tok="Roberts"/>
+<w tok=")"/>
+<toponym term="Reventon">
+<candidates>
+<cand lat="33.7953644207" long="-105.640003754" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="W."/>
+<w tok="B."/>
+<w tok="Kennedy"/>
+<w tok=")"/>
+<w tok="Apache"/>
+<w tok="expedition"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="E."/>
+<w tok="A."/>
+<w tok="Rigg"/>
+<w tok=")"/>
+<w tok="Troops"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="Franklin"/>
+<w tok="Arizona"/>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="Tex"/>
+<w tok="G."/>
+<w tok="W."/>
+<w tok="Bowie"/>
+<w tok=")"/>
+<toponym term="Camp Mimbres">
+<candidates>
+<cand lat="35.745833" long="-111.473611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="J."/>
+<w tok="H."/>
+<w tok="Whitlock"/>
+<w tok=")"/>
+<w tok="."/>
+<toponym term="Fort Bowie">
+<candidates>
+<cand lat="32.146111" long="-109.435556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="B."/>
+<w tok="F."/>
+<w tok="Bayley"/>
+<w tok=")"/>
+<w tok="."/>
+<toponym term="Fort Cummings">
+<candidates>
+<cand lat="32.465556" long="-107.645833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="V."/>
+<w tok="Dresher"/>
+<w tok=")"/>
+<toponym term="Franklin">
+<candidates>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Colonel"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="G."/>
+<w tok="W."/>
+<w tok="Bowie"/>
+<w tok=")"/>
+<toponym term="Las Cruces">
+<candidates>
+<cand lat="32.314444" long="-106.778889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="..."/>
+<w tok=".."/>
+<w tok="4"/>
+<w tok="("/>
+<w tok="Captain"/>
+<w tok="G."/>
+<w tok="T."/>
+<w tok="Witham"/>
+<w tok=")"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="("/>
+<w tok="Lieutenant"/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="..."/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="T."/>
+<w tok="A."/>
+<w tok="Coult"/>
+<w tok=")"/>
+<w tok="Grand"/>
+<w tok="total"/>
+<w tok="8"/>
+<w tok="25"/>
+</s>
+</doc>

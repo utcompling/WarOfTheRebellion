@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-187" title="64" domain="wotr">
+<s id="s1">
+<w tok="JUNE"/>
+<w tok="1-2"/>
+<w tok="m."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="Since"/>
+<w tok="the"/>
+<w tok="foregoing"/>
+<w tok="was"/>
+<w tok="written"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="telegraphic"/>
+<w tok="dispatches"/>
+<w tok="from"/>
+<w tok="Generals"/>
+<w tok="Pope"/>
+<w tok="and"/>
+<w tok="Sully"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="inclose"/>
+<w tok="you"/>
+<w tok="copies"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="and"/>
+<w tok="by"/>
+<w tok="which"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="governed"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="original"/>
+<w tok="force"/>
+<w tok="destined"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="expedition"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="taken"/>
+<w tok=","/>
+<w tok="embracing"/>
+<w tok="all"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Eighth"/>
+<w tok="Regiment"/>
+<w tok=","/>
+<w tok="six"/>
+<w tok="companies"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="two"/>
+<w tok="sections"/>
+<w tok="of"/>
+<w tok="battery"/>
+<w tok=","/>
+<w tok="all"/>
+<w tok="which"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="scouts"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="give"/>
+<w tok="you"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="more"/>
+<w tok="than"/>
+<w tok="1,500"/>
+<w tok="men"/>
+<w tok="."/>
+<w tok="Companies"/>
+<w tok="G"/>
+<w tok="and"/>
+<w tok="H"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="march"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="First"/>
+<w tok="Battalion"/>
+<w tok=","/>
+<w tok="leaving"/>
+<w tok="E"/>
+<w tok="and"/>
+<w tok="F"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="the"/>
+<w tok="Sixth"/>
+<w tok="as"/>
+<w tok="ordered"/>
+<w tok="."/>
+<w tok="To"/>
+<w tok="reach"/>
+<toponym term="Swan Lake">
+<candidates>
+<cand lat="45.726667" long="-95.821389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="junction"/>
+<w tok="indicated"/>
+<w tok="by"/>
+<w tok="General"/>
+<w tok="Sully"/>
+<w tok=","/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="leave"/>
+<w tok="Sully"/>
+<w tok="&apos;s"/>
+<w tok="route"/>
+<w tok="of"/>
+<w tok="1856"/>
+<w tok=","/>
+<w tok="probably"/>
+<w tok="before"/>
+<w tok="you"/>
+<w tok="reach"/>
+<w tok="the"/>
+<toponym term="James">
+<candidates>
+<cand lat="36.941667" long="-76.443611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="tend"/>
+<w tok="toward"/>
+<w tok="the"/>
+<toponym term="Taile de Chene">
+<candidates>
+</candidates>
+</toponym>
+<w tok="on"/>
+<w tok="that"/>
+<w tok="river"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="point"/>
+<w tok="of"/>
+<w tok="destination"/>
+<w tok="on"/>
+<w tok="he"/>
+<toponym term="Missouri">
+<candidates>
+</candidates>
+</toponym>
+<w tok="being"/>
+<w tok="directly"/>
+<w tok="west"/>
+<w tok="of"/>
+<w tok="that"/>
+<w tok="grove"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="that"/>
+<w tok="route"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="have"/>
+<w tok="to"/>
+<w tok="cross"/>
+<w tok="the"/>
+<toponym term="Little Cheyenne River">
+<candidates>
+<cand lat="44.770833" long="-100.717778" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Warren"/>
+<w tok="&apos;s"/>
+<w tok="map"/>
+<w tok="will"/>
+<w tok="indicate"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="points"/>
+<w tok="mentioned"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="H."/>
+<w tok="SIBLEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

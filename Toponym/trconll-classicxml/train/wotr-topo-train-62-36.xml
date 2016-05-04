@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-36" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="CAMERON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo">
+<candidates>
+<cand lat="38.3410275741" long="-92.4659974107" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="Captain"/>
+<w tok="Human"/>
+<w tok="left"/>
+<toponym term="Ozark">
+<candidates>
+</candidates>
+</toponym>
+<w tok="early"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="was"/>
+<w tok="expecting"/>
+<w tok="to"/>
+<w tok="move"/>
+<w tok="across"/>
+<toponym term="Rolling Prairie">
+<candidates>
+<cand lat="36.15925045" long="-92.95107068" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="then"/>
+<w tok="toward"/>
+<toponym term="Lebanon">
+<candidates>
+<cand lat="37.678333" long="-92.661667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<toponym term="Searcy County">
+<candidates>
+<cand lat="35.925556" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="would"/>
+<w tok="direct"/>
+<w tok="his"/>
+<w tok="courts"/>
+<w tok="in"/>
+<w tok="any"/>
+<w tok="direction"/>
+<w tok="that"/>
+<w tok="would"/>
+<w tok="lead"/>
+<w tok="him"/>
+<w tok="toward"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Phelps"/>
+<w tok="will"/>
+<w tok="not"/>
+<w tok="attack"/>
+<w tok="a"/>
+<w tok="largely"/>
+<w tok="superior"/>
+<w tok="force"/>
+<w tok="unless"/>
+<w tok="absolutely"/>
+<w tok="necessary"/>
+<w tok=","/>
+<w tok="until"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="full"/>
+<w tok="understanding"/>
+<w tok="between"/>
+<w tok="the"/>
+<w tok="commanders"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="different"/>
+<w tok="detachments"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="will"/>
+<w tok="take"/>
+<w tok="time"/>
+<w tok="and"/>
+<w tok="do"/>
+<w tok="the"/>
+<w tok="work"/>
+<w tok="well"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="Send"/>
+<w tok="this"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="him"/>
+<w tok="by"/>
+<w tok="any"/>
+<w tok="detachment"/>
+<w tok="leaving"/>
+<w tok="in"/>
+<w tok="that"/>
+<w tok="direction"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

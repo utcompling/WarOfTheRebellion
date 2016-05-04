@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-193" title="62" domain="wotr">
+<s id="s1">
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8785600617" long="-77.0991403658" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="D. C.">
+<candidates>
+<cand lat="38.9081647703" long="-77.0295767671" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864-2.50"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="As"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="orders"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="War"/>
+<w tok="Department"/>
+<w tok="place"/>
+<w tok="all"/>
+<toponym term="Illinois">
+<candidates>
+<cand lat="40.0786184543" long="-89.1175977406" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="General"/>
+<w tok="Heintzelman"/>
+<w tok="&apos;s"/>
+<w tok="department"/>
+<w tok="."/>
+<toponym term="Alton">
+<candidates>
+<cand lat="38.900556" long="-90.159722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="of"/>
+<w tok="course"/>
+<w tok="falls"/>
+<w tok="under"/>
+<w tok="his"/>
+<w tok="command"/>
+<w tok="."/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok=","/>
+<w tok="General-in-Chief"/>
+<w tok="."/>
+</s>
+</doc>

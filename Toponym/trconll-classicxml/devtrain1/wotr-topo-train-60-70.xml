@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-70" title="60" domain="wotr">
+<s id="s1">
+<w tok="Brigadier-General"/>
+<w tok="CULLUM"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+<w tok="Numbers"/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="James"/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="Stuart"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok="."/>
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="CAV"/>
+<w tok="."/>
+<w tok="CORPS"/>
+<w tok=","/>
+<w tok="ARMY"/>
+<w tok="OF"/>
+<w tok="NORTHERN"/>
+<w tok="VIRGINIA"/>
+<w tok=","/>
+<w tok="February"/>
+<w tok="24"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="Major"/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="Gilmor"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="cavalry"/>
+<w tok="battalion"/>
+<w tok=","/>
+<w tok="has"/>
+<w tok="made"/>
+<w tok="a"/>
+<w tok="successful"/>
+<w tok="attack"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="Baltimore"/>
+<w tok="and"/>
+<w tok="Ohio"/>
+<w tok="Railroad"/>
+<w tok="."/>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="night"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="11th"/>
+<w tok="instant"/>
+<w tok="he"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="20"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="penetrated"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="railroad"/>
+<w tok="at"/>
+<toponym term="Brown&apos;s Shop">
+<candidates>
+</candidates>
+</toponym>
+<w tok="between"/>
+<toponym term="Kearneysville">
+<candidates>
+<cand lat="39.388056" long="-77.885556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Fuffield&apos;s Depot">
+<candidates>
+</candidates>
+</toponym>
+<w tok="attacked"/>
+<w tok="the"/>
+<w tok="express"/>
+<w tok="train"/>
+<w tok="from"/>
+<toponym term="Baltimore">
+<candidates>
+<cand lat="39.2958670609" long="-76.6071891453" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="threw"/>
+<w tok="it"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="track"/>
+<w tok=","/>
+<w tok="disabling"/>
+<w tok="the"/>
+<w tok="engine"/>
+<w tok="and"/>
+<w tok="damaging"/>
+<w tok="the"/>
+<w tok="track"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="captured"/>
+<w tok="nearly"/>
+<w tok="90"/>
+<w tok="prisoners"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="owing"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="proximity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="was"/>
+<w tok="compelled"/>
+<w tok="to"/>
+<w tok="abandon"/>
+<w tok="them"/>
+<w tok=","/>
+<w tok="having"/>
+<w tok="taken"/>
+<w tok="away"/>
+<w tok="their"/>
+<w tok="arms"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="returned"/>
+<w tok="to"/>
+<toponym term="Mount Jackson">
+<candidates>
+<cand lat="38.74995" long="-78.637638" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="loss"/>
+<w tok=","/>
+<w tok="although"/>
+<w tok="pursued"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="states"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="far"/>
+<w tok="as"/>
+<toponym term="Strasburg">
+<candidates>
+</candidates>
+</toponym>
+<w tok="by"/>
+<w tok="four"/>
+<w tok="or"/>
+<w tok="five"/>
+<w tok="regiments"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="J."/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="STUART"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-113" title="64" domain="wotr">
+<s id="s1">
+<toponym term="BROWNSVILLE">
+<candidates>
+<cand lat="34.778056" long="-91.871667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="ARK.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Captain"/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=":"/>
+<w tok="Be"/>
+<w tok="sure"/>
+<w tok="and"/>
+<w tok="send"/>
+<w tok="the"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="sixth"/>
+<w tok="Illinois"/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="fun"/>
+<w tok="ahead"/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="received"/>
+<w tok="is"/>
+<w tok="correct"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="men"/>
+<w tok="are"/>
+<w tok="just"/>
+<w tok="starting"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="10"/>
+<w tok="a.m."/>
+<w tok="O"/>
+<w tok="."/>
+<w tok="WOOD"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

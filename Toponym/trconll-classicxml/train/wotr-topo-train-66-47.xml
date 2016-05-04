@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="66-47" title="66" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Fourth"/>
+<w tok="indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="FLORIDA"/>
+<w tok=","/>
+<w tok="June"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Respectfully"/>
+<w tok="returned"/>
+<w tok="."/>
+<w tok="Operators"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="supplied"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="enlisted"/>
+<w tok="men"/>
+<w tok="now"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="line"/>
+<w tok="runs"/>
+<w tok="through"/>
+<w tok="ha"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="entirely"/>
+<w tok="ours"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="traverse"/>
+<w tok="it"/>
+<w tok="without"/>
+<w tok="a"/>
+<w tok="guard"/>
+<w tok=";"/>
+<w tok="single"/>
+<w tok="men"/>
+<w tok="and"/>
+<w tok="officers"/>
+<w tok="pass"/>
+<w tok="between"/>
+<w tok="this"/>
+<w tok="and"/>
+<toponym term="Saint Augustine">
+<candidates>
+<cand lat="29.894722" long="-81.314444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="without"/>
+<w tok="apprehension"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="loyal"/>
+<w tok="population"/>
+<w tok="is"/>
+<w tok="rapidly"/>
+<w tok="setting"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Saint John&apos;s">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="These"/>
+<w tok="men"/>
+<w tok="would"/>
+<w tok="promptly"/>
+<w tok="arrest"/>
+<w tok="any"/>
+<w tok="one"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="rebel"/>
+<w tok="army"/>
+<w tok="."/>
+<w tok="Our"/>
+<w tok="picket-boats"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="gun-boats"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="river"/>
+<w tok="make"/>
+<w tok="it"/>
+<w tok="a"/>
+<w tok="difficult"/>
+<w tok="matter"/>
+<w tok="for"/>
+<w tok="any"/>
+<w tok="to"/>
+<w tok="pass"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="west"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok="side"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Saint John&apos;s">
+<candidates>
+<cand lat="30.401389" long="-81.400833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="On"/>
+<w tok="the"/>
+<w tok="whole"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="consider"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="as"/>
+<w tok="safe"/>
+<w tok="certainly"/>
+<w tok="as"/>
+<w tok="the"/>
+<w tok="one"/>
+<w tok="between"/>
+<toponym term="New York">
+<candidates>
+<cand lat="42.8946859029" long="-75.5958391631" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Philadelphia">
+<candidates>
+<cand lat="40.9273122957" long="-77.8303566365" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="aid"/>
+<w tok="of"/>
+<w tok="such"/>
+<w tok="a"/>
+<w tok="communication"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="immense"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="district"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="ordinary"/>
+<w tok="administration"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="the"/>
+<w tok="line"/>
+<w tok="cost"/>
+<w tok="$"/>
+<w tok="20,000"/>
+<w tok="it"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="made"/>
+<w tok="."/>
+<w tok="WM"/>
+<w tok="."/>
+<w tok="BIRNEY"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

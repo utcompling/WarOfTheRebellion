@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-121" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="SAINT"/>
+<w tok="LOUIS"/>
+<w tok="DISTRICT"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="COMMANDING"/>
+<w tok="OFFICER"/>
+<w tok=","/>
+<toponym term="Pilot Knob">
+<candidates>
+<cand lat="37.623611" long="-90.643611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Has"/>
+<w tok="Captain"/>
+<w tok="Milks"/>
+<w tok="&apos;"/>
+<w tok="company"/>
+<w tok="yet"/>
+<w tok="gone"/>
+<w tok="to"/>
+<toponym term="Saint Genevieve">
+<candidates>
+<cand lat="37.976944" long="-90.048611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="station"/>
+<w tok="?"/>
+<w tok="I"/>
+<w tok="telegraphed"/>
+<w tok="you"/>
+<w tok="several"/>
+<w tok="days"/>
+<w tok="ago"/>
+<w tok="to"/>
+<w tok="know"/>
+<w tok="whether"/>
+<w tok="the"/>
+<w tok="three"/>
+<w tok="howitzers"/>
+<w tok="at"/>
+<toponym term="Camp Curtis">
+<candidates>
+<cand lat="37.590278" long="-90.626389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="company"/>
+<w tok="at"/>
+<toponym term="Centreville">
+<candidates>
+<cand lat="37.436111" long="-90.961111" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="might"/>
+<w tok="not"/>
+<w tok="advantageously"/>
+<w tok="be"/>
+<w tok="sent"/>
+<w tok="to"/>
+<toponym term="Patterson">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="have"/>
+<w tok="yet"/>
+<w tok="received"/>
+<w tok="no"/>
+<w tok="answer"/>
+<w tok="."/>
+<w tok="THOMAS"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

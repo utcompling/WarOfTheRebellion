@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-59" title="78" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="JUNE"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="-"/>
+<w tok="For"/>
+<w tok="Sturgis"/>
+<w tok="to"/>
+<w tok="Washburn"/>
+<w tok=","/>
+<w tok="reporting"/>
+<w tok="operations"/>
+<w tok=","/>
+<w tok="see"/>
+<w tok="Part"/>
+<w tok="I"/>
+<w tok=","/>
+<w tok="p"/>
+<w tok="."/>
+<w tok="89"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="WHITE"/>
+<w tok="&apos;S"/>
+<w tok="STATION"/>
+<w tok=","/>
+<w tok="June"/>
+<w tok="13"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="WASHBURN"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="desire"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="a"/>
+<w tok="personal"/>
+<w tok="interview"/>
+<w tok="with"/>
+<w tok="you"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="propriety"/>
+<w tok="of"/>
+<w tok="my"/>
+<w tok="being"/>
+<w tok="relieved"/>
+<w tok="from"/>
+<w tok="command"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="for"/>
+<w tok="that"/>
+<w tok="purpose"/>
+<w tok="would"/>
+<w tok="like"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="visit"/>
+<toponym term="Memphis">
+<candidates>
+<cand lat="35.1291049331" long="-90.0093025714" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="evening"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="D."/>
+<w tok="STURGIS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

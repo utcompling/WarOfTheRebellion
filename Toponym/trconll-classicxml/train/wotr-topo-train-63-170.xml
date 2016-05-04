@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-170" title="63" domain="wotr">
+<s id="s1">
+<toponym term="BENTON BARRACKS">
+<candidates>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="15"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="EWING"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5856066161" long="-90.1999200946" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Colonel"/>
+<w tok="Wells"/>
+<w tok=","/>
+<w tok="Twelfth"/>
+<w tok="Missouri"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="whose"/>
+<w tok="regiment"/>
+<w tok="the"/>
+<w tok="picket"/>
+<w tok="at"/>
+<toponym term="Lowell">
+<candidates>
+<cand lat="39.31" long="-94.42" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="belongs"/>
+<w tok=","/>
+<w tok="thinks"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="disposition"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="part"/>
+<w tok="of"/>
+<w tok="outside"/>
+<w tok="troops"/>
+<w tok="to"/>
+<w tok="threaten"/>
+<w tok="the"/>
+<w tok="guard"/>
+<w tok="stationed"/>
+<w tok="there"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="thinks"/>
+<w tok="it"/>
+<w tok="advisable"/>
+<w tok="for"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="add"/>
+<w tok="one"/>
+<w tok="squadron"/>
+<w tok="to"/>
+<w tok="that"/>
+<w tok="picket"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="done"/>
+<w tok=","/>
+<w tok="now"/>
+<w tok="requesting"/>
+<w tok="your"/>
+<w tok="approval"/>
+<w tok="."/>
+<w tok="B."/>
+<w tok="L."/>
+<w tok="E."/>
+<w tok="BONNEVILLE"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="61-51" title="61" domain="wotr">
+<s id="s1">
+<w tok="Numbers"/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="of"/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="John"/>
+<w tok="B."/>
+<w tok="Sanborn"/>
+<w tok=","/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="Army"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Southwest"/>
+<w tok="Missouri"/>
+<w tok="."/>
+<toponym term="SPRINGFIELD">
+<candidates>
+<cand lat="37.195" long="-93.286111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Chitwood"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="detachment"/>
+<w tok="in"/>
+<w tok="pursuit"/>
+<w tok="of"/>
+<w tok="mail"/>
+<w tok="robbers"/>
+<w tok=","/>
+<w tok="reports"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="came"/>
+<w tok="upon"/>
+<w tok="the"/>
+<w tok="camp"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="guerrillas"/>
+<w tok="near"/>
+<w tok="the"/>
+<w tok="headwaters"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="Piney">
+<candidates>
+<cand lat="37.884167" long="-92.064167" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="killed"/>
+<w tok="4"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="party"/>
+<w tok="and"/>
+<w tok="wounded"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="secured"/>
+<w tok="several"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="articles"/>
+<w tok="taken"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="stage"/>
+<w tok="passengers"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Human"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="at"/>
+<toponym term="Yellville">
+<candidates>
+<cand lat="36.229722" long="-92.685278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="had"/>
+<w tok="several"/>
+<w tok="affairs"/>
+<w tok="with"/>
+<w tok="bushwhackers"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="which"/>
+<w tok="9"/>
+<w tok="bushwhackers"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="killed"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Freeman"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="is"/>
+<w tok="on"/>
+<toponym term="White River">
+<candidates>
+<cand lat="33.951389" long="-91.081389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="below"/>
+<toponym term="Jacksonport">
+<candidates>
+<cand lat="35.641111" long="-91.308889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major"/>
+<w tok="Gunning"/>
+<w tok="is"/>
+<w tok="on"/>
+<toponym term="Calf Creek">
+<candidates>
+<cand lat="35.903333" long="-92.846944" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<toponym term="Searcy County">
+<candidates>
+<cand lat="35.925556" long="-92.7" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="75"/>
+<w tok="men"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Major"/>
+<w tok="Fitch"/>
+<w tok=","/>
+<w tok="First"/>
+<w tok="Arkansas"/>
+<w tok="Cavalry"/>
+<w tok=","/>
+<w tok="pursuing"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="within"/>
+<w tok="one-half"/>
+<w tok="hour"/>
+<w tok="&apos;s"/>
+<w tok="ride"/>
+<w tok="of"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Live"/>
+<w tok="&apos;s"/>
+<w tok="command"/>
+<w tok="is"/>
+<w tok="scattered"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="northern"/>
+<w tok="part"/>
+<w tok="of"/>
+<toponym term="Fulton County">
+<candidates>
+<cand lat="36.388611" long="-91.814444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="some"/>
+<w tok="in"/>
+<toponym term="Missouri">
+<candidates>
+<cand lat="38.3813960849" long="-92.4427072657" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBRON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok="."/>
+</s>
+</doc>

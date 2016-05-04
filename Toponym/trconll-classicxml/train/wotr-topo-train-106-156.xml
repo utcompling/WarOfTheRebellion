@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-156" title="106" domain="wotr">
+<s id="s1">
+<w tok="To"/>
+<w tok="the"/>
+<w tok="General"/>
+<w tok="Commanding"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="memorialists"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="Legislative"/>
+<w tok="Assembly"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="State"/>
+<w tok="of"/>
+<toponym term="Oregon">
+<candidates>
+</candidates>
+</toponym>
+<w tok="respectfully"/>
+<w tok="represent"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="protection"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Coast"/>
+<w tok="Indian"/>
+<w tok="Reservation"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok="State"/>
+<w tok="requires"/>
+<w tok="that"/>
+<toponym term="Fort Umpqua">
+<candidates>
+<cand lat="43.633333" long="-123.570833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="occupied"/>
+<w tok="by"/>
+<w tok="U."/>
+<w tok="S."/>
+<w tok="troops"/>
+<w tok="."/>
+<w tok="Resolved"/>
+<w tok=","/>
+<w tok="That"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="State"/>
+<w tok="is"/>
+<w tok="hereby"/>
+<w tok="requested"/>
+<w tok="to"/>
+<w tok="forward"/>
+<w tok="a"/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="above"/>
+<w tok="memorial"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="or"/>
+<w tok="other"/>
+<w tok="officer"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok="."/>
+<w tok="Adopted"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="House"/>
+<w tok="October"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="JOEL"/>
+<w tok="PALMER"/>
+<w tok=","/>
+<w tok="Speaker"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="House"/>
+<w tok="."/>
+<w tok="Adopted"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Senate"/>
+<w tok="October"/>
+<w tok="17"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="WILSON"/>
+<w tok="BOWLBY"/>
+<w tok=","/>
+<w tok="President"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Senate"/>
+<w tok="."/>
+</s>
+</doc>

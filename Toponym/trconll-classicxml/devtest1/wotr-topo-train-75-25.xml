@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="75-25" title="75" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="MILITARY"/>
+<w tok="DIVISION"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSISSIPPI"/>
+<w tok=","/>
+<toponym term="Tunnel Hill">
+<candidates>
+<cand lat="34.845833" long="-85.043056" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ga.">
+<candidates>
+<cand lat="32.6320832223" long="-83.4430281565" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864-3.30"/>
+<w tok="p."/>
+<w tok="m."/>
+<w tok="General"/>
+<w tok="GARRARD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="dispatch"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="Corse"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="received"/>
+<w tok=","/>
+<w tok="*"/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="directed"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="at"/>
+<w tok="all"/>
+<w tok="events"/>
+<w tok="to"/>
+<w tok="keep"/>
+<w tok="up"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="infantry"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="possible"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok=","/>
+<w tok="nor"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok=","/>
+<w tok="any"/>
+<w tok="enemy"/>
+<w tok="at"/>
+<toponym term="La Fayette">
+<candidates>
+<cand lat="34.709722" long="-85.283889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="It"/>
+<w tok="has"/>
+<w tok="been"/>
+<w tok="patrolled"/>
+<w tok="by"/>
+<w tok="400"/>
+<w tok="men"/>
+<w tok="for"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="he"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="hurry"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="McPherson"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="add"/>
+<w tok="for"/>
+<w tok="myself"/>
+<w tok="as"/>
+<w tok="official"/>
+<w tok="that"/>
+<w tok="General"/>
+<w tok="Grant"/>
+<w tok="drove"/>
+<w tok="Lee"/>
+<w tok="from"/>
+<w tok="every"/>
+<w tok="position"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="5th"/>
+<w tok="and"/>
+<w tok="6th"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="on"/>
+<w tok="the"/>
+<w tok="7th"/>
+<w tok="pursued"/>
+<w tok="him"/>
+<w tok="ten"/>
+<w tok="miles"/>
+<w tok=","/>
+<w tok="capturing"/>
+<w tok="all"/>
+<w tok="his"/>
+<w tok="wounded"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="much"/>
+<w tok="regard"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c."/>
+<w tok=","/>
+<w tok="L."/>
+<w tok="M."/>
+<w tok="DAYTON"/>
+<w tok=","/>
+<w tok="Aide-de-Camp"/>
+<w tok="."/>
+</s>
+</doc>

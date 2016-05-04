@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-21" title="106" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="PACIFIC"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7645830328" long="-122.4650834" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="September"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Colonel"/>
+<w tok="GEORGE"/>
+<w tok="S."/>
+<w tok="EVANS"/>
+<w tok=","/>
+<w tok="Second"/>
+<w tok="Cav"/>
+<w tok="."/>
+<toponym term="California">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="New"/>
+<w tok="Post"/>
+<w tok=","/>
+<w tok="near"/>
+<toponym term="Owen&apos;s Lake">
+<candidates>
+<cand lat="36.433269" long="-117.950916" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal.">
+<candidates>
+<cand lat="37.1060975961" long="-119.622667459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="In"/>
+<w tok="reply"/>
+<w tok="to"/>
+<w tok="Major"/>
+<w tok="O&apos;Neill"/>
+<w tok="&apos;s"/>
+<w tok="letter*"/>
+<w tok="reporting"/>
+<w tok="the"/>
+<w tok="number"/>
+<w tok="and"/>
+<w tok="kind"/>
+<w tok="of"/>
+<w tok="arms"/>
+<w tok="surrendered"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="agreeably"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="terms"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="treaty"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="directs"/>
+<w tok="that"/>
+<w tok="firearms"/>
+<w tok="of"/>
+<w tok="every"/>
+<w tok="description"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="Indians"/>
+<w tok="shall"/>
+<w tok="be"/>
+<w tok="turned"/>
+<w tok="in"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="new"/>
+<toponym term="San Pedro">
+<candidates>
+<cand lat="33.74" long="-118.29" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="depot"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="quartermaster"/>
+<w tok="thereof"/>
+<w tok="giving"/>
+<w tok="the"/>
+<w tok="usual"/>
+<w tok="storage"/>
+<w tok="receipts"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="R."/>
+<w tok="C."/>
+<w tok="DRUM"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

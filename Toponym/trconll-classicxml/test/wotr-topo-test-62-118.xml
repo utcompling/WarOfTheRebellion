@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-118" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="26"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="CAMERON"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="troops"/>
+<w tok="arriving"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="need"/>
+<w tok="to"/>
+<w tok="feed"/>
+<w tok="and"/>
+<w tok="rest"/>
+<w tok="a"/>
+<w tok="little"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="Holland"/>
+<w tok="will"/>
+<w tok="leave"/>
+<w tok="here"/>
+<w tok="at"/>
+<w tok="1"/>
+<w tok="o&apos;clock"/>
+<w tok="and"/>
+<w tok="come"/>
+<w tok="directly"/>
+<w tok="through"/>
+<w tok="."/>
+<w tok="Troops"/>
+<w tok="need"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="moved"/>
+<w tok="unless"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="an"/>
+<w tok="emergency"/>
+<w tok="till"/>
+<w tok="he"/>
+<w tok="arrives"/>
+<w tok="."/>
+<w tok="Gather"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="information"/>
+<w tok="you"/>
+<w tok="can"/>
+<w tok="for"/>
+<w tok="him"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="send"/>
+<w tok="him"/>
+<w tok="instead"/>
+<w tok="of"/>
+<w tok="coming"/>
+<w tok="myself"/>
+<w tok=","/>
+<w tok="because"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="acquainted"/>
+<w tok="with"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="and"/>
+<w tok="country"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="sufficient"/>
+<w tok="force"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="kept"/>
+<w tok="at"/>
+<toponym term="Cassville">
+<candidates>
+<cand lat="36.68" long="-93.869444" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="hold"/>
+<w tok="the"/>
+<w tok="place"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

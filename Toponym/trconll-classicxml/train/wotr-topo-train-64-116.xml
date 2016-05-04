@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-116" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="OF"/>
+<w tok="LITTLE"/>
+<w tok="ROCK"/>
+<w tok=","/>
+<toponym term="Little Rock">
+<candidates>
+<cand lat="34.7445209053" long="-92.2908926031" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8622318628" long="-92.3600659265" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="31"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="O"/>
+<w tok="."/>
+<w tok="WOOD"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Brownsville">
+<candidates>
+<cand lat="34.778056" long="-91.871667" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="general"/>
+<w tok="wishes"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="fully"/>
+<w tok="what"/>
+<w tok="information"/>
+<w tok="you"/>
+<w tok="have"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="whether"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="reliable"/>
+<w tok=";"/>
+<w tok="also"/>
+<w tok="where"/>
+<toponym term="Ashley&apos;s Mills">
+<candidates>
+</candidates>
+</toponym>
+<w tok="are"/>
+<w tok="situated"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="H."/>
+<w tok="DYER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

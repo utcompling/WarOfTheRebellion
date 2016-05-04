@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-162" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="G."/>
+<w tok="L."/>
+<w tok="ANDREWS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<toponym term="Port Hudson">
+<candidates>
+<cand lat="30.678056" long="-91.268889" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Can"/>
+<w tok="you"/>
+<w tok="by"/>
+<w tok="foraging"/>
+<w tok="parties"/>
+<w tok="collect"/>
+<w tok="beef-cattle"/>
+<w tok="in"/>
+<w tok="any"/>
+<w tok="amount"/>
+<w tok=";"/>
+<w tok="and"/>
+<w tok="if"/>
+<w tok="so"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="what"/>
+<w tok="extent"/>
+<w tok="?"/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="CHAS"/>
+<w tok="."/>
+<w tok="P."/>
+<w tok="STONE"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="and"/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Same"/>
+<w tok="to"/>
+<w tok="Brigadier-General"/>
+<w tok="Cooke"/>
+<w tok=","/>
+<w tok="commanding"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="Baton"/>
+<w tok="Rouge"/>
+<w tok="."/>
+<w tok=")"/>
+</s>
+</doc>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-154" title="63" domain="wotr">
+<s id="s1">
+<w tok="CONFIDENTIAL"/>
+<w tok="."/>
+<w tok="]"/>
+<toponym term="WASHINGTON">
+<candidates>
+<cand lat="38.8642492579" long="-77.0706217398" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="POPE"/>
+<w tok=","/>
+<toponym term="Milwaukee">
+<candidates>
+<cand lat="43.05" long="-87.95" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Hearing"/>
+<w tok="that"/>
+<w tok="your"/>
+<w tok="report*"/>
+<w tok="on"/>
+<w tok="Indian"/>
+<w tok="affairs"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="grossly"/>
+<w tok="misrepresented"/>
+<w tok="by"/>
+<w tok="parties"/>
+<w tok="interested"/>
+<w tok="in"/>
+<w tok="perpetuating"/>
+<w tok="the"/>
+<w tok="present"/>
+<w tok="system"/>
+<w tok="of"/>
+<w tok="frauds"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="applied"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="it"/>
+<w tok="published"/>
+<w tok="."/>
+<w tok="He"/>
+<w tok="gave"/>
+<w tok="his"/>
+<w tok="consent"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="copy"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="you"/>
+<w tok="to-day"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="immediately"/>
+<w tok="put"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="hands"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="printer"/>
+<w tok="."/>
+<w tok="So"/>
+<w tok="far"/>
+<w tok="as"/>
+<w tok="I"/>
+<w tok="learn"/>
+<w tok="from"/>
+<w tok="honest"/>
+<w tok="men"/>
+<w tok="acquainted"/>
+<w tok="or"/>
+<w tok="connected"/>
+<w tok="with"/>
+<w tok="Indian"/>
+<w tok="affairs"/>
+<w tok="in"/>
+<w tok="the"/>
+<toponym term="Northwest">
+<candidates>
+</candidates>
+</toponym>
+<w tok="your"/>
+<w tok="policy"/>
+<w tok="is"/>
+<w tok="the"/>
+<w tok="correct"/>
+<w tok="one"/>
+<w tok="."/>
+<w tok="Nevertheless"/>
+<w tok=","/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="strongly"/>
+<w tok="opposed"/>
+<w tok="by"/>
+<w tok="nearly"/>
+<w tok="everybody"/>
+<w tok="connected"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Interior"/>
+<w tok="."/>
+<w tok="Bishop"/>
+<w tok="Whipple"/>
+<w tok=","/>
+<w tok="of"/>
+<toponym term="Minnesota">
+<candidates>
+<cand lat="46.3795137918" long="-94.2215860907" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="just"/>
+<w tok="been"/>
+<w tok="here"/>
+<w tok="on"/>
+<w tok="Indian"/>
+<w tok="business"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="called"/>
+<w tok="his"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="see"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="At"/>
+<w tok="first"/>
+<w tok="they"/>
+<w tok="pretended"/>
+<w tok="that"/>
+<w tok="it"/>
+<w tok="had"/>
+<w tok="been"/>
+<w tok="mislaid"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="he"/>
+<w tok="finally"/>
+<w tok="got"/>
+<w tok="an"/>
+<w tok="opportunity"/>
+<w tok="to"/>
+<w tok="read"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="he"/>
+<w tok="approved"/>
+<w tok="it"/>
+<w tok="entirely"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="as"/>
+<w tok="soon"/>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="published"/>
+<w tok="he"/>
+<w tok="will"/>
+<w tok="call"/>
+<w tok="attention"/>
+<w tok="to"/>
+<w tok="its"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="press"/>
+<w tok="of"/>
+<toponym term="Minnesota">
+<candidates>
+<cand lat="46.3795137918" long="-94.2215860907" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Yours"/>
+<w tok=","/>
+<w tok="truly"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="W."/>
+<w tok="HALLECK"/>
+<w tok="."/>
+</s>
+</doc>

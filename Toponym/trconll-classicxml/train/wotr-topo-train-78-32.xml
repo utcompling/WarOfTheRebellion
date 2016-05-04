@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-32" title="78" domain="wotr">
+<s id="s1">
+<toponym term="COLLIERVILLE">
+<candidates>
+<cand lat="35.054366" long="-89.682306" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="12"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="WASHBURN"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="What"/>
+<w tok="I"/>
+<w tok="know"/>
+<w tok="a"/>
+<w tok="force"/>
+<w tok="moving"/>
+<w tok="toward"/>
+<toponym term="White&apos;s Station">
+<candidates>
+</candidates>
+</toponym>
+<w tok="was"/>
+<w tok="reported"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="everything"/>
+<w tok="I"/>
+<w tok="want"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="reported"/>
+<w tok="that"/>
+<w tok="the"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="eighth"/>
+<w tok="["/>
+<w tok="Illinois"/>
+<w tok="]"/>
+<w tok="Regiment"/>
+<w tok="was"/>
+<w tok="near"/>
+<toponym term="La Grange">
+<candidates>
+</candidates>
+</toponym>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=","/>
+<w tok="organized"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="plenty"/>
+<w tok="of"/>
+<w tok="ammunition"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="commanded"/>
+<w tok="by"/>
+<w tok="the"/>
+<w tok="adjutant"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="will"/>
+<w tok="get"/>
+<w tok="in"/>
+<w tok="safe"/>
+<w tok="no"/>
+<w tok="doubt"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="just"/>
+<w tok="about"/>
+<w tok="withdrawing"/>
+<w tok="to"/>
+<toponym term="White&apos;s Station">
+<candidates>
+<cand lat="35.101944" long="-89.859722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="as"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="precarious"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="S."/>
+<w tok="D."/>
+<w tok="STURGIS"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

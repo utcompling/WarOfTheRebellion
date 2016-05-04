@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="78-71" title="78" domain="wotr">
+<s id="s1">
+<toponym term="MEMPHIS">
+<candidates>
+<cand lat="35.1291049331" long="-90.0093025714" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="TENN.">
+<candidates>
+<cand lat="35.8519948364" long="-86.2856808699" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="("/>
+<w tok="Received"/>
+<w tok="12"/>
+<w tok="."/>
+<w tok="12"/>
+<w tok="p."/>
+<w tok="m"/>
+<w tok="."/>
+<w tok="16th"/>
+<w tok="."/>
+<w tok=")"/>
+<w tok="Hon"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="M."/>
+<w tok="STANTON"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="War"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="affair"/>
+<w tok="of"/>
+<w tok="Sturgis"/>
+<w tok="&apos;s"/>
+<w tok="not"/>
+<w tok="as"/>
+<w tok="bad"/>
+<w tok="as"/>
+<w tok="he"/>
+<w tok="first"/>
+<w tok="represented"/>
+<w tok="."/>
+<w tok="Loss"/>
+<w tok="will"/>
+<w tok="probably"/>
+<w tok="be"/>
+<w tok="reduced"/>
+<w tok="to"/>
+<w tok="1,500"/>
+<w tok="or"/>
+<w tok="2,000"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="force"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="consisted"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="commands"/>
+<w tok="of"/>
+<w tok="S."/>
+<w tok="D."/>
+<w tok="Lee"/>
+<w tok=","/>
+<w tok="Forrest"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="Roddey"/>
+<w tok=","/>
+<w tok="with"/>
+<w tok="infantry"/>
+<w tok="from"/>
+<toponym term="Mobile">
+<candidates>
+<cand lat="30.671514125" long="-88.0301799701" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="estimated"/>
+<w tok="at"/>
+<w tok="15,000"/>
+<w tok="."/>
+<w tok="Of"/>
+<w tok="1,300"/>
+<w tok="colored"/>
+<w tok="troops"/>
+<w tok="sent"/>
+<w tok="out"/>
+<w tok=","/>
+<w tok="about"/>
+<w tok="800"/>
+<w tok="escaped"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="fought"/>
+<w tok="desperately"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="I"/>
+<w tok="hear"/>
+<w tok="were"/>
+<w tok="well"/>
+<w tok="treated"/>
+<w tok="by"/>
+<w tok="their"/>
+<w tok="captors"/>
+<w tok="."/>
+<w tok="C."/>
+<w tok="C."/>
+<w tok="WASHBURN"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="."/>
+</s>
+</doc>

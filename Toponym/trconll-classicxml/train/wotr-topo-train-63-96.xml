@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-96" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTH"/>
+<w tok="KANSAS"/>
+<w tok=","/>
+<toponym term="Paola">
+<candidates>
+<cand lat="38.573611" long="-94.873333" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kansas">
+<candidates>
+<cand lat="38.5018470923" long="-98.3431533426" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="N."/>
+<w tok="P."/>
+<w tok="CHIPMAN"/>
+<w tok=","/>
+<w tok="Chief"/>
+<w tok="of"/>
+<w tok="Staff"/>
+<w tok=","/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="Kansas"/>
+<w tok=","/>
+<toponym term="Fort Leavenworth">
+<candidates>
+<cand lat="39.355" long="-94.921111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Kans.">
+<candidates>
+<cand lat="38.506194295" long="-98.3830461374" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="COLONEL"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="information"/>
+<w tok="that"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="several"/>
+<w tok="droves"/>
+<w tok="of"/>
+<w tok="cattle"/>
+<w tok="from"/>
+<w tok="the"/>
+<toponym term="Indian Territory">
+<candidates>
+</candidates>
+</toponym>
+<w tok="in"/>
+<toponym term="Greenwood">
+<candidates>
+<cand lat="37.866667" long="-96.266667" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Allen">
+<candidates>
+<cand lat="37.883333" long="-95.283333" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="adjoining"/>
+<w tok="counties"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="charge"/>
+<w tok="of"/>
+<w tok="persons"/>
+<w tok="professing"/>
+<w tok="to"/>
+<w tok="have"/>
+<w tok="permits"/>
+<w tok="from"/>
+<w tok="Colonel"/>
+<w tok="Phillips"/>
+<w tok="and"/>
+<w tok="other"/>
+<w tok="commanding"/>
+<w tok="officers"/>
+<w tok="south"/>
+<w tok="of"/>
+<w tok="this"/>
+<w tok="district"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="request"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="informed"/>
+<w tok="in"/>
+<w tok="reference"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="instructions"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="the"/>
+<w tok="department"/>
+<w tok="upon"/>
+<w tok="this"/>
+<w tok="subject"/>
+<w tok=","/>
+<w tok="especially"/>
+<w tok="whether"/>
+<w tok="or"/>
+<w tok="not"/>
+<w tok="these"/>
+<w tok="officers"/>
+<w tok="have"/>
+<w tok="authority"/>
+<w tok="to"/>
+<w tok="give"/>
+<w tok="such"/>
+<w tok="permits"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="THOS"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="McKEAN"/>
+<w tok=","/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="U."/>
+<w tok="S"/>
+<w tok="."/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="District"/>
+<w tok="."/>
+</s>
+</doc>

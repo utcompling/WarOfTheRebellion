@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-96" title="64" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Indorsement"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="Write"/>
+<w tok="A."/>
+<w tok="Allen"/>
+<w tok="to"/>
+<w tok="kill"/>
+<w tok="any"/>
+<w tok="bushwhacker"/>
+<w tok="he"/>
+<w tok="can"/>
+<w tok="find"/>
+<w tok="engaged"/>
+<w tok="in"/>
+<w tok="his"/>
+<w tok="hellish"/>
+<w tok="work"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="force"/>
+<w tok="in"/>
+<toponym term="Ray County">
+<candidates>
+<cand lat="39.35" long="-93.99" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="strengthened"/>
+<w tok="very"/>
+<w tok="soon"/>
+<w tok="."/>
+<w tok="F."/>
+<w tok="By"/>
+<w tok="S."/>
+<w tok="H"/>
+<w tok="."/>
+</s>
+</doc>

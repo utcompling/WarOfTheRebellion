@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-141" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="THIRTEENTH"/>
+<w tok="ARMY"/>
+<w tok="CORPS"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9428540188" long="-90.0947173244" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="La.">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="28"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major"/>
+<w tok="General"/>
+<w tok="W."/>
+<w tok="B"/>
+<w tok="FRANKLIN"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Nineteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="General"/>
+<w tok="Dana"/>
+<w tok=","/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="letter"/>
+<w tok="bearing"/>
+<w tok="date"/>
+<w tok="January"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok=","/>
+<w tok="writes"/>
+<w tok="me"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok=":"/>
+<w tok="There"/>
+<w tok="is"/>
+<w tok="a"/>
+<w tok="Mr."/>
+<w tok="Veazie"/>
+<w tok="who"/>
+<w tok="belongs"/>
+<w tok=","/>
+<w tok="perhaps"/>
+<w tok=","/>
+<w tok="to"/>
+<w tok="Armstrong"/>
+<w tok="&apos;s"/>
+<w tok="scouts"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="who"/>
+<w tok="is"/>
+<w tok="now"/>
+<w tok="in"/>
+<w tok="Franklin"/>
+<w tok="&apos;s"/>
+<w tok="camp"/>
+<w tok=","/>
+<w tok="who"/>
+<w tok="ought"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok="informed"/>
+<w tok="that"/>
+<w tok="he"/>
+<w tok="is"/>
+<w tok="not"/>
+<w tok="a"/>
+<w tok="useful"/>
+<w tok="man"/>
+<w tok="in"/>
+<toponym term="Louisiana">
+<candidates>
+<cand lat="31.0318151286" long="-91.9247949116" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="but"/>
+<w tok="would"/>
+<w tok="be"/>
+<w tok="very"/>
+<w tok="useful"/>
+<w tok="here"/>
+<w tok="."/>
+<w tok="Will"/>
+<w tok="you"/>
+<w tok="be"/>
+<w tok="good"/>
+<w tok="enough"/>
+<w tok="to"/>
+<w tok="procure"/>
+<w tok="and"/>
+<w tok="forward"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="me"/>
+<w tok="?"/>
+<w tok="Could"/>
+<w tok="you"/>
+<w tok="comply"/>
+<w tok="with"/>
+<w tok="General"/>
+<w tok="Dana"/>
+<w tok="&apos;s"/>
+<w tok="request"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="oblige"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="O."/>
+<w tok="C."/>
+<w tok="ORD"/>
+<w tok=","/>
+<w tok="Major-General"/>
+<w tok="of"/>
+<w tok="Vols."/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Thirteenth"/>
+<w tok="Army"/>
+<w tok="Corps"/>
+<w tok="."/>
+</s>
+</doc>

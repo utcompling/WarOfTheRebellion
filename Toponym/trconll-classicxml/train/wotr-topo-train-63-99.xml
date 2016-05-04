@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-99" title="63" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="1"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="NEW"/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<toponym term="Santa Fe">
+<candidates>
+<cand lat="35.6831652251" long="-105.935754052" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4267667569" long="-106.111418366" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="March"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="General"/>
+<w tok="GEORGE"/>
+<w tok="WRIGHT"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Dept"/>
+<w tok="."/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Pacific"/>
+<w tok=","/>
+<toponym term="Sacramento">
+<candidates>
+<cand lat="38.6074140042" long="-121.460122339" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Cal">
+<candidates>
+<cand lat="37.1959607696" long="-119.650517459" selected="yes"/>
+</candidates>
+</toponym>
+<w tok=":"/>
+<w tok="MY"/>
+<w tok="DEAR"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="Your"/>
+<w tok="kind"/>
+<w tok="letter"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="23rd"/>
+<w tok="of"/>
+<w tok="January"/>
+<w tok="reached"/>
+<w tok="me"/>
+<w tok="in"/>
+<toponym term="Franklin">
+<candidates>
+<cand lat="31.026111" long="-96.486111" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Tex.">
+<candidates>
+<cand lat="31.4716505542" long="-99.2956666001" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="reasons"/>
+<w tok="connected"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="public"/>
+<w tok="service"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="Captain"/>
+<w tok="Cutler"/>
+<w tok="will"/>
+<w tok="explain"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="that"/>
+<w tok="renders"/>
+<w tok="it"/>
+<w tok="necessary"/>
+<w tok="that"/>
+<w tok="I"/>
+<w tok="should"/>
+<w tok="retain"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="transportation"/>
+<w tok="that"/>
+<w tok="comes"/>
+<w tok="through"/>
+<w tok="with"/>
+<w tok="the"/>
+<w tok="cavalry"/>
+<w tok="companies"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="ask"/>
+<w tok="of"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="besides"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="favor"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="thirty"/>
+<w tok="first-class"/>
+<w tok="6-mule"/>
+<w tok="teams"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="wagons"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="laden"/>
+<w tok="each"/>
+<w tok="with"/>
+<w tok="sugar"/>
+<w tok=","/>
+<w tok="coffee"/>
+<w tok=","/>
+<w tok="tea"/>
+<w tok=","/>
+<w tok="candles"/>
+<w tok=","/>
+<w tok="soap"/>
+<w tok=","/>
+<w tok="rice"/>
+<w tok=","/>
+<w tok="vinegar"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="pork"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="due"/>
+<w tok="proportions"/>
+<w tok=","/>
+<w tok="except"/>
+<w tok="sugar"/>
+<w tok="and"/>
+<w tok="coffee"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="2"/>
+<w tok="per"/>
+<w tok="cent"/>
+<w tok="in"/>
+<w tok="excess"/>
+<w tok="over"/>
+<w tok="and"/>
+<w tok="above"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="other"/>
+<w tok="articles"/>
+<w tok="."/>
+<w tok="Beans"/>
+<w tok="and"/>
+<w tok="flour"/>
+<w tok="and"/>
+<w tok="doubtless"/>
+<w tok="salt"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="can"/>
+<w tok="get"/>
+<w tok="on"/>
+<w tok="the"/>
+<toponym term="Rio Grande">
+<candidates>
+<cand lat="25.956111" long="-97.145278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="train"/>
+<w tok="should"/>
+<w tok="come"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="through"/>
+<w tok="to"/>
+<toponym term="Las Cruces">
+<candidates>
+<cand lat="32.314444" long="-106.778889" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="N. Mex.">
+<candidates>
+<cand lat="34.4267667569" long="-106.111418366" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="it"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="greatly"/>
+<w tok="needed"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="not"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="disappointed"/>
+<w tok="in"/>
+<w tok="this"/>
+<w tok=","/>
+<w tok="as"/>
+<w tok="everything"/>
+<w tok="depends"/>
+<w tok="on"/>
+<w tok="getting"/>
+<w tok="the"/>
+<w tok="train"/>
+<w tok="and"/>
+<w tok="stores"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="earliest"/>
+<w tok="possible"/>
+<w tok="day"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="Cutler"/>
+<w tok="will"/>
+<w tok="give"/>
+<w tok="you"/>
+<w tok="all"/>
+<w tok="the"/>
+<w tok="news"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="tell"/>
+<w tok="you"/>
+<w tok="how"/>
+<w tok="much"/>
+<w tok="we"/>
+<w tok="regretted"/>
+<w tok="the"/>
+<w tok="idea"/>
+<w tok="of"/>
+<w tok="your"/>
+<w tok="removal"/>
+<w tok="."/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="*"/>
+<w tok="Sincerely"/>
+<w tok=","/>
+<w tok="yours"/>
+<w tok=","/>
+<w tok="JAMES"/>
+<w tok="H."/>
+<w tok="CARLETON"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

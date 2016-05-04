@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-133" title="106" domain="wotr">
+<s id="s1">
+<toponym term="MESILLA">
+<candidates>
+<cand lat="32.272778" long="-106.800833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="November"/>
+<w tok="1"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="within"/>
+<w tok="correspondence"/>
+<w tok="is"/>
+<w tok="forwarded"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="commanding"/>
+<w tok="officer"/>
+<w tok="at"/>
+<toponym term="Tucson">
+<candidates>
+<cand lat="32.221667" long="-110.926389" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="with"/>
+<w tok="instructions"/>
+<w tok="to"/>
+<w tok="enter"/>
+<w tok="into"/>
+<w tok="any"/>
+<w tok="arrangement"/>
+<w tok="in"/>
+<w tok="regard"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="subject-matter"/>
+<w tok="that"/>
+<w tok="may"/>
+<w tok="be"/>
+<w tok="deemed"/>
+<w tok="by"/>
+<w tok="him"/>
+<w tok="expedient"/>
+<w tok=","/>
+<w tok="but"/>
+<w tok="in"/>
+<w tok="no"/>
+<w tok="event"/>
+<w tok="will"/>
+<w tok="anything"/>
+<w tok="be"/>
+<w tok="attempted"/>
+<w tok="that"/>
+<w tok="can"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="effectually"/>
+<w tok="enforced"/>
+<w tok="."/>
+<w tok="Otherwise"/>
+<w tok="the"/>
+<w tok="subject"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="dropped"/>
+<w tok="."/>
+<w tok="J."/>
+<w tok="R."/>
+<w tok="WEST"/>
+<w tok=","/>
+<w tok="Colonel"/>
+<w tok="First"/>
+<w tok="Infantry"/>
+<w tok="California"/>
+<w tok="Volunteers"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

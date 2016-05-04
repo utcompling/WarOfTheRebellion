@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-134" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="New Orleans">
+<candidates>
+<cand lat="29.9689216714" long="-90.0690324629" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="14"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Captain"/>
+<w tok="MAHLER"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Quartermaster"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="By"/>
+<w tok="direction"/>
+<w tok="of"/>
+<w tok="Major-General"/>
+<w tok="Banks"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="request"/>
+<w tok="that"/>
+<w tok="you"/>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="ready"/>
+<w tok="a"/>
+<w tok="suitable"/>
+<w tok="steamer"/>
+<w tok="to"/>
+<w tok="sail"/>
+<w tok="to-day"/>
+<w tok="for"/>
+<toponym term="Texas">
+<candidates>
+<cand lat="31.4142729472" long="-99.1832281583" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="to"/>
+<w tok="carry"/>
+<w tok="a"/>
+<w tok="bearer"/>
+<w tok="of"/>
+<w tok="important"/>
+<w tok="dispatches"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="McClernand"/>
+<w tok="."/>
+<w tok="You"/>
+<w tok="will"/>
+<w tok="please"/>
+<w tok="to"/>
+<w tok="notify"/>
+<w tok="me"/>
+<w tok="in"/>
+<w tok="writing"/>
+<w tok="by"/>
+<w tok="return"/>
+<w tok="of"/>
+<w tok="bearer"/>
+<w tok="what"/>
+<w tok="vessel"/>
+<w tok="you"/>
+<w tok="shall"/>
+<w tok="send"/>
+<w tok=","/>
+<w tok="where"/>
+<w tok="she"/>
+<w tok="will"/>
+<w tok="lie"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="at"/>
+<w tok="what"/>
+<w tok="hour"/>
+<w tok="she"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ready"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="DUER"/>
+<w tok="IRVING"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-70" title="64" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="30"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Colonel"/>
+<w tok="CALLENDER"/>
+<w tok=","/>
+<toponym term="Arsenal">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.6309187174" long="-90.181812197" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="The"/>
+<w tok="Forty-fifth"/>
+<w tok="Iowa"/>
+<w tok="is"/>
+<w tok="here"/>
+<w tok="en"/>
+<w tok="route"/>
+<w tok="to"/>
+<w tok="Steele"/>
+<w tok="."/>
+<w tok="Their"/>
+<w tok="transportation"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="ready"/>
+<w tok="for"/>
+<w tok="them"/>
+<w tok="at"/>
+<w tok="4"/>
+<w tok="p.m."/>
+<w tok="to-day"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="have"/>
+<w tok="no"/>
+<w tok="ammunition"/>
+<w tok="."/>
+<w tok="Issue"/>
+<w tok="such"/>
+<w tok="quantity"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="colonel"/>
+<w tok="as"/>
+<w tok="you"/>
+<w tok="approve"/>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="requisition"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="approved"/>
+<w tok="afterward"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="headquarters"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok=","/>
+<w tok="&amp;"/>
+<w tok="c"/>
+<w tok=":"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

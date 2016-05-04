@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-50" title="63" domain="wotr">
+<s id="s1">
+<toponym term="PATTERSON">
+<candidates>
+<cand lat="37.188333" long="-90.550556" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.3673350849" long="-92.4626334548" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="10"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="We"/>
+<w tok="the"/>
+<w tok="loyal"/>
+<w tok="citizens"/>
+<w tok="of"/>
+<toponym term="Wayne">
+<candidates>
+</candidates>
+</toponym>
+<toponym term="Butler">
+<candidates>
+<cand lat="36.72" long="-90.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Ripley Counties">
+<candidates>
+<cand lat="36.66" long="-90.87" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="would"/>
+<w tok="humbly"/>
+<w tok="petition"/>
+<w tok="the"/>
+<w tok="establishment"/>
+<w tok="of"/>
+<w tok="a"/>
+<w tok="post"/>
+<w tok="at"/>
+<toponym term="Poplar Bluff">
+<candidates>
+<cand lat="36.756944" long="-90.392778" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Butler County">
+<candidates>
+<cand lat="36.72" long="-90.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="at"/>
+<toponym term="Doniphan">
+<candidates>
+<cand lat="36.622222" long="-90.822222" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ripley County">
+<candidates>
+<cand lat="36.66" long="-90.87" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="or"/>
+<w tok="otherwise"/>
+<w tok="grant"/>
+<w tok="us"/>
+<w tok="permission"/>
+<w tok="to"/>
+<w tok="organize"/>
+<w tok="home"/>
+<w tok="guards"/>
+<w tok="for"/>
+<w tok="our"/>
+<w tok="defense"/>
+<w tok="."/>
+<w tok="There"/>
+<w tok="are"/>
+<w tok="not"/>
+<w tok="a"/>
+<w tok="dozen"/>
+<w tok="loyal"/>
+<w tok="men"/>
+<w tok="("/>
+<w tok="I"/>
+<w tok="mean"/>
+<w tok="what"/>
+<w tok="I"/>
+<w tok="say"/>
+<w tok=";"/>
+<w tok="they"/>
+<w tok="ca"/>
+<w tok="n&apos;t"/>
+<w tok="say"/>
+<w tok="shibboleth"/>
+<w tok=")"/>
+<w tok="left"/>
+<w tok="in"/>
+<toponym term="Butler">
+<candidates>
+<cand lat="36.72" long="-90.4" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<toponym term="Ripley Counties">
+<candidates>
+<cand lat="36.66" long="-90.87" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="They"/>
+<w tok="are"/>
+<w tok="about"/>
+<w tok="all"/>
+<w tok="driven"/>
+<w tok="from"/>
+<w tok="homer"/>
+<w tok="or"/>
+<w tok="killed"/>
+<w tok=","/>
+<w tok="their"/>
+<w tok="arms"/>
+<w tok="lying"/>
+<w tok="idle"/>
+<w tok=";"/>
+<w tok="their"/>
+<w tok="families"/>
+<w tok="reduced"/>
+<w tok="almost"/>
+<w tok="to"/>
+<w tok="a"/>
+<w tok="state"/>
+<w tok="of"/>
+<w tok="starvation"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="post"/>
+<w tok="of"/>
+<w tok="infantry"/>
+<w tok="at"/>
+<w tok="these"/>
+<w tok="places"/>
+<w tok="would"/>
+<w tok="answer"/>
+<w tok="almost"/>
+<w tok="as"/>
+<w tok="well"/>
+<w tok="as"/>
+<w tok="cavalry"/>
+<w tok=","/>
+<w tok="for"/>
+<w tok="those"/>
+<w tok="demons"/>
+<w tok="can"/>
+<w tok="never"/>
+<w tok="be"/>
+<w tok="subdued"/>
+<w tok="by"/>
+<w tok="raids"/>
+<w tok="."/>
+<w tok="Their"/>
+<w tok="paths"/>
+<w tok="must"/>
+<w tok="be"/>
+<w tok="watched"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="an"/>
+<w tok="order"/>
+<w tok="was"/>
+<w tok="issued"/>
+<w tok="for"/>
+<w tok="every"/>
+<w tok="loyal"/>
+<w tok="man"/>
+<w tok="from"/>
+<w tok="eighteen"/>
+<w tok="to"/>
+<w tok="fifty"/>
+<w tok="to"/>
+<w tok="take"/>
+<w tok="up"/>
+<w tok="arms"/>
+<w tok="and"/>
+<w tok="scout"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="until"/>
+<w tok="jayhawking"/>
+<w tok="was"/>
+<w tok="no"/>
+<w tok="more"/>
+<w tok="it"/>
+<w tok="would"/>
+<w tok="soon"/>
+<w tok="cease"/>
+<w tok="."/>
+<w tok="If"/>
+<w tok="neither"/>
+<w tok="can"/>
+<w tok="be"/>
+<w tok="granted"/>
+<w tok=","/>
+<w tok="please"/>
+<w tok="inform"/>
+<w tok="your"/>
+<w tok="most"/>
+<w tok="obedient"/>
+<w tok="servants"/>
+<w tok=","/>
+<w tok="H."/>
+<w tok="C."/>
+<w tok="DAVIDSON"/>
+<w tok=","/>
+<w tok="HIRAM"/>
+<w tok="WALKER"/>
+<w tok="."/>
+<w tok="["/>
+<w tok="And"/>
+<w tok="44"/>
+<w tok="others"/>
+<w tok="."/>
+<w tok="]"/>
+</s>
+</doc>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="106-2" title="106" domain="wotr">
+<s id="s1">
+<w tok="["/>
+<w tok="Inclosure"/>
+<w tok="No"/>
+<w tok="."/>
+<w tok="2"/>
+<w tok="."/>
+<w tok="]"/>
+<w tok="262"/>
+<w tok="G"/>
+<w tok="STREET"/>
+<w tok=","/>
+<toponym term="WASHINGTON, D. C.">
+<candidates>
+<cand lat="38.862003545" long="-77.0721489791" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="20"/>
+<w tok=","/>
+<w tok="1862"/>
+<w tok="."/>
+<w tok="Honorable"/>
+<w tok="WILLIAM"/>
+<w tok="H."/>
+<w tok="SEWARD"/>
+<w tok=","/>
+<w tok="Secretary"/>
+<w tok="of"/>
+<w tok="State"/>
+<w tok=":"/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="submit"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="honorable"/>
+<w tok="consideration"/>
+<w tok="the"/>
+<w tok="inclosed"/>
+<w tok="document"/>
+<w tok=","/>
+<w tok="presented"/>
+<w tok="by"/>
+<w tok="me"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="Mexican"/>
+<w tok="legation"/>
+<w tok=","/>
+<w tok="on"/>
+<w tok="an"/>
+<w tok="important"/>
+<w tok="subject"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="people"/>
+<w tok="of"/>
+<toponym term="Arizona">
+<candidates>
+<cand lat="34.2787291101" long="-111.659954425" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="therefore"/>
+<w tok="I"/>
+<w tok="beg"/>
+<w tok="of"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="recommend"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="to"/>
+<w tok="the"/>
+<w tok="legation"/>
+<w tok="of"/>
+<w tok="the"/>
+<toponym term="United States">
+<candidates>
+<cand lat="39.3854922215" long="-98.6826689573" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<toponym term="Mexico">
+<candidates>
+<cand lat="24.268246075" long="-103.358276446" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="if"/>
+<w tok="you"/>
+<w tok="think"/>
+<w tok="proper"/>
+<w tok="to"/>
+<w tok="do"/>
+<w tok="so"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="am"/>
+<w tok=","/>
+<w tok="sir"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="most"/>
+<w tok="humble"/>
+<w tok="and"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="A."/>
+<w tok="AINSA"/>
+<w tok="."/>
+</s>
+</doc>

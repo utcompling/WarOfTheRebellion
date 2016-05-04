@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="64-36" title="64" domain="wotr">
+<s id="s1">
+<toponym term="WARRENSBURG">
+<candidates>
+<cand lat="38.763056" long="-93.735" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="MO.">
+<candidates>
+<cand lat="38.4037544142" long="-92.4435374552" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="May"/>
+<w tok="29"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="ROSECRANS"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Department"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Missouri"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="respectfully"/>
+<w tok="ask"/>
+<w tok=","/>
+<w tok="if"/>
+<w tok="the"/>
+<w tok="rebels"/>
+<w tok="move"/>
+<w tok="from"/>
+<toponym term="Arkansas">
+<candidates>
+<cand lat="33.775" long="-91.070833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="in"/>
+<w tok="force"/>
+<w tok=","/>
+<w tok="will"/>
+<w tok="I"/>
+<w tok="receive"/>
+<w tok="support"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="east"/>
+<w tok=","/>
+<w tok="or"/>
+<w tok="shall"/>
+<w tok="I"/>
+<w tok="look"/>
+<w tok="to"/>
+<w tok="General"/>
+<w tok="Curtis"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="make"/>
+<w tok="my"/>
+<w tok="dispositions"/>
+<w tok="with"/>
+<w tok="that"/>
+<w tok="expectation"/>
+<w tok="?"/>
+<w tok="His"/>
+<w tok="reply"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="telegram"/>
+<w tok=","/>
+<w tok="copy"/>
+<w tok="of"/>
+<w tok="which"/>
+<w tok="I"/>
+<w tok="sent"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="that"/>
+<w tok="if"/>
+<w tok="absolutely"/>
+<w tok="necessary"/>
+<w tok="General"/>
+<w tok="McKean"/>
+<w tok="would"/>
+<w tok="send"/>
+<w tok="me"/>
+<w tok="a"/>
+<w tok="regiment"/>
+<w tok="."/>
+<w tok="This"/>
+<w tok="is"/>
+<w tok="very"/>
+<w tok="vague"/>
+<w tok="."/>
+<w tok="E."/>
+<w tok="B"/>
+<w tok="."/>
+<w tok="BROWN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="of"/>
+<w tok="Volunteers"/>
+<w tok="."/>
+</s>
+</doc>

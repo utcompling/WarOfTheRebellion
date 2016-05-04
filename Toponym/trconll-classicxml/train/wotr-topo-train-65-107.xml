@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-107" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="4"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="that"/>
+<w tok="3"/>
+<w tok="shots"/>
+<w tok="were"/>
+<w tok="fired"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="yesterday"/>
+<w tok="morning"/>
+<w tok="which"/>
+<w tok="struck"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="3"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok=","/>
+<w tok="which"/>
+<w tok="exploded"/>
+<w tok="over"/>
+<w tok="head"/>
+<w tok="."/>
+<w tok="A"/>
+<w tok="rifled"/>
+<w tok="42-pounder"/>
+<w tok="was"/>
+<w tok="mounted"/>
+<w tok="night"/>
+<w tok="before"/>
+<w tok="last"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="northwest"/>
+<w tok="pan-coupe"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="monitor"/>
+<w tok="is"/>
+<w tok="firing"/>
+<w tok="11-inch"/>
+<w tok="and"/>
+<w tok="15-inch"/>
+<w tok="shells"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="wreck"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="sea"/>
+<w tok="being"/>
+<w tok="smooth"/>
+<w tok="the"/>
+<w tok="ricochet"/>
+<w tok="fire"/>
+<w tok="is"/>
+<w tok="effective"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="fleet"/>
+<w tok="consists"/>
+<w tok="of"/>
+<w tok="Ironsides"/>
+<w tok=","/>
+<w tok="4"/>
+<w tok="monitors"/>
+<w tok=","/>
+<w tok="14"/>
+<w tok="sailing"/>
+<w tok="vessels"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="gun-boats"/>
+<w tok=","/>
+<w tok="1"/>
+<w tok="tug"/>
+<w tok="inside"/>
+<w tok=";"/>
+<w tok="10"/>
+<w tok="schooners"/>
+<w tok=","/>
+<w tok="5"/>
+<w tok="steamers"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="5"/>
+<w tok="blockaders"/>
+<w tok="and"/>
+<w tok="2"/>
+<w tok="schooners"/>
+<w tok="outside"/>
+<w tok=";"/>
+<w tok="4"/>
+<w tok="steamers"/>
+<w tok=","/>
+<w tok="8"/>
+<w tok="schooners"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="3"/>
+<w tok="steam"/>
+<w tok="derricks"/>
+<w tok="in"/>
+<toponym term="Light-House Inlet">
+<candidates>
+<cand lat="32.6862680554" long="-79.8836297795" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

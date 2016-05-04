@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-61" title="62" domain="wotr">
+<s id="s1">
+<w tok="HDQRS"/>
+<w tok="."/>
+<w tok="DISTRICT"/>
+<w tok="OF"/>
+<w tok="SOUTHWEST"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Springfield">
+<candidates>
+<cand lat="37.2096192258" long="-93.2870635986" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="22"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="BISHOP"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok=","/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Major"/>
+<w tok="Fitch"/>
+<w tok="got"/>
+<w tok="through"/>
+<w tok="lat"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="After"/>
+<w tok="conferring"/>
+<w tok="with"/>
+<w tok="him"/>
+<w tok="and"/>
+<w tok="Colonel"/>
+<w tok="Harrison"/>
+<w tok="and"/>
+<w tok="examining"/>
+<w tok="Captain"/>
+<w tok="Worthington"/>
+<w tok="&apos;s"/>
+<w tok="report"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="think"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="should"/>
+<w tok="be"/>
+<w tok="disposed"/>
+<w tok="of"/>
+<w tok="as"/>
+<w tok="follows"/>
+<w tok="during"/>
+<w tok="this"/>
+<w tok="forage"/>
+<w tok="dearth"/>
+<w tok=","/>
+<w tok="viz"/>
+<w tok=":"/>
+<w tok="Two"/>
+<w tok="squadrons"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="."/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="west"/>
+<w tok="and"/>
+<w tok="southwest"/>
+<w tok="of"/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="stationed"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="forage"/>
+<w tok="region"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="disposed"/>
+<w tok="so"/>
+<w tok="as"/>
+<w tok="to"/>
+<w tok="cover"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="leading"/>
+<w tok="to"/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="through"/>
+<w tok="the"/>
+<toponym term="Indian Territory">
+<candidates>
+</candidates>
+</toponym>
+<w tok="two"/>
+<w tok="squadrons"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="section"/>
+<w tok="of"/>
+<w tok="artillery"/>
+<w tok="south"/>
+<w tok="of"/>
+<toponym term="Huntsville">
+<candidates>
+</candidates>
+</toponym>
+<w tok="where"/>
+<w tok="there"/>
+<w tok="is"/>
+<w tok="forage"/>
+<w tok=","/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="position"/>
+<w tok="to"/>
+<w tok="cover"/>
+<w tok="the"/>
+<w tok="roads"/>
+<w tok="leading"/>
+<w tok="from"/>
+<w tok="the"/>
+<w tok="south"/>
+<w tok="and"/>
+<w tok="east"/>
+<w tok="to"/>
+<toponym term="Fayetteville">
+<candidates>
+<cand lat="36.076389" long="-94.160833" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="the"/>
+<w tok="balance"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="command"/>
+<w tok="at"/>
+<w tok="or"/>
+<w tok="in"/>
+<w tok="the"/>
+<w tok="vicinity"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="place"/>
+<w tok="mentioned"/>
+<w tok="by"/>
+<w tok="Captain"/>
+<w tok="Worthington"/>
+<w tok="as"/>
+<w tok="a"/>
+<w tok="place"/>
+<w tok="where"/>
+<w tok="forage"/>
+<w tok="is"/>
+<w tok="abundant"/>
+<w tok="."/>
+<w tok="Unless"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="strong"/>
+<w tok="military"/>
+<w tok="objections"/>
+<w tok="to"/>
+<w tok="this"/>
+<w tok="disposition"/>
+<w tok=","/>
+<w tok="I"/>
+<w tok="will"/>
+<w tok="make"/>
+<w tok="the"/>
+<w tok="order"/>
+<w tok="for"/>
+<w tok="it"/>
+<w tok="."/>
+<w tok="Commanders"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="various"/>
+<w tok="detachments"/>
+<w tok="will"/>
+<w tok="be"/>
+<w tok="instructed"/>
+<w tok="to"/>
+<w tok="protect"/>
+<w tok="and"/>
+<w tok="scout"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="thoroughly"/>
+<w tok="and"/>
+<w tok="drive"/>
+<w tok="out"/>
+<w tok="all"/>
+<w tok="guerrillas"/>
+<w tok="and"/>
+<w tok="rebels"/>
+<w tok="."/>
+<w tok="The"/>
+<w tok="men"/>
+<w tok="must"/>
+<w tok="not"/>
+<w tok="be"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="straggle"/>
+<w tok="or"/>
+<w tok="move"/>
+<w tok="through"/>
+<w tok="the"/>
+<w tok="country"/>
+<w tok="in"/>
+<w tok="squads"/>
+<w tok="of"/>
+<w tok="less"/>
+<w tok="number"/>
+<w tok="than"/>
+<w tok="sufficient"/>
+<w tok="to"/>
+<w tok="overcome"/>
+<w tok="the"/>
+<w tok="several"/>
+<w tok="bodies"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="enemy"/>
+<w tok="."/>
+<w tok="Answer"/>
+<w tok="."/>
+<w tok="JOHN"/>
+<w tok="B."/>
+<w tok="SANBORN"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+</s>
+</doc>

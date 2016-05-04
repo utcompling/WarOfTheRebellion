@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="63-72" title="63" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="GULF"/>
+<w tok=","/>
+<toponym term="Grand Ecore">
+<candidates>
+<cand lat="31.815833" long="-93.085" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="April"/>
+<w tok="11"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Brigadier"/>
+<w tok="General"/>
+<w tok="A."/>
+<w tok="L."/>
+<w tok="LEE"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="Cavalry"/>
+<w tok="Division"/>
+<w tok=":"/>
+<w tok="GENERAL"/>
+<w tok=":"/>
+<w tok="The"/>
+<w tok="major-general"/>
+<w tok="commanding"/>
+<w tok="desires"/>
+<w tok="you"/>
+<w tok="to"/>
+<w tok="send"/>
+<w tok="out"/>
+<w tok="at"/>
+<w tok="once"/>
+<w tok="500"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="best"/>
+<w tok="cavalry"/>
+<w tok="in"/>
+<w tok="your"/>
+<w tok="command"/>
+<w tok="to"/>
+<w tok="relieve"/>
+<w tok="Colonel"/>
+<w tok="Lucas"/>
+<w tok="from"/>
+<w tok="near-guard"/>
+<w tok="duty"/>
+<w tok="."/>
+<w tok="Colonel"/>
+<w tok="Lucas"/>
+<w tok="on"/>
+<w tok="being"/>
+<w tok="relieved"/>
+<w tok="will"/>
+<w tok="report"/>
+<w tok="to"/>
+<w tok="you"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="general"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="C."/>
+<w tok="S."/>
+<w tok="SARGENT"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

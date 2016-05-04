@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="105-96" title="105" domain="wotr">
+<s id="s1">
+<w tok="DEPUTY"/>
+<w tok="QUARTERMASTER-GENERAL"/>
+<w tok="&apos;S"/>
+<w tok="OFFICE"/>
+<w tok=","/>
+<toponym term="San Francisco">
+<candidates>
+<cand lat="37.7900831716" long="-122.386645817" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="June"/>
+<w tok="3"/>
+<w tok=","/>
+<w tok="1863"/>
+<w tok="Lieutenant-Colonel"/>
+<w tok="DRUM"/>
+<w tok="."/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<w tok="Present"/>
+<w tok=":"/>
+<toponym term="Camp Wright">
+<candidates>
+<cand lat="33.389728" long="-116.794097" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="has"/>
+<w tok="hitherto"/>
+<w tok="been"/>
+<w tok="furnished"/>
+<w tok="via"/>
+<toponym term="Fort Bragg">
+<candidates>
+<cand lat="39.445833" long="-123.805278" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="from"/>
+<w tok="which"/>
+<w tok="latter"/>
+<w tok="post"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="distant"/>
+<w tok="sixty-five"/>
+<w tok="miles"/>
+<w tok="."/>
+<w tok="I"/>
+<w tok="know"/>
+<w tok="of"/>
+<w tok="no"/>
+<w tok="more"/>
+<w tok="eligible"/>
+<w tok="route"/>
+<w tok="."/>
+<w tok="They"/>
+<w tok="have"/>
+<w tok="forty-nine"/>
+<w tok="pack-mules"/>
+<w tok="and"/>
+<w tok="trappings"/>
+<w tok="and"/>
+<w tok="one"/>
+<w tok="wagon"/>
+<w tok="at"/>
+<toponym term="Camp Wright">
+<candidates>
+<cand lat="33.389728" long="-116.794097" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Respectfully"/>
+<w tok=","/>
+<w tok="E."/>
+<w tok="B."/>
+<w tok="BABBITT"/>
+<w tok=","/>
+<w tok="Deputy"/>
+<w tok="Quartermaster-General"/>
+<w tok="."/>
+</s>
+</doc>

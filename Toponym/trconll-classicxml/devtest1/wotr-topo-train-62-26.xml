@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="62-26" title="62" domain="wotr">
+<s id="s1">
+<w tok="HEADQUARTERS"/>
+<w tok="DEPARTMENT"/>
+<w tok="OF"/>
+<w tok="THE"/>
+<w tok="MISSOURI"/>
+<w tok=","/>
+<toponym term="Saint Louis">
+<candidates>
+<cand lat="38.5890519125" long="-90.2135119935" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Mo.">
+<candidates>
+<cand lat="38.3502665536" long="-92.4580446039" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="January"/>
+<w tok="19"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="Major"/>
+<w tok="T."/>
+<w tok="J."/>
+<w tok="ANDERSON"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok=","/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<toponym term="Ark.">
+<candidates>
+<cand lat="34.8421867634" long="-92.467328652" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="A"/>
+<w tok="dispatch"/>
+<w tok="to"/>
+<w tok="Major-General"/>
+<w tok="Steele"/>
+<w tok=","/>
+<w tok="dated"/>
+<w tok="4th"/>
+<w tok="instant"/>
+<w tok=","/>
+<w tok="directing"/>
+<w tok="him"/>
+<w tok="to"/>
+<w tok="order"/>
+<w tok="General"/>
+<w tok="Carr"/>
+<w tok="to"/>
+<toponym term="Fort Smith">
+<candidates>
+<cand lat="35.368611" long="-94.398611" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="for"/>
+<w tok="temporary"/>
+<w tok="command"/>
+<w tok="of"/>
+<w tok="District"/>
+<w tok="of"/>
+<w tok="the"/>
+<w tok="Frontier"/>
+<w tok="during"/>
+<w tok="absence"/>
+<w tok="of"/>
+<w tok="General"/>
+<w tok="McNeil"/>
+<w tok="was"/>
+<w tok="transmitted"/>
+<w tok="to"/>
+<w tok="your"/>
+<w tok="headquarters"/>
+<w tok="to"/>
+<w tok="be"/>
+<w tok="forwarded"/>
+<w tok="by"/>
+<w tok="special"/>
+<w tok="courier"/>
+<w tok="."/>
+<w tok="Report"/>
+<w tok="action"/>
+<w tok="by"/>
+<w tok="telegraph"/>
+<w tok="immediately"/>
+<w tok="."/>
+<w tok="By"/>
+<w tok="order"/>
+<w tok=":"/>
+<w tok="O."/>
+<w tok="D."/>
+<w tok="GREENE"/>
+<w tok=","/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

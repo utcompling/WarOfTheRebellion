@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="65-111" title="65" domain="wotr">
+<s id="s1">
+<toponym term="FORT SUMTER">
+<candidates>
+<cand lat="32.752222" long="-79.874722" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="9"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="SIR"/>
+<w tok=":"/>
+<w tok="I"/>
+<w tok="have"/>
+<w tok="the"/>
+<w tok="honor"/>
+<w tok="to"/>
+<w tok="report"/>
+<w tok="the"/>
+<w tok="fleet"/>
+<w tok="the"/>
+<w tok="same"/>
+<w tok="as"/>
+<w tok="usual"/>
+<w tok="this"/>
+<w tok="morning"/>
+<w tok=";"/>
+<w tok="it"/>
+<w tok="is"/>
+<w tok="difficult"/>
+<w tok="to"/>
+<w tok="say"/>
+<w tok="whether"/>
+<w tok="there"/>
+<w tok="are"/>
+<w tok="four"/>
+<w tok="or"/>
+<w tok="five"/>
+<w tok="monitors"/>
+<w tok="."/>
+<w tok="One"/>
+<w tok="shot"/>
+<w tok="fired"/>
+<w tok="at"/>
+<w tok="the"/>
+<w tok="fort"/>
+<w tok="yesterday"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="Kemper"/>
+<w tok=","/>
+<w tok="2"/>
+<w tok="officers"/>
+<w tok=","/>
+<w tok="and"/>
+<w tok="60"/>
+<w tok="men"/>
+<w tok="relieved"/>
+<w tok="Captain"/>
+<w tok="Colhoun"/>
+<w tok="last"/>
+<w tok="night"/>
+<w tok="."/>
+<w tok="Very"/>
+<w tok="respectfully"/>
+<w tok=","/>
+<w tok="your"/>
+<w tok="obedient"/>
+<w tok="servant"/>
+<w tok=","/>
+<w tok="S."/>
+<w tok="ELLIOTT"/>
+<w tok=","/>
+<w tok="JR."/>
+<w tok=","/>
+<w tok="Lieutenant-Colonel"/>
+<w tok=","/>
+<w tok="Commanding"/>
+<w tok="."/>
+<w tok="Lieutenant"/>
+<w tok="S."/>
+<w tok="C."/>
+<w tok="BOYLSTON"/>
+<w tok=","/>
+<w tok="Acting"/>
+<w tok="Assistant"/>
+<w tok="Adjutant-General"/>
+<w tok="."/>
+</s>
+</doc>

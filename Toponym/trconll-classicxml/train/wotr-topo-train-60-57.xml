@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc id="60-57" title="60" domain="wotr">
+<s id="s1">
+<w tok="Dispatch"/>
+<w tok="received"/>
+<w tok="from"/>
+<w tok="General"/>
+<w tok="Wistar"/>
+<w tok=":"/>
+<toponym term="FORT MAGRUDER">
+<candidates>
+<cand lat="37.26397" long="-76.6663" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="February"/>
+<w tok="7"/>
+<w tok=","/>
+<w tok="1864"/>
+<w tok="."/>
+<w tok="Major-General"/>
+<w tok="BUTLER"/>
+<w tok=":"/>
+<w tok="Private"/>
+<w tok="William"/>
+<w tok="Boyle"/>
+<w tok=","/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok="Mounted"/>
+<w tok="Rifles"/>
+<w tok=","/>
+<w tok="under"/>
+<w tok="sentence"/>
+<w tok="of"/>
+<w tok="death"/>
+<w tok="for"/>
+<w tok="murder"/>
+<w tok="of"/>
+<w tok="Lieutenant"/>
+<w tok="Disosway"/>
+<w tok=","/>
+<w tok="was"/>
+<w tok="allowed"/>
+<w tok="to"/>
+<w tok="escape"/>
+<w tok="by"/>
+<w tok="private"/>
+<w tok="Abraham"/>
+<w tok=","/>
+<w tok="of"/>
+<w tok="One"/>
+<w tok="hundred"/>
+<w tok="and"/>
+<w tok="thirty-ninth"/>
+<w tok="New"/>
+<w tok="York"/>
+<w tok=","/>
+<w tok="the"/>
+<w tok="sentinel"/>
+<w tok="over"/>
+<w tok="him"/>
+<w tok=","/>
+<w tok="four"/>
+<w tok="days"/>
+<w tok="previous"/>
+<w tok="to"/>
+<w tok="my"/>
+<w tok="movement"/>
+<w tok="."/>
+<w tok="It"/>
+<w tok="is"/>
+<w tok="said"/>
+<w tok="he"/>
+<w tok="also"/>
+<w tok="told"/>
+<w tok="him"/>
+<w tok="that"/>
+<w tok="large"/>
+<w tok="numbers"/>
+<w tok="of"/>
+<w tok="cavalry"/>
+<w tok="and"/>
+<w tok="infantry"/>
+<w tok="were"/>
+<w tok="concentrated"/>
+<w tok="here"/>
+<w tok="to"/>
+<w tok="take"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="During"/>
+<w tok="the"/>
+<w tok="absence"/>
+<w tok="the"/>
+<w tok="commander"/>
+<w tok="here"/>
+<w tok="has"/>
+<w tok="learned"/>
+<w tok="that"/>
+<w tok="Boyle"/>
+<w tok="reached"/>
+<toponym term="Richmond">
+<candidates>
+<cand lat="37.5371409863" long="-77.4419060796" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="and"/>
+<w tok="was"/>
+<w tok="arrested"/>
+<w tok="and"/>
+<w tok="placed"/>
+<w tok="in"/>
+<toponym term="Castle Thunder">
+<candidates>
+<cand lat="37.532222" long="-77.428056" selected="yes"/>
+</candidates>
+</toponym>
+<w tok="Boyle"/>
+<w tok="would"/>
+<w tok="have"/>
+<w tok="been"/>
+<w tok="hung"/>
+<w tok="long"/>
+<w tok="ago"/>
+<w tok="but"/>
+<w tok="for"/>
+<w tok="the"/>
+<w tok="President"/>
+<w tok="&apos;s"/>
+<w tok="order"/>
+<w tok="suspending"/>
+<w tok="till"/>
+<w tok="further"/>
+<w tok="orders"/>
+<w tok="the"/>
+<w tok="execution"/>
+<w tok="of"/>
+<w tok="capital"/>
+<w tok="sentences"/>
+<w tok="."/>
+<w tok="Abrams"/>
+<w tok="is"/>
+<w tok="in"/>
+<w tok="close"/>
+<w tok="custody"/>
+<w tok="."/>
+<w tok="Charges"/>
+<w tok="against"/>
+<w tok="him"/>
+<w tok="went"/>
+<w tok="forward"/>
+<w tok="a"/>
+<w tok="week"/>
+<w tok="ago"/>
+<w tok="."/>
+<w tok="I."/>
+<w tok="J."/>
+<w tok="WISTAR"/>
+<w tok=","/>
+<w tok="Brigadier-General"/>
+<w tok="."/>
+</s>
+</doc>

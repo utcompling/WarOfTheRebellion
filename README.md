@@ -211,3 +211,5 @@ An simplified example of the format is given below:
 Not everything that has been annotated is guaranteed to be correct. We encourage others to correct errors that they find in a branched repository and submit pull requests when corrections are made. 
 
 For questions regarding the corpus, please contact its creators Ben Wing (ben@benwing.com) and Grant DeLozier (grantdelozier@gmail.com)
+
+[The ACL LAW paper describing the corpus and performing benchmark evaluation](http://aclanthology.info/papers/creating-a-novel-geolocation-corpus-from-historical-texts)
